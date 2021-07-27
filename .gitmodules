@@ -1,0 +1,6 @@
+[submodule "curriculum-graphql-server"]
+	path = curriculum-graphql-server
+	url = git@github.com:slonl/curriculum-graphql-server
+[submodule "curriculum-rest-api"]
+	path = curriculum-rest-api
+	url = git@github.com:slonl/curriculum-rest-api
