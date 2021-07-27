@@ -8,6 +8,10 @@ services:
     container_name: "slo-rest-api"
     environment:
       - NODE_ENV=development
+      - NODE_BASE=/
+      - NODE_ID_URL=/uuid/
+      - NODE_BACKEND_URL=http://slo-graphql:3000/
+      - NODE_DATA_URL=http://localhost:4500/
     volumes:
       - ./curriculum-rest-api/:/home/node/app
     ports:
