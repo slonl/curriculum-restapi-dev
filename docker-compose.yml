@@ -43,6 +43,7 @@ services:
         npm install --ignore-scripts
         NODE_ENV=production ./node_modules/.bin/webpack
         cd -
+        npm run combine
         npm start
 
 volumes:
