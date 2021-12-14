@@ -18,7 +18,11 @@ services:
       - "4500:4500"
     depends_on:
       - graphql
-    command: "npm start"
+    entrypoint: ["/bin/sh","-c"]
+    command:
+      - |
+        npm install
+        npm start
 
   graphql:
     image: "node:14-alpine"
@@ -31,7 +35,15 @@ services:
       - ./curriculum-graphql-server/:/home/node/app
     ports:
       - "3000:3000"
-    command: "npm start"
+    entrypoint: ["/bin/sh","-c"]
+    command:
+      - |
+        npm install
+        cd json-graphql-server
+        npm install --ignore-scripts
+        NODE_ENV=production ./node_modules/.bin/webpack
+        cd -
+        npm start
 
 volumes:
   curriculum-graphql-server:
