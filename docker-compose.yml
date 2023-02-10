@@ -8,6 +8,7 @@ services:
     container_name: "slo-rest-api"
     environment:
       - NODE_ENV=development
+      - NODE_PORT=4500
       - NODE_BASE=/
       - NODE_ID_URL=/uuid/
       - NODE_BACKEND_URL=http://slo-graphql:3000/
@@ -31,6 +32,7 @@ services:
     container_name: "slo-graphql"
     environment:
       - NODE_ENV=development
+      - NODE_PORT=3000
     volumes:
       - ./curriculum-graphql-server/:/home/node/app
     ports:
@@ -44,6 +46,26 @@ services:
         NODE_ENV=production ./node_modules/.bin/webpack
         cd -
         npm run combine
+        npm start
+
+  search:
+    image: "node:14-alpine"
+    user: "node"
+    working_dir: /home/node/app
+    container_name: "slo-search"
+    environment:
+      - NODE_ENV=development
+      - NODE_PORT=3001
+      - DATA_DIR=/home/node/app/curriculum
+    volumes:
+      - ./curriculum-search-server/:/home/node/app
+      - ./curriculum-graphql-server/data/:/home/node/app/curriculum
+    ports:
+      - "3001:3001"
+    entrypoint: ["/bin/sh","-c"]
+    command:
+      - |
+        npm install
         npm start
 
 volumes:
