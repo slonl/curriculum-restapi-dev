@@ -52,23 +52,6 @@ services:
     image: "node:14-alpine"
     user: "node"
     working_dir: /home/node/app
-    container_name: "slo-search-server"
-    environment:
-      - NODE_ENV=development
-    volumes:
-      - ./curriculum-search-server/:/home/node/app
-    ports:
-      - "3801:3801"
-    entrypoint: ["/bin/sh","-c"]
-    command:
-      - |
-        npm install
-        npm start
-
-  search:
-    image: "node:14-alpine"
-    user: "node"
-    working_dir: /home/node/app
     container_name: "slo-search"
     environment:
       - NODE_ENV=development
