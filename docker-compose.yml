@@ -11,12 +11,13 @@ services:
       - NODE_PORT=4500
       - NODE_BASE=/
       - NODE_ID_URL=/uuid/
-      - NODE_BACKEND_URL=http://slo-graphql:3500/
-      - NODE_DATA_URL=http://localhost:4800/
+      - NODE_BACKEND_URL=http://slo-graphql:3000
+      - NODE_SEARCH_URL=http://slo-search:3001
+      - NODE_DATA_URL=http://localhost:4500
     volumes:
       - ./curriculum-rest-api/:/home/node/app
     ports:
-      - "4800:4800"
+      - "4500:4500"
     depends_on:
       - graphql
     entrypoint: ["/bin/sh","-c"]
@@ -36,7 +37,7 @@ services:
     volumes:
       - ./curriculum-graphql-server/:/home/node/app
     ports:
-      - "3500:3500"
+      - "3000:3000"
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
