@@ -10,12 +10,12 @@ services:
       - NODE_ENV=development
       - NODE_BASE=/
       - NODE_ID_URL=/uuid/
-      - NODE_BACKEND_URL=http://slo-graphql:3000/
-      - NODE_DATA_URL=http://localhost:4500/
+      - NODE_BACKEND_URL=http://slo-graphql:3500/
+      - NODE_DATA_URL=http://localhost:4800/
     volumes:
       - ./curriculum-rest-api/:/home/node/app
     ports:
-      - "4500:4500"
+      - "4800:4800"
     depends_on:
       - graphql
     entrypoint: ["/bin/sh","-c"]
@@ -34,7 +34,7 @@ services:
     volumes:
       - ./curriculum-graphql-server/:/home/node/app
     ports:
-      - "3000:3000"
+      - "3500:3500"
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
@@ -45,7 +45,25 @@ services:
         cd -
         npm run combine
         npm start
+  
+  search-server:
+    image: "node:14-alpine"
+    user: "node"
+    working_dir: /home/node/app
+    container_name: "slo-search-server"
+    environment:
+      - NODE_ENV=development
+    volumes:
+      - ./curriculum-search-server/:/home/node/app
+    ports:
+      - "3801:3801"
+    entrypoint: ["/bin/sh","-c"]
+    command:
+      - |
+        npm install
+        npm start
 
 volumes:
   curriculum-graphql-server:
   curriculum-rest-api:
+  curriculum-search-server:
