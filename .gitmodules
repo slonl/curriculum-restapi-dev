@@ -4,3 +4,6 @@
 [submodule "curriculum-rest-api"]
 	path = curriculum-rest-api
 	url = git@github.com:slonl/curriculum-rest-api
+[submodule "curriculum-search-server"]
+	path = curriculum-search-server
+	url = git@github.com:slonl/curriculum-search-server.git
