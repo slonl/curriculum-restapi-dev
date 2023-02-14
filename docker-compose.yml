@@ -13,7 +13,7 @@ services:
       - NODE_ID_URL=/uuid/
       - NODE_BACKEND_URL=http://slo-graphql:3000
       - NODE_SEARCH_URL=http://slo-search:3001
-      - NODE_DATA_URL=http://localhost:4500
+      - NODE_DATA_URL=http://localhost:4500/
     volumes:
       - ./curriculum-rest-api/:/home/node/app
     ports:
