@@ -69,6 +69,26 @@ services:
         npm install
         npm start
 
+  simplystore:
+    image: "node:20-alpine"
+    user: "node"
+    working_dir: /home/node/app
+    container_name: "slo-store"
+    environment:
+      - NODE_ENV=development
+      - NODE_PORT=3002
+      - DATA_DIR=/home/node/app/curriculum
+    volumes:
+      - ./simplystore/:/home/node/app
+      - ./curriculum-graphql-server/data/:/home/node/app/curriculum
+    ports:
+      - "3002:3002"
+    entrypoint: ["/bin/sh","-c"]
+    command:
+      - |
+        npm install
+        npm start
+
 volumes:
   curriculum-graphql-server:
   curriculum-rest-api:
