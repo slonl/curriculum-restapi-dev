@@ -14,6 +14,7 @@ services:
       - NODE_BACKEND_URL=http://slo-graphql:3000
       - NODE_SEARCH_URL=http://slo-search:3001
       - NODE_DATA_URL=http://localhost:4500/
+      - NODE_SIMPLYSTORE_URL=http://curriculum-store:3002
     volumes:
       - ./curriculum-rest-api/:/home/node/app
     ports:
@@ -69,17 +70,17 @@ services:
         npm install
         npm start
 
-  simplystore:
+  curriculum-store:
     image: "node:20-alpine"
     user: "node"
     working_dir: /home/node/app
-    container_name: "slo-store"
+    container_name: "curriculum-store"
     environment:
       - NODE_ENV=development
       - NODE_PORT=3002
       - DATA_DIR=/home/node/app/curriculum
     volumes:
-      - ./simplystore/:/home/node/app
+      - ./curriculum-store/:/home/node/app
       - ./curriculum-graphql-server/data/:/home/node/app/curriculum
     ports:
       - "3002:3002"
