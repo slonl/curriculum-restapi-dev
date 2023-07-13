@@ -1,0 +1,4 @@
+curriculum-restapi-dev % git submodule update --init
+curriculum-restapi-dev % git pull
+
+curl  -H "Accept: application/json" -H "Authorization: Basic b3BlbmRhdGFAc2xvLm5sOjM1ODUwMGQzLWNmNzktNDQwYi04MTdkLTlmMGVmOWRhYTM5OQ==" http://localhost:4500/vakleergebied/
