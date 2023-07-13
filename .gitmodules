@@ -7,6 +7,6 @@
 [submodule "curriculum-search-server"]
 	path = curriculum-search-server
 	url = git@github.com:slonl/curriculum-search-server.git
-[submodule "simplystore"]
-	path = simplystore
-	url = git@github.com:simplyedit/simplystore
+[submodule "curriculum-store"]
+	path = curriculum-store
+	url = git@github.com:slonl/curriculum-store
