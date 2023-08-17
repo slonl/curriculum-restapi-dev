@@ -23,7 +23,7 @@ async function getData(url = "", data = {}) {
 for (let call of APIcallsSLO){
   let APICallData= JSON.parse(fs.readFileSync(process.cwd() + '/../data/pages/' +  call + ".json"));
 
-  tap.test((call + 'identical json check'), async t => {
+  tap.test((call + ' comparison check'), async t => {
       let found = await getData(rootURL + call + "/");
       let wanted =  APICallData; 
       t.same(found, wanted)
