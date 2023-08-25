@@ -1,7 +1,12 @@
 [
     "doel",
-    "niveau",
+    "uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
     "doelniveau",
+    "uuid/7f6a1391-47eb-487c-ad3a-776ac49e4e8f",
+    "erk_candobeschrijving",
+    "uuid/6f0db9ff-14ba-4564-881f-667f0b5c211e",
+    "erk_categorie",
+    "uuid/ba228579-63ef-40ac-ba04-a5a80accdc01",
     "vakleergebied",
     "kerndoel_vakleergebied",
     "kerndoel_domein",
@@ -30,6 +35,7 @@
     "ldk_vaksubkern",
     "ldk_vakinhoud",
     "ldk_vakbegrip",
+    "niveau",
     "inh_vakleergebied",
     "inh_inhoudslijn",
     "inh_cluster",
@@ -41,13 +47,8 @@
     "ref_tekstkenmerk",
     "erk_vakleergebied",
     "erk_gebied",
-    "erk_categorie",
     "erk_taalactiviteit",
     "erk_schaal",
-    "erk_candobeschrijving",
     "erk_voorbeeld",
-    "erk_lesidee",
-    "uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
-    "uuid/6b0bfe7e-fff0-487f-a2fc-6550bd5755f1",
-    "uuid/526064de-c148-48e2-bcb0-096253a084a9"
+    "erk_lesidee"
  ]
