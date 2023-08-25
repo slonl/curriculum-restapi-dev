@@ -1,7 +1,8 @@
 import tap from "tap";
 import fs from "node:fs";
 
-let rootURL = "http://localhost:4500/";
+//let rootURL = "http://localhost:4500/";
+let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
 let APIcallsSLO = JSON.parse(fs.readFileSync("../data/REST_API_URLs.json"));
 
 async function getData(url = "", data = {}) {
