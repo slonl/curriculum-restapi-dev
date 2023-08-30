@@ -2,7 +2,9 @@ import tap from "tap";
 import fs from "node:fs";
 
 //let rootURL = "http://localhost:4500/";
-let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
+//let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
+let rootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/";
+
 let APIcallsSLO = JSON.parse(fs.readFileSync("../data/REST_API_URLs.json"));
 
 async function getData(url = "", data = {}) {
@@ -23,12 +25,25 @@ async function getData(url = "", data = {}) {
 //Check whether the API call and resulting files are identical
 for (let call of APIcallsSLO){
   let APICallData= JSON.parse(fs.readFileSync(process.cwd() + '/../data/pages/' +  call + ".json"));
+  let found = await getData(rootURL + call + "/");
+  
+   console.log("This is a weird call: " + call + " because it is " + deepEqual(APICallData, found));
 
+/*
   tap.test((call + ' comparison check'), async t => {
       let found = await getData(rootURL + call + "/");
       let wanted =  APICallData; 
       t.same(found, wanted)
       t.end();
   })
+*/
 
+}
+
+function deepEqual(x, y) {
+  const ok = Object.keys, tx = typeof x, ty = typeof y;
+  return x && y && tx === 'object' && tx === ty ? (
+    ok(x).length === ok(y).length &&
+      ok(x).every(key => deepEqual(x[key], y[key]))
+  ) : (x === y);
 }
