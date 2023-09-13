@@ -1,7 +1,7 @@
 import tap from "tap";
 import fs from "node:fs";
 
-let rootURL = "http://localhost:4500/";
+let rootURL = "http://localhost:4500/"; //https://opendata.slo.nl/curriculum/api-acpt/v1/   // "https://opendata.slo.nl/curriculum/2022/api/v1/"; // 
 let dummyData = { "dummyData" : "dummyData" }; // used when the returned JSON is incorrect/missing/empty
 
 let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/REST_API_URLs.json"));

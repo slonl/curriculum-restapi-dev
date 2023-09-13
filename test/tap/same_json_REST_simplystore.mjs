@@ -73,12 +73,12 @@ function removeKeys(object) {
       //console.log("This key: -" + key + "- Agains this array key: -" + discardKeyArray[keys] + "-");
 
       if(key == discardKeyArray[keys]){
-        //console.log("deleting key " + key);  
+        console.log("deleting key " + key);  
         delete object[key];
       }
    
       if (typeof object[key] === 'object' && object[key] !== null){
-        //console.log("Moving down");
+        console.log("Moving down");
         removeKeys(object[key]);
       }
     }
