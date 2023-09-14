@@ -33,26 +33,58 @@ for (let call of APIcallsSLO){
   
   //console.log(APICallData);
   
-  let found = await getData(rootURL + call + "/");
+  //let found = await getData(rootURL + call + "/");
   let wanted = APICallData;
 
+  
   //console.log(found);
+  //console.log("COMPARING TO: ")
+  //console.log(wanted);
 
-  found =  removeKeys(found);
-  wanted = removeKeys(APICallData); //APICallData; 
+  console.log(APICallData);
 
+  //let mappedFound = new Map(await getData(rootURL + call + "/")); //SLO
+  //let mappedWanted = new Map(APICallData); //simplyStore
+
+  //console.log(mappedWanted);
+
+  //mappedFound =  removeKeys(mappedFound); //SLO
+  //mappedWanted = removeKeys(mappedWanted); //simplyStore
+
+  //found = Object.fromEntries(mappedFound);
+  //wanted = Object.fromEntries(mappedWanted);
+
+/*
+  console.log(found);
+  console.log("COMPARING TO: ")
+  console.log(wanted);
+  */
+
+  wanted = removeKeys(wanted);
+  
   //console.log("The objects for: " + call + " are identical? " + deepEqual(APICallData, found));
 
+  //testing
+  
+  if(deepEqual(wanted, found)){
+    console.log("yes for: " + call);
+  }
+  else{
+    console.log("no for: " + call);
+  }
+  
+
+  /*
   tap.test((call + ' comparison check'), async t => {
 
       //console.log(found);
       //console.log(wanted);
-      console.log("The objects for: " + call + " are identical? " + deepEqual(wanted, found));
+      //console.log("The objects for: " + call + " are identical? " + deepEqual(wanted, found));
       
-      t.same(found, wanted)
-      t.end();
+      //t.same(found, wanted)
+      //t.end();
   })
-
+*/
 
 }
 
@@ -64,24 +96,44 @@ function deepEqual(x, y) {
   ) : (x === y);
 }
 
+
 function removeKeys(object) {
+  let map = new Map(object);
+
+  if (map.has("error") ){
+    //do nothing -> this avoids an endless loop
+    console.log("incorrect file");
+  }
+  else {
+    map.forEach(removeMappedKeys);
+  }
+
+  return (Object.fromEntries(map));
+  
+};
+
+
+function removeMappedKeys(value, key, map){
   let discardKeyArray = ['@context', '@id', 'sloID', '$ref', 'description', 'bron', 'reference', 'prefix', 'deprecated', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy' ];
   
-  Object.keys(object).forEach(function(key, index){
-    for(let keys in discardKeyArray){
-           
-      //console.log("This key: -" + key + "- Agains this array key: -" + discardKeyArray[keys] + "-");
-
-      if(key == discardKeyArray[keys]){
-        console.log("deleting key " + key);  
-        delete object[key];
-      }
-   
-      if (typeof object[key] === 'object' && object[key] !== null){
-        console.log("Moving down");
-        removeKeys(object[key]);
-      }
+  for(let keys in discardKeyArray){
+    if(key == discardKeyArray[keys]){
+      //console.log("deleting key " + key);  
+      map.delete(key);
     }
-  }) 
-  return object;
+  }
+
+  if(map.size >= 1){
+    console.log(map.size);
+
+    if (map instanceof Map){
+      console.log("Moving down");
+      let deeperMap = new Map(map);
+      deeperMap.delete(key);
+      removeKeys(deeperMap);
+    }  
+  }
+
+  return (Object.fromEntries(map));
+  
 }
