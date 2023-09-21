@@ -3,9 +3,36 @@ import fs from "node:fs";
 
 //let rootURL = "http://localhost:4500/";
 let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
-//let rootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/";
+//let rootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/"; // do not use
+
+let discardKeyArray = ['@context', '@id', 'sloID', '$ref', 'description', 'bron', 'reference', 'prefix', 'deprecated', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'error' ];
+let keepKeyArray = [];
 
 let APIcallsSLO = JSON.parse(fs.readFileSync("../data/REST_API_URLs.json"));
+
+//Check whether the API call and resulting files are identical
+//Todo: check if this needs to be a function.
+for (let call of APIcallsSLO){
+  let APICallData= JSON.parse(fs.readFileSync(process.cwd() + '/../data/pages/' +  call + ".json"));
+  
+  let found = await getData(rootURL + call + "/");
+  let wanted = APICallData;
+
+  found = removeKeys(found, discardKeyArray);
+  wanted = removeKeys(wanted, discardKeyArray);
+  
+  if(deepEqual(wanted, found)){
+    console.log("yes for: " + call);
+  }
+  else{
+    console.log("no for: " + call);
+  }
+   
+  tap.test((call + ' comparison check'), async t => {
+      t.same(found, wanted)
+      t.end();
+  })
+}
 
 async function getData(url = "", data = {}) {
   
@@ -24,68 +51,6 @@ async function getData(url = "", data = {}) {
   } catch (error){
     console.log("did not get correct response.json, or timed oud");
   }
-
-}
-
-//Check whether the API call and resulting files are identical
-for (let call of APIcallsSLO){
-  let APICallData= JSON.parse(fs.readFileSync(process.cwd() + '/../data/pages/' +  call + ".json"));
-  
-  //console.log(APICallData);
-  
-  //let found = await getData(rootURL + call + "/");
-  let wanted = APICallData;
-
-  
-  //console.log(found);
-  //console.log("COMPARING TO: ")
-  //console.log(wanted);
-
-  console.log(APICallData);
-
-  //let mappedFound = new Map(await getData(rootURL + call + "/")); //SLO
-  //let mappedWanted = new Map(APICallData); //simplyStore
-
-  //console.log(mappedWanted);
-
-  //mappedFound =  removeKeys(mappedFound); //SLO
-  //mappedWanted = removeKeys(mappedWanted); //simplyStore
-
-  //found = Object.fromEntries(mappedFound);
-  //wanted = Object.fromEntries(mappedWanted);
-
-/*
-  console.log(found);
-  console.log("COMPARING TO: ")
-  console.log(wanted);
-  */
-
-  wanted = removeKeys(wanted);
-  
-  //console.log("The objects for: " + call + " are identical? " + deepEqual(APICallData, found));
-
-  //testing
-  
-  if(deepEqual(wanted, found)){
-    console.log("yes for: " + call);
-  }
-  else{
-    console.log("no for: " + call);
-  }
-  
-
-  /*
-  tap.test((call + ' comparison check'), async t => {
-
-      //console.log(found);
-      //console.log(wanted);
-      //console.log("The objects for: " + call + " are identical? " + deepEqual(wanted, found));
-      
-      //t.same(found, wanted)
-      //t.end();
-  })
-*/
-
 }
 
 function deepEqual(x, y) {
@@ -96,44 +61,31 @@ function deepEqual(x, y) {
   ) : (x === y);
 }
 
-
-function removeKeys(object) {
-  let map = new Map(object);
-
-  if (map.has("error") ){
-    //do nothing -> this avoids an endless loop
-    console.log("incorrect file");
+function removeKeys(obj, discardKeyArray){
+  var index;
+  for (var prop in obj) {
+      if(obj.hasOwnProperty(prop)){
+          switch(typeof(obj[prop])){
+              case 'string':
+                index = discardKeyArray.indexOf(prop);
+                  for (let key in discardKeyArray){
+                  if(index > -1 && prop == discardKeyArray[key]){ 
+                      delete obj[prop];
+                  }
+                }
+                break;
+              case 'object':
+                index = discardKeyArray.indexOf(prop);
+                for (let key in discardKeyArray){
+                  if(index > -1 && prop == discardKeyArray[key]){ 
+                      delete obj[prop];
+                  }else{
+                      removeKeys(obj[prop], discardKeyArray);
+                  }
+                } 
+                break;
+          }
+      }
   }
-  else {
-    map.forEach(removeMappedKeys);
-  }
-
-  return (Object.fromEntries(map));
-  
-};
-
-
-function removeMappedKeys(value, key, map){
-  let discardKeyArray = ['@context', '@id', 'sloID', '$ref', 'description', 'bron', 'reference', 'prefix', 'deprecated', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy' ];
-  
-  for(let keys in discardKeyArray){
-    if(key == discardKeyArray[keys]){
-      //console.log("deleting key " + key);  
-      map.delete(key);
-    }
-  }
-
-  if(map.size >= 1){
-    console.log(map.size);
-
-    if (map instanceof Map){
-      console.log("Moving down");
-      let deeperMap = new Map(map);
-      deeperMap.delete(key);
-      removeKeys(deeperMap);
-    }  
-  }
-
-  return (Object.fromEntries(map));
-  
+  return obj;
 }
