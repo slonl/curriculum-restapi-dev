@@ -1,8 +1,8 @@
 import tap from "tap";
 import fs from "node:fs";
 
-//let rootURL = "http://localhost:4500/";
-let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
+let rootURL = "http://localhost:4500/";
+//let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
 //let rootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/"; // do not use
 
 let discardKeyArray = ['@context', '@id', 'sloID', '$ref', 'description', 'bron', 'reference', 'prefix', 'deprecated', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'error' ];
@@ -12,6 +12,10 @@ let APIcallsSLO = JSON.parse(fs.readFileSync("../data/REST_API_URLs.json"));
 
 //Check whether the API call and resulting files are identical
 //Todo: check if this needs to be a function.
+
+let yescounter = 0;
+let nocounter = 0;
+
 for (let call of APIcallsSLO){
   let APICallData= JSON.parse(fs.readFileSync(process.cwd() + '/../data/pages/' +  call + ".json"));
   
@@ -23,16 +27,20 @@ for (let call of APIcallsSLO){
   
   if(deepEqual(wanted, found)){
     console.log("yes for: " + call);
+    yescounter++;
   }
   else{
     console.log("no for: " + call);
+    nocounter++;
   }
-   
+
   tap.test((call + ' comparison check'), async t => {
       t.same(found, wanted)
       t.end();
   })
 }
+
+console.log("DeepEqual sanity check finds " + yescounter  + " identical files, and " + nocounter + " files being different.")
 
 async function getData(url = "", data = {}) {
   
@@ -49,7 +57,7 @@ async function getData(url = "", data = {}) {
     return await response.json();
   
   } catch (error){
-    console.log("did not get correct response.json, or timed oud");
+    console.log("did not get correct response.json, or timed out");
   }
 }
 
