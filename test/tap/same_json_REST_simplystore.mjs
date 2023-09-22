@@ -20,29 +20,23 @@ for (let call of APIcallsSLO){
   
   let found = await getData(rootURL + call + "/");
   let wanted = APICallData;
-
   
-  if(typeof found === 'object' && found != null){
-    found = removeKeysFromObject(found, discardKeyArray);
-  }
-
-  if(typeof wanted === 'object' && found != null){
-    wanted = removeKeysFromObject(wanted, discardKeyArray);
-  }
-
-
-
+  
   if(typeof found === 'object' && found != null){
     found = keepKeysFromObject(found, keepKeyArray);
   }
-
-  
   if(typeof wanted === 'object' && wanted != null){
     wanted = keepKeysFromObject(wanted, keepKeyArray);
   }
+
+  if(typeof found === 'object' && found != null){
+    found = removeKeysFromObject(found, discardKeyArray);
+  }
+  if(typeof wanted === 'object' && found != null){
+    wanted = removeKeysFromObject(wanted, discardKeyArray);
+  }
   
 
-  
   if(deepEqual(wanted, found)){
     //console.log("YES FOR: " + call);
     yescounter++;
@@ -50,13 +44,16 @@ for (let call of APIcallsSLO){
   else{
     nocounter++;
     console.log("FILES NOT EQUAL FOR: " + call)
+    /*
     console.log("FOUND:")
     console.log(found);
     console.log("WANTED:")
     console.log(wanted);
     console.log("");
+    */
   }
   
+  //for verbose differences using TAP:
   /*
   tap.test((call + ' comparison check'), async t => {
       t.same(found, wanted)
