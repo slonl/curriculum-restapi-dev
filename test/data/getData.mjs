@@ -12,7 +12,7 @@ async function getData(url = "", data = {}) {
       headers: {
         "Accept": "application/json",
         "Authorization": "Basic b3BlbmRhdGFAc2xvLm5sOjM1ODUwMGQzLWNmNzktNDQwYi04MTdkLTlmMGVmOWRhYTM5OQ=="
-      },
+      }
     });
     return await response.json(); 
   } catch (error){
