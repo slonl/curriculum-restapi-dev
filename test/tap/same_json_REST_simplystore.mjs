@@ -1,11 +1,11 @@
 import tap from "tap";
 import fs from "node:fs";
 
-let rootURL = "http://localhost:4500/";
-//let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
+//let rootURL = "http://localhost:4500/";
+let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
 //let rootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/"; // do not use
 
-let discardKeyArray = ['Examenprogramma', 'ExamenprogrammaBgProfiel', 'erk_categorie_id', 'ExamenprogrammaDomein', 'LdkVakkern', 'type', 'RefOnderwerp','erk_candobeschrijving_id', 'erk_schaal_id', 'erk_taalactiviteit_id','isempty', 'unreleased', 'niveau_id', 'erk_voorbeeld_id', 'NiveauIndex', 'RefDomein', 'RefSubdomein', 'RefVakleergebied', 'erk_lesidee_id', '@context', '@id', 'sloID', 'error', '@type', 'deprecated' , '@ref', 'ce_se', 'Doel', 'description', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'Niveau', 'SyllabusSpecifiekeEindterm', 'Syllabus', 'Vakleergebied'];
+let discardKeyArray = ['ce_se', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy']; //['Examenprogramma', 'ExamenprogrammaBgProfiel', 'erk_categorie_id', 'ExamenprogrammaDomein', 'LdkVakkern', 'type', 'RefOnderwerp','erk_candobeschrijving_id', 'erk_schaal_id', 'erk_taalactiviteit_id','isempty', 'unreleased', 'niveau_id', 'erk_voorbeeld_id', 'NiveauIndex', 'RefDomein', 'RefSubdomein', 'RefVakleergebied', 'erk_lesidee_id', '@context', '@id', 'sloID', 'error', '@type', 'deprecated' , '@ref', 'ce_se', 'Doel', 'description', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'Niveau', 'SyllabusSpecifiekeEindterm', 'Syllabus', 'Vakleergebied'];
 //for backup purposes: let discardKeyArray = ['Examenprogramma', 'ExamenprogrammaBgProfiel', 'erk_categorie_id', 'ExamenprogrammaDomein', 'LdkVakkern', 'type', 'RefOnderwerp','erk_candobeschrijving_id', 'erk_schaal_id', 'erk_taalactiviteit_id','isempty', 'unreleased', 'niveau_id', 'erk_voorbeeld_id', 'NiveauIndex', 'RefDomein', 'RefSubdomein', 'RefVakleergebied', 'erk_lesidee_id', '@context', '@id', 'sloID', 'error', '@type', 'deprecated' , '@ref', 'ce_se', 'Doel', 'description', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'Niveau', 'SyllabusSpecifiekeEindterm', 'Syllabus', 'Vakleergebied'];
 
 let keepKeyArray = ['uuid'];
@@ -21,7 +21,7 @@ for (let call of APIcallsSLO){
   let found = await getData(rootURL + call + "/");
   let wanted = APICallData;
   
-  
+  /*
   if(typeof found === 'object' && found != null){
     found = keepKeysFromObject(found, keepKeyArray);
   }
@@ -35,6 +35,7 @@ for (let call of APIcallsSLO){
   if(typeof wanted === 'object' && found != null){
     wanted = removeKeysFromObject(wanted, discardKeyArray);
   }
+  */
   
 
   if(deepEqual(wanted, found)){
@@ -43,8 +44,9 @@ for (let call of APIcallsSLO){
   }
   else{
     nocounter++;
-    console.log("FILES NOT EQUAL FOR: " + call)
     /*
+    console.log("FILES NOT EQUAL FOR: " + call)
+    
     console.log("FOUND:")
     console.log(found);
     console.log("WANTED:")
@@ -53,11 +55,11 @@ for (let call of APIcallsSLO){
     */
   }
   
-  //for verbose differences using TAP:
-  /*
+ /*
   tap.test((call + ' comparison check'), async t => {
-      t.same(found, wanted)
-      t.end();
+      //t.same(found, wanted);
+     t.match(found, wanted);
+     t.end();
   })
   */
 
