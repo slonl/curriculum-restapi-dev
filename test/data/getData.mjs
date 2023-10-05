@@ -70,15 +70,15 @@ async function getData(url = "", data = {}) {
 async function getLocalJSONData(call){
   let data = await getData(localRootURL + call + "/");
   JSON.stringify(data);
-  //console.log("busy with " + call);
-  fs.writeFileSync((process.cwd() + localDataFolder + "/" + call + ".json"), JSON.stringify(data)); 
+  console.log("busy with " + call);
+  fs.writeFileSync((process.cwd() + localDataFolder + "/" + call + ".json"), JSON.stringify(data, null, "\t")); 
 }
 
 async function getRemoteJSONData(call){
   let data = await getData(remoteRootURL + call + "/");
   JSON.stringify(data);
-  //console.log("busy with " + call);
-  fs.writeFileSync((process.cwd() + remoteDatafolder + "/" + call + ".json"), JSON.stringify(data)); 
+  console.log("busy with " + call);
+  fs.writeFileSync((process.cwd() + remoteDatafolder + "/" + call + ".json"), JSON.stringify(data, null, "\t")); 
 }
 
 // go get the files using the rest API
