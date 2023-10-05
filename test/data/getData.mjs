@@ -34,15 +34,33 @@ try {
   console.error(err);
 }
 
+
+async function fetchWithTimeout(resource, options = {}) {
+  const { timeout = 15000 } = options;
+  
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeout);
+
+  const response = await fetch(resource, {
+    ...options,
+    signal: controller.signal  
+  });
+  clearTimeout(id);
+
+  return response;
+}
+
 async function getData(url = "", data = {}) {
   try {
-    const response = await fetch(url, {
+    const response = await fetchWithTimeout(url, {
       headers: {
         "Accept": "application/json",
         "Authorization": "Basic b3BlbmRhdGFAc2xvLm5sOjM1ODUwMGQzLWNmNzktNDQwYi04MTdkLTlmMGVmOWRhYTM5OQ=="
-      }
+      },
+      timeout: 15000
     });
-    return await response.json(); 
+    return await response.json();
+
   } catch (error){
     console.log("did not get a correct JSON from: " + url + " -> error: " + error);
     return dummyData;
@@ -52,14 +70,14 @@ async function getData(url = "", data = {}) {
 async function getLocalJSONData(call){
   let data = await getData(localRootURL + call + "/");
   JSON.stringify(data);
-  console.log("busy with " + call);
+  //console.log("busy with " + call);
   fs.writeFileSync((process.cwd() + localDataFolder + "/" + call + ".json"), JSON.stringify(data)); 
 }
 
 async function getRemoteJSONData(call){
   let data = await getData(remoteRootURL + call + "/");
   JSON.stringify(data);
-  console.log("busy with " + call);
+  //console.log("busy with " + call);
   fs.writeFileSync((process.cwd() + remoteDatafolder + "/" + call + ".json"), JSON.stringify(data)); 
 }
 
