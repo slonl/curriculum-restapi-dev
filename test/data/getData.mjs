@@ -1,37 +1,28 @@
 import fs from "node:fs";
 
 let localRootURL = "http://localhost:4500/"; //https://opendata.slo.nl/curriculum/api-acpt/v1/ 
-let remoteRootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
-//let currentRootURL = https://opendata.slo.nl/curriculum/api-acpt/v1/ 
+//let remoteRootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
+let remoteRootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/"; 
 
 let dummyData = { "dummyData" : "dummyData" }; // used when the returned JSON is incorrect/missing/empty
 
 let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/REST_API_URLs.json"));
 
-let rootPagesFolder = "/pages"
+
 let localDataFolder = "/pages/localhost";
 let remoteDatafolder = "/pages/remote";
-let localDataFolderUUIDS = "/pages/localhost/uuid";
-let remoteDatafolderUUIDS = "/pages/remote/uuid";
 
-try {
-  if (!fs.existsSync(process.cwd() + rootPagesFolder)) {
-    fs.mkdirSync(process.cwd() + rootPagesFolder);
+//Folders are needed as the calls are built to use the array from REST_API_URLS.json and save the files according to the paths from the call.
+let createFolders = ["/pages","/pages/localhost","/pages/remote","/pages/localhost/uuid", "/pages/remote/uuid", "/pages/localhost/doel", "/pages/remote/doel","/pages/localhost/doelniveau", "/pages/remote/doelniveau"];
+
+for(let folder in createFolders){
+  try {
+    if (!fs.existsSync(process.cwd() + folder)) {
+      fs.mkdirSync(process.cwd() + folder);
+    }
+  } catch (err) {
+    console.error(err);
   }
-  if (!fs.existsSync(process.cwd() + localDataFolder)) {
-    fs.mkdirSync(process.cwd() + localDataFolder);
-  }
-  if (!fs.existsSync(process.cwd() + remoteDatafolder)) {
-    fs.mkdirSync(process.cwd() + remoteDatafolder);
-  }
-  if (!fs.existsSync(process.cwd() + localDataFolderUUIDS )) {
-    fs.mkdirSync(process.cwd() + localDataFolderUUIDS);
-  }
-  if (!fs.existsSync(process.cwd() + remoteDatafolderUUIDS)) {
-    fs.mkdirSync(process.cwd() + remoteDatafolderUUIDS);
-  }
-} catch (err) {
-  console.error(err);
 }
 
 
