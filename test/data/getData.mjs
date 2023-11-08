@@ -13,19 +13,19 @@ let localDataFolder = "/pages/localhost";
 let remoteDatafolder = "/pages/remote";
 
 //Folders are created: as the calls are built to use the array from REST_API_URLS.json and save the files according to the paths from the call.
-let createFolders = ["/pages","/pages/localhost","/pages/remote","/pages/localhost/uuid", "/pages/remote/uuid", "/pages/localhost/doel", "/pages/remote/doel","/pages/localhost/doelniveau", "/pages/remote/doelniveau"];
+let createFolders = ["/pages","/pages/localhost","/pages/remote","/pages/localhost/uuid", "/pages/remote/uuid"];
 
 for(let folder in createFolders){
   try {
-    if (!fs.existsSync(process.cwd() + folder)) {
-      fs.mkdirSync(process.cwd() + folder);
+    if (!fs.existsSync(process.cwd() + createFolders[folder])) {
+      fs.mkdirSync(process.cwd() + createFolders[folder]);
     }
   } catch (err) {
     console.error(err);
   }
 }
 
-
+/*
 async function fetchWithTimeout(resource, options = {}) {
   const { timeout = 1000 } = options;
   
@@ -40,6 +40,7 @@ async function fetchWithTimeout(resource, options = {}) {
 
   return response;
 }
+
 
 async function getData(url = "", data = {}) {
   try {
@@ -57,6 +58,24 @@ async function getData(url = "", data = {}) {
     return dummyData;
   }
 }
+*/
+async function getData(url = "", data = {}) {
+  try {
+    const response = await fetch(url, {
+      headers: {
+        "Accept": "application/json",
+        "Authorization": "Basic b3BlbmRhdGFAc2xvLm5sOjM1ODUwMGQzLWNmNzktNDQwYi04MTdkLTlmMGVmOWRhYTM5OQ=="
+      },
+      timeout: 1000 // @TODO : find out why this timeout doesn't seem to work.
+    });
+    return await response.json();
+
+  } catch (error){
+    console.log("did not get a correct JSON from: " + url + " -> error: " + error);
+    return dummyData;
+  }
+}
+
 
 async function getLocalJSONData(call){
   let data = await getData(localRootURL + call + "/");
@@ -75,5 +94,5 @@ async function getRemoteJSONData(call){
 // go get the files using the rest API
 for (let call of APIcallsSLO){
   getLocalJSONData(call);
-  getRemoteJSONData(call);
+  //getRemoteJSONData(call);
 }
