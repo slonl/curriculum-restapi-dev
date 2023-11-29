@@ -1,14 +1,14 @@
-import tap from "tap";
 import fs from "node:fs";
 
-//let rootURL = "http://localhost:4500/";
+//rootURL is the URL to compare data to. 
+//To work properly you need to have run getData.mjs in the test/data folder. 
+//This will fill the pages/localhost folder with data to compare to.
+
+let rootURL = "http://localhost:4500/";
 //let rootURL = "https://opendata.slo.nl/curriculum/2022/api/v1/";
-let rootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/";
+//let rootURL = "https://opendata.slo.nl/curriculum/api-acpt/v1/";
 
 let discardKeyArray = ['@context', '@references', '$ref', 'replacedBy', 'replaces', 'deprecated', '@isPartOf']; //['ce_se', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy']; //['Examenprogramma', 'ExamenprogrammaBgProfiel', 'erk_categorie_id', 'ExamenprogrammaDomein', 'LdkVakkern', 'type', 'RefOnderwerp','erk_candobeschrijving_id', 'erk_schaal_id', 'erk_taalactiviteit_id','isempty', 'unreleased', 'niveau_id', 'erk_voorbeeld_id', 'NiveauIndex', 'RefDomein', 'RefSubdomein', 'RefVakleergebied', 'erk_lesidee_id', '@context', '@id', 'sloID', 'error', '@type', 'deprecated' , '@ref', 'ce_se', 'Doel', 'description', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'Niveau', 'SyllabusSpecifiekeEindterm', 'Syllabus', 'Vakleergebied'];
-//for backup purposes: let discardKeyArray = ['Examenprogramma', 'ExamenprogrammaBgProfiel', 'erk_categorie_id', 'ExamenprogrammaDomein', 'LdkVakkern', 'type', 'RefOnderwerp','erk_candobeschrijving_id', 'erk_schaal_id', 'erk_taalactiviteit_id','isempty', 'unreleased', 'niveau_id', 'erk_voorbeeld_id', 'NiveauIndex', 'RefDomein', 'RefSubdomein', 'RefVakleergebied', 'erk_lesidee_id', '@context', '@id', 'sloID', 'error', '@type', 'deprecated' , '@ref', 'ce_se', 'Doel', 'description', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'Niveau', 'SyllabusSpecifiekeEindterm', 'Syllabus', 'Vakleergebied'];
-
-let keepKeyArray = ['uuid'];
 
 let APIcallsSLO = JSON.parse(fs.readFileSync("../data/REST_API_URLs.json"));
 
@@ -18,58 +18,45 @@ let yescounter = 0; //counters for reporting if the files are identical
 let nocounter = 0;
 
 for (let call of APIcallsSLO){
-  let APICallData= JSON.parse(fs.readFileSync("../data" + localDataFolder + "/" +  call + ".json"));
-  
-  let found = await getData(rootURL + call + "/");
-  let wanted = APICallData;
-  
- /* 
-  if(typeof found === 'object' && found != null){
-    found = keepKeysFromObject(found, keepKeyArray);
-  }
-  if(typeof wanted === 'object' && wanted != null){
-    wanted = keepKeysFromObject(wanted, keepKeyArray);
-  }
-*/
-
-  if(typeof found === 'object' && found != null){
-    found = removeKeysFromObject(found, discardKeyArray);
-  }
-
-  if(typeof wanted === 'object' && wanted != null){
-    wanted = removeKeysFromObject(wanted, discardKeyArray);
-  }
-  
-  if(deepEqual(wanted, found)){
-    console.log("YES FOR: " + call);
-    yescounter++;
-  }
-  else{
-    nocounter++;
+    //get the data
+    let APICallData= JSON.parse(fs.readFileSync("../data" + localDataFolder + "/" +  call + ".json"));
+    let found = await getData(rootURL + call + "/");
+    let wanted = APICallData;
     
-    console.log("FILES NOT EQUAL FOR: " + call)
-    
-    console.log("FOUND:")
-    console.log(found);
-    console.log("WANTED:")
-    console.log(wanted);
-    console.log("");
-  }
-  
- /*
-  tap.test((call + ' comparison check'), async t => {
-      //t.same(found, wanted);
-     t.match(found, wanted);
-     t.end();
-  })
-  */
+    // remove unwanted keys
+    if(typeof found === 'object' && found != null){
+        found = removeKeysFromObject(found, discardKeyArray);
+    }
 
+    if(typeof wanted === 'object' && wanted != null){
+        wanted = removeKeysFromObject(wanted, discardKeyArray);
+    }
+    
+    // give feedback
+    if(deepEqual(wanted, found)){
+        console.log("YES FOR: " + call);
+        yescounter++;
+    }
+    else{
+        nocounter++;
+        console.log("FILES NOT EQUAL FOR: " + call)      
+        console.log("FOUND:")
+        console.log(found);
+        console.log("WANTED:")
+        console.log(wanted);
+        console.log("");
+    }
 }
 
-console.log("DeepEqual sanity check finds " + yescounter  + " identical files, and " + nocounter + " files being different.")
+//display results:
+console.log("");
+console.log("After removing keys " + discardKeyArray);
+console.log("");
+console.log("When comparing " + rootURL  + " to the data contained in test/data/pages/localhost");
+console.log("DeepEqual check finds " + yescounter  + " files with identical content, and " + nocounter + " files with content being different.");
+console.log("");
 
 async function getData(url = "", data = {}) {
-  
   try {
     const response = await fetchWithTimeout(url, {
       headers: {
@@ -87,7 +74,6 @@ async function getData(url = "", data = {}) {
 
 async function fetchWithTimeout(resource, options = {}) {
   const { timeout = 1000 } = options;
-  
   const controller = new AbortController();
   const id = setTimeout(() => controller.abort(), timeout);
 
@@ -108,21 +94,7 @@ function deepEqual(x, y) {
   ) : (x === y);
 }
 
-function keepKeysFromObject(subject, keepKeyArray) {
-  Object.keys(subject).forEach(key => {
-    if (keepKeyArray.includes(key)) {
-      //console.log("keeping key: " + subject[key]);
-      keepKeysFromObject(subject[key], keepKeyArray);
-    } else if (typeof subject[key] === 'object' && subject[key] !== null) {
-      delete subject[key];
-      //console.log("deleting key: " + key);
-    }
-  })
-  return subject;
-}
-
-
-  function removeKeysFromObject(subject, discardKeyArray) {
+function removeKeysFromObject(subject, discardKeyArray) {
     Object.keys(subject).forEach(key => {
       if (discardKeyArray.includes(key)) {
         delete subject[key];
@@ -133,6 +105,5 @@ function keepKeysFromObject(subject, keepKeyArray) {
       }
     })
     return subject;
-  }
-
+}
 
