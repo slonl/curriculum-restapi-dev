@@ -2,7 +2,7 @@ version: "3.3"
 
 services:
   rest-api:
-    image: "node:14-alpine"
+    image: "node:20-alpine"
     user: "node"
     working_dir: /home/node/app
     container_name: "slo-rest-api"
@@ -11,47 +11,23 @@ services:
       - NODE_PORT=4500
       - NODE_BASE=/
       - NODE_ID_URL=/uuid/
-      - NODE_BACKEND_URL=http://slo-graphql:3000
       - NODE_SEARCH_URL=http://slo-search:3001
       - NODE_DATA_URL=http://localhost:4500/
-      - NODE_SIMPLYSTORE_URL=http://curriculum-store:3002
+      - NODE_SIMPLYSTORE_URL=http://curriculum-store:3000
     volumes:
       - ./curriculum-rest-api/:/home/node/app
     ports:
       - "4500:4500"
     depends_on:
-      - graphql
+      - curriculum-store
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
         npm install
         npm start
 
-  graphql:
-    image: "node:14-alpine"
-    user: "node"
-    working_dir: /home/node/app
-    container_name: "slo-graphql"
-    environment:
-      - NODE_ENV=development
-      - NODE_PORT=3000
-    volumes:
-      - ./curriculum-graphql-server/:/home/node/app
-    ports:
-      - "3000:3000"
-    entrypoint: ["/bin/sh","-c"]
-    command:
-      - |
-        npm install
-        cd json-graphql-server
-        npm install --ignore-scripts
-        NODE_ENV=production ./node_modules/.bin/webpack
-        cd -
-        npm run combine
-        npm start
-  
   search-server:
-    image: "node:14-alpine"
+    image: "node:20-alpine"
     user: "node"
     working_dir: /home/node/app
     container_name: "slo-search"
@@ -77,13 +53,12 @@ services:
     container_name: "curriculum-store"
     environment:
       - NODE_ENV=development
-      - NODE_PORT=3002
+      - NODE_PORT=3000
       - DATA_DIR=/home/node/app/curriculum
     volumes:
       - ./curriculum-store/:/home/node/app
-      - ./curriculum-graphql-server/data/:/home/node/app/curriculum
     ports:
-      - "3002:3002"
+      - "3000:3000"
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
@@ -91,6 +66,5 @@ services:
         npm start
 
 volumes:
-  curriculum-graphql-server:
   curriculum-rest-api:
   curriculum-search-server:
