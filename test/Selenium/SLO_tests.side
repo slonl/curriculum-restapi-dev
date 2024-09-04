@@ -1,0 +1,616 @@
+{
+  "id": "86c47ac2-df03-4e50-953e-e578bfd9f797",
+  "version": "2.0",
+  "name": "SLO_SpreadsheetChanges",
+  "url": "http://localhost:4500",
+  "tests": [{
+    "id": "17095293-1166-4508-aa62-484f19920df3",
+    "name": "A2a CRUD document weergave",
+    "commands": [{
+      "id": "19ae01e3-b4df-47d2-87c6-fda64e9bebbe",
+      "comment": "open website",
+      "command": "open",
+      "target": "http://localhost:4500",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3531dfff-d55d-46a2-9ebb-d70757f2275d",
+      "comment": "delete local storage",
+      "command": "executeScript",
+      "target": "delete localStorage[\"changeHistory\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ab31fe6c-2b05-4227-a2e1-b0ee93698271",
+      "comment": "Check if Basis context is available",
+      "command": "assertText",
+      "target": "linkText=Basis",
+      "targets": [
+        ["linkText=Basis", "linkText"],
+        ["css=.slo-highlight-box:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Basis')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'curriculum-basis/')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Basis')]", "xpath:innerText"]
+      ],
+      "value": "Basis"
+    }, {
+      "id": "f56a28f5-9337-4956-9cfd-ed60cb89e1b7",
+      "comment": "Click on Basis",
+      "command": "click",
+      "target": "linkText=Basis",
+      "targets": [
+        ["linkText=Basis", "linkText"],
+        ["css=.slo-highlight-box:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Basis')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'curriculum-basis/')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Basis')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ca88859e-fa3c-432d-a108-3dd843d0f779",
+      "comment": "Click on Doelniveau",
+      "command": "click",
+      "target": "linkText=Doelniveau",
+      "targets": [
+        ["linkText=Doelniveau", "linkText"],
+        ["css=.slo-highlight-box:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Doelniveau')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'doelniveau/')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Doelniveau')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "abdb76b4-3385-461e-971f-d7218969735e",
+      "comment": "Click on 4th item",
+      "command": "click",
+      "target": "css=li:nth-child(4) > .slo-relatie",
+      "targets": [
+        ["css=li:nth-child(4) > .slo-relatie", "css:finder"],
+        ["xpath=//a[@href='http://localhost:4500/uuid/38653c61-90dc-4f6f-9566-46b389439a0a']", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6b8deb77-e6a1-4234-876e-bf03eee2f91a",
+      "comment": "Click on documentweergave",
+      "command": "click",
+      "target": "css=.ds-button[data-simply-value=\"document\"][data-simply-command=\"switchView\"]",
+      "targets": [
+        ["css=.ds-button-naked:nth-child(3) use", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "c1fbb8d1-88ec-4a45-a022-e34c70f288e4",
+      "comment": "Click on an item on the page to set focus",
+      "command": "clickAt",
+      "target": "id=/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66",
+      "targets": [
+        ["id=/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "id"],
+        ["css=#\\/uuid\\/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "css:finder"],
+        ["xpath=//li[@id='/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66']", "xpath:attributes"],
+        ["xpath=//div[@id='slo-document']/section/div[4]/section[2]/div[4]/section/div[4]/section/ul[3]/li[8]", "xpath:idRelative"],
+        ["xpath=//ul[3]/li[8]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "225c4607-0135-4b8e-a5a5-a38ef2af12d5",
+      "comment": "Click on the edit button <- HERE",
+      "command": "click",
+      "target": "css=button[data-simply-command=\"documentEdit\"]",
+      "targets": [
+        ["css=#\\/uuid\\/e7f5c798-e1db-471d-a20d-b493ae7f9c66 use", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "4920706b-f6fa-418c-82e8-20697afae567",
+      "comment": "Check if box appears",
+      "command": "verifyText",
+      "target": "xpath=//label[contains(.,' Inhoudelijke wijziging')]",
+      "targets": [
+        ["css=.ds-form-group > label", "css:finder"],
+        ["xpath=//div/div/label", "xpath:position"],
+        ["xpath=//label[contains(.,' Inhoudelijke wijziging')]", "xpath:innerText"]
+      ],
+      "value": "Inhoudelijke wijziging"
+    }, {
+      "id": "51acbfa3-d99a-47b6-950b-411ccba69149",
+      "comment": "Type some stuff to update the field",
+      "command": "type",
+      "target": "name=textEdit",
+      "targets": [
+        ["name=textEdit", "name"],
+        ["css=textarea:nth-child(1)", "css:finder"],
+        ["xpath=//textarea[@name='textEdit']", "xpath:attributes"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Test A2 CRUD document weergave."
+    }, {
+      "id": "e773907b-81a9-4a1d-87c2-196b4fe384d8",
+      "comment": "Click save button",
+      "command": "click",
+      "target": "css=.slo-form-footer use",
+      "targets": [
+        ["css=.slo-form-footer use", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "cccdf997-4654-4f64-914e-c2088c0e0831",
+      "comment": "Check if the changes have been added",
+      "command": "verifyText",
+      "target": "css=.slo-changes-size",
+      "targets": [
+        ["css=.slo-changes-size", "css:finder"],
+        ["xpath=//nav/div/div", "xpath:position"]
+      ],
+      "value": "1 wijzigingen"
+    }, {
+      "id": "ec541e5d-4155-4651-99ab-bd248c611764",
+      "comment": "Click save to open save menu",
+      "command": "click",
+      "target": "css=.ds-button-bar-right > .ds-icon",
+      "targets": [
+        ["css=.ds-button-bar-right > .ds-icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "139ec2d3-0fdc-4f5c-b2f2-26d42d109b79",
+      "comment": "Select message box",
+      "command": "click",
+      "target": "name=message",
+      "targets": [
+        ["name=message", "name"],
+        ["css=.slo-commit-message", "css:finder"],
+        ["xpath=//textarea[@name='message']", "xpath:attributes"],
+        ["xpath=//dialog[@id='commitChanges']/div/form/label/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "643232e7-1b24-460c-874d-7b0f0876c483",
+      "comment": "Type changes message",
+      "command": "type",
+      "target": "name=message",
+      "targets": [
+        ["name=message", "name"],
+        ["css=.slo-commit-message", "css:finder"],
+        ["xpath=//textarea[@name='message']", "xpath:attributes"],
+        ["xpath=//dialog[@id='commitChanges']/div/form/label/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "SLO TEST GOVERT"
+    }, {
+      "id": "faee5a96-4894-43d8-9fdd-286bf8c93378",
+      "comment": "Click Opslaan",
+      "command": "//click",
+      "target": "css=.ds-button-primary:nth-child(1)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "69192502-f8ca-453b-8a20-0094b4da805a",
+      "comment": "go back to main page",
+      "command": "",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2b685f4f-7b88-41b7-a206-82e2cbdcccb8",
+      "comment": "delete cookies / settings",
+      "command": "",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "976c952c-b4f9-4102-8f86-b04aa20880c4",
+      "comment": "navigate back to the page",
+      "command": "",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d841dcf7-b410-4dbb-a6db-e0da10085a92",
+      "comment": "check if the changes are in the relevant field",
+      "command": "",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "ddcce6fa-39a1-4ba5-a8cb-a6c1be3d88a8",
+    "name": "A1 Connection",
+    "commands": [{
+      "id": "e7ddbb2b-3c6d-44ea-b014-8a5704b125d9",
+      "comment": "Connect to website",
+      "command": "open",
+      "target": "http://localhost:4500",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c6eac0c7-54e7-46a7-a067-af6b5da146aa",
+      "comment": "delete localStorage",
+      "command": "executeScript",
+      "target": "delete localStorage[\"changeHistory\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9b2eaa1b-d98c-47e3-a5ca-cfb847cba5db",
+      "comment": "Check if Basis is available on page",
+      "command": "assertText",
+      "target": "linkText=Basis",
+      "targets": [],
+      "value": "Basis"
+    }]
+  }, {
+    "id": "14e17871-ed92-4ed4-8b6f-88ff39e35532",
+    "name": "A2b CRUD spreadsheet weergave",
+    "commands": [{
+      "id": "8e8ab703-e103-4cee-bd4e-21a1a40923df",
+      "comment": "open website",
+      "command": "open",
+      "target": "http://localhost:4500",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a5a36ee0-cfc6-4876-9ca7-375b63528b55",
+      "comment": "",
+      "command": "executeScript",
+      "target": "delete localStorage[\"changeHistory\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d24bbed6-9703-4187-b4ee-f37c8bd66eee",
+      "comment": "Check if Basis context is available",
+      "command": "assertText",
+      "target": "linkText=Basis",
+      "targets": [
+        ["linkText=Basis", "linkText"],
+        ["css=.slo-highlight-box:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Basis')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'curriculum-basis/')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Basis')]", "xpath:innerText"]
+      ],
+      "value": "Basis"
+    }, {
+      "id": "92fabd60-de45-462f-b9e1-66e206e09fb6",
+      "comment": "Click on Basis",
+      "command": "click",
+      "target": "linkText=Basis",
+      "targets": [
+        ["linkText=Basis", "linkText"],
+        ["css=.slo-highlight-box:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Basis')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'curriculum-basis/')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Basis')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0b69687e-7c99-408a-95c0-0f83ef38d43e",
+      "comment": "Click on Doelniveau",
+      "command": "click",
+      "target": "linkText=Doelniveau",
+      "targets": [
+        ["linkText=Doelniveau", "linkText"],
+        ["css=.slo-highlight-box:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Doelniveau')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'doelniveau/')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Doelniveau')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8749b978-6b2c-400a-b995-c889a745d8d4",
+      "comment": "Click on 4th item",
+      "command": "click",
+      "target": "css=li:nth-child(4) > .slo-relatie",
+      "targets": [
+        ["css=li:nth-child(4) > .slo-relatie", "css:finder"],
+        ["xpath=//a[@href='http://localhost:4500/uuid/38653c61-90dc-4f6f-9566-46b389439a0a']", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1db6090e-e47b-4c29-b7c8-9c219d4efba5",
+      "comment": "Click on spreadsheetweergave",
+      "command": "click",
+      "target": "css=.ds-button[data-simply-value=\"spreadsheet\"][data-simply-command=\"switchView\"]",
+      "targets": [
+        ["css=.ds-button-naked:nth-child(3) use", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "3976ae1e-7af5-4b02-9637-5ddb41bf4429",
+      "comment": "Click on edit UI",
+      "command": "clickAt",
+      "target": "xpath=//*[contains(text(), \"Hoe zet je planmatig een onderneming op\")]",
+      "targets": [
+        ["id=/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "id"],
+        ["css=#\\/uuid\\/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "css:finder"],
+        ["xpath=//li[@id='/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66']", "xpath:attributes"],
+        ["xpath=//div[@id='slo-document']/section/div[4]/section[2]/div[4]/section/div[4]/section/ul[3]/li[8]", "xpath:idRelative"],
+        ["xpath=//ul[3]/li[8]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7a544e63-ada5-4405-8307-99d76f483d12",
+      "comment": "Click edit button",
+      "command": "click",
+      "target": "css=button[data-simply-command=\"cellEditor\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5e7a57aa-0ee4-4b47-b941-63b3d744c834",
+      "comment": "Check if box appears",
+      "command": "verifyText",
+      "target": "xpath=//label[contains(.,' Inhoudelijke wijziging')]",
+      "targets": [
+        ["css=.ds-form-group > label", "css:finder"],
+        ["xpath=//div/div/label", "xpath:position"],
+        ["xpath=//label[contains(.,' Inhoudelijke wijziging')]", "xpath:innerText"]
+      ],
+      "value": "Inhoudelijke wijziging"
+    }, {
+      "id": "f02b7001-9275-4c19-bab4-56f9c9c9a50c",
+      "comment": "Type some stuff to update the field",
+      "command": "type",
+      "target": "css=.spreadsheet-editor-type-text",
+      "targets": [
+        ["name=prefix", "name"],
+        ["css=.spreadsheet-editor", "css:finder"],
+        ["xpath=//textarea[@name='prefix']", "xpath:attributes"],
+        ["xpath=//div[@id='slo-spreadsheet']/table/thead/tr/th/div/div/form/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "\"TEST: A2 CRUD spreadsheet weergave\""
+    }, {
+      "id": "159c6c4e-830e-4301-8bdb-208559fda40c",
+      "comment": "Save by shortcut keys",
+      "command": "executeScript",
+      "target": "browser.keyboard['spreadsheet-edit']['Control+Enter']({preventDefault:function(){}}) ",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cb62574d-85bf-4791-83c5-d2c85466d583",
+      "comment": "Check if the changes have been added",
+      "command": "verifyText",
+      "target": "css=.slo-changes-size",
+      "targets": [
+        ["css=.slo-changes-size", "css:finder"],
+        ["xpath=//nav/div/div", "xpath:position"]
+      ],
+      "value": "1 wijzigingen"
+    }, {
+      "id": "5e6cd1d2-0b24-4be3-b00d-989cca786812",
+      "comment": "Click save to open save menu",
+      "command": "click",
+      "target": "css=.ds-button-bar-right > .ds-icon",
+      "targets": [
+        ["css=.ds-button-bar-right > .ds-icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "b2a6907a-e312-438d-a6e4-e8da15d61a37",
+      "comment": "Select message box",
+      "command": "click",
+      "target": "name=message",
+      "targets": [
+        ["name=message", "name"],
+        ["css=.slo-commit-message", "css:finder"],
+        ["xpath=//textarea[@name='message']", "xpath:attributes"],
+        ["xpath=//dialog[@id='commitChanges']/div/form/label/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "828fe3b6-f46d-4dc2-9645-eedeb37c69e3",
+      "comment": "Type changes message",
+      "command": "type",
+      "target": "name=message",
+      "targets": [
+        ["name=message", "name"],
+        ["css=.slo-commit-message", "css:finder"],
+        ["xpath=//textarea[@name='message']", "xpath:attributes"],
+        ["xpath=//dialog[@id='commitChanges']/div/form/label/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "SLO TEST GOVERT"
+    }, {
+      "id": "73dc0a19-d484-41a8-9310-416cad88d20f",
+      "comment": "Click Opslaan",
+      "command": "click",
+      "target": "css=.ds-button-primary:nth-child(1)",
+      "targets": [
+        ["css=.ds-button-primary:nth-child(1)", "css:finder"],
+        ["xpath=//dialog[@id='commitChanges']/div/form/div/button", "xpath:idRelative"],
+        ["xpath=//form/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Opslaan')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "0e3a0774-8571-4391-bc5e-5cb40413a11b",
+    "name": "A3 Data Integrity",
+    "commands": [{
+      "id": "c1e09bc6-276f-4891-8575-1014575c2c8b",
+      "comment": "This will be done using the tap scripts",
+      "command": "",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "392dcd04-b09a-43d3-bf60-2ddb8685f29a",
+    "name": "A4 Query Performance",
+    "commands": []
+  }, {
+    "id": "d0ef1356-c34f-4076-a1c3-f54bc3dbd2a1",
+    "name": "A5 Transaction Rollback",
+    "commands": []
+  }, {
+    "id": "ecf21da9-aab0-4a48-b6d6-2be5ad41e0c0",
+    "name": "A6 Data Type Validation",
+    "commands": []
+  }, {
+    "id": "857bed63-9a9e-4c10-a72f-a35ab9f5c5cb",
+    "name": "A7 Indexing",
+    "commands": []
+  }, {
+    "id": "763634bb-b5a4-4b6a-acb3-4751d09f67f1",
+    "name": "A8 Stored procedures",
+    "commands": []
+  }, {
+    "id": "800a5f0a-baa0-4b6e-b708-529c88204fec",
+    "name": "A9 Concurrency Control",
+    "commands": []
+  }, {
+    "id": "ee6b8acb-f59a-42d1-b7b5-957ffc287aa7",
+    "name": "A10 Backup and Restore data integrity",
+    "commands": []
+  }, {
+    "id": "65ba2886-acd8-4cfd-b2c8-4ff3f2234cb0",
+    "name": "B6 Role-Based Access Control (RBAC)",
+    "commands": []
+  }, {
+    "id": "540ad8d3-01fa-488a-b3a1-c8593500e957",
+    "name": "C3 Search Functionality and Results Display",
+    "commands": []
+  }, {
+    "id": "a910c3d5-8a87-4203-a7bd-ea2b555bab2f",
+    "name": "C5 File Upload and Retrieval Test ",
+    "commands": []
+  }, {
+    "id": "088ed3d8-fde4-4efd-a081-d3b91e987cf0",
+    "name": "C9 Data Export and Reporting Test",
+    "commands": []
+  }, {
+    "id": "8941bd45-b1f2-4681-849d-4cda17070e64",
+    "name": "C10 Multi-Step Form Submission",
+    "commands": []
+  }, {
+    "id": "06db1e65-3985-4a18-958f-2708b83d5347",
+    "name": "FindingCommands",
+    "commands": [{
+      "id": "b8d42f8c-5dec-4028-8210-12e07e9fb24b",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0e41d7cc-f7f3-433d-ae66-be6f340bb381",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1744x655",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "35c486d8-eea7-463e-981a-3495e77275f5",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Basis",
+      "targets": [
+        ["linkText=Basis", "linkText"],
+        ["css=.slo-highlight-box:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Basis')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'curriculum-basis/')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Basis')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3c00704d-cf3a-4794-86a3-ad8928170f8c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Doelniveau",
+      "targets": [
+        ["linkText=Doelniveau", "linkText"],
+        ["css=.slo-highlight-box:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Doelniveau')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'doelniveau/')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Doelniveau')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5c37237c-f1f6-4fa7-b6d6-b6654666a211",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(4) > .slo-relatie > span > span:nth-child(2)",
+      "targets": [
+        ["css=li:nth-child(4) > .slo-relatie > span > span:nth-child(2)", "css:finder"],
+        ["xpath=//li[4]/a/span[2]/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e06a3a02-dadc-4dce-b582-466790ff4960",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ds-button-naked:nth-child(2) > .ds-icon",
+      "targets": [
+        ["css=.ds-button-naked:nth-child(2) > .ds-icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "e0c4c4d3-1de8-49d5-8446-253e60b3ab5a",
+      "comment": "",
+      "command": "click",
+      "target": "css=#\\/uuid\\/b500c4b5-353a-43bc-8ec6-23b0c7d91156 > .slo-prefix:nth-child(2)",
+      "targets": [
+        ["css=#\\/uuid\\/b500c4b5-353a-43bc-8ec6-23b0c7d91156 > .slo-prefix:nth-child(2)", "css:finder"],
+        ["xpath=//li[@id='/uuid/b500c4b5-353a-43bc-8ec6-23b0c7d91156']/span[2]", "xpath:idRelative"],
+        ["xpath=//li[6]/span[2]", "xpath:position"],
+        ["xpath=//span[contains(.,'Je berekent de periodieke interestbedragen, de periodieke aflossingsbedragen en de schuldrest bij de vormen van consumptief krediet en hypothecair krediet')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "68423c87-4112-4563-9a2f-04a0de198517",
+      "comment": "",
+      "command": "click",
+      "target": "css=.slo-form-header .ds-icon",
+      "targets": [
+        ["css=.slo-form-header .ds-icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "0cf1d97e-6413-4e1a-ac40-16164da8faa3",
+      "comment": "",
+      "command": "click",
+      "target": "css=#\\/uuid\\/b500c4b5-353a-43bc-8ec6-23b0c7d91156 .ds-icon",
+      "targets": [
+        ["css=#\\/uuid\\/b500c4b5-353a-43bc-8ec6-23b0c7d91156 .ds-icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "89d48130-26a8-4666-8679-868e93c4e41c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.slo-form-footer .ds-icon",
+      "targets": [
+        ["css=.slo-form-footer .ds-icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "d07adfe3-d2a0-4284-8048-90ab6616271e",
+      "comment": "",
+      "command": "click",
+      "target": "css=#\\/uuid\\/b500c4b5-353a-43bc-8ec6-23b0c7d91156 .ds-icon",
+      "targets": [
+        ["css=#\\/uuid\\/b500c4b5-353a-43bc-8ec6-23b0c7d91156 .ds-icon", "css:finder"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "f57023dc-2089-49be-ac6d-178ff1429e60",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://localhost:4500/"],
+  "plugins": []
+}
