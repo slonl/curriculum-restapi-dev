@@ -1,6 +1,19 @@
 
 # Tests
 
+## Aquiring test data:
+### getTestData.js
+* run using node
+* retrieves data from https://localhost:4500 and puts it in data/testData
+
+### getReferenceData.js
+* run using node
+* retrieves data from https://opendata.slo.nl/curriculum/2024/api/v1/ and puts it in data/referenceData
+
+
+-------
+#### WIP doc:
+--------
 ## curriculum-rest-api
 * routes
 * commands
