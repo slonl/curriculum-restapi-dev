@@ -1,0 +1,1998 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+	"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "Kerndoel",
+	"KerndoelDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"uuid": "62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"title": "Getallen en bewerkingen",
+			"deprecated": null,
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"uuid": "96552012-d8f9-44e8-bce2-609d5ac42849",
+					"title": "Rekenen en wiskunde",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"uuid": "b6224471-366b-47c1-a35a-e41203ca356d",
+					"title": "Rekenen en wiskunde",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/467b116e-438e-40ca-b310-9657575fed92",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/467b116e-438e-40ca-b310-9657575fed92",
+			"uuid": "467b116e-438e-40ca-b310-9657575fed92",
+			"title": "Getallen en bewerkingen",
+			"deprecated": true,
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/545b1f8a-77e7-480c-bd0f-623ece62faee",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/545b1f8a-77e7-480c-bd0f-623ece62faee",
+					"uuid": "545b1f8a-77e7-480c-bd0f-623ece62faee",
+					"title": "Rekenen en wiskunde",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d6fc37ce-5b95-4c1c-83cd-bf13c8efd0eb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d6fc37ce-5b95-4c1c-83cd-bf13c8efd0eb",
+			"uuid": "d6fc37ce-5b95-4c1c-83cd-bf13c8efd0eb",
+			"prefix": "rw/gb/1/02/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/38535103-c271-4df2-95ee-15bbbc1edd17",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38535103-c271-4df2-95ee-15bbbc1edd17",
+					"uuid": "38535103-c271-4df2-95ee-15bbbc1edd17",
+					"title": "vergelijken en ordenen van getallen in de telrij tot ten minste 1000 en bepalen of getallen dicht bij elkaar of verder uit elkaar liggen; getallen globaal en precies plaatsen op een getallenlijn",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.002",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/efb0ff40-b15e-43f4-bda2-8eead39e8577",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/efb0ff40-b15e-43f4-bda2-8eead39e8577",
+			"uuid": "efb0ff40-b15e-43f4-bda2-8eead39e8577",
+			"prefix": "rw/gb/1/02/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b66596cc-a213-45c8-9ada-f22911a009e9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b66596cc-a213-45c8-9ada-f22911a009e9",
+					"uuid": "b66596cc-a213-45c8-9ada-f22911a009e9",
+					"title": "vergelijken en ordenen van hele getallen in de telrij en bepalen of getallen dicht bij elkaar of verder uit elkaar liggen; getallen globaal en precies plaatsen op een getallenlijn",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-002",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c3ea3f26-d9ad-4b97-8856-6c955bfac82f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c3ea3f26-d9ad-4b97-8856-6c955bfac82f",
+			"uuid": "c3ea3f26-d9ad-4b97-8856-6c955bfac82f",
+			"prefix": "rw/gb/2/02/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0243a5c9-05ce-41d3-8964-6c3e55e3bf47",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0243a5c9-05ce-41d3-8964-6c3e55e3bf47",
+					"uuid": "0243a5c9-05ce-41d3-8964-6c3e55e3bf47",
+					"title": "schatten van hoeveelheden tot ten minste 20",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.1.009",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9357f6e-1801-45cd-b570-42993c24a14a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9357f6e-1801-45cd-b570-42993c24a14a",
+			"uuid": "a9357f6e-1801-45cd-b570-42993c24a14a",
+			"prefix": "rw/gb/2/03/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/076554fa-0ed3-423a-b908-63fcaa089b93",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/076554fa-0ed3-423a-b908-63fcaa089b93",
+					"uuid": "076554fa-0ed3-423a-b908-63fcaa089b93",
+					"title": "vergelijken en ordenen van hoeveelheden tot ten minste 20 maar ook van grotere hoeveelheden zonder precies tellen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.1.010",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/466e5cde-a0f4-4fde-8d44-4b669dc01ff6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/466e5cde-a0f4-4fde-8d44-4b669dc01ff6",
+			"uuid": "466e5cde-a0f4-4fde-8d44-4b669dc01ff6",
+			"prefix": "rw/gb/2/01/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ee8424-0cd2-43e2-94a9-f60cb41aceb4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ee8424-0cd2-43e2-94a9-f60cb41aceb4",
+					"uuid": "35ee8424-0cd2-43e2-94a9-f60cb41aceb4",
+					"title": "hoeveelheden tot ten minste 1000 schatten en precies tellen door gebruik te maken van gegeven structuren en door zelf te structureren",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.004",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e401e90f-4f73-41ba-9a6c-06f85d9d25ec",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e401e90f-4f73-41ba-9a6c-06f85d9d25ec",
+			"uuid": "e401e90f-4f73-41ba-9a6c-06f85d9d25ec",
+			"prefix": "rw/gb/2/01/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ecf4f9f3-3ed4-4dae-beba-d802699f5018",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ecf4f9f3-3ed4-4dae-beba-d802699f5018",
+					"uuid": "ecf4f9f3-3ed4-4dae-beba-d802699f5018",
+					"title": "hoeveelheden schatten en precies tellen door gebruik te maken van gegeven structuren en door zelf te structureren (bijvoorbeeld splitsen of samenvoegen in groepen)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-004",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53686659-dacd-4c35-8eec-740b12784537",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53686659-dacd-4c35-8eec-740b12784537",
+			"uuid": "53686659-dacd-4c35-8eec-740b12784537",
+			"prefix": "rw/bew/1/08/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8e04c28f-7def-43b8-89b8-827332e66dd2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8e04c28f-7def-43b8-89b8-827332e66dd2",
+					"uuid": "8e04c28f-7def-43b8-89b8-827332e66dd2",
+					"title": "schattend optellen en aftrekken tot ten minste 1000 in contextsituaties en formele wiskundetaal en beredeneren of de werkelijke uitkomst (veel) groter of kleiner is dan de geschatte uitkomst",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.026",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"uuid": "ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"title": "De leerlingen leren wiskundetaal gebruiken.",
+					"description": "Wiskundetaal gebruiken",
+					"kerndoelLabel": "Wiskundetaal gebruiken",
+					"prefix": "PO Kerndoel 23"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"uuid": "7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+					"description": "Wiskundige problemen oplossen",
+					"kerndoelLabel": "Wiskundige problemen oplossen",
+					"prefix": "PO Kerndoel 24"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15dffebf-177d-43a8-9d78-de79ec716427",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15dffebf-177d-43a8-9d78-de79ec716427",
+			"uuid": "15dffebf-177d-43a8-9d78-de79ec716427",
+			"prefix": "rw/bew/1/07/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/05ec1848-66da-48ab-88b4-0ce79fd09303",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05ec1848-66da-48ab-88b4-0ce79fd09303",
+					"uuid": "05ec1848-66da-48ab-88b4-0ce79fd09303",
+					"title": "schattend optellen en aftrekken met hele getallen in contextsituaties en formele wiskundetaal en beredeneren of de werkelijke uitkomst (veel) groter of kleiner is dan de geschatte uitkomst en op basis daarvan eventueel nog een correctie toepassen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-035",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"uuid": "ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"title": "De leerlingen leren wiskundetaal gebruiken.",
+					"description": "Wiskundetaal gebruiken",
+					"kerndoelLabel": "Wiskundetaal gebruiken",
+					"prefix": "PO Kerndoel 23"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"uuid": "7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+					"description": "Wiskundige problemen oplossen",
+					"kerndoelLabel": "Wiskundige problemen oplossen",
+					"prefix": "PO Kerndoel 24"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/930097fe-4352-4959-95a4-3dadedc1aa02",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/930097fe-4352-4959-95a4-3dadedc1aa02",
+			"uuid": "930097fe-4352-4959-95a4-3dadedc1aa02",
+			"prefix": "rw/bew/2/04/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/02ee44a5-14c2-40b4-9daa-453f27e13e18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02ee44a5-14c2-40b4-9daa-453f27e13e18",
+					"uuid": "02ee44a5-14c2-40b4-9daa-453f27e13e18",
+					"title": "schattend optellen en aftrekken met decimale getallen in contextsituaties en formele wiskundetaal en beredeneren of de werkelijke uitkomst (veel) groter of kleiner is dan de geschatte uitkomst en op basis daarvan eventueel nog een correctie toepassen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-041",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"uuid": "ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"title": "De leerlingen leren wiskundetaal gebruiken.",
+					"description": "Wiskundetaal gebruiken",
+					"kerndoelLabel": "Wiskundetaal gebruiken",
+					"prefix": "PO Kerndoel 23"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"uuid": "7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+					"description": "Wiskundige problemen oplossen",
+					"kerndoelLabel": "Wiskundige problemen oplossen",
+					"prefix": "PO Kerndoel 24"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c442012-f706-4e02-b657-71eb2eab3c7e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c442012-f706-4e02-b657-71eb2eab3c7e",
+			"uuid": "3c442012-f706-4e02-b657-71eb2eab3c7e",
+			"prefix": "rw/bew/3/10/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e3b344e5-796d-47cd-ba61-2eb5ccf03e1e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e3b344e5-796d-47cd-ba61-2eb5ccf03e1e",
+					"uuid": "e3b344e5-796d-47cd-ba61-2eb5ccf03e1e",
+					"title": "schattend vermenigvuldigen onder ten minste 1000 in contextsituaties en formele wiskundetaal en uitleggen waarom deze schatting gemaakt mag worden",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.039",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"uuid": "ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"title": "De leerlingen leren wiskundetaal gebruiken.",
+					"description": "Wiskundetaal gebruiken",
+					"kerndoelLabel": "Wiskundetaal gebruiken",
+					"prefix": "PO Kerndoel 23"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/98b27971-47cf-4a7e-85b9-4dedd33836fa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98b27971-47cf-4a7e-85b9-4dedd33836fa",
+			"uuid": "98b27971-47cf-4a7e-85b9-4dedd33836fa",
+			"prefix": "rw/bew/3/08/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5d0161a1-559e-4e78-939e-49d061fb6918",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d0161a1-559e-4e78-939e-49d061fb6918",
+					"uuid": "5d0161a1-559e-4e78-939e-49d061fb6918",
+					"title": "schattend vermenigvuldigen en delen met hele getallen in contextsituaties en formele wiskundetaal en beredeneren of de werkelijke uitkomst (veel) groter of kleiner is dan de geschatte uitkomst en op basis daarvan eventueel nog een correctie toepassen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-051",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"uuid": "ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"title": "De leerlingen leren wiskundetaal gebruiken.",
+					"description": "Wiskundetaal gebruiken",
+					"kerndoelLabel": "Wiskundetaal gebruiken",
+					"prefix": "PO Kerndoel 23"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"uuid": "7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+					"description": "Wiskundige problemen oplossen",
+					"kerndoelLabel": "Wiskundige problemen oplossen",
+					"prefix": "PO Kerndoel 24"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/541b0414-2bb9-4945-983e-0d5dbad319c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/541b0414-2bb9-4945-983e-0d5dbad319c5",
+			"uuid": "541b0414-2bb9-4945-983e-0d5dbad319c5",
+			"prefix": "rw/bew/3/12/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3340da28-e698-4bb6-b8ae-75c25c49e0da",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3340da28-e698-4bb6-b8ae-75c25c49e0da",
+					"uuid": "3340da28-e698-4bb6-b8ae-75c25c49e0da",
+					"title": "schattend vermenigvuldigen met eenvoudige decimale getallen in contextsituaties (geldbedragen) onder ten minste 1000",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.042",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d77369be-3ea6-4ef2-b0ed-5fd41f52b729",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d77369be-3ea6-4ef2-b0ed-5fd41f52b729",
+			"uuid": "d77369be-3ea6-4ef2-b0ed-5fd41f52b729",
+			"prefix": "rw/bew/3/19/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/73c27192-e2f1-40da-8393-97c97492c729",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73c27192-e2f1-40da-8393-97c97492c729",
+					"uuid": "73c27192-e2f1-40da-8393-97c97492c729",
+					"title": "schattend vermenigvuldigen en delen met decimale getallen in contextsituaties en formele wiskundetaal en beredeneren of de precieze uitkomst groter of kleiner is dan de geschatte uitkomst en op basis daarvan eventueel nog een correctie toepassen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-061",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"uuid": "ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+					"title": "De leerlingen leren wiskundetaal gebruiken.",
+					"description": "Wiskundetaal gebruiken",
+					"kerndoelLabel": "Wiskundetaal gebruiken",
+					"prefix": "PO Kerndoel 23"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"uuid": "7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+					"description": "Wiskundige problemen oplossen",
+					"kerndoelLabel": "Wiskundige problemen oplossen",
+					"prefix": "PO Kerndoel 24"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4da88935-0051-446c-ac78-830f6e30fb2d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4da88935-0051-446c-ac78-830f6e30fb2d",
+			"uuid": "4da88935-0051-446c-ac78-830f6e30fb2d",
+			"prefix": "rw/bew/7/06/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4a1862af-7339-492e-a3a0-2dd0e7150b0d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4a1862af-7339-492e-a3a0-2dd0e7150b0d",
+					"uuid": "4a1862af-7339-492e-a3a0-2dd0e7150b0d",
+					"title": "uitkomsten op de rekenmachine schattend controleren en kritisch beoordelen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-078",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"uuid": "b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"title": "De leerlingen leren aanpakken bij het oplossen van reken wiskundeproblemen te onderbouwen en leren oplossingen te beoordelen.",
+					"description": "Strategieen beoordelen",
+					"kerndoelLabel": "Strategieen beoordelen",
+					"prefix": "PO Kerndoel 25"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"uuid": "a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"title": "De leerlingen leren de rekenmachine met inzicht te gebruiken.",
+					"description": "Rekenmachine",
+					"kerndoelLabel": "Rekenmachine",
+					"prefix": "PO Kerndoel 31"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d65a6108-996d-4ca7-a450-01fdf2963023",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d65a6108-996d-4ca7-a450-01fdf2963023",
+			"uuid": "d65a6108-996d-4ca7-a450-01fdf2963023",
+			"prefix": "rw/verh/2/04/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/21ea4c4e-8122-4937-a9c9-6d8dae9ad4ed",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21ea4c4e-8122-4937-a9c9-6d8dae9ad4ed",
+					"uuid": "21ea4c4e-8122-4937-a9c9-6d8dae9ad4ed",
+					"title": "kritisch denken en redeneren over kwalitatieve en kwantitatieve verhoudingen in probleemsituaties, zowel globaal als precies (verhoudingstabel)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.051",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"uuid": "7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+					"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+					"description": "Wiskundige problemen oplossen",
+					"kerndoelLabel": "Wiskundige problemen oplossen",
+					"prefix": "PO Kerndoel 24"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aaddc4b9-f25a-4372-92a9-d102791300cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aaddc4b9-f25a-4372-92a9-d102791300cc",
+			"uuid": "aaddc4b9-f25a-4372-92a9-d102791300cc",
+			"prefix": "rw/m/1/05/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f92dce37-83ee-4149-bbfe-7d03a261599b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f92dce37-83ee-4149-bbfe-7d03a261599b",
+					"uuid": "f92dce37-83ee-4149-bbfe-7d03a261599b",
+					"title": "omtrek van een 1) vierkant en 2) rechthoek afgebeeld op roosterpapier uitrekenen, waarbij de lengtes van de zijden gegeven zijn en van 3) grillige figuren globaal bepalen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.056",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/31717fc2-3fec-4994-8667-58f5f1868719",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/31717fc2-3fec-4994-8667-58f5f1868719",
+			"uuid": "31717fc2-3fec-4994-8667-58f5f1868719",
+			"prefix": "rw/m/1/06/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/de434c7c-66b4-47b2-8171-a26eaa0dca09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de434c7c-66b4-47b2-8171-a26eaa0dca09",
+					"uuid": "de434c7c-66b4-47b2-8171-a26eaa0dca09",
+					"title": "voorwerpen vergelijken en ordenen naar lengte door te schatten of op basis van gegeven aanduidingen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-110",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1cda10de-6a6f-4f0f-9ada-11dc17c1c058",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1cda10de-6a6f-4f0f-9ada-11dc17c1c058",
+			"uuid": "1cda10de-6a6f-4f0f-9ada-11dc17c1c058",
+			"prefix": "rw/m/2/04/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7b4670ec-db79-4fcc-8412-5e2268e1635a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b4670ec-db79-4fcc-8412-5e2268e1635a",
+					"uuid": "7b4670ec-db79-4fcc-8412-5e2268e1635a",
+					"title": "bepalen/berekenen van de oppervlakte van een vierkant of rechthoek op roosterpapier en globaal bepalen van een grillig figuur, uitgedrukt in de natuurlijke maat van de hokjes op het roosterpapier",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.061",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1721206e-cd3c-4e34-ac7e-cd0cebfbbbcd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1721206e-cd3c-4e34-ac7e-cd0cebfbbbcd",
+			"uuid": "1721206e-cd3c-4e34-ac7e-cd0cebfbbbcd",
+			"prefix": "rw/m/2/08/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/29d1cf77-54c1-4f1b-b9ee-08708ea0562c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29d1cf77-54c1-4f1b-b9ee-08708ea0562c",
+					"uuid": "29d1cf77-54c1-4f1b-b9ee-08708ea0562c",
+					"title": "de oppervlakte van grillige figuren benaderen door gebruik te maken van een (onderliggend) rooster",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-124",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2851b1d6-b3b5-4cbe-bc68-e95640898948",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2851b1d6-b3b5-4cbe-bc68-e95640898948",
+			"uuid": "2851b1d6-b3b5-4cbe-bc68-e95640898948",
+			"prefix": "rw/m/3/04/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9f25f16-c14d-437c-b5a1-36f00510f756",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9f25f16-c14d-437c-b5a1-36f00510f756",
+					"uuid": "f9f25f16-c14d-437c-b5a1-36f00510f756",
+					"title": "vergelijken en ordenen op inhoud zoals 'op het oog', afpassen, naast elkaar houden, overgieten (zand), vullen (blokken) en uitgieten",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.1.052",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/44cafaa5-2603-4e00-a3a2-7d94c2211075",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44cafaa5-2603-4e00-a3a2-7d94c2211075",
+			"uuid": "44cafaa5-2603-4e00-a3a2-7d94c2211075",
+			"prefix": "rw/m/3/07/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/94791386-56ba-4afc-b240-cb63ee5c3ae8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94791386-56ba-4afc-b240-cb63ee5c3ae8",
+					"uuid": "94791386-56ba-4afc-b240-cb63ee5c3ae8",
+					"title": "referentiematen zoeken en leren bij de inhoudsmaten liter en voorwerpen aanwijzen of noemen die een inhoud van ongeveer een liter of een milliliter hebben",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.2.071",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5a8d38cb-51a0-4c94-81a0-a57f9021de23",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5a8d38cb-51a0-4c94-81a0-a57f9021de23",
+			"uuid": "5a8d38cb-51a0-4c94-81a0-a57f9021de23",
+			"prefix": "rw/m/3/03/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5cbdfee4-9cd8-4457-b50f-e4293566d664",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5cbdfee4-9cd8-4457-b50f-e4293566d664",
+					"uuid": "5cbdfee4-9cd8-4457-b50f-e4293566d664",
+					"title": "inhouden vergelijken en ordenen door te schatten of op basis van gegeven aanduidingen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-129",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b28f5a57-de31-49c3-ac32-74e2a4ff3ff3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b28f5a57-de31-49c3-ac32-74e2a4ff3ff3",
+			"uuid": "b28f5a57-de31-49c3-ac32-74e2a4ff3ff3",
+			"prefix": "rw/m/4/04/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/825968a6-4ba1-40b7-8ae9-41b434945619",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/825968a6-4ba1-40b7-8ae9-41b434945619",
+					"uuid": "825968a6-4ba1-40b7-8ae9-41b434945619",
+					"title": "vergelijken en ordenen op gewicht zoals 'op het oog', met handen en met een balans wegen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.1.058",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df772344-6a5d-4d44-a36e-165121be0005",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df772344-6a5d-4d44-a36e-165121be0005",
+			"uuid": "df772344-6a5d-4d44-a36e-165121be0005",
+			"prefix": "rw/m/7/02/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ec7a2e3d-71d6-48cd-968f-d35b09b6f092",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ec7a2e3d-71d6-48cd-968f-d35b09b6f092",
+					"uuid": "ec7a2e3d-71d6-48cd-968f-d35b09b6f092",
+					"title": "onderzoeken en vergelijken van en (schattend)rekenen met verschillende valuta in de wereld",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "RW.3-158",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+					"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+					"description": "Eenheden en maten",
+					"kerndoelLabel": "Eenheden en maten",
+					"prefix": "PO Kerndoel 33"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9567c386-abd2-44b6-90be-60781de029c0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9567c386-abd2-44b6-90be-60781de029c0",
+			"uuid": "9567c386-abd2-44b6-90be-60781de029c0",
+			"prefix": "",
+			"ce_se": "",
+			"Doel": [],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/264d120f-0a2d-426a-bd2c-927359993bba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/264d120f-0a2d-426a-bd2c-927359993bba",
+			"uuid": "264d120f-0a2d-426a-bd2c-927359993bba",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50170c1c-c503-45b6-bbe0-ef9a274232f8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50170c1c-c503-45b6-bbe0-ef9a274232f8",
+					"uuid": "50170c1c-c503-45b6-bbe0-ef9a274232f8",
+					"title": "Bij een deling in eenvoudige contexten de 'rest' kunnen interpreteren of verwerken",
+					"description": "Bij een deling in eenvoudige contexten de 'rest' kunnen interpreteren of verwerken. Voorbeeld: 35 kinderen gaan met auto's naar het watermuseum. In elke auto mogen vier kinderen. Hoeveel auto's zijn er in totaal nodig? Zitten alle auto's vol?",
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+					"uuid": "1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+					"title": "De leerlingen leren handig optellen, aftrekken, vermenigvuldigen en delen.",
+					"description": "Handig rekenen",
+					"kerndoelLabel": "Handig rekenen",
+					"prefix": "PO Kerndoel 29"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+					"uuid": "93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+					"title": "De leerlingen leren schriftelijk optellen, aftrekken, vermenigvuldigen en delen volgens meer of minder verkorte standaardprocedures.",
+					"description": "Standaardprocedures",
+					"kerndoelLabel": "Standaardprocedures",
+					"prefix": "PO Kerndoel 30"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/902946eb-15bd-4113-9a7d-b5f4dca9e637",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/902946eb-15bd-4113-9a7d-b5f4dca9e637",
+			"uuid": "902946eb-15bd-4113-9a7d-b5f4dca9e637",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa719d97-4c26-4899-92b4-22316ca3116c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa719d97-4c26-4899-92b4-22316ca3116c",
+					"uuid": "fa719d97-4c26-4899-92b4-22316ca3116c",
+					"title": "Delingen kunnen uitrekenen waarbij ofwel een rest wordt overgehouden of waarbij wordt doorgedeeld en de uitkomst een decimaal getal is (dat eventueel wordt afgerond)",
+					"description": "Delingen kunnen uitrekenen waarbij ofwel een rest wordt overgehouden of waarbij wordt doorgedeeld en de uitkomst een decimaal getal is (dat eventueel wordt afgerond). Bij een deling in contexten de 'rest' kunnen interpreteren of verwerken. Voorbeeld: Er gaan 5940 Ajaxsupporters met bussen naar de wedstrijd tegen PSV in Eindhoven. In elke bus mogen niet meer dan 48 supporters. Hoeveel bussen moeten er besteld worden?",
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+					"uuid": "1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+					"title": "De leerlingen leren handig optellen, aftrekken, vermenigvuldigen en delen.",
+					"description": "Handig rekenen",
+					"kerndoelLabel": "Handig rekenen",
+					"prefix": "PO Kerndoel 29"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+					"uuid": "93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+					"title": "De leerlingen leren schriftelijk optellen, aftrekken, vermenigvuldigen en delen volgens meer of minder verkorte standaardprocedures.",
+					"description": "Standaardprocedures",
+					"kerndoelLabel": "Standaardprocedures",
+					"prefix": "PO Kerndoel 30"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d58d37f-b615-4c30-9230-890dc73b659b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d58d37f-b615-4c30-9230-890dc73b659b",
+			"uuid": "0d58d37f-b615-4c30-9230-890dc73b659b",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9bc5dd86-30ce-44c0-99e7-842d2dd67de3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9bc5dd86-30ce-44c0-99e7-842d2dd67de3",
+					"uuid": "9bc5dd86-30ce-44c0-99e7-842d2dd67de3",
+					"title": "Kritisch kunnen controleren van uitgevoerde bewerkingen op de rekenmachine door (na)rekenen, schatten of relateren aan context",
+					"description": "Kritisch kunnen controleren van uitgevoerde bewerkingen op de rekenmachine door ofwel precies (na)rekenen, ofwel door te schatten of door het antwoord in relatie te brengen met de context. Hieronder valt ook bij het gebruik van de rekenmachine attent zijn op leesfouten en typefouten. De uitkomst op de rekenmachine in verband kunnen brengen met de ingetypte bewerking: kan de uitkomst kloppen (globaal schatten) of nogmaals uitvoeren ter controle.",
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"uuid": "b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"title": "De leerlingen leren aanpakken bij het oplossen van reken wiskundeproblemen te onderbouwen en leren oplossingen te beoordelen.",
+					"description": "Strategieen beoordelen",
+					"kerndoelLabel": "Strategieen beoordelen",
+					"prefix": "PO Kerndoel 25"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+					"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+					"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+					"description": "Structuren doorzien",
+					"kerndoelLabel": "Structuren doorzien",
+					"prefix": "PO Kerndoel 26"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"uuid": "a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"title": "De leerlingen leren de rekenmachine met inzicht te gebruiken.",
+					"description": "Rekenmachine",
+					"kerndoelLabel": "Rekenmachine",
+					"prefix": "PO Kerndoel 31"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1477540e-c235-45a8-8f8f-ce53ecd48f6f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1477540e-c235-45a8-8f8f-ce53ecd48f6f",
+			"uuid": "1477540e-c235-45a8-8f8f-ce53ecd48f6f",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/428b209f-afee-481f-becd-baf935c2e0ae",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/428b209f-afee-481f-becd-baf935c2e0ae",
+					"uuid": "428b209f-afee-481f-becd-baf935c2e0ae",
+					"title": "Een geheel getal, een breuk of gemengd getal kunnen delen door een breuk of door een gemengd getal, met name in contextsituaties",
+					"description": "Een geheel getal, een breuk of gemengd getal kunnen delen door een breuk of door een gemengd getal, met name in contextsituaties. Bijvoorbeeld: 10 : 2 1/2; hoeveel glazen van 1/8 liter kun je vullen uit een fles van 1 liter.",
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"uuid": "b24b831e-ba83-4118-91d3-00ec1bc13650",
+					"title": "De leerlingen leren aanpakken bij het oplossen van reken wiskundeproblemen te onderbouwen en leren oplossingen te beoordelen.",
+					"description": "Strategieen beoordelen",
+					"kerndoelLabel": "Strategieen beoordelen",
+					"prefix": "PO Kerndoel 25"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"uuid": "a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+					"title": "De leerlingen leren de rekenmachine met inzicht te gebruiken.",
+					"description": "Rekenmachine",
+					"kerndoelLabel": "Rekenmachine",
+					"prefix": "PO Kerndoel 31"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4391016f-85a7-4dcb-87a3-b66594f0b4ff",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4391016f-85a7-4dcb-87a3-b66594f0b4ff",
+			"uuid": "4391016f-85a7-4dcb-87a3-b66594f0b4ff",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e913bcd3-c9c7-48bf-90ef-15ea822a584d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e913bcd3-c9c7-48bf-90ef-15ea822a584d",
+					"uuid": "e913bcd3-c9c7-48bf-90ef-15ea822a584d",
+					"title": "Globaal bepalen van de uitkomst door schattend te rekenen en te redeneren",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3be62fb6-3054-4172-b2bc-853a85ccfefe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3be62fb6-3054-4172-b2bc-853a85ccfefe",
+			"uuid": "3be62fb6-3054-4172-b2bc-853a85ccfefe",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7b3dbc8d-68df-4d63-b8a4-27472f5d367d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b3dbc8d-68df-4d63-b8a4-27472f5d367d",
+					"uuid": "7b3dbc8d-68df-4d63-b8a4-27472f5d367d",
+					"title": "Globaal schatten van de uitkomst in een situatie waarin niet alle getallen bekend zijn of waarbij er meer mogelijkheden zijn",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3d3a6bf-0858-4a2a-bc25-4ce0d8c5ec9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3d3a6bf-0858-4a2a-bc25-4ce0d8c5ec9e",
+			"uuid": "f3d3a6bf-0858-4a2a-bc25-4ce0d8c5ec9e",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0522a551-deac-469a-8dcd-716d80e87d78",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0522a551-deac-469a-8dcd-716d80e87d78",
+					"uuid": "0522a551-deac-469a-8dcd-716d80e87d78",
+					"title": "Globaal of schattend kunnen rekenen door de gegeven eenvoudige getallen eerst af te ronden en er daarna berekeningen mee uit te voeren",
+					"description": "Globaal of schattend kunnen rekenen door de gegeven eenvoudige getallen eerst af te ronden en er daarna berekeningen mee uit te voeren. Dit als de context zich daartoe leent of als controle voor het rekenen met de rekenmachine.",
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26be3d70-81a0-482b-b1c2-44908c0bd22c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26be3d70-81a0-482b-b1c2-44908c0bd22c",
+			"uuid": "26be3d70-81a0-482b-b1c2-44908c0bd22c",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b138ba54-9be4-445a-9186-428921acf3c7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b138ba54-9be4-445a-9186-428921acf3c7",
+					"uuid": "b138ba54-9be4-445a-9186-428921acf3c7",
+					"title": "Globaal of schattend kunnen rekenen door gegeven hele getallen en kommagetallen af te ronden en er berekeningen mee te maken, ook in complexere contexten",
+					"description": "Globaal of schattend kunnen rekenen door gegeven hele getallen en kommagetallen af te ronden en er vervolgens berekeningen mee te maken, ook in complexere contexten. En globaal kunnen rekenen en redeneren als controle voor rekenen met de rekenmachine.",
+					"vakbegrippen": null,
+					"bron": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9cd19ad-f842-4f32-9cd0-cc7044aac88f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9cd19ad-f842-4f32-9cd0-cc7044aac88f",
+			"uuid": "f9cd19ad-f842-4f32-9cd0-cc7044aac88f",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/34bf4543-e391-4312-bd28-e49d31e66593",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34bf4543-e391-4312-bd28-e49d31e66593",
+			"uuid": "34bf4543-e391-4312-bd28-e49d31e66593",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d14196ad-3add-4e53-bf13-61f01887f643",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d14196ad-3add-4e53-bf13-61f01887f643",
+			"uuid": "d14196ad-3add-4e53-bf13-61f01887f643",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+					"title": "De leerlingen leren schattend tellen en rekenen.",
+					"description": "Schattend rekenen",
+					"kerndoelLabel": "Schattend rekenen",
+					"prefix": "PO Kerndoel 28"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+			"uuid": "512e4729-03a4-43a2-95ba-758071d1b725",
+			"title": "po",
+			"prefix": "1000",
+			"description": "primair onderwijs",
+			"type": "Sector",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/512e4729-03a4-43a2-95ba-758071d1b725"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"uuid": "d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001",
+			"description": "Referentiekader taal en rekenen,  fundamenteel niveau 1",
+			"type": "Referentieniveau",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+			"uuid": "86d05d5a-8dfa-422b-820c-50019985426d",
+			"title": "1S",
+			"prefix": "1002",
+			"description": "Referentiekader taal en rekenen,  streefniveau 1",
+			"type": "Referentieniveau",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/86d05d5a-8dfa-422b-820c-50019985426d"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"uuid": "0a3d23df-1758-439b-b219-cd2854cc639b",
+			"title": "fase 1",
+			"prefix": "1200",
+			"description": "fase 1: onderbouw primair onderwijs groep 1, groep 2, groep 3",
+			"type": "Fase",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0a3d23df-1758-439b-b219-cd2854cc639b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"uuid": "5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"title": "fase 2",
+			"prefix": "1202",
+			"description": "fase 2: middenbouw primair onderwijs: groep 4, groep 5, groep 6",
+			"type": "Fase",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"uuid": "fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"title": "fase 3",
+			"prefix": "1204",
+			"description": "fase 3: bovenbouw primair onderwijs: groep 7, groep 8",
+			"type": "Fase",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "De leerlingen leren schattend tellen en rekenen.",
+	"description": "Schattend rekenen",
+	"kerndoelLabel": "Schattend rekenen",
+	"prefix": "PO Kerndoel 28"
+}

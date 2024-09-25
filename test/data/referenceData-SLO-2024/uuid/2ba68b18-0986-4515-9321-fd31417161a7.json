@@ -1,0 +1,64 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/2ba68b18-0986-4515-9321-fd31417161a7",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ba68b18-0986-4515-9321-fd31417161a7",
+	"uuid": "2ba68b18-0986-4515-9321-fd31417161a7",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKern",
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d2508ab9-cb99-480a-a9fd-5973ca28efff",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d2508ab9-cb99-480a-a9fd-5973ca28efff",
+			"uuid": "d2508ab9-cb99-480a-a9fd-5973ca28efff",
+			"prefix": "EO",
+			"title": "Economie en ondernemen",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8f429657-0d80-4581-947d-5279b63488ab",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f429657-0d80-4581-947d-5279b63488ab",
+			"uuid": "8f429657-0d80-4581-947d-5279b63488ab",
+			"prefix": "EO",
+			"title": "Economie en Ondernemen",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgKerndeel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3c61b72-f262-485c-8dab-e50dc81ad2ca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3c61b72-f262-485c-8dab-e50dc81ad2ca",
+			"uuid": "d3c61b72-f262-485c-8dab-e50dc81ad2ca",
+			"prefix": "PK/EO/b",
+			"title": "Professionele kennis en vaardigheden",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b1fa0db1-0df5-4f7d-b740-a79b61d250b2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1fa0db1-0df5-4f7d-b740-a79b61d250b2",
+			"uuid": "b1fa0db1-0df5-4f7d-b740-a79b61d250b2",
+			"prefix": "PK/EO/a",
+			"title": "Competenties",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8fc0905-85f9-4fbf-a62a-8e76241c2beb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8fc0905-85f9-4fbf-a62a-8e76241c2beb",
+			"uuid": "f8fc0905-85f9-4fbf-a62a-8e76241c2beb",
+			"prefix": "PK/EO/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9bd256b6-fec3-4773-9e83-0af59d63c31e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9bd256b6-fec3-4773-9e83-0af59d63c31e",
+			"uuid": "9bd256b6-fec3-4773-9e83-0af59d63c31e",
+			"title": "Kern Economie en ondernemen"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "PK/EO",
+	"title": "Kern Economie en ondernemen"
+}

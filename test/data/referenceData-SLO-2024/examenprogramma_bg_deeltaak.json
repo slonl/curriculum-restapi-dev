@@ -1,0 +1,806 @@
+{
+	"count": 743,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d9d049de-9853-4c6f-b4a3-0df1f19e6e82",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d9d049de-9853-4c6f-b4a3-0df1f19e6e82",
+			"uuid": "d9d049de-9853-4c6f-b4a3-0df1f19e6e82",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/01/01",
+			"title": "Aan de hand van een werktekening constructieve aansluitingen met verschillende materialen maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b1f7000c-9bcb-4f97-8311-a5f5f959d7b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1f7000c-9bcb-4f97-8311-a5f5f959d7b5",
+			"uuid": "b1f7000c-9bcb-4f97-8311-a5f5f959d7b5",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/01/02",
+			"title": "Aansluitingen tussen verschillende materialen afwerken met gebruikmaking van alle gangbare elektrische handgereedschappen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/37e2afc4-783f-433c-8f62-272bd13a5a80",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/37e2afc4-783f-433c-8f62-272bd13a5a80",
+			"uuid": "37e2afc4-783f-433c-8f62-272bd13a5a80",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/02/01",
+			"title": "Aan de hand van een werktekening constructies maken in halfsteens muren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/48dc7544-2921-490e-bd5b-f786d8451e65",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48dc7544-2921-490e-bd5b-f786d8451e65",
+			"uuid": "48dc7544-2921-490e-bd5b-f786d8451e65",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/02/02",
+			"title": "Aan de hand van een maten- en stelplan metselwerk uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/843cd9ed-ec98-49da-86f0-2c248f360a03",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/843cd9ed-ec98-49da-86f0-2c248f360a03",
+			"uuid": "843cd9ed-ec98-49da-86f0-2c248f360a03",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/03/01",
+			"title": "Een houtachtige ondergrond controleren op gebreken en een behandelplan opstellen aan de hand van het basisverf- en glasbestek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d7f6b765-bc48-46fb-b9d0-458021f8b313",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d7f6b765-bc48-46fb-b9d0-458021f8b313",
+			"uuid": "d7f6b765-bc48-46fb-b9d0-458021f8b313",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/03/02",
+			"title": "Een steenachtige ondergrond controleren op gebreken en een behandelplan opstellen aan de hand van het basisverf- en glasbestek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d96c67cf-45cf-4695-9b1f-a98fa1af2dd2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d96c67cf-45cf-4695-9b1f-a98fa1af2dd2",
+			"uuid": "d96c67cf-45cf-4695-9b1f-a98fa1af2dd2",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/04/01",
+			"title": "Eenvoudige kasten en opbergsystemen ontwerpen en maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ff2d8e71-16ca-49e0-8333-b1fbc20479c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff2d8e71-16ca-49e0-8333-b1fbc20479c4",
+			"uuid": "ff2d8e71-16ca-49e0-8333-b1fbc20479c4",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/04/02",
+			"title": "Volgens werktekeningen betimmeringen en stands ontwerpen en aanbrengen in een ruimte"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/af9bdfa7-3e60-44fe-ade8-9b98d291f737",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/af9bdfa7-3e60-44fe-ade8-9b98d291f737",
+			"uuid": "af9bdfa7-3e60-44fe-ade8-9b98d291f737",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/05/01",
+			"title": "Onderhouds- en renovatiewerkzaamheden voor een bouwwerk voorbereiden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3bd53b22-2da1-4b8a-ae98-16bb7472ae15",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3bd53b22-2da1-4b8a-ae98-16bb7472ae15",
+			"uuid": "3bd53b22-2da1-4b8a-ae98-16bb7472ae15",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/05/02",
+			"title": "Onderhouds- en renovatiewerkzaamheden aan een bouwwerk uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc51cd94-7bb9-40b8-8337-1fa22db27110",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc51cd94-7bb9-40b8-8337-1fa22db27110",
+			"uuid": "bc51cd94-7bb9-40b8-8337-1fa22db27110",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/06/01",
+			"title": "Werkzaamheden voor het maken van kozijnen en ramen en het afhangen van ramen en deuren voorbereiden volgens de Kwaliteit van Timmerwerk (KVT) en eisen in het Bouwbesluit"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50919b25-5d9f-438a-a80a-dd555489d459",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50919b25-5d9f-438a-a80a-dd555489d459",
+			"uuid": "50919b25-5d9f-438a-a80a-dd555489d459",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/06/02",
+			"title": "Aan de hand van een werktekening houten kozijnen en ramen maken volgens de KVT"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1ca1f434-bdb3-4505-aaa8-ee5ec1d5fc71",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ca1f434-bdb3-4505-aaa8-ee5ec1d5fc71",
+			"uuid": "1ca1f434-bdb3-4505-aaa8-ee5ec1d5fc71",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/06/03",
+			"title": "Ramen en deuren afhangen en sluitbaar maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/93e82fef-76e3-4962-bf41-2d9300940189",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93e82fef-76e3-4962-bf41-2d9300940189",
+			"uuid": "93e82fef-76e3-4962-bf41-2d9300940189",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/07/01",
+			"title": "Werkzaamheden voor het aanbrengen van daken en kapconstructies voorbereiden volgens het Bouwbesluit"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d2f31eaf-cb55-4887-b077-caab3d86a133",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d2f31eaf-cb55-4887-b077-caab3d86a133",
+			"uuid": "d2f31eaf-cb55-4887-b077-caab3d86a133",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/07/02",
+			"title": "Constructies voor platte daken en de randafwerking maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/052acf5d-7bc8-4d2c-9268-0b710b831c8d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/052acf5d-7bc8-4d2c-9268-0b710b831c8d",
+			"uuid": "052acf5d-7bc8-4d2c-9268-0b710b831c8d",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/07/03",
+			"title": "Constructies voor hellende daken met afwerking maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/18d0e990-f89f-4b06-bfdd-b335373b5b60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/18d0e990-f89f-4b06-bfdd-b335373b5b60",
+			"uuid": "18d0e990-f89f-4b06-bfdd-b335373b5b60",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/08/01",
+			"title": "Ondergronden van betonnen vloeren beoordelen en de behandeling van deze vloeren voorbereiden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/74b205d2-0ef6-49d2-9ed8-d163eeaf6d47",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/74b205d2-0ef6-49d2-9ed8-d163eeaf6d47",
+			"uuid": "74b205d2-0ef6-49d2-9ed8-d163eeaf6d47",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/08/02",
+			"title": "Ondergronden repareren en voorbehandelen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ee5bbf68-dd9e-4e4f-baaf-65333c0a9a10",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ee5bbf68-dd9e-4e4f-baaf-65333c0a9a10",
+			"uuid": "ee5bbf68-dd9e-4e4f-baaf-65333c0a9a10",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/08/03",
+			"title": "Vloerafwerking aanbrengen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b2c0d99f-b599-4670-8d73-5202051c9df9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2c0d99f-b599-4670-8d73-5202051c9df9",
+			"uuid": "b2c0d99f-b599-4670-8d73-5202051c9df9",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/09/01",
+			"title": "Principes, kenmerken en eigenschappen van bouwmethoden in Nederland beschrijven, uitbeelden en in een historische ontwikkeling plaatsen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1537d281-4ad9-4777-a14c-6ab687043bee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1537d281-4ad9-4777-a14c-6ab687043bee",
+			"uuid": "1537d281-4ad9-4777-a14c-6ab687043bee",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/09/02",
+			"title": "Kenmerken van bouwstijlen en bouwkunst vanuit de oudheid tot heden herkennen benoemen en verwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4ccff3b4-3195-4f8d-8750-994548d5fb6b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ccff3b4-3195-4f8d-8750-994548d5fb6b",
+			"uuid": "4ccff3b4-3195-4f8d-8750-994548d5fb6b",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/10/01",
+			"title": "Het aan te brengen metsel- en lijmwerk tekenen en de kosten voor de uitvoering berekenen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5b97af3b-d1b6-48f1-8291-2b50beee4147",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b97af3b-d1b6-48f1-8291-2b50beee4147",
+			"uuid": "5b97af3b-d1b6-48f1-8291-2b50beee4147",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/10/02",
+			"title": "Bijzondere metsel- en lijmwerken voorbereiden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/860620e2-271f-4429-b2e7-a22a923da7e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/860620e2-271f-4429-b2e7-a22a923da7e0",
+			"uuid": "860620e2-271f-4429-b2e7-a22a923da7e0",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/10/03",
+			"title": "Bijzondere metsel- en lijmwerken uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10e61e5d-1f8d-4df2-8bbf-b4a8e42e4906",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10e61e5d-1f8d-4df2-8bbf-b4a8e42e4906",
+			"uuid": "10e61e5d-1f8d-4df2-8bbf-b4a8e42e4906",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/11/01",
+			"title": "Aanbrengen en afwerken van gipsplaten op regels"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d8543f81-e824-4446-91a8-e4038f96db6f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8543f81-e824-4446-91a8-e4038f96db6f",
+			"uuid": "d8543f81-e824-4446-91a8-e4038f96db6f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/11/02",
+			"title": "Een bestaande metal-stud scheidingswand met kozijn en sparing demonteren en een nieuwe monteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ce4e247b-e44a-45d0-b680-1660b004c5f7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ce4e247b-e44a-45d0-b680-1660b004c5f7",
+			"uuid": "ce4e247b-e44a-45d0-b680-1660b004c5f7",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/11/03",
+			"title": "Een bestaande scheidingswand van een wandsysteem met profielen en beplating demonteren en een nieuwe monteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bcfa1d4f-4594-4207-bbba-7e91ddb05133",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcfa1d4f-4594-4207-bbba-7e91ddb05133",
+			"uuid": "bcfa1d4f-4594-4207-bbba-7e91ddb05133",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/12/01",
+			"title": "Een dunpleister aanbrengen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e069a57e-f64c-4368-81f1-8fc7180b473d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e069a57e-f64c-4368-81f1-8fc7180b473d",
+			"uuid": "e069a57e-f64c-4368-81f1-8fc7180b473d",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/12/02",
+			"title": "Gipspleister aanbrengen op metselwerk en afwerken met sierpleister"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d989a4b8-3ae5-4be9-b9b0-02bc19aca95c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d989a4b8-3ae5-4be9-b9b0-02bc19aca95c",
+			"uuid": "d989a4b8-3ae5-4be9-b9b0-02bc19aca95c",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/12/03",
+			"title": "Sierpleister met figuur aanbrengen en stucstop op dunpleister aanbrengen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b07750ea-a2c6-41e3-9620-ed5609143680",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b07750ea-a2c6-41e3-9620-ed5609143680",
+			"uuid": "b07750ea-a2c6-41e3-9620-ed5609143680",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/12/04",
+			"title": "Behang aanbrengen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a138ea21-6418-4fa8-8e86-0343e97f1253",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a138ea21-6418-4fa8-8e86-0343e97f1253",
+			"uuid": "a138ea21-6418-4fa8-8e86-0343e97f1253",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/13/01",
+			"title": "Schilderen van kunststof"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86381cb4-5385-4953-8689-7a12220120d2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86381cb4-5385-4953-8689-7a12220120d2",
+			"uuid": "86381cb4-5385-4953-8689-7a12220120d2",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/13/02",
+			"title": "Schilderen van metaal"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5d17e5a-a8b3-4625-8433-66f9874d576c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5d17e5a-a8b3-4625-8433-66f9874d576c",
+			"uuid": "e5d17e5a-a8b3-4625-8433-66f9874d576c",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/13/03",
+			"title": "Spuiten van metaal"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9ad813eb-8ae7-46b0-be17-7a400bbca484",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ad813eb-8ae7-46b0-be17-7a400bbca484",
+			"uuid": "9ad813eb-8ae7-46b0-be17-7a400bbca484",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/13/04",
+			"title": "Toepassen van decoratieve spuittechnieken op een metalen ondergrond"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de504800-e3c5-4511-a810-2ebfee050a00",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de504800-e3c5-4511-a810-2ebfee050a00",
+			"uuid": "de504800-e3c5-4511-a810-2ebfee050a00",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/14/01",
+			"title": "Houtachtige ondergronden beoordelen en een behandelplan opstellen en uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/577c8a49-febf-4283-a6bb-51f0c8bd02fe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/577c8a49-febf-4283-a6bb-51f0c8bd02fe",
+			"uuid": "577c8a49-febf-4283-a6bb-51f0c8bd02fe",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/14/02",
+			"title": "Steenachtige ondergronden beoordelen en een behandelplan opstellen en uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6d01aea0-b39f-40c0-9c8c-7950e243e5cf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d01aea0-b39f-40c0-9c8c-7950e243e5cf",
+			"uuid": "6d01aea0-b39f-40c0-9c8c-7950e243e5cf",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/14/03",
+			"title": "Metaalachtige en kunststoffen ondergronden beoordelen voorbehandelen, repareren en afwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8c3ba870-7702-42f2-875e-e07051ba84a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c3ba870-7702-42f2-875e-e07051ba84a2",
+			"uuid": "8c3ba870-7702-42f2-875e-e07051ba84a2",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/15/01",
+			"title": "Glas snijden en verwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5d550411-8555-4682-a191-0ecbfbdd2f64",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d550411-8555-4682-a191-0ecbfbdd2f64",
+			"uuid": "5d550411-8555-4682-a191-0ecbfbdd2f64",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/15/02",
+			"title": "Het plaatsen van enkelglas voorbereiden en enkelglas plaatsen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4fb4ef87-0b19-481f-bc3f-f25d5359784a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4fb4ef87-0b19-481f-bc3f-f25d5359784a",
+			"uuid": "4fb4ef87-0b19-481f-bc3f-f25d5359784a",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/15/03",
+			"title": "Het plaatsen van dubbelglas voorbereiden en dubbelglas plaatsen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/563a4cc1-a6d8-4f14-b4ec-ac3e22c510f7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/563a4cc1-a6d8-4f14-b4ec-ac3e22c510f7",
+			"uuid": "563a4cc1-a6d8-4f14-b4ec-ac3e22c510f7",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/16/01",
+			"title": "De werkzaamheden voor het maken van meubels voorbereiden volgens gangbare eisen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e380d350-2779-4adb-9420-9f518e242a27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e380d350-2779-4adb-9420-9f518e242a27",
+			"uuid": "e380d350-2779-4adb-9420-9f518e242a27",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/16/02",
+			"title": "Aan de hand van een werktekening meubels maken van hout en plaatmateriaal"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8bc444f3-10ea-4d25-a8ca-a28c1c42e104",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8bc444f3-10ea-4d25-a8ca-a28c1c42e104",
+			"uuid": "8bc444f3-10ea-4d25-a8ca-a28c1c42e104",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/17/01",
+			"title": "Aan de hand van een werktekening met gangbare gereedschappen en machines uitzetwerk ten behoeve van bestrating en infrastructuur verrichten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7d4d4d76-1760-414c-8372-25fdb159b6c3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7d4d4d76-1760-414c-8372-25fdb159b6c3",
+			"uuid": "7d4d4d76-1760-414c-8372-25fdb159b6c3",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/17/02",
+			"title": "Met gangbare machines en gereedschappen grondwerk verrichten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/54c9cbfb-de7a-4f68-beb0-606e561cc68d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/54c9cbfb-de7a-4f68-beb0-606e561cc68d",
+			"uuid": "54c9cbfb-de7a-4f68-beb0-606e561cc68d",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/17/03",
+			"title": "Met gangbare machines en gereedschappen assisteren bij het aanleggen van ondergrondse infrastructuur"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8f52ac82-3bd6-4cc6-be61-77bc0919cb2b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f52ac82-3bd6-4cc6-be61-77bc0919cb2b",
+			"uuid": "8f52ac82-3bd6-4cc6-be61-77bc0919cb2b",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/18/01",
+			"title": "Met gangbare machines en gereedschappen assisteren bij het machinaal verrichten van grondwerk"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4eb0bfeb-8319-4b02-ba2b-43d6b67878ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4eb0bfeb-8319-4b02-ba2b-43d6b67878ad",
+			"uuid": "4eb0bfeb-8319-4b02-ba2b-43d6b67878ad",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/18/02",
+			"title": "Met gangbare machines en gereedschappen bestratingen maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/09721f0b-ee71-421e-9cfe-e71ecd2bbbca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/09721f0b-ee71-421e-9cfe-e71ecd2bbbca",
+			"uuid": "09721f0b-ee71-421e-9cfe-e71ecd2bbbca",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/18/03",
+			"title": "Assisteren bij het uitvoeren van weg- en waterbouwkundige werken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3360fb66-0e8a-409c-8f13-8f746adda9a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3360fb66-0e8a-409c-8f13-8f746adda9a7",
+			"uuid": "3360fb66-0e8a-409c-8f13-8f746adda9a7",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/19/01",
+			"title": "Een interieur ontwerpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b2a9c91b-8332-4155-aec1-8f78ce624f6d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2a9c91b-8332-4155-aec1-8f78ce624f6d",
+			"uuid": "b2a9c91b-8332-4155-aec1-8f78ce624f6d",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/19/02",
+			"title": "Interieurelementen in samenhang met een interieur ontwerpen en maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e52b98a5-3e0e-40a7-952d-d595ed5d83ce",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e52b98a5-3e0e-40a7-952d-d595ed5d83ce",
+			"uuid": "e52b98a5-3e0e-40a7-952d-d595ed5d83ce",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/19/03",
+			"title": "Interieurelementen en een interieur decoreren en presenteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c1aabc36-33ed-4da4-b2e4-e9cbc565631b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1aabc36-33ed-4da4-b2e4-e9cbc565631b",
+			"uuid": "c1aabc36-33ed-4da4-b2e4-e9cbc565631b",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/19/04",
+			"title": "Een tekst en logo opmaken in een softwareprogramma, plotten en monteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f06759c-8c31-4a33-b9f9-386c0ee56ca8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f06759c-8c31-4a33-b9f9-386c0ee56ca8",
+			"uuid": "6f06759c-8c31-4a33-b9f9-386c0ee56ca8",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/19/05",
+			"title": "Een digitaal bestand opmaken, printen en monteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5e8c0ef0-3b58-40fa-b7fa-1f71a971135f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5e8c0ef0-3b58-40fa-b7fa-1f71a971135f",
+			"uuid": "5e8c0ef0-3b58-40fa-b7fa-1f71a971135f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/20/1",
+			"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e49efc2a-deca-4af7-9b55-7e30432e86e6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e49efc2a-deca-4af7-9b55-7e30432e86e6",
+			"uuid": "e49efc2a-deca-4af7-9b55-7e30432e86e6",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/20/2",
+			"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\"."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb080f77-70aa-4ea9-a524-6bcc97fc3a2e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb080f77-70aa-4ea9-a524-6bcc97fc3a2e",
+			"uuid": "fb080f77-70aa-4ea9-a524-6bcc97fc3a2e",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/21/1",
+			"title": "Voorbehandelen van de ondergrond en veilig werken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9bffaad-bf29-4164-8d07-7f0f8c10162d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9bffaad-bf29-4164-8d07-7f0f8c10162d",
+			"uuid": "f9bffaad-bf29-4164-8d07-7f0f8c10162d",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/21/2",
+			"title": "Uitvoeren van eenvoudig wandtegelwerk."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/46e7dc90-42c6-4f55-a13b-e115bf4ef41f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46e7dc90-42c6-4f55-a13b-e115bf4ef41f",
+			"uuid": "46e7dc90-42c6-4f55-a13b-e115bf4ef41f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/21/3",
+			"title": "Uitvoeren van eenvoudig vloertegelwerk."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83cddf4f-083a-47ba-b3ff-550c4c415910",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83cddf4f-083a-47ba-b3ff-550c4c415910",
+			"uuid": "83cddf4f-083a-47ba-b3ff-550c4c415910",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/21/4",
+			"title": "Uitvoeren van diverse snijwerk."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/99adc334-71c2-4a1c-b40b-7d923d2e0990",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/99adc334-71c2-4a1c-b40b-7d923d2e0990",
+			"uuid": "99adc334-71c2-4a1c-b40b-7d923d2e0990",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/22/1",
+			"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en  bouwkundige oplossingen hiervoor presenteren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3f74e5aa-1252-4846-8141-d24c6d39fbbc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f74e5aa-1252-4846-8141-d24c6d39fbbc",
+			"uuid": "3f74e5aa-1252-4846-8141-d24c6d39fbbc",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/22/2",
+			"title": "Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige  woning en hiervan een maquette maken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d429910-c9f5-44c8-90eb-3530fb8f1605",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d429910-c9f5-44c8-90eb-3530fb8f1605",
+			"uuid": "8d429910-c9f5-44c8-90eb-3530fb8f1605",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/22/3",
+			"title": "Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/331d0874-b674-4dc3-b97c-888bfb6a6835",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/331d0874-b674-4dc3-b97c-888bfb6a6835",
+			"uuid": "331d0874-b674-4dc3-b97c-888bfb6a6835",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/23/1",
+			"title": "De principes, kenmerken en eigenschappen van circulair en duurzaam bouwen herkennen, benoemen, omschrijven en controleren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f87ae0c5-9277-4a41-8247-6925cd505602",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f87ae0c5-9277-4a41-8247-6925cd505602",
+			"uuid": "f87ae0c5-9277-4a41-8247-6925cd505602",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/23/2",
+			"title": "Een product/interieurelement ontwerpen en maken door gebruik te maken van circulaire materialen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4ab28753-e7e0-49f1-afc1-9735d0fa0dac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ab28753-e7e0-49f1-afc1-9735d0fa0dac",
+			"uuid": "4ab28753-e7e0-49f1-afc1-9735d0fa0dac",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/23/3",
+			"title": "Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/33766062-ac78-454c-b7eb-75b5644085cb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/33766062-ac78-454c-b7eb-75b5644085cb",
+			"uuid": "33766062-ac78-454c-b7eb-75b5644085cb",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/24/1",
+			"title": "Oriëntatie op het beroep van meubelstoffeerder."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/28bcce62-44d5-46a9-b5a9-167189d69b9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/28bcce62-44d5-46a9-b5a9-167189d69b9c",
+			"uuid": "28bcce62-44d5-46a9-b5a9-167189d69b9c",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/24/2",
+			"title": "Werkzaamheden voorbereiden voor het stofferen van meubels."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
+			"uuid": "75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/24/3",
+			"title": "Meubels demonteren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
+			"uuid": "aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/24/4",
+			"title": "Vul- en bekledingsmaterialen op maat maken en aanbrengen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0eeb09e8-462e-46bb-8911-deb74c46e02a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0eeb09e8-462e-46bb-8911-deb74c46e02a",
+			"uuid": "0eeb09e8-462e-46bb-8911-deb74c46e02a",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/BWI/24/5",
+			"title": "Gestoffeerde meubels afwerken en opleveren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2750a5ef-d7aa-46e6-a33d-48fb0d1d6c12",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2750a5ef-d7aa-46e6-a33d-48fb0d1d6c12",
+			"uuid": "2750a5ef-d7aa-46e6-a33d-48fb0d1d6c12",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/01/01",
+			"title": "In opdracht een digitaal, educatief spel bedenken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/48a45b8b-84d1-4e4b-9d85-d9f135a5cfeb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48a45b8b-84d1-4e4b-9d85-d9f135a5cfeb",
+			"uuid": "48a45b8b-84d1-4e4b-9d85-d9f135a5cfeb",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/01/02",
+			"title": "Het spel maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ceb160a-1ac8-459c-a30d-b64c5129b410",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ceb160a-1ac8-459c-a30d-b64c5129b410",
+			"uuid": "5ceb160a-1ac8-459c-a30d-b64c5129b410",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/01/03",
+			"title": "Het spel demonstreren en presenteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d335504b-b1b2-4b52-8433-b5e6b4b58e9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d335504b-b1b2-4b52-8433-b5e6b4b58e9c",
+			"uuid": "d335504b-b1b2-4b52-8433-b5e6b4b58e9c",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/02/01",
+			"title": "Oriëntatie op moderne technische toepassingen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01b78fec-8052-4ce0-a1bc-891beee288ec",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01b78fec-8052-4ce0-a1bc-891beee288ec",
+			"uuid": "01b78fec-8052-4ce0-a1bc-891beee288ec",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/02/02",
+			"title": "Eenvoudige schakelingen bouwen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4c2ed64e-06bb-4b8d-8d0a-8388cb2e621f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4c2ed64e-06bb-4b8d-8d0a-8388cb2e621f",
+			"uuid": "4c2ed64e-06bb-4b8d-8d0a-8388cb2e621f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/02/03",
+			"title": "Een eenvoudig geprogrammeerde handeling door een robot laten uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/81d2163a-70ec-416a-8029-07980a465945",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/81d2163a-70ec-416a-8029-07980a465945",
+			"uuid": "81d2163a-70ec-416a-8029-07980a465945",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/03/01",
+			"title": "Op basis van onderzoek praktische maatregelen treffen ter bevordering van het milieu"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/72d2959e-c1b9-4677-aa0c-9bad70c398dc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72d2959e-c1b9-4677-aa0c-9bad70c398dc",
+			"uuid": "72d2959e-c1b9-4677-aa0c-9bad70c398dc",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/03/02",
+			"title": "Een beheerplan maken ter bevordering van de biodiversiteit"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/70e369ed-da0d-462d-92bd-b23c5efd319e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/70e369ed-da0d-462d-92bd-b23c5efd319e",
+			"uuid": "70e369ed-da0d-462d-92bd-b23c5efd319e",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/04/01",
+			"title": "Een plantaardig voedingsmiddel produceren en verkopen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c1506f1b-cd82-4cc0-90b2-87e059eb4603",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1506f1b-cd82-4cc0-90b2-87e059eb4603",
+			"uuid": "c1506f1b-cd82-4cc0-90b2-87e059eb4603",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/04/02",
+			"title": "Verantwoorde voeding kiezen en verwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5a35eacc-75a8-4332-b58c-3649ae17c155",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5a35eacc-75a8-4332-b58c-3649ae17c155",
+			"uuid": "5a35eacc-75a8-4332-b58c-3649ae17c155",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/04/03",
+			"title": "Voor een bepaalde doelgroep een bewegingsactiviteit in de open lucht organiseren en uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f79f36bb-404a-431c-9c0a-ffabf7adbd38",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f79f36bb-404a-431c-9c0a-ffabf7adbd38",
+			"uuid": "f79f36bb-404a-431c-9c0a-ffabf7adbd38",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/05/01",
+			"title": "In groepsverband een idee voor een voorstelling met dans, muziek of drama (of een combinatie hiervan) bedenken en uitwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/756b84e6-6c9a-4530-9280-f5001eec75fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/756b84e6-6c9a-4530-9280-f5001eec75fc",
+			"uuid": "756b84e6-6c9a-4530-9280-f5001eec75fc",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/05/02",
+			"title": "In groepsverband een voorstelling met dans, muziek of drama (of een combinatie hiervan) produceren en organiseren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca433f5d-12c8-4773-bc0a-95b63d5d6fc1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca433f5d-12c8-4773-bc0a-95b63d5d6fc1",
+			"uuid": "ca433f5d-12c8-4773-bc0a-95b63d5d6fc1",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/05/03",
+			"title": "In groepsverband een voorstelling met dans, muziek of drama (of een combinatie hiervan) realiseren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/22143d7a-8ba1-4444-b575-f784304c015f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22143d7a-8ba1-4444-b575-f784304c015f",
+			"uuid": "22143d7a-8ba1-4444-b575-f784304c015f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/05/04",
+			"title": "In groepsverband een voorstelling met dans, muziek of drama (of een combinatie hiervan) evalueren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9c403b16-bcb0-4b18-a48d-c356b36cb0d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c403b16-bcb0-4b18-a48d-c356b36cb0d0",
+			"uuid": "9c403b16-bcb0-4b18-a48d-c356b36cb0d0",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/06/01",
+			"title": "Fysieke en conditionele oefeningen uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/11d6eb66-ac35-4d2f-a6df-6791db546807",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/11d6eb66-ac35-4d2f-a6df-6791db546807",
+			"uuid": "11d6eb66-ac35-4d2f-a6df-6791db546807",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/06/02",
+			"title": "Rapporteren van incidenten in een gesimuleerde omgeving"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69f1c606-08dc-468d-88eb-2d5e66248f27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69f1c606-08dc-468d-88eb-2d5e66248f27",
+			"uuid": "69f1c606-08dc-468d-88eb-2d5e66248f27",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/06/03",
+			"title": "Zorgdragen voor toezicht van een klein evenement in de eigen schoolomgeving (denk aan host in kantine, ontvangst school, toezicht houden in gang of op schoolplein)."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b224b8d-cdd9-4f68-a689-4d3a09d19159",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b224b8d-cdd9-4f68-a689-4d3a09d19159",
+			"uuid": "3b224b8d-cdd9-4f68-a689-4d3a09d19159",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/06/04",
+			"title": "Risicovolle situaties voorkomen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a26da5bd-4b72-44b4-8d0d-d7dffdb50177",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a26da5bd-4b72-44b4-8d0d-d7dffdb50177",
+			"uuid": "a26da5bd-4b72-44b4-8d0d-d7dffdb50177",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/06/05",
+			"title": "Regelend optreden in de school of op het eigen schoolplein"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/703b62c6-6bd0-40ef-b2c6-78c328ab27c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/703b62c6-6bd0-40ef-b2c6-78c328ab27c1",
+			"uuid": "703b62c6-6bd0-40ef-b2c6-78c328ab27c1",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/07/01",
+			"title": "Duurzaam consumeren in de persoonlijke leefomgeving"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45345648-74e7-47d9-93b9-121051224737",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45345648-74e7-47d9-93b9-121051224737",
+			"uuid": "45345648-74e7-47d9-93b9-121051224737",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/07/02",
+			"title": "Afvalstromen herkennen en benoemen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ed7675d8-766d-4160-b53a-2b8b5cb8b032",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ed7675d8-766d-4160-b53a-2b8b5cb8b032",
+			"uuid": "ed7675d8-766d-4160-b53a-2b8b5cb8b032",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/07/03",
+			"title": "Producten recyclen en verkopen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4bb3fc07-405d-4743-aaa7-d8b19d8259bc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4bb3fc07-405d-4743-aaa7-d8b19d8259bc",
+			"uuid": "4bb3fc07-405d-4743-aaa7-d8b19d8259bc",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/08/1",
+			"title": "Informatie verstrekken over dans-, acteer- en zangactiviteiten als vrijetijdsbesteding voor jongeren en ouderen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f3ee19f-0216-43a2-914f-4095a9338fe3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f3ee19f-0216-43a2-914f-4095a9338fe3",
+			"uuid": "6f3ee19f-0216-43a2-914f-4095a9338fe3",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/08/2",
+			"title": "Eenvoudige dans-, acteer- en zangactiviteiten instuderen en opvoeren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/521c2e00-4054-4f90-b3e9-9f298df3317f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/521c2e00-4054-4f90-b3e9-9f298df3317f",
+			"uuid": "521c2e00-4054-4f90-b3e9-9f298df3317f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/08/3",
+			"title": "Voor een bepaalde doelgroep een eenvoudige dans-, acteer- of zangactiviteit plannen, voorbereiden en uitvoeren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f65791dd-3dd3-4eea-86e6-237422a8b38f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f65791dd-3dd3-4eea-86e6-237422a8b38f",
+			"uuid": "f65791dd-3dd3-4eea-86e6-237422a8b38f",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/08/4",
+			"title": "De benodigde praktijkruimte voor de dans-, acteer- of zangactiviteit gereedmaken en verzorgd achterlaten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ef35455e-efb0-4576-8e32-992fa8b0740d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef35455e-efb0-4576-8e32-992fa8b0740d",
+			"uuid": "ef35455e-efb0-4576-8e32-992fa8b0740d",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/08/5",
+			"title": "Onder begeleiding assisteren en instructies geven tijdens dans-, acteer- en zangactiviteiten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/216172a2-dd03-4d4c-88d1-724a078e9e05",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/216172a2-dd03-4d4c-88d1-724a078e9e05",
+			"uuid": "216172a2-dd03-4d4c-88d1-724a078e9e05",
+			"@type": "ExamenprogrammaBgDeeltaak",
+			"prefix": "K/DP/08/6",
+			"title": "Onder begeleiding blessures voorkomen bij zichzelf en anderen."
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

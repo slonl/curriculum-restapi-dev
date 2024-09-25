@@ -1,0 +1,906 @@
+{
+	"count": 3122,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1ff43de2-074a-4519-8e5c-9fdc38d17d59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ff43de2-074a-4519-8e5c-9fdc38d17d59",
+			"uuid": "1ff43de2-074a-4519-8e5c-9fdc38d17d59",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een simpele aankoopbevestiging van een product.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9fab514a-544f-4eb9-b754-d1c8854953b3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fab514a-544f-4eb9-b754-d1c8854953b3",
+			"uuid": "9fab514a-544f-4eb9-b754-d1c8854953b3",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een digitaal bericht met de herinnering voor een tandartsafspraak, met datum, tijd en plaats.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8c76cda9-cd79-47d5-bf1f-bce3aca977e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c76cda9-cd79-47d5-bf1f-bce3aca977e0",
+			"uuid": "8c76cda9-cd79-47d5-bf1f-bce3aca977e0",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een aankondiging op sociale media voor een concert van je favoriete artiest.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
+			"uuid": "c2abe5e2-4f79-47a5-b5a1-4fbd2d6a970e",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een e-mail met de plaats en tijd voor je volgende sportwedstrijd.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8c9cb5f5-e80b-4b0f-9207-99737a58ea41",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c9cb5f5-e80b-4b0f-9207-99737a58ea41",
+			"uuid": "8c9cb5f5-e80b-4b0f-9207-99737a58ea41",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een kort berichtje van vrienden met het voorstel om komend weekend naar de bioscoop te gaan.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
+			"uuid": "19b23471-3d0b-4134-9d45-c6cbe7d55c0c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een bevestiging per e-mail van een vakantieverblijf.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f5e16c8-c610-48a7-ba3e-4832c9a78471",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f5e16c8-c610-48a7-ba3e-4832c9a78471",
+			"uuid": "1f5e16c8-c610-48a7-ba3e-4832c9a78471",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een bericht van een officiële instantie over een tijdelijk parkeerverbod.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/36438b6b-6d93-409f-9393-df5d57edbd69",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/36438b6b-6d93-409f-9393-df5d57edbd69",
+			"uuid": "36438b6b-6d93-409f-9393-df5d57edbd69",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De gegevens van een bestelling in een bijlage bij een e-mail voor je nieuwe telefoon, game of kleding.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/32671bad-f6cc-4fbf-8d94-7f54632813da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/32671bad-f6cc-4fbf-8d94-7f54632813da",
+			"uuid": "32671bad-f6cc-4fbf-8d94-7f54632813da",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een bericht van een school, instituut of instantie dat je bent toegelaten voor een cursus.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/07ff8c66-25a6-4fe7-917e-83e99957b0c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/07ff8c66-25a6-4fe7-917e-83e99957b0c2",
+			"uuid": "07ff8c66-25a6-4fe7-917e-83e99957b0c2",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De mening van een correspondentiepartner over school of opleiding.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5a214186-f243-46bd-ba28-85468194b581",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5a214186-f243-46bd-ba28-85468194b581",
+			"uuid": "5a214186-f243-46bd-ba28-85468194b581",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een bericht van de correspondentiepartner over diens eigen toekomstplannen en ambities.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c8dd2048-c975-462d-8c96-1463e13db9be",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8dd2048-c975-462d-8c96-1463e13db9be",
+			"uuid": "c8dd2048-c975-462d-8c96-1463e13db9be",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een verslag van een ingrijpende gebeurtenis en hoe de correspondentiepartner zich erbij voelde.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7a3e721e-7009-42ff-8eca-32a664c25e6b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7a3e721e-7009-42ff-8eca-32a664c25e6b",
+			"uuid": "7a3e721e-7009-42ff-8eca-32a664c25e6b",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een bevestigingsbrief van een bedrijf voor een buitenlandse stage.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8c47660b-7484-4b5a-985b-459d53c3946e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c47660b-7484-4b5a-985b-459d53c3946e",
+			"uuid": "8c47660b-7484-4b5a-985b-459d53c3946e",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De juistheid van gemaakte afspraken begrijpen en controleren in een bevestigingsbrief of e-mail, zoals bij het huren van een appartement, een schooluitwisseling, een bedrijfsbezoek.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/81b828b3-972c-4996-8c21-75c37722bf6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/81b828b3-972c-4996-8c21-75c37722bf6e",
+			"uuid": "81b828b3-972c-4996-8c21-75c37722bf6e",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een klacht begrijpen en kunnen inschatten wat er aan de hand is en wat er gedaan moet worden.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ac428ffb-1d4f-491b-97cb-ca0be73cf363",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac428ffb-1d4f-491b-97cb-ca0be73cf363",
+			"uuid": "ac428ffb-1d4f-491b-97cb-ca0be73cf363",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een oproep op het internet waarbij ze testpersonen zoeken voor een nieuw parfum.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+			"uuid": "fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Vacatures voor internationale vakantiebaantjes op sociale media.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5be8ec6b-77e3-454c-8905-e28390291c07",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5be8ec6b-77e3-454c-8905-e28390291c07",
+			"uuid": "5be8ec6b-77e3-454c-8905-e28390291c07",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een bevestiging van de uitwisselingsschool dat de tijdelijke vervoerskaart klaarligt.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aeb7d053-8c40-4412-91d9-b1e93bf282e6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aeb7d053-8c40-4412-91d9-b1e93bf282e6",
+			"uuid": "aeb7d053-8c40-4412-91d9-b1e93bf282e6",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een verzoek om informatie om vervolgens de juiste gegevens te kunnen verzamelen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2d40c41b-b647-41ca-ab80-ffe4b180c676",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2d40c41b-b647-41ca-ab80-ffe4b180c676",
+			"uuid": "2d40c41b-b647-41ca-ab80-ffe4b180c676",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een brief waarin een buitenlandse vriend of familielid een complex persoonlijk of zakelijk probleem beschrijft.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b06c5428-6b19-412f-83b1-8d86e82ac4f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b06c5428-6b19-412f-83b1-8d86e82ac4f2",
+			"uuid": "b06c5428-6b19-412f-83b1-8d86e82ac4f2",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een reactie op een klacht of verzoek om schadevergoeding.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f0cdc59b-df13-4f86-a2ec-676c601ff25a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f0cdc59b-df13-4f86-a2ec-676c601ff25a",
+			"uuid": "f0cdc59b-df13-4f86-a2ec-676c601ff25a",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een wervingsbrief voor deelname aan een buitenlandse vakbeurs.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c075ead6-54cc-47a6-b2f7-93c9ecd3ce99",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c075ead6-54cc-47a6-b2f7-93c9ecd3ce99",
+			"uuid": "c075ead6-54cc-47a6-b2f7-93c9ecd3ce99",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een antwoord op een brief of e-mail met een verzoek om informatie over een toekomstige studie of een onderzoeksprogramma.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cf1ae937-757b-4c14-9ec5-1aac04e284ba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf1ae937-757b-4c14-9ec5-1aac04e284ba",
+			"uuid": "cf1ae937-757b-4c14-9ec5-1aac04e284ba",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De bevestiging van een onderwijsinstantie over het toekennen van studiefinanciering.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fcdbe7e8-dd60-413c-b6f1-532f7f88602c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcdbe7e8-dd60-413c-b6f1-532f7f88602c",
+			"uuid": "fcdbe7e8-dd60-413c-b6f1-532f7f88602c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een proces-verbaal van een bekeuring.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/266786f0-09dc-4990-8811-daa4c99d3dd0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/266786f0-09dc-4990-8811-daa4c99d3dd0",
+			"uuid": "266786f0-09dc-4990-8811-daa4c99d3dd0",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een brief van een buitenlandse notaris over een erfenis.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/db541519-c40f-4e2b-8f8d-99952ff068a9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db541519-c40f-4e2b-8f8d-99952ff068a9",
+			"uuid": "db541519-c40f-4e2b-8f8d-99952ff068a9",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een dagvaarding.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2e53b2ab-44a4-4520-9c08-148505a92f27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e53b2ab-44a4-4520-9c08-148505a92f27",
+			"uuid": "2e53b2ab-44a4-4520-9c08-148505a92f27",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een briefroman.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
+			"uuid": "3eab023d-705e-4822-9f0f-ecd03ea3ba6d",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een toelichting op de toelatingscriteria en aanmeldingsprocedures voor studie in het buitenland.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32",
+			"uuid": "e4dc4acf-3f74-40bd-bb9b-a1cf81f84e32",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Ingezonden reacties op online artikelen in kwaliteitskranten of vaktijdschriften met maatschappelijke relevantie.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eabb8938-394e-4986-82f1-ed1fbb116844",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eabb8938-394e-4986-82f1-ed1fbb116844",
+			"uuid": "eabb8938-394e-4986-82f1-ed1fbb116844",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Het programma van een festival: hoe laat treedt welke band waar op en waar zijn de eetkraampjes?",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91e82d2e-b9a0-411f-b316-6128ae54df60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91e82d2e-b9a0-411f-b316-6128ae54df60",
+			"uuid": "91e82d2e-b9a0-411f-b316-6128ae54df60",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een mededelingenbord in de dierentuin: hoe laat worden de apen gevoerd en kan het publiek hierbij aanwezig zijn?",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c",
+			"uuid": "5dc7e8b8-7069-4396-87c8-7b4d6fa3bf6c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De vertrektijden van de bootdienst naar het eiland.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+			"uuid": "74fd1d13-524e-4bc1-8015-ed5267ee81a0",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Met een digitale zoekmachine het dichtstbijzijnde zwembad opzoeken.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c125fe4-eb17-46b1-9f29-fcba6444d839",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c125fe4-eb17-46b1-9f29-fcba6444d839",
+			"uuid": "2c125fe4-eb17-46b1-9f29-fcba6444d839",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een taalcursus voor gevorderden opzoeken in een brochure of op een website.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+			"uuid": "6b94c2b6-31a9-4f17-a0a2-48918a91e5e5",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De benodigde bus-/tram-/metro- of treinverbinding opzoeken in het busboekje, op een informatiebord of op een app.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+			"uuid": "78f847e7-55d1-48a8-b3a3-9e963bc535a3",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Opdrachtbonnen of bestelformulieren in verband met een bestelling nakijken: is je bestelling compleet?",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/175c423e-f032-46e5-b49f-3141e706d1d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/175c423e-f032-46e5-b49f-3141e706d1d7",
+			"uuid": "175c423e-f032-46e5-b49f-3141e706d1d7",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Op een eenvoudige menukaart de lekkerste pasta uitzoeken.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5f4ac6af-aab7-46b9-a6eb-a5854769679f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5f4ac6af-aab7-46b9-a6eb-a5854769679f",
+			"uuid": "5f4ac6af-aab7-46b9-a6eb-a5854769679f",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "In een toeristische folder een activiteit of bezienswaardigheid uitzoeken voor een dagje uit.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dedda0f5-c752-4409-b024-a9a4eeecbdda",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dedda0f5-c752-4409-b024-a9a4eeecbdda",
+			"uuid": "dedda0f5-c752-4409-b024-a9a4eeecbdda",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Op een garantiebewijs bij een apparaat opzoeken hoe lang de garantietermijn is.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1a2fc4e7-72b7-4feb-8aec-152932d1e95b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1a2fc4e7-72b7-4feb-8aec-152932d1e95b",
+			"uuid": "1a2fc4e7-72b7-4feb-8aec-152932d1e95b",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Online voorbeelden van het gebruik van een woord of uitdrukking opzoeken en begrijpen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/466d56dc-c672-4bb6-8ca6-002c64e73128",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/466d56dc-c672-4bb6-8ca6-002c64e73128",
+			"uuid": "466d56dc-c672-4bb6-8ca6-002c64e73128",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "In een eenvoudig woordenboek de juiste betekenis passend bij de context opzoeken.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a133d9d4-bae3-4d21-a449-090739f576ba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a133d9d4-bae3-4d21-a449-090739f576ba",
+			"uuid": "a133d9d4-bae3-4d21-a449-090739f576ba",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Advertenties voor een voorstelling, evenement of excursie begrijpen, zoals bijvoorbeeld wat, waar, wanneer, prijs.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e800ef2-a906-481c-ac98-a0b8036eb9a5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e800ef2-a906-481c-ac98-a0b8036eb9a5",
+			"uuid": "9e800ef2-a906-481c-ac98-a0b8036eb9a5",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Advertenties voor sportartikelen, kleding, elektronica, meubels, keukenspullen begrijpen: wat wordt er verkocht, hoeveel kost het, waar kun je het kopen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2325368-a04a-45b3-92a6-12d23b92b87c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2325368-a04a-45b3-92a6-12d23b92b87c",
+			"uuid": "e2325368-a04a-45b3-92a6-12d23b92b87c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Aanwijzingen op een strand: zwemmen toegestaan bij groene vlag, niet lopen in de duinen, honden mogen los tussen datum x en y.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/371432b5-14a0-42c3-8fba-527172bea38b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/371432b5-14a0-42c3-8fba-527172bea38b",
+			"uuid": "371432b5-14a0-42c3-8fba-527172bea38b",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Routeaanwijzingen bij een verkeersomleiding: volg de P-route.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dcf2b4c-6692-49f4-abde-77adcfe0003e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dcf2b4c-6692-49f4-abde-77adcfe0003e",
+			"uuid": "6dcf2b4c-6692-49f4-abde-77adcfe0003e",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Informatieborden op de weg of snelweg: filegevaar, wegwerkzaamheden, omleidingen, volgende tankstation over 25 km.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/486008b7-c114-47e9-968f-da9527ebb1ef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/486008b7-c114-47e9-968f-da9527ebb1ef",
+			"uuid": "486008b7-c114-47e9-968f-da9527ebb1ef",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Informatieborden in een VVV-kantoor, bank, museum of toeristische attractie: deze balie gaat sluiten, wachttijd 10 minuten.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0e513afd-43eb-4db3-9b6e-e24365543bc2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0e513afd-43eb-4db3-9b6e-e24365543bc2",
+			"uuid": "0e513afd-43eb-4db3-9b6e-e24365543bc2",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Informatieborden op een station of luchthaven: heeft een vlucht vertraging, is de trein gecanceld?",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/99223dcd-7bb7-48b2-9d23-4e919a92be6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/99223dcd-7bb7-48b2-9d23-4e919a92be6e",
+			"uuid": "99223dcd-7bb7-48b2-9d23-4e919a92be6e",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Waarschuwingsborden op een bouwplaats: niet betreden, melden bij de uitvoerder.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/be415708-8f2a-41b3-b064-20c3357ddcea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be415708-8f2a-41b3-b064-20c3357ddcea",
+			"uuid": "be415708-8f2a-41b3-b064-20c3357ddcea",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een folder over de voorzieningen van een camping of een hotel.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2dbe0d8-e306-4943-9bb0-d3f6e66f6246",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2dbe0d8-e306-4943-9bb0-d3f6e66f6246",
+			"uuid": "e2dbe0d8-e306-4943-9bb0-d3f6e66f6246",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een informatiefolder over een reis of studie in het buitenland.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/af7455e7-196f-4b2d-a036-ae9a35add72d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/af7455e7-196f-4b2d-a036-ae9a35add72d",
+			"uuid": "af7455e7-196f-4b2d-a036-ae9a35add72d",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een huurcontract voor een kamer in een studentenflat.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9",
+			"uuid": "1f8d5bc6-5b67-4d71-81fd-7a57bed1c4f9",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een overzicht met regels voor een tijdelijke werkvergunning.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d3207e8-5866-433d-9114-60bdd6269ceb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d3207e8-5866-433d-9114-60bdd6269ceb",
+			"uuid": "8d3207e8-5866-433d-9114-60bdd6269ceb",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De voorwaarden bij het huren van een scooter, bromfiets, auto.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d24b0a4d-9a75-4b88-b979-6819351e118b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d24b0a4d-9a75-4b88-b979-6819351e118b",
+			"uuid": "d24b0a4d-9a75-4b88-b979-6819351e118b",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Relevante arbeidsvoorwaarden van een (stage)bedrijf zoals vakantie, opzegtermijn, onkostenvergoeding.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3f56928d-df79-42e9-92b2-976dc28be165",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f56928d-df79-42e9-92b2-976dc28be165",
+			"uuid": "3f56928d-df79-42e9-92b2-976dc28be165",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Standaardoffertes.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/03aea529-cd3d-4190-a732-968aa907c2ce",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03aea529-cd3d-4190-a732-968aa907c2ce",
+			"uuid": "03aea529-cd3d-4190-a732-968aa907c2ce",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een aantal websites om informatie te vinden voor een werkstuk.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cada4c21-e512-4b9d-8f0b-905bda42a4ab",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cada4c21-e512-4b9d-8f0b-905bda42a4ab",
+			"uuid": "cada4c21-e512-4b9d-8f0b-905bda42a4ab",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Tijdschriften rond een bepaald thema om informatie te vinden over een nieuw computerspel of gezonde leefstijl voor sporters.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7915d54c-5658-4fcc-b4e4-e09a39c86a60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7915d54c-5658-4fcc-b4e4-e09a39c86a60",
+			"uuid": "7915d54c-5658-4fcc-b4e4-e09a39c86a60",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Websites van bedrijven om een overzicht te maken van mogelijke stageplekken of banen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e6befed-72c9-4934-bff0-9aa64c1d0c34",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e6befed-72c9-4934-bff0-9aa64c1d0c34",
+			"uuid": "6e6befed-72c9-4934-bff0-9aa64c1d0c34",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een regionale krant om culturele activiteiten te vinden, die je het komend weekend kunt ondernemen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/acb7a7d9-9de7-4187-89be-3b7ac9baf199",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/acb7a7d9-9de7-4187-89be-3b7ac9baf199",
+			"uuid": "acb7a7d9-9de7-4187-89be-3b7ac9baf199",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Overgangsnormen in een reglement van de (partner)school.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/740ee0d9-38d3-4ddc-853c-4d0715a0fdd1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/740ee0d9-38d3-4ddc-853c-4d0715a0fdd1",
+			"uuid": "740ee0d9-38d3-4ddc-853c-4d0715a0fdd1",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Bekostigingsvoorwaarden in een beschrijving van een uitwisselingsprogramma in het buitenland.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/705d8a6e-b190-4fe7-bf7b-e456fc11104f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/705d8a6e-b190-4fe7-bf7b-e456fc11104f",
+			"uuid": "705d8a6e-b190-4fe7-bf7b-e456fc11104f",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De juiste aanwijzing in een helpprogramma bij een computerprobleem.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b21ef640-437a-4e2e-a23d-bfbfe5fb0a63",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b21ef640-437a-4e2e-a23d-bfbfe5fb0a63",
+			"uuid": "b21ef640-437a-4e2e-a23d-bfbfe5fb0a63",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Marktinformatie over een bepaald product.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/81315041-54da-4c02-b455-e0f976923ec0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/81315041-54da-4c02-b455-e0f976923ec0",
+			"uuid": "81315041-54da-4c02-b455-e0f976923ec0",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Wikipedia-lemma's.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9c92be39-da37-4f4a-8a94-e916d6509837",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c92be39-da37-4f4a-8a94-e916d6509837",
+			"uuid": "9c92be39-da37-4f4a-8a94-e916d6509837",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Artikelen in een landelijke kwaliteitskrant, opinieblad of op internet.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15e186ab-6bb2-4aa9-8a26-604757716745",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15e186ab-6bb2-4aa9-8a26-604757716745",
+			"uuid": "15e186ab-6bb2-4aa9-8a26-604757716745",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een lijst met publicaties op eigen vak- of interessegebied, opgeleverd door een zoekmachine.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/232dbb93-01b4-45d6-9989-7489e33cd92e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/232dbb93-01b4-45d6-9989-7489e33cd92e",
+			"uuid": "232dbb93-01b4-45d6-9989-7489e33cd92e",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Berichten in een internetnieuwsgroep.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6bf41c92-f1c7-4844-bba7-ea2b721c5dd0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6bf41c92-f1c7-4844-bba7-ea2b721c5dd0",
+			"uuid": "6bf41c92-f1c7-4844-bba7-ea2b721c5dd0",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Passages in een studieboek of een onderzoeksverslag bij het voorbereiden van een toets of profielwerkstuk.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b18f7c3-7773-4c69-ab9e-bedfc5bdbb54",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b18f7c3-7773-4c69-ab9e-bedfc5bdbb54",
+			"uuid": "4b18f7c3-7773-4c69-ab9e-bedfc5bdbb54",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Boodschap en intenties in politieke reclames.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c754bae8-8f8a-46fb-8ef3-0eb441931aef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c754bae8-8f8a-46fb-8ef3-0eb441931aef",
+			"uuid": "c754bae8-8f8a-46fb-8ef3-0eb441931aef",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De inhoud van een initiatief in de promotie van activiteiten van culturele instellingen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f59887ef-08e8-4772-8d32-3adb5ca16207",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f59887ef-08e8-4772-8d32-3adb5ca16207",
+			"uuid": "f59887ef-08e8-4772-8d32-3adb5ca16207",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een zeer eenvoudige beschrijving van een activiteit op een vakantiepark.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1175cd54-6757-4be0-90bd-e67cc13d087c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1175cd54-6757-4be0-90bd-e67cc13d087c",
+			"uuid": "1175cd54-6757-4be0-90bd-e67cc13d087c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een geïllustreerd weerbericht.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/27f4b6c3-9247-4264-a395-6a36bdf7a68c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/27f4b6c3-9247-4264-a395-6a36bdf7a68c",
+			"uuid": "27f4b6c3-9247-4264-a395-6a36bdf7a68c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Persoonlijke informatie bij het portret van een idool, ondersteund met afbeeldingen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89ee25fe-69d2-4146-85c7-853ae0e8df8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89ee25fe-69d2-4146-85c7-853ae0e8df8b",
+			"uuid": "89ee25fe-69d2-4146-85c7-853ae0e8df8b",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een overzicht van de sportuitslagen in de krant of op een website.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c254c1af-4924-4d24-a98c-50dfb4d16f21",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c254c1af-4924-4d24-a98c-50dfb4d16f21",
+			"uuid": "c254c1af-4924-4d24-a98c-50dfb4d16f21",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een artikel over het dagelijks leven van jongeren in verschillende landen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/99e7fd32-5578-4239-919c-31232f5a8e0d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/99e7fd32-5578-4239-919c-31232f5a8e0d",
+			"uuid": "99e7fd32-5578-4239-919c-31232f5a8e0d",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een artikel over hoe in een bepaalde cultuur verjaardagen worden gevierd.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa27f6fb-0566-42f4-ba54-3372a7c54755",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa27f6fb-0566-42f4-ba54-3372a7c54755",
+			"uuid": "aa27f6fb-0566-42f4-ba54-3372a7c54755",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een beschrijving van een jaarlijks cultureel festival.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fd19de6d-6a17-4073-904c-2556217349b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fd19de6d-6a17-4073-904c-2556217349b5",
+			"uuid": "fd19de6d-6a17-4073-904c-2556217349b5",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Over hobby's of vrijetijdsbesteding.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
+			"uuid": "83fdd003-a6bd-4d8f-9bf6-b3a126f0753d",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "In een krantenartikel het ‘wie-wat-waar’ over een overval, een ongeluk, een rel.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b",
+			"uuid": "c62ea0ff-0ddd-4c44-8ffc-06dc26f0208b",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De hoofdlijnen uit artikelen en berichten op een nieuwssite, die gaan over vertrouwde onderwerpen zoals sport of muziek.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/303424fb-7d14-4f79-8962-cd86f8e1f603",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/303424fb-7d14-4f79-8962-cd86f8e1f603",
+			"uuid": "303424fb-7d14-4f79-8962-cd86f8e1f603",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Informatie over producten, materialen, apparaten uit het eigen vakgebied.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ead643a-e991-45cd-8f1d-cb304369525c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ead643a-e991-45cd-8f1d-cb304369525c",
+			"uuid": "7ead643a-e991-45cd-8f1d-cb304369525c",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Biografische informatie over een kunstenaar, schrijver, sporter in een tijdschrift of op een website.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee",
+			"uuid": "1cebdbe2-fc1a-48c0-a6b1-60f1bfd54fee",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een verslag van een werkbespreking of projectgroep vergadering.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/11bbdd2f-13cc-4b13-9b19-e0b164306090",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/11bbdd2f-13cc-4b13-9b19-e0b164306090",
+			"uuid": "11bbdd2f-13cc-4b13-9b19-e0b164306090",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Eenvoudig voorlichtingsmateriaal van overheden of onderwijsinstellingen.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
+			"uuid": "0bdd57a4-4c8b-4b92-b9b7-b3ca41d61478",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een verklarende tekst bij tabellen, grafieken, schema's.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/54a3a018-4f5e-4947-a0c0-de4f00809308",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/54a3a018-4f5e-4947-a0c0-de4f00809308",
+			"uuid": "54a3a018-4f5e-4947-a0c0-de4f00809308",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Achtergrondinformatie bij een presentatie, een museum of op een vakbeurs.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/116c67f4-c61c-4ebb-9d43-38c1c63caf19",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/116c67f4-c61c-4ebb-9d43-38c1c63caf19",
+			"uuid": "116c67f4-c61c-4ebb-9d43-38c1c63caf19",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De ondertiteling van een film of nieuws.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92fca2fe-4587-4c26-a847-c32cbf5176d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92fca2fe-4587-4c26-a847-c32cbf5176d5",
+			"uuid": "92fca2fe-4587-4c26-a847-c32cbf5176d5",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De ondertiteling bij een liedje.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e546731-69b7-4204-8784-fb76aeadfca5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e546731-69b7-4204-8784-fb76aeadfca5",
+			"uuid": "6e546731-69b7-4204-8784-fb76aeadfca5",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een krantenartikel over het nut van strenge veiligheidsmaatregelen bij voetbalwedstrijden.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/59f2ef73-b494-4b1f-b481-67b6513a7581",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/59f2ef73-b494-4b1f-b481-67b6513a7581",
+			"uuid": "59f2ef73-b494-4b1f-b481-67b6513a7581",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een column in een krant of tijdschrift.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
+			"uuid": "eebe2a40-dbd6-42ac-92fc-cdc5b5f08933",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Reacties op online artikelen over maatschappelijk relevante thema's.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a770473-2abe-4355-bf61-6eb9bc1cedb2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a770473-2abe-4355-bf61-6eb9bc1cedb2",
+			"uuid": "0a770473-2abe-4355-bf61-6eb9bc1cedb2",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Reacties van mensen op een foto, artikel of video op sociale media met betrekking tot sociale en actuele vraagstukken.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f48e8571-5079-4c6b-82bb-8abbc1a54930",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f48e8571-5079-4c6b-82bb-8abbc1a54930",
+			"uuid": "f48e8571-5079-4c6b-82bb-8abbc1a54930",
+			"@type": "ErkVoorbeeld",
+			"prefix": null,
+			"title": "Een stelling op een krantensite met de diverse reacties (DL).",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/597a4ca7-1739-4c1c-91fd-2053f8b1b4b3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/597a4ca7-1739-4c1c-91fd-2053f8b1b4b3",
+			"uuid": "597a4ca7-1739-4c1c-91fd-2053f8b1b4b3",
+			"@type": "ErkVoorbeeld",
+			"prefix": null,
+			"title": "Een opiniërend artikel over de arbeidsmarktrelevantie van een toekomstige studie (OPL, WE).",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/687336f6-ac20-454e-92d1-b3316174f54f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/687336f6-ac20-454e-92d1-b3316174f54f",
+			"uuid": "687336f6-ac20-454e-92d1-b3316174f54f",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Materiaal voor een eigen onderzoeksproject, het profielwerkstuk of het honoursprogramma van de school.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ac27c99-3693-4475-a3af-7c5dc6898ccb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ac27c99-3693-4475-a3af-7c5dc6898ccb",
+			"uuid": "5ac27c99-3693-4475-a3af-7c5dc6898ccb",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een verslag van een trainersoverleg in een sportcontext.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8ceee6d0-7327-4ba2-b820-162efc799072",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ceee6d0-7327-4ba2-b820-162efc799072",
+			"uuid": "8ceee6d0-7327-4ba2-b820-162efc799072",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "Een beleidsstuk op de stageplek.",
+			"unreleased": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/433ca510-fb02-44c9-b77f-f742bb3f9256",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/433ca510-fb02-44c9-b77f-f742bb3f9256",
+			"uuid": "433ca510-fb02-44c9-b77f-f742bb3f9256",
+			"@type": "ErkVoorbeeld",
+			"prefix": "",
+			"title": "De conclusies van een onderzoek over de consequenties van de aanleg van een snelweg door een natuurgebied.",
+			"unreleased": null
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

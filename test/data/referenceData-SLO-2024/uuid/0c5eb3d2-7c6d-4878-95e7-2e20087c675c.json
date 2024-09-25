@@ -1,0 +1,150 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+	"uuid": "0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkSchaal",
+	"ErkCandobeschrijving": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6bdaa449-dbb6-4c78-b513-36ab79efc96f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6bdaa449-dbb6-4c78-b513-36ab79efc96f",
+			"uuid": "6bdaa449-dbb6-4c78-b513-36ab79efc96f",
+			"title": "Geen descriptoren beschikbaar.",
+			"isempty": "true",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/677c431e-7ac6-438f-8204-aea78aef7025",
+					"title": "pre A1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/677c431e-7ac6-438f-8204-aea78aef7025"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91ed690c-e290-4c12-a47d-998c66d66fad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91ed690c-e290-4c12-a47d-998c66d66fad",
+			"uuid": "91ed690c-e290-4c12-a47d-998c66d66fad",
+			"title": "Geen descriptoren beschikbaar.",
+			"isempty": "true",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/745ebf1b-e5f6-4dc4-8d6d-3619eec1092a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/745ebf1b-e5f6-4dc4-8d6d-3619eec1092a",
+			"uuid": "745ebf1b-e5f6-4dc4-8d6d-3619eec1092a",
+			"title": "Kan een beperkt repertoire hanteren om te voorzien in concrete alledaagse behoeften.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/afeeb564-01db-45ce-89ec-2aee6942de14",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/afeeb564-01db-45ce-89ec-2aee6942de14",
+			"uuid": "afeeb564-01db-45ce-89ec-2aee6942de14",
+			"title": "Gebruikt een breed scala van eenvoudige woorden op passende wijze bij het spreken over vertrouwde onderwerpen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b1954022-15da-4d3c-91ca-e616329f9db3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1954022-15da-4d3c-91ca-e616329f9db3",
+			"uuid": "b1954022-15da-4d3c-91ca-e616329f9db3",
+			"title": "Heeft een goede beheersing van elementaire woordenschat, al doen zich nog wel grote fouten voor wanneer meer complexe gedachten worden ontvouwd of niet-vertrouwde onderwerpen en situaties aan de orde zijn.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3988f7b9-fab2-4377-92ef-8d07bc43b2ae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3988f7b9-fab2-4377-92ef-8d07bc43b2ae",
+			"uuid": "3988f7b9-fab2-4377-92ef-8d07bc43b2ae",
+			"title": "Passendheid in woordkeuze is over het algemeen hoog, al komen enige verwarring en onjuist woordgebruik wel voor zonder de communicatie in de weg te staan.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+			"uuid": "ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+			"title": "Maakt incidenteel kleine vergissingen, maar geen echte fouten in woordkeuze.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+					"title": "C1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8f444aba-bd5d-47c9-ace5-52c578161e30",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f444aba-bd5d-47c9-ace5-52c578161e30",
+			"uuid": "8f444aba-bd5d-47c9-ace5-52c578161e30",
+			"title": "Gebruikt minder algemene woorden idiomatisch en passend.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+					"title": "C1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b309af2c-2d3e-430a-bfd6-2339197dbbbf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b309af2c-2d3e-430a-bfd6-2339197dbbbf",
+			"uuid": "b309af2c-2d3e-430a-bfd6-2339197dbbbf",
+			"title": "Toont consequent correct en toepasselijk gebruik van de woordenschat.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2208c586-9043-47c1-b66b-536a50577725",
+					"title": "C2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2208c586-9043-47c1-b66b-536a50577725"
+				}
+			]
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "Beheersing van de woordenschat"
+}

@@ -1,0 +1,2628 @@
+{
+	"count": 478,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8cd7169b-ec2b-4b1a-bc35-e2d2ac49e902",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8cd7169b-ec2b-4b1a-bc35-e2d2ac49e902",
+			"uuid": "8cd7169b-ec2b-4b1a-bc35-e2d2ac49e902",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 01",
+			"title": "De leerlingen leren informatie te verwerven uit gesproken taal. Ze leren tevens die informatie, mondeling of schriftelijk, gestructureerd weer te geven.",
+			"description": "Informatie verwerven",
+			"kerndoelLabel": "Informatie verwerven",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5f45cd7-ff7b-4876-a014-9aead5348100",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5f45cd7-ff7b-4876-a014-9aead5348100",
+			"uuid": "e5f45cd7-ff7b-4876-a014-9aead5348100",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 02",
+			"title": "De leerlingen leren zich naar vorm en inhoud uit te drukken bij het geven en vragen van informatie, het uitbrengen van verslag, het geven van uitleg, het instrueren en bij het discussiëren.",
+			"description": "Spreken",
+			"kerndoelLabel": "Spreken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cf478309-4d3b-4e81-9077-764c0793496d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf478309-4d3b-4e81-9077-764c0793496d",
+			"uuid": "cf478309-4d3b-4e81-9077-764c0793496d",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 03",
+			"title": "De leerlingen leren informatie te beoordelen in discussies en in een gesprek dat informatief of opiniërend van karakter is en leren met argumenten te reageren.",
+			"description": "Informatie beoordelen",
+			"kerndoelLabel": "Informatie beoordelen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/396bce44-46c7-4af6-880e-1fc3ace5128a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/396bce44-46c7-4af6-880e-1fc3ace5128a",
+			"uuid": "396bce44-46c7-4af6-880e-1fc3ace5128a",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 04",
+			"title": "De leerlingen leren informatie te achterhalen in informatieve en instructieve teksten, waaronder schema's, tabellen en digitale bronnen.",
+			"description": "Informatie opzoeken",
+			"kerndoelLabel": "Informatie opzoeken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fd1fd0be-25ed-47af-8ed1-15c8f6b2d8e8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fd1fd0be-25ed-47af-8ed1-15c8f6b2d8e8",
+			"uuid": "fd1fd0be-25ed-47af-8ed1-15c8f6b2d8e8",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 05",
+			"title": "De leerlingen leren naar inhoud en vorm teksten te schrijven met verschillende functies, zoals: informeren, instrueren, overtuigen of plezier verschaffen.",
+			"description": "Teksttypen onderscheiden",
+			"kerndoelLabel": "Teksttypen onderscheiden",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/998d290b-5882-43e9-bf38-b41992ff2ce7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/998d290b-5882-43e9-bf38-b41992ff2ce7",
+			"uuid": "998d290b-5882-43e9-bf38-b41992ff2ce7",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 06",
+			"title": "De leerlingen leren informatie en meningen te ordenen bij het lezen van school- en studieteksten en andere instructieve teksten, bij systematisch geordende bronnen, waaronder digitale.",
+			"description": "Informatie ordenen",
+			"kerndoelLabel": "Informatie ordenen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a81b68fb-b89b-4654-a27a-e46c2cf7dd98",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a81b68fb-b89b-4654-a27a-e46c2cf7dd98",
+			"uuid": "a81b68fb-b89b-4654-a27a-e46c2cf7dd98",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 07",
+			"title": "De leerlingen leren informatie en meningen te vergelijken en te beoordelen in verschillende teksten.",
+			"description": "Informatie vergelijken",
+			"kerndoelLabel": "Informatie vergelijken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7c484813-ec13-451f-97b0-ff9b7fbab690",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c484813-ec13-451f-97b0-ff9b7fbab690",
+			"uuid": "7c484813-ec13-451f-97b0-ff9b7fbab690",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 08",
+			"title": "De leerlingen leren informatie en meningen te ordenen bij het schrijven van een brief, een verslag, een formulier of een werkstuk. Zij besteden daarbij aandacht aan zinsbouw, correcte spelling, een leesbaar handschrift, bladspiegel, eventueel beeldende elementen en kleur.",
+			"description": "Teksten produceren",
+			"kerndoelLabel": "Teksten produceren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7893825b-806a-4850-9870-8cb5f94cf5a6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7893825b-806a-4850-9870-8cb5f94cf5a6",
+			"uuid": "7893825b-806a-4850-9870-8cb5f94cf5a6",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 09",
+			"title": "De leerlingen krijgen plezier in het lezen en schrijven van voor hen bestemde verhalen, gedichten en informatieve teksten.",
+			"description": "Plezier in lezen en schrijven",
+			"kerndoelLabel": "Plezier in lezen en schrijven",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
+			"uuid": "a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 10",
+			"title": "De leerlingen leren bij de doelen onder 'mondeling taalonderwijs' en 'schriftelijk taalonderwijs' strategieën te herkennen, te verwoorden, te gebruiken en te beoordelen.",
+			"description": "Strategieen hanteren",
+			"kerndoelLabel": "Strategieën hanteren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b7a5317-c622-423c-b337-b4c656d8d372",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b7a5317-c622-423c-b337-b4c656d8d372",
+			"uuid": "7b7a5317-c622-423c-b337-b4c656d8d372",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 11",
+			"title": "De leerlingen leren een aantal taalkundige principes en regels. Zij kunnen in een zin het onderwerp, het werkwoordelijk gezegde en delen van dat gezegde onderscheiden. De leerlingen kennen: regels voor het spellen van werkwoorden;",
+			"description": "Principes en regels",
+			"kerndoelLabel": "Principes en regels",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8990498f-49bb-4e40-8121-0a74b18c7ae7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8990498f-49bb-4e40-8121-0a74b18c7ae7",
+			"uuid": "8990498f-49bb-4e40-8121-0a74b18c7ae7",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 12",
+			"title": "De leerlingen verwerven een adequate woordenschat en strategieën voor het begrijpen van voor hen onbekende woorden. Onder 'woordenschat' vallen ook begrippen die het leerlingen mogelijk maken over taal te denken en te spreken.",
+			"description": "Woordenschat",
+			"kerndoelLabel": "Woordenschat",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f7032363-a75d-4e9e-abc8-6fba2eb976d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7032363-a75d-4e9e-abc8-6fba2eb976d0",
+			"uuid": "f7032363-a75d-4e9e-abc8-6fba2eb976d0",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 13",
+			"title": "De leerlingen leren informatie te verwerven uit eenvoudige gesproken en geschreven Engelse teksten.",
+			"description": "Informatie verwerken",
+			"kerndoelLabel": "Informatie verwerken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ec34151-af9f-46b3-ba7f-841672f00705",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ec34151-af9f-46b3-ba7f-841672f00705",
+			"uuid": "7ec34151-af9f-46b3-ba7f-841672f00705",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 14",
+			"title": "De leerlingen leren in het Engels informatie te vragen of geven over eenvoudige onderwerpen en zij ontwikkelen een attitude waarbij ze zich durven uit te drukken in die taal.",
+			"description": "Spreken",
+			"kerndoelLabel": "Spreken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1fa773c2-2e84-41e0-9a45-ab5f6d4af705",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1fa773c2-2e84-41e0-9a45-ab5f6d4af705",
+			"uuid": "1fa773c2-2e84-41e0-9a45-ab5f6d4af705",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 15",
+			"title": "De leerlingen leren de schrijfwijze van enkele eenvoudige woorden over alledaagse onderwerpen.",
+			"description": "Schrijfwijze van woorden",
+			"kerndoelLabel": "Schrijfwijze van woorden",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c2071a4a-288d-4bfd-97b8-0cd9d68ff5c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2071a4a-288d-4bfd-97b8-0cd9d68ff5c2",
+			"uuid": "c2071a4a-288d-4bfd-97b8-0cd9d68ff5c2",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 16",
+			"title": "De leerlingen leren om woordbetekenissen en schrijfwijzen van Engelse woorden op te zoeken met behulp van het woordenboek.",
+			"description": "Woordenboek hanteren",
+			"kerndoelLabel": "Woordenboek hanteren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/721cb364-8e27-42ed-95b8-31296c4dd425",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/721cb364-8e27-42ed-95b8-31296c4dd425",
+			"uuid": "721cb364-8e27-42ed-95b8-31296c4dd425",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 17",
+			"title": "De leerlingen ontwikkelen een positieve attitude ten opzichte van het gebruik van Fries door henzelf en anderen.",
+			"description": "Positieve attitude",
+			"kerndoelLabel": "Positieve attitude",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3f8fa2b2-544f-46f9-ae7c-363112c1256a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f8fa2b2-544f-46f9-ae7c-363112c1256a",
+			"uuid": "3f8fa2b2-544f-46f9-ae7c-363112c1256a",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 18",
+			"title": "De leerlingen leren informatie te verwerven uit gesproken Fries. Het gaat om teksten die informatie geven, plezier verschaffen, meningen of aanwijzingen bevatten over voor hen bekende onderwerpen.",
+			"description": "Informatie verwerven",
+			"kerndoelLabel": "Informatie verwerven",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/27b77b33-f0f8-4079-b245-62a0d7c37025",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/27b77b33-f0f8-4079-b245-62a0d7c37025",
+			"uuid": "27b77b33-f0f8-4079-b245-62a0d7c37025",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 19",
+			"title": "De leerlingen leren zich naar inhoud en vorm in het Fries uit te drukken in situaties uit hun dagelijks leven waarin zij informatie vragen of geven over een onderwerp waarmee zij vertrouwd zijn.",
+			"description": "Spreken",
+			"kerndoelLabel": "Spreken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a256864b-e6e0-4341-a09a-313bab72ec07",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a256864b-e6e0-4341-a09a-313bab72ec07",
+			"uuid": "a256864b-e6e0-4341-a09a-313bab72ec07",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 20",
+			"title": "De leerlingen leren informatie te verwerven uit teksten in het Fries in frequent voorkomende teksttypen (zoals artikelen in jeugdrubrieken, liedjes, verhalen).",
+			"description": "Teksttypes hanteren",
+			"kerndoelLabel": "Teksttypes hanteren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1c6d8e5-5f18-4ef8-8845-1923c71e5edc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1c6d8e5-5f18-4ef8-8845-1923c71e5edc",
+			"uuid": "f1c6d8e5-5f18-4ef8-8845-1923c71e5edc",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 21",
+			"title": "De leerlingen leren eenvoudige teksten in het Fries te schrijven over alledaagse onderwerpen met het doel met anderen over die onderwerpen te communiceren.",
+			"description": "Teksten produceren",
+			"kerndoelLabel": "Teksten produceren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/49f4b7e6-68b2-4dbe-82e7-3eaa450176bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49f4b7e6-68b2-4dbe-82e7-3eaa450176bb",
+			"uuid": "49f4b7e6-68b2-4dbe-82e7-3eaa450176bb",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 22",
+			"title": "De leerlingen verwerven een woordenschat van frequent gebruikte Friese woorden en strategieën voor het begrijpen van voor hen onbekende woorden.",
+			"description": "Woordenschat",
+			"kerndoelLabel": "Woordenschat",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+			"uuid": "ca8a7c55-b038-4eb7-ab26-e87fa58bced0",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 23",
+			"title": "De leerlingen leren wiskundetaal gebruiken.",
+			"description": "Wiskundetaal gebruiken",
+			"kerndoelLabel": "Wiskundetaal gebruiken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+			"uuid": "7efa59c6-b263-42c3-9199-bf818c6a1b4b",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 24",
+			"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+			"description": "Wiskundige problemen oplossen",
+			"kerndoelLabel": "Wiskundige problemen oplossen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b24b831e-ba83-4118-91d3-00ec1bc13650",
+			"uuid": "b24b831e-ba83-4118-91d3-00ec1bc13650",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 25",
+			"title": "De leerlingen leren aanpakken bij het oplossen van reken wiskundeproblemen te onderbouwen en leren oplossingen te beoordelen.",
+			"description": "Strategieen beoordelen",
+			"kerndoelLabel": "Strategieen beoordelen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ed1e736-c541-4b47-9061-34117d70c859",
+			"uuid": "1ed1e736-c541-4b47-9061-34117d70c859",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 26",
+			"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+			"description": "Structuren doorzien",
+			"kerndoelLabel": "Structuren doorzien",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c2bfba34-1ca1-4560-9131-67cd068f9713",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2bfba34-1ca1-4560-9131-67cd068f9713",
+			"uuid": "c2bfba34-1ca1-4560-9131-67cd068f9713",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 27",
+			"title": "De leerlingen leren de basisbewerkingen met gehele getallen in elk geval tot 100 snel uit het hoofd uitvoeren, waarbij optellen en aftrekken tot 20 en de tafels van buiten gekend zijn.",
+			"description": "Basisbewerkingen automatiseren",
+			"kerndoelLabel": "Basisbewerkingen automatiseren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+			"uuid": "ff515534-6ed1-45cb-9767-ee4a70119b19",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 28",
+			"title": "De leerlingen leren schattend tellen en rekenen.",
+			"description": "Schattend rekenen",
+			"kerndoelLabel": "Schattend rekenen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+			"uuid": "1ef4dfbf-1810-4fc5-94ef-d455fdcf3661",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 29",
+			"title": "De leerlingen leren handig optellen, aftrekken, vermenigvuldigen en delen.",
+			"description": "Handig rekenen",
+			"kerndoelLabel": "Handig rekenen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+			"uuid": "93556d3a-c7d0-4a49-a692-6fddf17f9aa5",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 30",
+			"title": "De leerlingen leren schriftelijk optellen, aftrekken, vermenigvuldigen en delen volgens meer of minder verkorte standaardprocedures.",
+			"description": "Standaardprocedures",
+			"kerndoelLabel": "Standaardprocedures",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+			"uuid": "a40c6b0a-cb46-4fc3-b42d-23a4457ab21e",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 31",
+			"title": "De leerlingen leren de rekenmachine met inzicht te gebruiken.",
+			"description": "Rekenmachine",
+			"kerndoelLabel": "Rekenmachine",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9ed074c3-29f2-475b-bbe3-aaca1b78077b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ed074c3-29f2-475b-bbe3-aaca1b78077b",
+			"uuid": "9ed074c3-29f2-475b-bbe3-aaca1b78077b",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 32",
+			"title": "De leerlingen leren eenvoudige meetkundige problemen op te lossen.",
+			"description": "Meetkundige problemen oplossen",
+			"kerndoelLabel": "Meetkundige problemen oplossen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+			"uuid": "d4b16fc2-8c8a-46ae-956c-d5cdfc6ff03d",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 33",
+			"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+			"description": "Eenheden en maten",
+			"kerndoelLabel": "Eenheden en maten",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/82c7db22-1b7f-4890-8720-dd2aa8373b56",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/82c7db22-1b7f-4890-8720-dd2aa8373b56",
+			"uuid": "82c7db22-1b7f-4890-8720-dd2aa8373b56",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 34",
+			"title": "De leerlingen leren zorg te dragen voor de lichamelijke en psychische gezondheid van henzelf en anderen.",
+			"description": "Gezondheid",
+			"kerndoelLabel": "Gezondheid",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45dbe23d-61b7-4332-872d-a5280d7a17b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45dbe23d-61b7-4332-872d-a5280d7a17b0",
+			"uuid": "45dbe23d-61b7-4332-872d-a5280d7a17b0",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 35",
+			"title": "De leerlingen leren zich redzaam te gedragen in sociaal opzicht, als verkeersdeelnemer en als consument.",
+			"description": "Redzaam gedrag",
+			"kerndoelLabel": "Redzaam gedrag",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/28a9525c-da1f-4b7f-b67f-38a3b96b369f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/28a9525c-da1f-4b7f-b67f-38a3b96b369f",
+			"uuid": "28a9525c-da1f-4b7f-b67f-38a3b96b369f",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 36",
+			"title": "De leerlingen leren hoofdzaken van de Nederlandse en Europese staatsinrichting en hun rol als burger.",
+			"description": "Staatsinrichting",
+			"kerndoelLabel": "Staatsinrichting",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45885286-dc4b-4648-b4b3-16f14ebf262f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45885286-dc4b-4648-b4b3-16f14ebf262f",
+			"uuid": "45885286-dc4b-4648-b4b3-16f14ebf262f",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 37",
+			"title": "De leerlingen leren zich te gedragen vanuit respect voor algemeen aanvaarde waarden en normen.",
+			"description": "Waarden en normen",
+			"kerndoelLabel": "Waarden en normen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/156d3f88-03e0-458f-87f1-c624219ec99f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/156d3f88-03e0-458f-87f1-c624219ec99f",
+			"uuid": "156d3f88-03e0-458f-87f1-c624219ec99f",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 38",
+			"title": "De leerlingen leren hoofdzaken over geestelijke stromingen die in de Nederlandse multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met verschillen in opvattingen van mensen, en ze leren respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.",
+			"description": "Geestelijke stromingen",
+			"kerndoelLabel": "Geestelijke stromingen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7f6e0edc-e38f-43bb-a7f8-82d0cab137ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f6e0edc-e38f-43bb-a7f8-82d0cab137ad",
+			"uuid": "7f6e0edc-e38f-43bb-a7f8-82d0cab137ad",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 39",
+			"title": "De leerlingen leren met zorg om te gaan met het milieu.",
+			"description": "Milieu",
+			"kerndoelLabel": "Milieu",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2de22d5b-8896-4338-a202-519119b58c56",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2de22d5b-8896-4338-a202-519119b58c56",
+			"uuid": "2de22d5b-8896-4338-a202-519119b58c56",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 40",
+			"title": "De leerlingen leren in de eigen omgeving veel voorkomende planten en dieren onderscheiden en benoemen en leren hoe ze functioneren in hun leefomgeving.",
+			"description": "Planten en dieren herkennen",
+			"kerndoelLabel": "Planten en dieren herkennen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1095e038-a147-4b0a-bbfa-a202789744da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1095e038-a147-4b0a-bbfa-a202789744da",
+			"uuid": "1095e038-a147-4b0a-bbfa-a202789744da",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 41",
+			"title": "De leerlingen leren over de bouw van planten, dieren en mensen en over de vorm en functie van hun onderdelen.",
+			"description": "Bouw van organismen",
+			"kerndoelLabel": "Bouw van organismen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c3d8c8c0-0f94-4dec-8ce6-f52fab27158f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c3d8c8c0-0f94-4dec-8ce6-f52fab27158f",
+			"uuid": "c3d8c8c0-0f94-4dec-8ce6-f52fab27158f",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 42",
+			"title": "De leerlingen leren onderzoek doen aan materialen en natuurkundige verschijnselen, zoals licht, geluid, electriciteit, kracht, magnetisme en temperatuur.",
+			"description": "Natuurkundige verschijnselen",
+			"kerndoelLabel": "Natuurkundige verschijnselen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+					"title": "ob vmbo",
+					"prefix": "3100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ae2a7b51-65e1-4186-b4ec-8355dba8cb80",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ae2a7b51-65e1-4186-b4ec-8355dba8cb80",
+			"uuid": "ae2a7b51-65e1-4186-b4ec-8355dba8cb80",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 43",
+			"title": "De leerlingen leren hoe je weer en klimaat kunt beschrijven met behulp van temperatuur, neerslag en wind.",
+			"description": "Weer en klimaat",
+			"kerndoelLabel": "Weer en klimaat",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
+			"uuid": "3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 44",
+			"title": "De leerlingen leren bij producten uit hun eigen omgeving relaties te leggen tussen de werking, de vorm en het materiaalgebruik.",
+			"description": "Kennis van produkten",
+			"kerndoelLabel": "Kennis van produkten",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+					"title": "ob vmbo",
+					"prefix": "3100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e652ff27-3b26-4820-8d7b-32e9d38836e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e652ff27-3b26-4820-8d7b-32e9d38836e1",
+			"uuid": "e652ff27-3b26-4820-8d7b-32e9d38836e1",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 45",
+			"title": "De leerlingen leren oplossingen voor technische problemen te ontwerpen, deze uit te voeren en te evalueren.",
+			"description": "Technische oplossingen",
+			"kerndoelLabel": "Technische oplossingen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+					"title": "ob vmbo",
+					"prefix": "3100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/518b5749-dbe3-4e31-a139-f520752566e4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/518b5749-dbe3-4e31-a139-f520752566e4",
+			"uuid": "518b5749-dbe3-4e31-a139-f520752566e4",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 46",
+			"title": "De leerlingen leren dat de positie van de aarde ten opzichte van de zon leidt tot natuurverschijnselen, zoals seizoenen en dag-/nachtritme.",
+			"description": "Dagritme en seizoenen",
+			"kerndoelLabel": "Dagritme en seizoenen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+					"title": "ob vmbo",
+					"prefix": "3100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4fb0176d-c4b4-4455-9cce-d43b6c1a9ac8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4fb0176d-c4b4-4455-9cce-d43b6c1a9ac8",
+			"uuid": "4fb0176d-c4b4-4455-9cce-d43b6c1a9ac8",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 47",
+			"title": "De leerlingen leren de ruimtelijke inrichting van de eigen omgeving te vergelijken met die in omgevingen elders, in binnen- en buitenland, vanuit de perspectieven landschap, wonen, werken, bestuur, verkeer, recreatie, welvaart, cultuur en levensbeschouwing. In ieder geval wordt daarbij aandacht besteed aan twee lidstaten van de Europese Unie en twee landen die in 2004 lid worden/ werden, de Verenigde Staten en een land in Azië, Afrika en Zuid-Amerika.",
+			"description": "Ruimtelijke inrichting",
+			"kerndoelLabel": "Ruimtelijke inrichting",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89dafb2b-df9c-4f05-af37-1468f91983d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89dafb2b-df9c-4f05-af37-1468f91983d1",
+			"uuid": "89dafb2b-df9c-4f05-af37-1468f91983d1",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 48",
+			"title": "Kinderen leren over de maatregelen die in Nederland genomen worden/ werden om bewoning van door water bedreigde gebieden mogelijk te maken.",
+			"description": "Omgang met water",
+			"kerndoelLabel": "Omgang met water",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/59065228-97c2-487c-9db3-a6d4242fc633",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/59065228-97c2-487c-9db3-a6d4242fc633",
+			"uuid": "59065228-97c2-487c-9db3-a6d4242fc633",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 49",
+			"title": "De leerlingen leren over de mondiale ruimtelijke spreiding van bevolkingsconcentraties en godsdiensten, van klimaten, energiebronnen en van natuurlandschappen zoals vulkanen, woestijnen, tropische regenwouden, hooggebergten en rivieren.",
+			"description": "Spreiding van bevolking en landschap",
+			"kerndoelLabel": "Spreiding van bevolking en landschap",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f2bacf1a-e6f9-4556-a1b9-54960a50df4b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f2bacf1a-e6f9-4556-a1b9-54960a50df4b",
+			"uuid": "f2bacf1a-e6f9-4556-a1b9-54960a50df4b",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 50",
+			"title": "De leerlingen leren omgaan met kaart en atlas, beheersen de basistopografie van Nederland, Europa en de rest van de wereld en ontwikkelen een eigentijds geografisch wereldbeeld.",
+			"description": "Kaart en atlas",
+			"kerndoelLabel": "Kaart en atlas",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8acd5003-003c-4705-be24-1eb03ca73699",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8acd5003-003c-4705-be24-1eb03ca73699",
+			"uuid": "8acd5003-003c-4705-be24-1eb03ca73699",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 51",
+			"title": "De leerlingen leren gebruik te maken van eenvoudige historische bronnen, zoals aanwezig in ons cultureel erfgoed, en ze leren aanduidingen van tijd en tijdsindeling te hanteren.",
+			"description": "Historische bronnen",
+			"kerndoelLabel": "Historische bronnen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2a2a741-5b36-4aff-8acc-9523fba6af5e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2a2a741-5b36-4aff-8acc-9523fba6af5e",
+			"uuid": "e2a2a741-5b36-4aff-8acc-9523fba6af5e",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 52",
+			"title": "De leerlingen leren over kenmerkende aspecten van de volgende tijdvakken: jagers en boeren; Grieken en Romeinen; monniken en ridders; steden en staten; ontdekkers en hervormers; regenten en vorsten; pruiken en revoluties; burgers en stoommachines; wereldoorlogen en holocaust; televisie en computer. De vensters van de canon van Nederland dienen als uitgangspunt ter illustratie van de tijdvakken.",
+			"description": "Tijdvakken",
+			"kerndoelLabel": "Tijdvakken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c6af9dc7-efee-4cb3-83b2-bf5c54512238",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c6af9dc7-efee-4cb3-83b2-bf5c54512238",
+			"uuid": "c6af9dc7-efee-4cb3-83b2-bf5c54512238",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 53",
+			"title": "De leerlingen leren over de belangrijke historische personen en gebeurtenissen uit de Nederlandse geschiedenis en kunnen die voorbeeldmatig verbinden met de wereldgeschiedenis.",
+			"description": "Personen en gebeurtenissen",
+			"kerndoelLabel": "Personen en gebeurtenissen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+			"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 54",
+			"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+			"description": "Uitdrukken en communiceren",
+			"kerndoelLabel": "Uitdrukken en communiceren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d619232e-394a-4c8c-b607-e94c36bfd48f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d619232e-394a-4c8c-b607-e94c36bfd48f",
+			"uuid": "d619232e-394a-4c8c-b607-e94c36bfd48f",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 55",
+			"title": "De leerlingen leren op eigen werk en dat van anderen te reflecteren.",
+			"description": "Reflecteren",
+			"kerndoelLabel": "Reflecteren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7555bcba-47e9-41d2-b04a-5a3623062146",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7555bcba-47e9-41d2-b04a-5a3623062146",
+			"uuid": "7555bcba-47e9-41d2-b04a-5a3623062146",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 56",
+			"title": "De leerlingen verwerven enige kennis over en krijgen waardering voor aspecten van cultureel erfgoed.",
+			"description": "Cultureel erfgoed",
+			"kerndoelLabel": "Cultureel erfgoed",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+			"uuid": "8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 57",
+			"title": "De leerlingen leren op een verantwoorde manier deelnemen aan de omringende bewegingscultuur en leren de hoofdbeginselen van de belangrijkste bewegings- en spelvormen ervaren en uitvoeren.",
+			"description": "Leren deelnemen",
+			"kerndoelLabel": "Leren deelnemen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+			"uuid": "4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+			"@type": "Kerndoel",
+			"prefix": "PO Kerndoel 58",
+			"title": "De leerlingen leren samen met anderen op een respectvolle manier aan bewegingsactiviteiten deelnemen, afspraken maken over het reguleren daarvan, de eigen bewegingsmogelijkheden inschatten en daarmee bij activiteiten rekening houden.",
+			"description": "Leren samenwerken",
+			"kerndoelLabel": "Leren samenwerken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c5ee2260-0c89-4d45-812d-ec049770e108",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c5ee2260-0c89-4d45-812d-ec049770e108",
+			"uuid": "c5ee2260-0c89-4d45-812d-ec049770e108",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LO 1",
+			"title": "De leerlingen leren hun zintuiglijke en motorische mogelijkheden optimaliseren en geïntegreerd gebruiken en leren omgaan met hun beperkingen, hulpmiddelen en met de hulp van anderen.",
+			"description": "Zintuigen en motoriek",
+			"kerndoelLabel": "Zintuigen en motoriek",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2fe3cd08-ade4-446e-809c-3c5f4a06b7f6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2fe3cd08-ade4-446e-809c-3c5f4a06b7f6",
+			"uuid": "2fe3cd08-ade4-446e-809c-3c5f4a06b7f6",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LO 2",
+			"title": "De leerlingen leren met gevoel voor zelfvertrouwen en zelfwaardering omgaan met de eigen mogelijkheden en grenzen en leren uiting geven aan eigen wensen, gevoelens en opvattingen.",
+			"description": "Zelfbeeld",
+			"kerndoelLabel": "Zelfbeeld",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8dfac42-bfd9-4158-9f70-5e08d5b6e02b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8dfac42-bfd9-4158-9f70-5e08d5b6e02b",
+			"uuid": "a8dfac42-bfd9-4158-9f70-5e08d5b6e02b",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LO 3",
+			"title": "De leerlingen leren naar algemeen geaccepteerde normen en waarden omgaan met anderen en leren samenwerken aan een gezamenlijke taak of gezamenlijk spel en leren omgaan met conflictsituaties.",
+			"description": "Sociaal gedrag",
+			"kerndoelLabel": "Sociaal gedrag",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3a68c840-0451-4538-87e3-83bdf331dc15",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a68c840-0451-4538-87e3-83bdf331dc15",
+			"uuid": "3a68c840-0451-4538-87e3-83bdf331dc15",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LO 4",
+			"title": "De leerlingen leren belangstelling hebben voor de wereld om hen heen, ze leren deze gemotiveerd onderzoeken en daarin taken uitvoeren, waarbij ze gebruik maken van informatie, strategieën en vaardigheden en ze leren reflecteren op eigen handelen.",
+			"description": "Leren leren",
+			"kerndoelLabel": "Leren leren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e46ad1ef-e5ed-45e2-8e00-307ff2b2a0b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e46ad1ef-e5ed-45e2-8e00-307ff2b2a0b6",
+			"uuid": "e46ad1ef-e5ed-45e2-8e00-307ff2b2a0b6",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LO 5",
+			"title": "De leerlingen leren omgaan met media en technologische hulp- middelen, waaronder hulpmiddelen en aanpassingen voor de beperking, die de redzaamheid vergroten.",
+			"description": "Omgaan met media en technologische hulpmiddelen",
+			"kerndoelLabel": "Omgaan met media en technologische hulpmiddelen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/598910b8-55ed-457d-a732-dc31a6d1f225",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/598910b8-55ed-457d-a732-dc31a6d1f225",
+			"uuid": "598910b8-55ed-457d-a732-dc31a6d1f225",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LO 6",
+			"title": "De leerlingen leren zich in de ruimte (binnen en buiten) oriënteren en verplaatsen.",
+			"description": "Ruimtelijke orientatie",
+			"kerndoelLabel": "Ruimtelijke orientatie",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fbea1aef-7ed4-4c97-800b-a6ad454e13d3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fbea1aef-7ed4-4c97-800b-a6ad454e13d3",
+			"uuid": "fbea1aef-7ed4-4c97-800b-a6ad454e13d3",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LO 7",
+			"title": "De leerlingen leren hun dagelijkse activiteiten en behoeften zoveel mogelijk zelfstandig realiseren.",
+			"description": "Praktische redzaamheid",
+			"kerndoelLabel": "Praktische redzaamheid",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
+			"uuid": "0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 10",
+			"title": "De leerlingen leren informatie te beoordelen in discussies en in een gesprek dat informatief of opiniërend van karakter is en leren met argumenten te reageren.",
+			"description": "Gesprekken voeren",
+			"kerndoelLabel": "Gesprekken voeren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/acbe1e48-6818-4535-9355-d0433f6a46b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/acbe1e48-6818-4535-9355-d0433f6a46b5",
+			"uuid": "acbe1e48-6818-4535-9355-d0433f6a46b5",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 11",
+			"title": "De leerlingen leren informatie te achterhalen in informatieve en instructieve teksten, waaronder schema's, tabellen en digitale bronnen.",
+			"description": "Lezen",
+			"kerndoelLabel": "Lezen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53c424ca-7fb5-4014-aa55-0ddf11768b73",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53c424ca-7fb5-4014-aa55-0ddf11768b73",
+			"uuid": "53c424ca-7fb5-4014-aa55-0ddf11768b73",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 12",
+			"title": "De leerlingen leren naar inhoud en vorm teksten te schrijven met verschillende functies, zoals: informeren, instrueren, overtuigen of plezier verschaffen.",
+			"description": "Schrijven",
+			"kerndoelLabel": "Schrijven",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/510c295c-15bd-4f9b-a20c-4a53b59eff01",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/510c295c-15bd-4f9b-a20c-4a53b59eff01",
+			"uuid": "510c295c-15bd-4f9b-a20c-4a53b59eff01",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 13",
+			"title": "De leerlingen leren informatie en meningen te ordenen bij het lezen van school- en studieteksten en andere instructieve teksten, bij systematisch geordende bronnen, waaronder digitale.",
+			"description": "Lezen",
+			"kerndoelLabel": "Lezen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/576894bf-95a3-4759-bda4-2b006de2af88",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/576894bf-95a3-4759-bda4-2b006de2af88",
+			"uuid": "576894bf-95a3-4759-bda4-2b006de2af88",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 14",
+			"title": "De leerlingen leren informatie en meningen te vergelijken en te beoordelen in verschillende teksten.",
+			"description": "Informatie vergelijken",
+			"kerndoelLabel": "Informatie vergelijken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fe5dfcb6-14e7-4772-ac1f-777b9bc1df4f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe5dfcb6-14e7-4772-ac1f-777b9bc1df4f",
+			"uuid": "fe5dfcb6-14e7-4772-ac1f-777b9bc1df4f",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 15",
+			"title": "De leerlingen leren informatie en meningen te ordenen bij het schrijven van een brief, een verslag, een formulier of een werkstuk. Zij besteden daarbij aandacht aan zinsbouw, correcte spelling, een leesbaar hand- schrift, bladspiegel, eventueel beeldende elementen en kleur.",
+			"description": "Informatie ordenen",
+			"kerndoelLabel": "Informatie ordenen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c21d6e0f-5553-4a16-b745-b64993b5b845",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c21d6e0f-5553-4a16-b745-b64993b5b845",
+			"uuid": "c21d6e0f-5553-4a16-b745-b64993b5b845",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 16",
+			"title": "De leerlingen krijgen plezier in het lezen en schrijven van voor hen bestemde verhalen, gedichten en informatieve teksten.",
+			"description": "Positieve attitude",
+			"kerndoelLabel": "Positieve attitude",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/043fbba8-9324-491e-9822-7a6d63214a5f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/043fbba8-9324-491e-9822-7a6d63214a5f",
+			"uuid": "043fbba8-9324-491e-9822-7a6d63214a5f",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 17",
+			"title": "De leerlingen leren bij de doelen onder ‘mondeling taalonderwijs’ en ‘schriftelijk taalonderwijs’ strategieën te herkennen, te verwoorden, te gebruiken en te beoordelen.",
+			"description": "Strategieen",
+			"kerndoelLabel": "Strategieen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f40d3dd3-0c93-4e76-bb6f-478a16639b89",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f40d3dd3-0c93-4e76-bb6f-478a16639b89",
+			"uuid": "f40d3dd3-0c93-4e76-bb6f-478a16639b89",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 18",
+			"title": "De leerlingen leren een aantal taalkundige principes en regels. Zij kunnen in een zin het onderwerp, het werkwoordelijk gezegde en delen van dat gezegde onderscheiden.",
+			"description": "Taalkundige principes",
+			"kerndoelLabel": "Taalkundige principes",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a07c217e-02fa-4909-908f-8608801e52d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a07c217e-02fa-4909-908f-8608801e52d7",
+			"uuid": "a07c217e-02fa-4909-908f-8608801e52d7",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 18.1",
+			"title": "De leerlingen kennen regels voor het spellen van werkwoorden.",
+			"description": "Spellen werkwoorden",
+			"kerndoelLabel": "Spellen werkwoorden",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e22454b9-8bbb-4399-aaae-5e65d6841d7d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e22454b9-8bbb-4399-aaae-5e65d6841d7d",
+			"uuid": "e22454b9-8bbb-4399-aaae-5e65d6841d7d",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 18.2",
+			"title": "De leerlingen kennen regels voor het spellen van andere woorden dan werkwoorden.",
+			"description": "Spellen van niet werkwoorden",
+			"kerndoelLabel": "Spellen van niet werkwoorden",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/172f783f-937f-455d-af3d-6048b5874e8f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/172f783f-937f-455d-af3d-6048b5874e8f",
+			"uuid": "172f783f-937f-455d-af3d-6048b5874e8f",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 18.3",
+			"title": "De leerlingen kennen regels voor het gebruik van leestekens.",
+			"description": "Leestekens",
+			"kerndoelLabel": "Leestekens",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45931ece-3f72-42a5-b808-a7819c1872be",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45931ece-3f72-42a5-b808-a7819c1872be",
+			"uuid": "45931ece-3f72-42a5-b808-a7819c1872be",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 19",
+			"title": "De leerlingen verwerven een adequate woordenschat en strategieën voor het begrijpen van voor hen onbekende woorden. Onder ‘woordenschat’ vallen ook begrippen die het leerlingen mogelijk maken over taal te denken en te spreken.",
+			"description": "Woordenschat",
+			"kerndoelLabel": "Woordenschat",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/be381023-63d8-4526-b630-90bf7453c51a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be381023-63d8-4526-b630-90bf7453c51a",
+			"uuid": "be381023-63d8-4526-b630-90bf7453c51a",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 20",
+			"title": "De leerlingen leren informatie te verwerven uit gebarentaalaanbod en leren deelnemen in gebarencommunicatie in verschillende gespreksituaties.",
+			"description": "Informatie verwerven",
+			"kerndoelLabel": "Informatie verwerven",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c5700f90-543e-4ef1-b48a-f19dbc74f87f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c5700f90-543e-4ef1-b48a-f19dbc74f87f",
+			"uuid": "c5700f90-543e-4ef1-b48a-f19dbc74f87f",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 21",
+			"title": "De leerlingen leren zich naar vorm en inhoud uit te drukken in de Nederlandse Gebarentaal bij het geven en vragen van informatie, het uitbrengen van verslag, het geven van uitleg, het instrueren, het discussiëren en bij het uitdrukken van meningen en gevoelens.",
+			"description": "Vorm en inhoud uitdrukken",
+			"kerndoelLabel": "Vorm en inhoud uitdrukken",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d167f9b1-cd8b-47d5-a218-6c6bc661fa11",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d167f9b1-cd8b-47d5-a218-6c6bc661fa11",
+			"uuid": "d167f9b1-cd8b-47d5-a218-6c6bc661fa11",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 22",
+			"title": "De leerlingen leren dat men kan gebaren en kijken met verschillende doelen (tekstsoorten) en leren verhalen en gebeurtenissen weer te geven in de NGT.",
+			"description": "Doelgericht uiten",
+			"kerndoelLabel": "Doelgericht uiten",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bde4c581-cc04-439e-a08d-d95ff744216a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bde4c581-cc04-439e-a08d-d95ff744216a",
+			"uuid": "bde4c581-cc04-439e-a08d-d95ff744216a",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 23",
+			"title": "De leerlingen leren een presentatie in de NGT te geven, waarbij rekening gehouden wordt met gerichtheid op beoogde toeschouwers, duidelijk- heid van informatie en formulering, kwaliteit van structuur en opbouw, en planning en verzorging.",
+			"description": "Presenteren",
+			"kerndoelLabel": "Presenteren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e79198ce-df12-45c2-bf40-db070246ad0a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e79198ce-df12-45c2-bf40-db070246ad0a",
+			"uuid": "e79198ce-df12-45c2-bf40-db070246ad0a",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 24",
+			"title": "De leerlingen leren bij gebruik van de NGT strategieën herkennen, ‘verwoorden’, gebruiken en beoordelen.",
+			"description": "Strategieen herkennen",
+			"kerndoelLabel": "Strategieen herkennen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"uuid": "13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 25",
+			"title": "De leerlingen leren welke verschillende vormen van communicatie bestaan tussen dove mensen onderling en tussen dove mensen en horende mensen.",
+			"description": "Communicatievormen",
+			"kerndoelLabel": "Communicatievormen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"uuid": "10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 26",
+			"title": "De leerlingen leren een adequate gebarenlexicon en strategieën verwerven voor het begrijpen van voor hen onbekende gebaren.",
+			"description": "Gebarenlexicon",
+			"kerndoelLabel": "Gebarenlexicon",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/417ed529-bee9-486d-b49a-320acbe76267",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/417ed529-bee9-486d-b49a-320acbe76267",
+			"uuid": "417ed529-bee9-486d-b49a-320acbe76267",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 27",
+			"title": "De leerlingen leren taalkundige principes en regels van de gebarentaal zoals rolnemen, lokaliseren, basiselementen en de parameters.",
+			"description": "Taalkundige principes",
+			"kerndoelLabel": "Taalkundige principes",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d46ee7dd-0d43-4a93-a9cc-328c534c5182",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d46ee7dd-0d43-4a93-a9cc-328c534c5182",
+			"uuid": "d46ee7dd-0d43-4a93-a9cc-328c534c5182",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 28",
+			"title": "De leerlingen leren informatie te verwerven uit eenvoudige gesproken en geschreven Engelse teksten.",
+			"description": "Luisteren en lezen",
+			"kerndoelLabel": "Luisteren en lezen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7891902e-94ef-46c6-ab20-8ffda18dd7a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7891902e-94ef-46c6-ab20-8ffda18dd7a1",
+			"uuid": "7891902e-94ef-46c6-ab20-8ffda18dd7a1",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 29",
+			"title": "De leerlingen leren in het Engels informatie te vragen of geven over eenvoudige onderwerpen en zij ontwikkelen een attitude waarbij ze zich durven uit te drukken in die taal.",
+			"description": "Gesprekken voeren",
+			"kerndoelLabel": "Gesprekken voeren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7d4c4b30-f87e-4dec-bb45-1b3c1ed848d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7d4c4b30-f87e-4dec-bb45-1b3c1ed848d0",
+			"uuid": "7d4c4b30-f87e-4dec-bb45-1b3c1ed848d0",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 30",
+			"title": "De leerlingen leren de schrijfwijze van enkele eenvoudige woorden over alledaagse onderwerpen.",
+			"description": "Schrijven",
+			"kerndoelLabel": "Schrijven",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/936c729e-5928-468a-8e7b-d1a8b1451d6a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/936c729e-5928-468a-8e7b-d1a8b1451d6a",
+			"uuid": "936c729e-5928-468a-8e7b-d1a8b1451d6a",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 31",
+			"title": "De leerlingen leren om woordbetekenissen en schrijfwijzen van Engelse woorden op te zoeken met behulp van het woordenboek.",
+			"description": "Woordenschat",
+			"kerndoelLabel": "Woordenschat",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ae509bd-9bfb-44f8-9903-c2624eb4ef29",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ae509bd-9bfb-44f8-9903-c2624eb4ef29",
+			"uuid": "7ae509bd-9bfb-44f8-9903-c2624eb4ef29",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 32",
+			"title": "De leerlingen ontwikkelen een positieve attitude ten opzichte van het gebruik van Fries door henzelf en anderen.",
+			"description": "Positieve attitude",
+			"kerndoelLabel": "Positieve attitude",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/683f7104-1855-44c3-b8da-c67d673e393a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/683f7104-1855-44c3-b8da-c67d673e393a",
+			"uuid": "683f7104-1855-44c3-b8da-c67d673e393a",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 33",
+			"title": "De leerlingen leren informatie te verwerven uit gesproken Fries.",
+			"description": "Luisteren",
+			"kerndoelLabel": "Luisteren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4acc2e50-23e3-4df2-8acb-98ff19eeb566",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4acc2e50-23e3-4df2-8acb-98ff19eeb566",
+			"uuid": "4acc2e50-23e3-4df2-8acb-98ff19eeb566",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 34",
+			"title": "De leerlingen leren zich naar inhoud en vorm in het Fries uit te drukken in situaties uit hun dagelijks leven waarin zij informatie vragen of geven over een onderwerp waarmee zij vertrouwd zijn.",
+			"description": "Gesprekken voeren",
+			"kerndoelLabel": "Gesprekken voeren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a6f13584-51d7-49e0-9c0b-1411e83ee9bd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6f13584-51d7-49e0-9c0b-1411e83ee9bd",
+			"uuid": "a6f13584-51d7-49e0-9c0b-1411e83ee9bd",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 35",
+			"title": "De leerlingen leren informatie te verwerven uit teksten in het Fries in frequent voorkomende teksttypen (zoals artikelen in jeugdrubrieken, liedjes, verhalen).",
+			"description": "Lezen",
+			"kerndoelLabel": "Lezen",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/104dcc4b-bf62-4842-a1f1-becb0db0d76a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/104dcc4b-bf62-4842-a1f1-becb0db0d76a",
+			"uuid": "104dcc4b-bf62-4842-a1f1-becb0db0d76a",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 36",
+			"title": "De leerlingen leren eenvoudige teksten in het Fries te schrijven over alledaagse onderwerpen met het doel met anderen over die onderwer- pen te communiceren.",
+			"description": "Schrijven",
+			"kerndoelLabel": "Schrijven",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6cfda3eb-0848-4768-a67f-4c28b9ba2267",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cfda3eb-0848-4768-a67f-4c28b9ba2267",
+			"uuid": "6cfda3eb-0848-4768-a67f-4c28b9ba2267",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 37",
+			"title": "De leerlingen verwerven een woordenschat van frequent gebruikte Friese woorden en strategieën voor het begrijpen van voor hen onbekende woorden.",
+			"description": "Woordenschat",
+			"kerndoelLabel": "Woordenschat",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1dd240d6-5ead-47e6-b2d4-2e5b0769c4ac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1dd240d6-5ead-47e6-b2d4-2e5b0769c4ac",
+			"uuid": "1dd240d6-5ead-47e6-b2d4-2e5b0769c4ac",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 38",
+			"title": "De leerlingen leren wiskundetaal gebruiken.",
+			"description": "Vaktaal wiskunde",
+			"kerndoelLabel": "Vaktaal wiskunde",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/105224c7-d64e-4de8-b384-f33dd9a16d5f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/105224c7-d64e-4de8-b384-f33dd9a16d5f",
+			"uuid": "105224c7-d64e-4de8-b384-f33dd9a16d5f",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 39",
+			"title": "De leerlingen leren praktische en formele reken-wiskundige problemen op te lossen en redeneringen helder weer te geven.",
+			"description": "Wiskundig redeneren",
+			"kerndoelLabel": "Wiskundig redeneren",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/96a77b48-bf73-47b9-889e-84c9d89d6c09",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96a77b48-bf73-47b9-889e-84c9d89d6c09",
+			"uuid": "96a77b48-bf73-47b9-889e-84c9d89d6c09",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 40",
+			"title": "De leerlingen leren aanpakken bij het oplossen van reken-wiskunde- problemen te onderbouwen en leren oplossingen te beoordelen.",
+			"description": "Probleemaanpak",
+			"kerndoelLabel": "Probleemaanpak",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c2374829-7eda-46d3-9a0b-68c216865fa2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2374829-7eda-46d3-9a0b-68c216865fa2",
+			"uuid": "c2374829-7eda-46d3-9a0b-68c216865fa2",
+			"@type": "Kerndoel",
+			"prefix": "SO nl/ml Kerndoel LS 41",
+			"title": "De leerlingen leren structuur en samenhang van aantallen, gehele getallen, kommagetallen, breuken, procenten en verhoudingen op hoofdlijnen te doorzien en er in praktische situaties mee te rekenen.",
+			"description": "Structuur en samenhang",
+			"kerndoelLabel": "Structuur en samenhang",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

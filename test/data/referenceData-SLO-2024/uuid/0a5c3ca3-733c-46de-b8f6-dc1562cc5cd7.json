@@ -1,0 +1,58 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0a5c3ca3-733c-46de-b8f6-dc1562cc5cd7",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a5c3ca3-733c-46de-b8f6-dc1562cc5cd7",
+	"uuid": "0a5c3ca3-733c-46de-b8f6-dc1562cc5cd7",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgModuletaak",
+	"ExamenprogrammaBgModule": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
+			"uuid": "3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
+			"prefix": "P/MT/01",
+			"title": "Maritieme logistiek en -communicatie",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"uuid": "29567373-b655-46a4-9c6a-6f04001c139b",
+					"title": "Maritiem en techniek",
+					"deprecated": null
+				}
+			]
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "P/MT/01/MT",
+	"title": "Maritiem vervoer onderscheiden, benoemen en verklaren / een presentatie geven over Nederland als maritiem land / assisteren bij laad- en loswerkzaamheden /communiceren en beroepsmatig handelen /ondernemend handelen"
+}

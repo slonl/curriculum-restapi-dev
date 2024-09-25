@@ -1,0 +1,250 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+	"uuid": "3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefDomein",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/72eab440-1c2d-404f-9826-5043845187ce",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72eab440-1c2d-404f-9826-5043845187ce",
+			"uuid": "72eab440-1c2d-404f-9826-5043845187ce",
+			"prefix": "RKT3.0-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cbf265ed-9335-4ffd-af60-c647515a0892",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cbf265ed-9335-4ffd-af60-c647515a0892",
+					"uuid": "cbf265ed-9335-4ffd-af60-c647515a0892",
+					"title": "Kan korte, eenvoudige teksten schrijven over alledaagse onderwerpen of over onderwerpen uit de leefwereld.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4d0d8ff-96c2-447a-9750-498e4b3acdd1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4d0d8ff-96c2-447a-9750-498e4b3acdd1",
+			"uuid": "e4d0d8ff-96c2-447a-9750-498e4b3acdd1",
+			"prefix": "RKT3.0-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cee9ae32-3425-483a-9482-5642d3f80511",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cee9ae32-3425-483a-9482-5642d3f80511",
+					"uuid": "cee9ae32-3425-483a-9482-5642d3f80511",
+					"title": "Kan samenhangende teksten schrijven met een eenvoudige, lineaire opbouw, over uiteenlopende vertrouwde onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/271a364c-3380-4b84-8939-ce2c092b1b2c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/271a364c-3380-4b84-8939-ce2c092b1b2c",
+			"uuid": "271a364c-3380-4b84-8939-ce2c092b1b2c",
+			"prefix": "RKT3.0-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/20bf18c3-b3c5-4b0b-aa9d-903d77174542",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/20bf18c3-b3c5-4b0b-aa9d-903d77174542",
+					"uuid": "20bf18c3-b3c5-4b0b-aa9d-903d77174542",
+					"title": "Kan gedetailleerde teksten schrijven over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard, waarin informatie en argumenten uit verschillende bronnen bijeengevoegd en beoordeeld worden.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cdde0766-0055-48ca-9f60-c6c3d2a9c17e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdde0766-0055-48ca-9f60-c6c3d2a9c17e",
+			"uuid": "cdde0766-0055-48ca-9f60-c6c3d2a9c17e",
+			"prefix": "RKT3.0-4F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/344e98cf-e7a6-49fe-a056-8501d9e02893",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/344e98cf-e7a6-49fe-a056-8501d9e02893",
+					"uuid": "344e98cf-e7a6-49fe-a056-8501d9e02893",
+					"title": "Kan goed gestructureerde teksten schrijven over allerlei onderwerpen uit de (beroeps) opleiding en van maatschappelijke aard.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+					"title": "4F",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e0a55373-f34f-4cf4-9f35-ef68491424b8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0a55373-f34f-4cf4-9f35-ef68491424b8",
+			"uuid": "e0a55373-f34f-4cf4-9f35-ef68491424b8",
+			"prefix": "RKT3.0-4F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d91834fe-4469-4acf-866c-0472f6e66cc6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d91834fe-4469-4acf-866c-0472f6e66cc6",
+					"uuid": "d91834fe-4469-4acf-866c-0472f6e66cc6",
+					"title": "Kan relevante kwesties benadrukken, standpunten uitgebreid uitwerken en ondersteunen met redenen en voorbeelden.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+					"title": "4F",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+			"uuid": "2c7be1c1-991d-49e3-884a-602687b55d06",
+			"prefix": "RKT",
+			"title": "Referentiekader Taal",
+			"deprecated": null
+		}
+	],
+	"RefSubdomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"uuid": "bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"prefix": "RKT3.1",
+			"title": "Correspondentie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9a098ea3-920e-446e-b6e3-f8590b657c71",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9a098ea3-920e-446e-b6e3-f8590b657c71",
+			"uuid": "9a098ea3-920e-446e-b6e3-f8590b657c71",
+			"prefix": "RKT3.2",
+			"title": "Formulieren invullen, berichten, advertenties en aantekeningen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3191a6c2-2f54-4c4d-b5e3-a90932186316",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3191a6c2-2f54-4c4d-b5e3-a90932186316",
+			"uuid": "3191a6c2-2f54-4c4d-b5e3-a90932186316",
+			"prefix": "RKT3.3",
+			"title": "Verslagen, werkstukken, samenvattingen, artikelen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64c3fa38-7967-4c47-9d1b-0611db869731",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64c3fa38-7967-4c47-9d1b-0611db869731",
+			"uuid": "64c3fa38-7967-4c47-9d1b-0611db869731",
+			"prefix": "RKT3.4",
+			"title": "Vrij schrijven",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_omein/3294a2a0-af2e-4d78-bf6e-faa79cc25a36"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_omein/3294a2a0-af2e-4d78-bf6e-faa79cc25a36"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_omein/3294a2a0-af2e-4d78-bf6e-faa79cc25a36"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"title": "4F",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ec6d733-a3b2-46db-9d42-72b4be4f7750/ref_omein/3294a2a0-af2e-4d78-bf6e-faa79cc25a36"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKT3",
+	"title": "Schrijven"
+}

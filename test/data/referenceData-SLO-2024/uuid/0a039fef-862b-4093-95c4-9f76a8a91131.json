@@ -1,0 +1,205 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+	"uuid": "0a039fef-862b-4093-95c4-9f76a8a91131",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Doel",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7c129ca-0844-4b8c-a6b2-c475a5c8c9ab",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7c129ca-0844-4b8c-a6b2-c475a5c8c9ab",
+			"uuid": "c7c129ca-0844-4b8c-a6b2-c475a5c8c9ab",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+					"uuid": "0a039fef-862b-4093-95c4-9f76a8a91131",
+					"title": "-nk (bank),",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [],
+			"LpibVakkern": [],
+			"LpibVaksubkern": [],
+			"LpibVakinhoud": [],
+			"LdkVakleergebied": [],
+			"LdkVakkern": [],
+			"LdkVaksubkern": [],
+			"LdkVakinhoud": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd5eb84-c893-42e6-ae1f-9c95b01da221",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd5eb84-c893-42e6-ae1f-9c95b01da221",
+					"uuid": "9fd5eb84-c893-42e6-ae1f-9c95b01da221",
+					"title": "Orthografische spelling gebaseerd op afspraken over de schrijfwijze van (groepen) woorden (woorden met…)",
+					"LdkVaksubkern": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/71987a0d-d39f-4865-b1b5-20f04f2c6eb2",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71987a0d-d39f-4865-b1b5-20f04f2c6eb2",
+							"uuid": "71987a0d-d39f-4865-b1b5-20f04f2c6eb2",
+							"title": "Taalverzorging",
+							"LdkVakkern": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/fefb80a8-cec3-4210-88e2-ee6cbe6775ca",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fefb80a8-cec3-4210-88e2-ee6cbe6775ca",
+									"uuid": "fefb80a8-cec3-4210-88e2-ee6cbe6775ca",
+									"title": "Begrippenlijst en taalverzorging",
+									"LdkVakleergebied": [
+										{
+											"@id": "https://opendata.slo.nl/curriculum/uuid/9f638551-cd79-439a-a41e-b11e29899164",
+											"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9f638551-cd79-439a-a41e-b11e29899164",
+											"uuid": "9f638551-cd79-439a-a41e-b11e29899164",
+											"title": "Nederlands",
+											"deprecated": null
+										},
+										{
+											"@id": "https://opendata.slo.nl/curriculum/uuid/5b341439-5ace-4a12-8998-b456d8eac608",
+											"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b341439-5ace-4a12-8998-b456d8eac608",
+											"uuid": "5b341439-5ace-4a12-8998-b456d8eac608",
+											"title": "Nederlands",
+											"deprecated": true
+										}
+									]
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+									"uuid": "345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+									"title": "Begrippenlijst en taalverzorging",
+									"LdkVakleergebied": [
+										{
+											"@id": "https://opendata.slo.nl/curriculum/uuid/6b1060a2-c615-4989-9bc4-3a669891b323",
+											"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b1060a2-c615-4989-9bc4-3a669891b323",
+											"uuid": "6b1060a2-c615-4989-9bc4-3a669891b323",
+											"title": "Nederlands",
+											"deprecated": true
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bf81d901-b33e-47f3-bc9a-588c605c9f4f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bf81d901-b33e-47f3-bc9a-588c605c9f4f",
+			"uuid": "bf81d901-b33e-47f3-bc9a-588c605c9f4f",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+					"uuid": "0a039fef-862b-4093-95c4-9f76a8a91131",
+					"title": "-nk (bank),",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e0d54104-4bbc-4e6a-9c53-114f0af56027",
+					"title": "groep 3-4",
+					"prefix": "1203",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0d54104-4bbc-4e6a-9c53-114f0af56027"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [],
+			"LpibVakkern": [],
+			"LpibVaksubkern": [],
+			"LpibVakinhoud": [],
+			"LdkVakleergebied": [],
+			"LdkVakkern": [],
+			"LdkVaksubkern": [],
+			"LdkVakinhoud": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd5eb84-c893-42e6-ae1f-9c95b01da221",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd5eb84-c893-42e6-ae1f-9c95b01da221",
+					"uuid": "9fd5eb84-c893-42e6-ae1f-9c95b01da221",
+					"title": "Orthografische spelling gebaseerd op afspraken over de schrijfwijze van (groepen) woorden (woorden met…)",
+					"LdkVaksubkern": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/71987a0d-d39f-4865-b1b5-20f04f2c6eb2",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71987a0d-d39f-4865-b1b5-20f04f2c6eb2",
+							"uuid": "71987a0d-d39f-4865-b1b5-20f04f2c6eb2",
+							"title": "Taalverzorging",
+							"LdkVakkern": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/fefb80a8-cec3-4210-88e2-ee6cbe6775ca",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fefb80a8-cec3-4210-88e2-ee6cbe6775ca",
+									"uuid": "fefb80a8-cec3-4210-88e2-ee6cbe6775ca",
+									"title": "Begrippenlijst en taalverzorging",
+									"LdkVakleergebied": [
+										{
+											"@id": "https://opendata.slo.nl/curriculum/uuid/9f638551-cd79-439a-a41e-b11e29899164",
+											"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9f638551-cd79-439a-a41e-b11e29899164",
+											"uuid": "9f638551-cd79-439a-a41e-b11e29899164",
+											"title": "Nederlands",
+											"deprecated": null
+										},
+										{
+											"@id": "https://opendata.slo.nl/curriculum/uuid/5b341439-5ace-4a12-8998-b456d8eac608",
+											"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b341439-5ace-4a12-8998-b456d8eac608",
+											"uuid": "5b341439-5ace-4a12-8998-b456d8eac608",
+											"title": "Nederlands",
+											"deprecated": true
+										}
+									]
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+									"uuid": "345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+									"title": "Begrippenlijst en taalverzorging",
+									"LdkVakleergebied": [
+										{
+											"@id": "https://opendata.slo.nl/curriculum/uuid/6b1060a2-c615-4989-9bc4-3a669891b323",
+											"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b1060a2-c615-4989-9bc4-3a669891b323",
+											"uuid": "6b1060a2-c615-4989-9bc4-3a669891b323",
+											"title": "Nederlands",
+											"deprecated": true
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "-nk (bank),",
+	"description": null,
+	"bron": "Tussendoel",
+	"vakbegrippen": null
+}

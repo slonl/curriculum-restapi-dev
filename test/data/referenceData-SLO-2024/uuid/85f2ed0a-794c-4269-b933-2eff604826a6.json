@@ -1,0 +1,387 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/85f2ed0a-794c-4269-b933-2eff604826a6",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85f2ed0a-794c-4269-b933-2eff604826a6",
+	"uuid": "85f2ed0a-794c-4269-b933-2eff604826a6",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusVakleergebied",
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
+			"uuid": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
+			"title": "Aardrijkskunde",
+			"deprecated": null
+		}
+	],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/55d29a15-a50d-4ff0-a2e0-04b459ae3668",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/55d29a15-a50d-4ff0-a2e0-04b459ae3668",
+			"uuid": "55d29a15-a50d-4ff0-a2e0-04b459ae3668",
+			"title": "Syllabus Aardrijkskunde vwo 2024",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
+			"uuid": "6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
+			"title": "Syllabus Aardrijkskunde havo 2024",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/60ae77bd-2cce-4b21-a808-f52bd07b879a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60ae77bd-2cce-4b21-a808-f52bd07b879a",
+			"uuid": "60ae77bd-2cce-4b21-a808-f52bd07b879a",
+			"title": "Syllabus Aardrijkskunde havo 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a404f8bc-8f47-4629-ad2f-d65979a9ed28",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a404f8bc-8f47-4629-ad2f-d65979a9ed28",
+			"uuid": "a404f8bc-8f47-4629-ad2f-d65979a9ed28",
+			"title": "Syllabus Aardrijkskunde havo 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/db8a94c5-43b7-4d35-a145-1a907d1f2e07",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db8a94c5-43b7-4d35-a145-1a907d1f2e07",
+			"uuid": "db8a94c5-43b7-4d35-a145-1a907d1f2e07",
+			"title": "Syllabus Aardrijkskunde vwo 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a277b361-4586-4292-9661-b8952356c200",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a277b361-4586-4292-9661-b8952356c200",
+			"uuid": "a277b361-4586-4292-9661-b8952356c200",
+			"title": "Syllabus Aardrijkskunde vwo 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0f6fc6d-796a-4eb0-8236-8213cdc453c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f6fc6d-796a-4eb0-8236-8213cdc453c4",
+			"uuid": "a0f6fc6d-796a-4eb0-8236-8213cdc453c4",
+			"title": "Syllabus Aardrijkskunde vwo 2021",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/22bff6c7-e2e6-4575-a5c4-27c4fd465b45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22bff6c7-e2e6-4575-a5c4-27c4fd465b45",
+			"uuid": "22bff6c7-e2e6-4575-a5c4-27c4fd465b45",
+			"title": "Syllabus Aardrijkskunde havo 2021",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75c799d6-849a-462d-a56a-e0b5e4b7491a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75c799d6-849a-462d-a56a-e0b5e4b7491a",
+			"uuid": "75c799d6-849a-462d-a56a-e0b5e4b7491a",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2024",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb61baaa-73aa-48bf-9b6e-33664d62b66a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb61baaa-73aa-48bf-9b6e-33664d62b66a",
+			"uuid": "fb61baaa-73aa-48bf-9b6e-33664d62b66a",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2024",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/76e74e37-e6e1-4dd7-87ff-e0956561c549",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76e74e37-e6e1-4dd7-87ff-e0956561c549",
+			"uuid": "76e74e37-e6e1-4dd7-87ff-e0956561c549",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2024",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f51f86e3-dc25-4348-ba18-c7803ffa56c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f51f86e3-dc25-4348-ba18-c7803ffa56c1",
+			"uuid": "f51f86e3-dc25-4348-ba18-c7803ffa56c1",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2024",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa833e4a-a37f-43d1-a5d3-9db7446a0361",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa833e4a-a37f-43d1-a5d3-9db7446a0361",
+			"uuid": "aa833e4a-a37f-43d1-a5d3-9db7446a0361",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85bed5d9-b16c-42b4-9180-eea57f3bd9e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85bed5d9-b16c-42b4-9180-eea57f3bd9e0",
+			"uuid": "85bed5d9-b16c-42b4-9180-eea57f3bd9e0",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0efdd0a1-b6e7-4a6e-b4c0-dede1622ada1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0efdd0a1-b6e7-4a6e-b4c0-dede1622ada1",
+			"uuid": "0efdd0a1-b6e7-4a6e-b4c0-dede1622ada1",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dcd64a3a-e663-4c59-97d2-5f181f3374b9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dcd64a3a-e663-4c59-97d2-5f181f3374b9",
+			"uuid": "dcd64a3a-e663-4c59-97d2-5f181f3374b9",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb269302-f1b8-4b30-9a98-19887aee49fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb269302-f1b8-4b30-9a98-19887aee49fc",
+			"uuid": "fb269302-f1b8-4b30-9a98-19887aee49fc",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca248d45-160b-4b80-9a31-0e0ff8237829",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca248d45-160b-4b80-9a31-0e0ff8237829",
+			"uuid": "ca248d45-160b-4b80-9a31-0e0ff8237829",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1758b65c-39da-46ca-89f8-c4ccbd08f5ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1758b65c-39da-46ca-89f8-c4ccbd08f5ad",
+			"uuid": "1758b65c-39da-46ca-89f8-c4ccbd08f5ad",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1edd1798-5f8c-40ed-9d54-bd399f8a02c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1edd1798-5f8c-40ed-9d54-bd399f8a02c2",
+			"uuid": "1edd1798-5f8c-40ed-9d54-bd399f8a02c2",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/90d30f29-6e6d-4557-81c8-2016b549431b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90d30f29-6e6d-4557-81c8-2016b549431b",
+			"uuid": "90d30f29-6e6d-4557-81c8-2016b549431b",
+			"title": "Syllabus Aardrijkskunde vmbo",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c4eef263-8648-40c8-b60f-206339831722",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4eef263-8648-40c8-b60f-206339831722",
+			"uuid": "c4eef263-8648-40c8-b60f-206339831722",
+			"title": "Syllabus Aardrijkskunde vmbo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a6e62d23-6d88-4b72-b020-4451aa4b3128",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6e62d23-6d88-4b72-b020-4451aa4b3128",
+			"uuid": "a6e62d23-6d88-4b72-b020-4451aa4b3128",
+			"title": "Syllabus Aardrijkskunde vwo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26f54685-adcc-4708-8abf-fb9e6355fc85",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26f54685-adcc-4708-8abf-fb9e6355fc85",
+			"uuid": "26f54685-adcc-4708-8abf-fb9e6355fc85",
+			"title": "Syllabus Aardrijkskunde havo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9c3f0d5-202e-46bd-8885-40ecc2a7a5b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9c3f0d5-202e-46bd-8885-40ecc2a7a5b0",
+			"uuid": "a9c3f0d5-202e-46bd-8885-40ecc2a7a5b0",
+			"title": "Syllabus Aardrijkskunde havo 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e0a53da4-7098-48e7-af9b-b694dba0561e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0a53da4-7098-48e7-af9b-b694dba0561e",
+			"uuid": "e0a53da4-7098-48e7-af9b-b694dba0561e",
+			"title": "Syllabus Aardrijkskunde havo 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2a446491-1f9f-4155-a1dc-d1f429f668b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a446491-1f9f-4155-a1dc-d1f429f668b5",
+			"uuid": "2a446491-1f9f-4155-a1dc-d1f429f668b5",
+			"title": "Syllabus Aardrijkskunde vwo 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/66756b5e-9108-4490-b048-2ad60f84d241",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/66756b5e-9108-4490-b048-2ad60f84d241",
+			"uuid": "66756b5e-9108-4490-b048-2ad60f84d241",
+			"title": "Syllabus Aardrijkskunde vwo 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ae6419d5-8f5d-487f-bee1-065550b25402",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ae6419d5-8f5d-487f-bee1-065550b25402",
+			"uuid": "ae6419d5-8f5d-487f-bee1-065550b25402",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83f774f6-e4db-4c4e-ad85-664ed28be7e9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83f774f6-e4db-4c4e-ad85-664ed28be7e9",
+			"uuid": "83f774f6-e4db-4c4e-ad85-664ed28be7e9",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e8312c3a-d569-42a7-8271-b45c9783af30",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e8312c3a-d569-42a7-8271-b45c9783af30",
+			"uuid": "e8312c3a-d569-42a7-8271-b45c9783af30",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e54461b8-2701-4686-b193-2386086f9784",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e54461b8-2701-4686-b193-2386086f9784",
+			"uuid": "e54461b8-2701-4686-b193-2386086f9784",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e291c9f1-a60f-4c81-968a-e03b037816bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e291c9f1-a60f-4c81-968a-e03b037816bb",
+			"uuid": "e291c9f1-a60f-4c81-968a-e03b037816bb",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7262d8fe-5fff-4fce-97b3-a49be7049f26",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7262d8fe-5fff-4fce-97b3-a49be7049f26",
+			"uuid": "7262d8fe-5fff-4fce-97b3-a49be7049f26",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4cb8ce00-c300-42e3-ab97-893654ab687f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4cb8ce00-c300-42e3-ab97-893654ab687f",
+			"uuid": "4cb8ce00-c300-42e3-ab97-893654ab687f",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cc7ec399-3948-48c7-800d-fafe004cb239",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc7ec399-3948-48c7-800d-fafe004cb239",
+			"uuid": "cc7ec399-3948-48c7-800d-fafe004cb239",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f7daa1c0-ffef-4c84-8c33-f86f8820dcf6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7daa1c0-ffef-4c84-8c33-f86f8820dcf6",
+			"uuid": "f7daa1c0-ffef-4c84-8c33-f86f8820dcf6",
+			"title": "Syllabus Aardrijkskunde vmbo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/990d34d3-983d-424b-bf13-9c58908ecb7b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/990d34d3-983d-424b-bf13-9c58908ecb7b",
+			"uuid": "990d34d3-983d-424b-bf13-9c58908ecb7b",
+			"title": "Syllabus Aardrijkskunde vwo 2021",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9034fbc0-9b94-4bd5-beca-45655ecb4700",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9034fbc0-9b94-4bd5-beca-45655ecb4700",
+			"uuid": "9034fbc0-9b94-4bd5-beca-45655ecb4700",
+			"title": "Syllabus Aardrijkskunde havo 2021",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ced9c37b-99a9-49b3-98aa-06847061ff8f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ced9c37b-99a9-49b3-98aa-06847061ff8f",
+			"uuid": "ced9c37b-99a9-49b3-98aa-06847061ff8f",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c2f0b10d-deff-4632-a5ff-47ed20ad1e4f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2f0b10d-deff-4632-a5ff-47ed20ad1e4f",
+			"uuid": "c2f0b10d-deff-4632-a5ff-47ed20ad1e4f",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/165dfc86-5005-40bc-8c43-92dcecb2b016",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/165dfc86-5005-40bc-8c43-92dcecb2b016",
+			"uuid": "165dfc86-5005-40bc-8c43-92dcecb2b016",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5ee77b2-c58a-4293-8d82-8b2779083288",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5ee77b2-c58a-4293-8d82-8b2779083288",
+			"uuid": "d5ee77b2-c58a-4293-8d82-8b2779083288",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a6e09d8-bb91-4189-a93f-42b11dafde97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a6e09d8-bb91-4189-a93f-42b11dafde97",
+			"uuid": "0a6e09d8-bb91-4189-a93f-42b11dafde97",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/13462068-918b-4554-9be9-987e10707be7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13462068-918b-4554-9be9-987e10707be7",
+			"uuid": "13462068-918b-4554-9be9-987e10707be7",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/877a7980-53a3-47f7-85c0-97182a42e699",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/877a7980-53a3-47f7-85c0-97182a42e699",
+			"uuid": "877a7980-53a3-47f7-85c0-97182a42e699",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4bedd3f2-07c7-4846-8e36-24a64bc15326",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4bedd3f2-07c7-4846-8e36-24a64bc15326",
+			"uuid": "4bedd3f2-07c7-4846-8e36-24a64bc15326",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1c4335b2-24df-4d03-9f4f-d3f6adf0f5d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c4335b2-24df-4d03-9f4f-d3f6adf0f5d5",
+			"uuid": "1c4335b2-24df-4d03-9f4f-d3f6adf0f5d5",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5e35d9f4-8bce-451c-a9aa-146f357585bf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5e35d9f4-8bce-451c-a9aa-146f357585bf",
+			"uuid": "5e35d9f4-8bce-451c-a9aa-146f357585bf",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a1fcc6b6-388d-4217-9432-c86af2b88fac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1fcc6b6-388d-4217-9432-c86af2b88fac",
+			"uuid": "a1fcc6b6-388d-4217-9432-c86af2b88fac",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/38e78358-f042-4475-be4b-85fb6dafec27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38e78358-f042-4475-be4b-85fb6dafec27",
+			"uuid": "38e78358-f042-4475-be4b-85fb6dafec27",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e69f124-7be7-46fe-baf8-512696709bb9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e69f124-7be7-46fe-baf8-512696709bb9",
+			"uuid": "4e69f124-7be7-46fe-baf8-512696709bb9",
+			"title": "Syllabus Aardrijkskunde vmbo",
+			"deprecated": true
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Aardrijkskunde"
+}

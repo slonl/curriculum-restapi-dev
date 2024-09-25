@@ -1,0 +1,50 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fe6c083f-1dbf-4311-8cf0-c8855752b254",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe6c083f-1dbf-4311-8cf0-c8855752b254",
+	"uuid": "fe6c083f-1dbf-4311-8cf0-c8855752b254",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgGlobaleEindterm",
+	"ExamenprogrammaBgKerndeel": [],
+	"ExamenprogrammaBgDeeltaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/843cd9ed-ec98-49da-86f0-2c248f360a03",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/843cd9ed-ec98-49da-86f0-2c248f360a03",
+			"uuid": "843cd9ed-ec98-49da-86f0-2c248f360a03",
+			"prefix": "K/BWI/03/01",
+			"title": "Een houtachtige ondergrond controleren op gebreken en een behandelplan opstellen aan de hand van het basisverf- en glasbestek",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/BWI/03/01-07",
+	"title": "De kandidaat kan houtachtige ondergronden repareren, reinigen, plamuren en schuren"
+}

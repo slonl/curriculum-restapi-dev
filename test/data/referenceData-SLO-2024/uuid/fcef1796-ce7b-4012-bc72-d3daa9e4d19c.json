@@ -1,0 +1,13 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+	"uuid": "fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkVoorbeeld",
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "",
+	"title": "Vacatures voor internationale vakantiebaantjes op sociale media."
+}

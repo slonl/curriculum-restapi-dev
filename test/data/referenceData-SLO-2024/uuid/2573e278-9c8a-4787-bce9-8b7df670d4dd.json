@@ -1,0 +1,48 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/2573e278-9c8a-4787-bce9-8b7df670d4dd",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2573e278-9c8a-4787-bce9-8b7df670d4dd",
+	"uuid": "2573e278-9c8a-4787-bce9-8b7df670d4dd",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Vakleergebied",
+	"ExamenprogrammaVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26b1891a-3390-4163-a91e-699955b1fca4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26b1891a-3390-4163-a91e-699955b1fca4",
+			"uuid": "26b1891a-3390-4163-a91e-699955b1fca4",
+			"title": "Wiskunde C",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaBgProfiel": [],
+	"LdkVakleergebied": [],
+	"KerndoelVakleergebied": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"uuid": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb/vakleergebied/2573e278-9c8a-4787-bce9-8b7df670d4dd"
+		}
+	],
+	"SyllabusVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3065744-6496-4a24-89a4-49245fd0072f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3065744-6496-4a24-89a4-49245fd0072f",
+			"uuid": "f3065744-6496-4a24-89a4-49245fd0072f",
+			"title": "Wiskunde C",
+			"deprecated": null
+		}
+	],
+	"InhVakleergebied": [],
+	"RefVakleergebied": [],
+	"ErkVakleergebied": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "wisC",
+	"title": "Wiskunde C",
+	"description": ""
+}

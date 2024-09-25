@@ -3,17 +3,37 @@
 
 ## Aquiring test data:
 ### getTestData.js
-* run using node
-* retrieves data from https://localhost:4500 and puts it in data/testData
+* run ```npm run getTestData```
+* uses the list in REST_API_TEST_URLs.json to generate the api calls
+* retrieves data from https://localhost:4500 and puts it in data/testData.
 
 ### getReferenceData.js
 * run using node
-* retrieves data from https://opendata.slo.nl/curriculum/2024/api/v1/ and puts it in data/referenceData
+* retrieves data from https://opendata.slo.nl/curriculum/2024/api/v1/ and puts it in data/referenceData/
 
+## Running tests
+### Pre tests
+* comparing the file uses a lot of memory. By default node uses max 4GB, recommend changing the setting to 6G using ```export NODE_OPTIONS="--max-old-space-size=6144"``` in terminal/console to change the global settings.
+  * Note: to check how much memory you currently have available: ```node -e 'console.log(v8.getHeapStatistics().heap_size_limit/(1024*1024))'```
+  * Note: might be ```Set NODE_OPTIONS="--max-old-space-size=6144"``` under windows.
+### Tests
+#### Comparing old and new database
+* Run the test using ```npm run compareData``` from the root (curriculum-restapi-dev) folder.
+  * It will compare the data from test/data/referenceData-SLO-2024 with the current data running on http://localhost:4500.
+  * It will use the file REST_API_TEST_URLs.json for the list of api calls to be performed.
+* NOTES : currently a lot of keys are being filterd out for the tests to succeed, the list of these filters is in test/tap/compare_referenceData_to_server.mjs in the ```discardKeyArray```.
 
 -------
-#### WIP doc:
+#### WIP documentation, do not reed further:
 --------
+
+# Current keys being ignored:
+* discardKeyArray = ['schema', '@references', '$ref', '@context', 'unreleased', 'page', 'root'].
+* Note: removing prefix adds 8 succeding tests.
+
+# Easy to check call:
+* "erk_taalprofieltekst"
+
 ## curriculum-rest-api
 * routes
 * commands

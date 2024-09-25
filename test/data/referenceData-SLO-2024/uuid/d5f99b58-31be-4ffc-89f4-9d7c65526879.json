@@ -1,0 +1,31 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+	"uuid": "d5f99b58-31be-4ffc-89f4-9d7c65526879",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Niveau",
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e41b8c50-d002-4a9f-be8b-9b5da0008656",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e41b8c50-d002-4a9f-be8b-9b5da0008656",
+			"uuid": "e41b8c50-d002-4a9f-be8b-9b5da0008656",
+			"title": "Nederlands",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/96b622d6-264d-4f7a-9875-681ded824e21",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96b622d6-264d-4f7a-9875-681ded824e21",
+			"uuid": "96b622d6-264d-4f7a-9875-681ded824e21",
+			"title": "Nederlands",
+			"deprecated": true
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "1001",
+	"title": "1F",
+	"description": "Referentiekader taal en rekenen,  fundamenteel niveau 1",
+	"type": "Referentieniveau"
+}

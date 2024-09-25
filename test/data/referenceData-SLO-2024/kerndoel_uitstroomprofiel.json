@@ -1,0 +1,54 @@
+{
+	"count": 3,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/14066279-b193-4704-b377-2a1cf639943f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14066279-b193-4704-b377-2a1cf639943f",
+			"uuid": "14066279-b193-4704-b377-2a1cf639943f",
+			"@type": "KerndoelUitstroomprofiel",
+			"title": "Arbeidsmarkt",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"uuid": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"title": "Uitstroomprofielen vso",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4bad9adc-f69d-4ff4-8ac6-11d671bd0b96",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4bad9adc-f69d-4ff4-8ac6-11d671bd0b96",
+			"uuid": "4bad9adc-f69d-4ff4-8ac6-11d671bd0b96",
+			"@type": "KerndoelUitstroomprofiel",
+			"title": "Dagbesteding",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"uuid": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"title": "Uitstroomprofielen vso",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9f47a004-8a83-4108-8d10-0fc282837b1c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9f47a004-8a83-4108-8d10-0fc282837b1c",
+			"uuid": "9f47a004-8a83-4108-8d10-0fc282837b1c",
+			"@type": "KerndoelUitstroomprofiel",
+			"title": "Vervolgonderwijs",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"uuid": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+					"title": "Uitstroomprofielen vso",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

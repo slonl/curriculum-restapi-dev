@@ -1,0 +1,52 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/5b8735d8-16d9-45bd-b806-32c6fa936aa0",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b8735d8-16d9-45bd-b806-32c6fa936aa0",
+	"uuid": "5b8735d8-16d9-45bd-b806-32c6fa936aa0",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkGebied",
+	"ErkCategorie": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ceb938f3-f704-47eb-8f43-ba9c867024f5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ceb938f3-f704-47eb-8f43-ba9c867024f5",
+			"uuid": "ceb938f3-f704-47eb-8f43-ba9c867024f5",
+			"title": "Receptief",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+			"uuid": "9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+			"title": "Interactie",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ba228579-63ef-40ac-ba04-a5a80accdc01",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ba228579-63ef-40ac-ba04-a5a80accdc01",
+			"uuid": "ba228579-63ef-40ac-ba04-a5a80accdc01",
+			"title": "Mediation",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69c2a979-f6e6-45d1-b147-08702d6887b7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69c2a979-f6e6-45d1-b147-08702d6887b7",
+			"uuid": "69c2a979-f6e6-45d1-b147-08702d6887b7",
+			"title": "Productief",
+			"deprecated": true
+		}
+	],
+	"ErkTaalactiviteit": [],
+	"ErkSchaal": [],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4861407-d923-4c72-a47f-c9c6c2331c98",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4861407-d923-4c72-a47f-c9c6c2331c98",
+			"uuid": "f4861407-d923-4c72-a47f-c9c6c2331c98",
+			"title": "Taalactiviteiten"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "",
+	"title": "Taalactiviteiten"
+}

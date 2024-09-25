@@ -1,0 +1,106 @@
+{
+	"count": 2,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/87688155-0838-4547-b570-5f087ac509f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/87688155-0838-4547-b570-5f087ac509f2",
+			"uuid": "87688155-0838-4547-b570-5f087ac509f2",
+			"@type": "RefVakleergebied",
+			"prefix": "RKR",
+			"title": "Referentiekader Rekenen",
+			"unreleased": null,
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+					"uuid": "fdd97fff-f5e5-4b82-b937-9ab302666c50",
+					"title": "Rekenen en wiskunde",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+					"title": "2S",
+					"prefix": "3201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fadc20aa-082e-4e80-8a83-830c4006f236"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+					"title": "3S",
+					"prefix": "4201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+			"uuid": "2c7be1c1-991d-49e3-884a-602687b55d06",
+			"@type": "RefVakleergebied",
+			"prefix": "RKT",
+			"title": "Referentiekader Taal",
+			"unreleased": null,
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e41b8c50-d002-4a9f-be8b-9b5da0008656",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e41b8c50-d002-4a9f-be8b-9b5da0008656",
+					"uuid": "e41b8c50-d002-4a9f-be8b-9b5da0008656",
+					"title": "Nederlands",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+					"title": "4F",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750"
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

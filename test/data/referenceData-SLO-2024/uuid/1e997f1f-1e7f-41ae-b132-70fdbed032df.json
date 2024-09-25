@@ -1,0 +1,88 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/1e997f1f-1e7f-41ae-b132-70fdbed032df",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1e997f1f-1e7f-41ae-b132-70fdbed032df",
+	"uuid": "1e997f1f-1e7f-41ae-b132-70fdbed032df",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Doelniveau",
+	"ExamenprogrammaEindterm": [],
+	"ExamenprogrammaSubdomein": [],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8e7b852b-fe53-46f5-a6c5-b6088414df16",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8e7b852b-fe53-46f5-a6c5-b6088414df16",
+			"uuid": "8e7b852b-fe53-46f5-a6c5-b6088414df16",
+			"title": "Bouw van materie",
+			"prefix": "NASK2/K/11"
+		}
+	],
+	"LdkVakleergebied": [],
+	"LdkVakkern": [],
+	"LdkVaksubkern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85f896e2-8d95-4718-808b-c7c0f74270de",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85f896e2-8d95-4718-808b-c7c0f74270de",
+			"uuid": "85f896e2-8d95-4718-808b-c7c0f74270de",
+			"title": "Periodiek systeem",
+			"LdkVakkern": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5010d338-ab9b-4136-b4a0-4a551ecef9f4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5010d338-ab9b-4136-b4a0-4a551ecef9f4",
+					"uuid": "5010d338-ab9b-4136-b4a0-4a551ecef9f4",
+					"title": "Materie",
+					"LdkVakleergebied": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/976e6a88-0d14-4627-8ce4-b1c1df9e6c94",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/976e6a88-0d14-4627-8ce4-b1c1df9e6c94",
+							"uuid": "976e6a88-0d14-4627-8ce4-b1c1df9e6c94",
+							"title": "Natuur- en scheikunde II",
+							"deprecated": null
+						}
+					]
+				}
+			]
+		}
+	],
+	"LdkVakinhoud": [],
+	"Kerndoel": [],
+	"LpibVakkern": [],
+	"LpibVaksubkern": [],
+	"LpibVakinhoud": [],
+	"Doel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/34b37cbb-f168-4968-92e3-eb441184dbe3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34b37cbb-f168-4968-92e3-eb441184dbe3",
+			"uuid": "34b37cbb-f168-4968-92e3-eb441184dbe3",
+			"title": "Je geeft de namen van deze atoomsymbolen in de correcte notatie en andersom geef je de correcte symbolen indien de namen zijn gegeven",
+			"description": null,
+			"vakbegrippen": null,
+			"bron": "Einddoel",
+			"aanbodid": null,
+			"Leerlingtekst": []
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"description": "bovenbouw vmbo gemengde leerweg",
+			"prefix": "3503",
+			"type": "Opleiding",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "nask2/1/2/bbvmbogl",
+	"ce_se": "CE",
+	"LdkVakbegrip": [
+		{
+			"id": "20db09f7-6285-441b-891e-72934da5cd29",
+			"title": "Ag, Al, Ar, Au, Ba, Br, C, Ca, Cd, Cl, Cr, Cu, F, Fe, H, He, Hg, I, K, Mg,N, Na, Ne, Ni, O, P, Pb, Pt, S, Si, Sn, Zn",
+			"ce_se": "CE"
+		}
+	]
+}

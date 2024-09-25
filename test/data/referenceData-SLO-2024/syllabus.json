@@ -1,0 +1,706 @@
+{
+	"count": 866,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/22bff6c7-e2e6-4575-a5c4-27c4fd465b45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22bff6c7-e2e6-4575-a5c4-27c4fd465b45",
+			"uuid": "22bff6c7-e2e6-4575-a5c4-27c4fd465b45",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde havo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/60ae77bd-2cce-4b21-a808-f52bd07b879a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60ae77bd-2cce-4b21-a808-f52bd07b879a",
+			"uuid": "60ae77bd-2cce-4b21-a808-f52bd07b879a",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde havo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a404f8bc-8f47-4629-ad2f-d65979a9ed28",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a404f8bc-8f47-4629-ad2f-d65979a9ed28",
+			"uuid": "a404f8bc-8f47-4629-ad2f-d65979a9ed28",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde havo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
+			"uuid": "6f45a290-13ee-4359-aa93-ee7cd9c57ac9",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde havo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/90d30f29-6e6d-4557-81c8-2016b549431b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90d30f29-6e6d-4557-81c8-2016b549431b",
+			"uuid": "90d30f29-6e6d-4557-81c8-2016b549431b",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa833e4a-a37f-43d1-a5d3-9db7446a0361",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa833e4a-a37f-43d1-a5d3-9db7446a0361",
+			"uuid": "aa833e4a-a37f-43d1-a5d3-9db7446a0361",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb269302-f1b8-4b30-9a98-19887aee49fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb269302-f1b8-4b30-9a98-19887aee49fc",
+			"uuid": "fb269302-f1b8-4b30-9a98-19887aee49fc",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75c799d6-849a-462d-a56a-e0b5e4b7491a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75c799d6-849a-462d-a56a-e0b5e4b7491a",
+			"uuid": "75c799d6-849a-462d-a56a-e0b5e4b7491a",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo bb 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0efdd0a1-b6e7-4a6e-b4c0-dede1622ada1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0efdd0a1-b6e7-4a6e-b4c0-dede1622ada1",
+			"uuid": "0efdd0a1-b6e7-4a6e-b4c0-dede1622ada1",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca248d45-160b-4b80-9a31-0e0ff8237829",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca248d45-160b-4b80-9a31-0e0ff8237829",
+			"uuid": "ca248d45-160b-4b80-9a31-0e0ff8237829",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb61baaa-73aa-48bf-9b6e-33664d62b66a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb61baaa-73aa-48bf-9b6e-33664d62b66a",
+			"uuid": "fb61baaa-73aa-48bf-9b6e-33664d62b66a",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo gl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85bed5d9-b16c-42b4-9180-eea57f3bd9e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85bed5d9-b16c-42b4-9180-eea57f3bd9e0",
+			"uuid": "85bed5d9-b16c-42b4-9180-eea57f3bd9e0",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1758b65c-39da-46ca-89f8-c4ccbd08f5ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1758b65c-39da-46ca-89f8-c4ccbd08f5ad",
+			"uuid": "1758b65c-39da-46ca-89f8-c4ccbd08f5ad",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/76e74e37-e6e1-4dd7-87ff-e0956561c549",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76e74e37-e6e1-4dd7-87ff-e0956561c549",
+			"uuid": "76e74e37-e6e1-4dd7-87ff-e0956561c549",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo kb 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dcd64a3a-e663-4c59-97d2-5f181f3374b9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dcd64a3a-e663-4c59-97d2-5f181f3374b9",
+			"uuid": "dcd64a3a-e663-4c59-97d2-5f181f3374b9",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1edd1798-5f8c-40ed-9d54-bd399f8a02c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1edd1798-5f8c-40ed-9d54-bd399f8a02c2",
+			"uuid": "1edd1798-5f8c-40ed-9d54-bd399f8a02c2",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f51f86e3-dc25-4348-ba18-c7803ffa56c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f51f86e3-dc25-4348-ba18-c7803ffa56c1",
+			"uuid": "f51f86e3-dc25-4348-ba18-c7803ffa56c1",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vmbo tl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0f6fc6d-796a-4eb0-8236-8213cdc453c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f6fc6d-796a-4eb0-8236-8213cdc453c4",
+			"uuid": "a0f6fc6d-796a-4eb0-8236-8213cdc453c4",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vwo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/db8a94c5-43b7-4d35-a145-1a907d1f2e07",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db8a94c5-43b7-4d35-a145-1a907d1f2e07",
+			"uuid": "db8a94c5-43b7-4d35-a145-1a907d1f2e07",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vwo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a277b361-4586-4292-9661-b8952356c200",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a277b361-4586-4292-9661-b8952356c200",
+			"uuid": "a277b361-4586-4292-9661-b8952356c200",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vwo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/55d29a15-a50d-4ff0-a2e0-04b459ae3668",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/55d29a15-a50d-4ff0-a2e0-04b459ae3668",
+			"uuid": "55d29a15-a50d-4ff0-a2e0-04b459ae3668",
+			"@type": "Syllabus",
+			"title": "Syllabus Aardrijkskunde vwo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f6141abf-95d6-4be3-a1b3-58fa25e123f8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f6141abf-95d6-4be3-a1b3-58fa25e123f8",
+			"uuid": "f6141abf-95d6-4be3-a1b3-58fa25e123f8",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfsecnomie vwo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8b0fa530-73d8-4b3f-9e0e-05648868b188",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b0fa530-73d8-4b3f-9e0e-05648868b188",
+			"uuid": "8b0fa530-73d8-4b3f-9e0e-05648868b188",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfseconomie 2022 havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f6dae57a-4b1e-4f1d-a1e9-0a9bf630e11a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f6dae57a-4b1e-4f1d-a1e9-0a9bf630e11a",
+			"uuid": "f6dae57a-4b1e-4f1d-a1e9-0a9bf630e11a",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfseconomie 2023 havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c1dd28d3-4d1f-4ec9-baf3-03a66d5020d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1dd28d3-4d1f-4ec9-baf3-03a66d5020d7",
+			"uuid": "c1dd28d3-4d1f-4ec9-baf3-03a66d5020d7",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfseconomie havo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4d8cffc-18c8-463c-9be2-cdcdd06c3499",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4d8cffc-18c8-463c-9be2-cdcdd06c3499",
+			"uuid": "e4d8cffc-18c8-463c-9be2-cdcdd06c3499",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfseconomie havo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/47bbfd9d-38e7-42b6-b42b-0319646529c0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/47bbfd9d-38e7-42b6-b42b-0319646529c0",
+			"uuid": "47bbfd9d-38e7-42b6-b42b-0319646529c0",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfseconomie vwo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8441cb29-4035-45c8-bf91-a081d5fb9932",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8441cb29-4035-45c8-bf91-a081d5fb9932",
+			"uuid": "8441cb29-4035-45c8-bf91-a081d5fb9932",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfseconomie vwo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/351026ee-057c-420a-a2d6-a3b5d61c0fd4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/351026ee-057c-420a-a2d6-a3b5d61c0fd4",
+			"uuid": "351026ee-057c-420a-a2d6-a3b5d61c0fd4",
+			"@type": "Syllabus",
+			"title": "Syllabus Bedrijfseconomie vwo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+			"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vakken vwo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+			"uuid": "ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vakken vwo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61914049-edae-4ec6-9e37-08fb74dda56e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61914049-edae-4ec6-9e37-08fb74dda56e",
+			"uuid": "61914049-edae-4ec6-9e37-08fb74dda56e",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vorming vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cb885a6c-5137-4e19-82d4-5de516ca2dae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb885a6c-5137-4e19-82d4-5de516ca2dae",
+			"uuid": "cb885a6c-5137-4e19-82d4-5de516ca2dae",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vorming vmbo gl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6cbd0319-3093-413d-b5e0-b028c76d7958",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cbd0319-3093-413d-b5e0-b028c76d7958",
+			"uuid": "6cbd0319-3093-413d-b5e0-b028c76d7958",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vorming vmbo gl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/41f90830-13f3-4073-acfd-0918c2d8b4c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41f90830-13f3-4073-acfd-0918c2d8b4c2",
+			"uuid": "41f90830-13f3-4073-acfd-0918c2d8b4c2",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vorming vmbo gl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/459358bc-5392-45c1-a68f-d3d6a842b3fb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/459358bc-5392-45c1-a68f-d3d6a842b3fb",
+			"uuid": "459358bc-5392-45c1-a68f-d3d6a842b3fb",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vorming vmbo tl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dcb8630c-4514-42aa-9fb9-4cd5221db2c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dcb8630c-4514-42aa-9fb9-4cd5221db2c6",
+			"uuid": "dcb8630c-4514-42aa-9fb9-4cd5221db2c6",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vorming vmbo tl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0b31593a-128f-4eac-816e-f4e3dc55ea83",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0b31593a-128f-4eac-816e-f4e3dc55ea83",
+			"uuid": "0b31593a-128f-4eac-816e-f4e3dc55ea83",
+			"@type": "Syllabus",
+			"title": "Syllabus Beeldende vorming vmbo tl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/018f6626-155e-40b2-8dfe-d7521130be91",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/018f6626-155e-40b2-8dfe-d7521130be91",
+			"uuid": "018f6626-155e-40b2-8dfe-d7521130be91",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie havo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/657575b3-ca07-45e0-bbdc-9a011e023936",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/657575b3-ca07-45e0-bbdc-9a011e023936",
+			"uuid": "657575b3-ca07-45e0-bbdc-9a011e023936",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie havo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69bc74aa-8d9e-4073-8d4f-dbeb7f05d0c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69bc74aa-8d9e-4073-8d4f-dbeb7f05d0c5",
+			"uuid": "69bc74aa-8d9e-4073-8d4f-dbeb7f05d0c5",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie havo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c92aa20-a752-4fb2-a905-6b66e6235627",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c92aa20-a752-4fb2-a905-6b66e6235627",
+			"uuid": "3c92aa20-a752-4fb2-a905-6b66e6235627",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie havo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0deb0b28-32d5-4ede-baf9-5eef5cea4870",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0deb0b28-32d5-4ede-baf9-5eef5cea4870",
+			"uuid": "0deb0b28-32d5-4ede-baf9-5eef5cea4870",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a541005a-7d63-44dc-84dc-246c16de28a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a541005a-7d63-44dc-84dc-246c16de28a7",
+			"uuid": "a541005a-7d63-44dc-84dc-246c16de28a7",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo bb 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/509ba0d4-09e4-4511-8fe2-28af6f80fedf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/509ba0d4-09e4-4511-8fe2-28af6f80fedf",
+			"uuid": "509ba0d4-09e4-4511-8fe2-28af6f80fedf",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo bb 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50ce77ef-a9df-45ae-98e3-54bb3b87bb32",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50ce77ef-a9df-45ae-98e3-54bb3b87bb32",
+			"uuid": "50ce77ef-a9df-45ae-98e3-54bb3b87bb32",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo bb 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8973ca97-b102-4420-b395-bf2a8cffa7f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8973ca97-b102-4420-b395-bf2a8cffa7f2",
+			"uuid": "8973ca97-b102-4420-b395-bf2a8cffa7f2",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo gl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/67e79df7-2d4c-4253-b191-2ce4ce9292f0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/67e79df7-2d4c-4253-b191-2ce4ce9292f0",
+			"uuid": "67e79df7-2d4c-4253-b191-2ce4ce9292f0",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo gl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/78a5e7aa-a0fa-48fc-8138-f1fe2513d6f8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/78a5e7aa-a0fa-48fc-8138-f1fe2513d6f8",
+			"uuid": "78a5e7aa-a0fa-48fc-8138-f1fe2513d6f8",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo gl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dba61a7b-2e4f-47e3-bea9-48696a277917",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dba61a7b-2e4f-47e3-bea9-48696a277917",
+			"uuid": "dba61a7b-2e4f-47e3-bea9-48696a277917",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo kb 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5985c07-d28c-4f2b-83b4-eb6c0e18f488",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5985c07-d28c-4f2b-83b4-eb6c0e18f488",
+			"uuid": "b5985c07-d28c-4f2b-83b4-eb6c0e18f488",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo kb 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/726c7991-f9c5-4ffa-b2db-b71f54b13283",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/726c7991-f9c5-4ffa-b2db-b71f54b13283",
+			"uuid": "726c7991-f9c5-4ffa-b2db-b71f54b13283",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo kb 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7e88fc68-9f64-496b-b806-9ad440e08b14",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7e88fc68-9f64-496b-b806-9ad440e08b14",
+			"uuid": "7e88fc68-9f64-496b-b806-9ad440e08b14",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo tl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4a3c6960-cd99-403b-b962-dee71344583e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4a3c6960-cd99-403b-b962-dee71344583e",
+			"uuid": "4a3c6960-cd99-403b-b962-dee71344583e",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo tl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d93b28e-1424-40bb-a3ac-ed69d842b590",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d93b28e-1424-40bb-a3ac-ed69d842b590",
+			"uuid": "8d93b28e-1424-40bb-a3ac-ed69d842b590",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vmbo tl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/58a099a9-e38a-4eee-9a44-650abb187248",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/58a099a9-e38a-4eee-9a44-650abb187248",
+			"uuid": "58a099a9-e38a-4eee-9a44-650abb187248",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vwo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ebaed02-7979-450e-b5b4-14f1dd29612d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ebaed02-7979-450e-b5b4-14f1dd29612d",
+			"uuid": "7ebaed02-7979-450e-b5b4-14f1dd29612d",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vwo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/022aeb6c-df19-4c20-beb5-84a34a92d456",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/022aeb6c-df19-4c20-beb5-84a34a92d456",
+			"uuid": "022aeb6c-df19-4c20-beb5-84a34a92d456",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vwo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1737d4d6-a0ba-4519-ab21-271aee2750f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1737d4d6-a0ba-4519-ab21-271aee2750f4",
+			"uuid": "1737d4d6-a0ba-4519-ab21-271aee2750f4",
+			"@type": "Syllabus",
+			"title": "Syllabus Biologie vwo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+			"uuid": "206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+			"@type": "Syllabus",
+			"title": "Syllabus Dans vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+			"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+			"@type": "Syllabus",
+			"title": "Syllabus Dans vmbo gl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+			"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+			"@type": "Syllabus",
+			"title": "Syllabus Dans vmbo gl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+			"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+			"@type": "Syllabus",
+			"title": "Syllabus Dans vmbo gl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+			"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+			"@type": "Syllabus",
+			"title": "Syllabus Dans vmbo tl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+			"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+			"@type": "Syllabus",
+			"title": "Syllabus Dans vmbo tl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+			"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+			"@type": "Syllabus",
+			"title": "Syllabus Dans vmbo tl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1c7085ea-a525-4976-926c-4a3ba649aa5b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c7085ea-a525-4976-926c-4a3ba649aa5b",
+			"uuid": "1c7085ea-a525-4976-926c-4a3ba649aa5b",
+			"@type": "Syllabus",
+			"title": "Syllabus Drama vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53f3c4a7-afe3-4eee-a88f-9c46469db911",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53f3c4a7-afe3-4eee-a88f-9c46469db911",
+			"uuid": "53f3c4a7-afe3-4eee-a88f-9c46469db911",
+			"@type": "Syllabus",
+			"title": "Syllabus Drama vmbo gl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3bf5ad8c-6918-4282-8a73-11c27805d64b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3bf5ad8c-6918-4282-8a73-11c27805d64b",
+			"uuid": "3bf5ad8c-6918-4282-8a73-11c27805d64b",
+			"@type": "Syllabus",
+			"title": "Syllabus Drama vmbo gl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bd46eb11-6683-4223-adf6-4545681b3ec0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bd46eb11-6683-4223-adf6-4545681b3ec0",
+			"uuid": "bd46eb11-6683-4223-adf6-4545681b3ec0",
+			"@type": "Syllabus",
+			"title": "Syllabus Drama vmbo gl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1682297f-b3db-4b25-8d7c-911a5e29b270",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1682297f-b3db-4b25-8d7c-911a5e29b270",
+			"uuid": "1682297f-b3db-4b25-8d7c-911a5e29b270",
+			"@type": "Syllabus",
+			"title": "Syllabus Drama vmbo tl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+			"uuid": "b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+			"@type": "Syllabus",
+			"title": "Syllabus Drama vmbo tl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43c8b7ac-c28e-4d32-9d5a-34a472bd6031",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43c8b7ac-c28e-4d32-9d5a-34a472bd6031",
+			"uuid": "43c8b7ac-c28e-4d32-9d5a-34a472bd6031",
+			"@type": "Syllabus",
+			"title": "Syllabus Drama vmbo tl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b5d329f-36ef-4ba9-bee7-265189471609",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b5d329f-36ef-4ba9-bee7-265189471609",
+			"uuid": "3b5d329f-36ef-4ba9-bee7-265189471609",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie havo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6602dfca-06c2-4105-91fd-d916f0279ec3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6602dfca-06c2-4105-91fd-d916f0279ec3",
+			"uuid": "6602dfca-06c2-4105-91fd-d916f0279ec3",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie havo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb33e317-5486-417f-8860-e601e88711b3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb33e317-5486-417f-8860-e601e88711b3",
+			"uuid": "fb33e317-5486-417f-8860-e601e88711b3",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie havo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/729bd161-c5a6-4747-9a36-7f0b501ba1e4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/729bd161-c5a6-4747-9a36-7f0b501ba1e4",
+			"uuid": "729bd161-c5a6-4747-9a36-7f0b501ba1e4",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie havo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50d53ac4-e521-49b7-a6df-c8a541780623",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d53ac4-e521-49b7-a6df-c8a541780623",
+			"uuid": "50d53ac4-e521-49b7-a6df-c8a541780623",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0029c278-816b-4395-8e90-b92164ed130d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0029c278-816b-4395-8e90-b92164ed130d",
+			"uuid": "0029c278-816b-4395-8e90-b92164ed130d",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo bb 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/14fcb18a-af28-4535-a7af-ad7dd874996c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14fcb18a-af28-4535-a7af-ad7dd874996c",
+			"uuid": "14fcb18a-af28-4535-a7af-ad7dd874996c",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo bb 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ee2fbe31-ceb7-4f07-aba0-44e508142ed4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ee2fbe31-ceb7-4f07-aba0-44e508142ed4",
+			"uuid": "ee2fbe31-ceb7-4f07-aba0-44e508142ed4",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo bb 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ccf83f3f-53c8-470a-bbfb-33d760b57d58",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ccf83f3f-53c8-470a-bbfb-33d760b57d58",
+			"uuid": "ccf83f3f-53c8-470a-bbfb-33d760b57d58",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo gl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8ea17c6c-6f7f-49b9-881a-0632f35825e5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ea17c6c-6f7f-49b9-881a-0632f35825e5",
+			"uuid": "8ea17c6c-6f7f-49b9-881a-0632f35825e5",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo gl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69ff8009-6b63-4095-b829-2de65e42a8b7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69ff8009-6b63-4095-b829-2de65e42a8b7",
+			"uuid": "69ff8009-6b63-4095-b829-2de65e42a8b7",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo gl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0871142c-9673-4395-a4c5-6ebb5274478c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0871142c-9673-4395-a4c5-6ebb5274478c",
+			"uuid": "0871142c-9673-4395-a4c5-6ebb5274478c",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo kb 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b710983b-7802-4923-8a57-15aff2d5557c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b710983b-7802-4923-8a57-15aff2d5557c",
+			"uuid": "b710983b-7802-4923-8a57-15aff2d5557c",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo kb 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/42182506-27b5-4308-8859-893aea864d31",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/42182506-27b5-4308-8859-893aea864d31",
+			"uuid": "42182506-27b5-4308-8859-893aea864d31",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo kb 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8fbdfcf1-e7c5-4f62-bb64-49eeaebeaf7c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8fbdfcf1-e7c5-4f62-bb64-49eeaebeaf7c",
+			"uuid": "8fbdfcf1-e7c5-4f62-bb64-49eeaebeaf7c",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo tl 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b1961386-d3de-47c2-9b2a-a03ca15cc586",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1961386-d3de-47c2-9b2a-a03ca15cc586",
+			"uuid": "b1961386-d3de-47c2-9b2a-a03ca15cc586",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo tl 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ab1dfd4d-07b5-4519-9f64-a489a8562a3e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab1dfd4d-07b5-4519-9f64-a489a8562a3e",
+			"uuid": "ab1dfd4d-07b5-4519-9f64-a489a8562a3e",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vmbo tl 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ecf3cafc-1d63-4cd6-9552-33fae7e6f0f3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ecf3cafc-1d63-4cd6-9552-33fae7e6f0f3",
+			"uuid": "ecf3cafc-1d63-4cd6-9552-33fae7e6f0f3",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vwo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d1319f72-94b3-4f87-9d9e-3e62ba53f508",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d1319f72-94b3-4f87-9d9e-3e62ba53f508",
+			"uuid": "d1319f72-94b3-4f87-9d9e-3e62ba53f508",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vwo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15ddc105-73ec-40b6-ba06-08e4bf671d1f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15ddc105-73ec-40b6-ba06-08e4bf671d1f",
+			"uuid": "15ddc105-73ec-40b6-ba06-08e4bf671d1f",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vwo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/366db450-1c0d-4b53-a04e-5f53c23deee1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/366db450-1c0d-4b53-a04e-5f53c23deee1",
+			"uuid": "366db450-1c0d-4b53-a04e-5f53c23deee1",
+			"@type": "Syllabus",
+			"title": "Syllabus Economie vwo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a0a3909-c1c1-4285-8188-85020722ec92",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a0a3909-c1c1-4285-8188-85020722ec92",
+			"uuid": "0a0a3909-c1c1-4285-8188-85020722ec92",
+			"@type": "Syllabus",
+			"title": "Syllabus Filosofie havo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eb7e4fd7-f4c0-4f86-b0ec-6369bf0c0a28",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eb7e4fd7-f4c0-4f86-b0ec-6369bf0c0a28",
+			"uuid": "eb7e4fd7-f4c0-4f86-b0ec-6369bf0c0a28",
+			"@type": "Syllabus",
+			"title": "Syllabus Filosofie havo 2022"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c3e91309-c25d-4d35-acc1-e5ab8800674b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c3e91309-c25d-4d35-acc1-e5ab8800674b",
+			"uuid": "c3e91309-c25d-4d35-acc1-e5ab8800674b",
+			"@type": "Syllabus",
+			"title": "Syllabus Filosofie havo 2023"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e2324e2-25bd-4e73-84f4-08f399d4ddcc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e2324e2-25bd-4e73-84f4-08f399d4ddcc",
+			"uuid": "6e2324e2-25bd-4e73-84f4-08f399d4ddcc",
+			"@type": "Syllabus",
+			"title": "Syllabus Filosofie havo 2024"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ebf3dc2-bc59-4ea0-98d5-cb7802a1dc8d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ebf3dc2-bc59-4ea0-98d5-cb7802a1dc8d",
+			"uuid": "3ebf3dc2-bc59-4ea0-98d5-cb7802a1dc8d",
+			"@type": "Syllabus",
+			"title": "Syllabus Filosofie vwo 2021"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+			"uuid": "14de71f0-70c6-487e-a2ce-254d8fc076df",
+			"@type": "Syllabus",
+			"title": "Syllabus Filosofie vwo 2022"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

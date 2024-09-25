@@ -1,0 +1,30 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/caa85a8e-33e3-4b80-9e66-c5c1bd2d89f8",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caa85a8e-33e3-4b80-9e66-c5c1bd2d89f8",
+	"uuid": "caa85a8e-33e3-4b80-9e66-c5c1bd2d89f8",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Vakleergebied",
+	"ExamenprogrammaVakleergebied": [],
+	"ExamenprogrammaBgProfiel": [],
+	"LdkVakleergebied": [],
+	"KerndoelVakleergebied": [],
+	"Niveau": [],
+	"SyllabusVakleergebied": [],
+	"InhVakleergebied": [],
+	"RefVakleergebied": [],
+	"ErkVakleergebied": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c0f3b769-606e-488a-aeb1-405bf46df24a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c0f3b769-606e-488a-aeb1-405bf46df24a",
+			"uuid": "c0f3b769-606e-488a-aeb1-405bf46df24a",
+			"title": "21e eeuwse vaardigheden"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "21ev",
+	"title": "21e eeuwse vaardigheden",
+	"description": ""
+}

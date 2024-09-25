@@ -1,0 +1,82 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fcb8f424-360e-4c65-915c-1edc2c457695",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcb8f424-360e-4c65-915c-1edc2c457695",
+	"uuid": "fcb8f424-360e-4c65-915c-1edc2c457695",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgModule",
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3569749-440e-4d1c-bd98-b328ec57a9a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3569749-440e-4d1c-bd98-b328ec57a9a7",
+			"uuid": "a3569749-440e-4d1c-bd98-b328ec57a9a7",
+			"prefix": "MVI",
+			"title": "Media, vormgeving en ict",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+			"uuid": "3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+			"prefix": "MVI",
+			"title": "Media, vormgeving en ICT",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgDeeltaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9dee973-b204-42c2-9e8e-e2d1c4755ae4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9dee973-b204-42c2-9e8e-e2d1c4755ae4",
+			"uuid": "f9dee973-b204-42c2-9e8e-e2d1c4755ae4",
+			"prefix": "P/MVI/03/01",
+			"title": "Hardware onderdelen demonteren en monteren, aansluiten en onderdelen vervangen",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4c9fa5e0-0947-4d47-b6d3-b450246eaad2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4c9fa5e0-0947-4d47-b6d3-b450246eaad2",
+			"uuid": "4c9fa5e0-0947-4d47-b6d3-b450246eaad2",
+			"prefix": "P/MVI/03/02",
+			"title": "Systemen en applicaties installeren en configureren op basis van de wensen van de klant",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f0b5f095-bf51-4770-a85b-ceb10f961e26",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f0b5f095-bf51-4770-a85b-ceb10f961e26",
+			"uuid": "f0b5f095-bf51-4770-a85b-ceb10f961e26",
+			"prefix": "P/MVI/03/03",
+			"title": "Een eenvoudige ICT-infrastructuur in een gebouw installeren",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d1e77786-2177-4a95-a0bc-a07659a2fcab",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d1e77786-2177-4a95-a0bc-a07659a2fcab",
+			"uuid": "d1e77786-2177-4a95-a0bc-a07659a2fcab",
+			"prefix": "P/MVI/03/04",
+			"title": "Een eindgebruiker informeren en adviseren over ICT-producten en het gebruik ervan",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgModuletaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fcdaa3d1-b190-45e7-a8da-b6e4c6efe276",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcdaa3d1-b190-45e7-a8da-b6e4c6efe276",
+			"uuid": "fcdaa3d1-b190-45e7-a8da-b6e4c6efe276",
+			"prefix": "P/MVI/03/MT",
+			"title": "Hardware onderdelen demonteren en monteren, aansluiten en onderdelen vervangen / software installeren en veelvoorkomende problemen oplossen / een ICT-infrastructuur installeren in een gebouw / eindgebruikers informeren en adviseren over ICT-producten en het gebruik ervan",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6ebc1090-3d90-4fb2-9149-ed68ffb3fd7b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6ebc1090-3d90-4fb2-9149-ed68ffb3fd7b",
+			"uuid": "6ebc1090-3d90-4fb2-9149-ed68ffb3fd7b",
+			"title": "ICT"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "P/MVI/03",
+	"title": "ICT"
+}

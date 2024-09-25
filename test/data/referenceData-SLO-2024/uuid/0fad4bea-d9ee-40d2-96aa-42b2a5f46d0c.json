@@ -1,0 +1,69 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
+	"uuid": "0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "Kerndoel",
+	"KerndoelDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"uuid": "4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"title": "Mondeling taalonderwijs",
+			"deprecated": null,
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"uuid": "d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"title": "Nederlands",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"uuid": "2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"title": "Nederlands",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cc11787b-7f49-475d-842b-d41953602571",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc11787b-7f49-475d-842b-d41953602571",
+			"uuid": "cc11787b-7f49-475d-842b-d41953602571",
+			"title": "Mondeling taalonderwijs",
+			"deprecated": true,
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/41236270-1d6f-46e4-bb9c-1e0f06726437",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41236270-1d6f-46e4-bb9c-1e0f06726437",
+					"uuid": "41236270-1d6f-46e4-bb9c-1e0f06726437",
+					"title": "Nederlands",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Doelniveau": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"uuid": "f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"title": "so nl/ml",
+			"prefix": "0002",
+			"description": "speciaal onderwijs normaal lerend/moeilijk lerend",
+			"type": "Opleiding",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "De leerlingen leren informatie te beoordelen in discussies en in een gesprek dat informatief of opiniërend van karakter is en leren met argumenten te reageren.",
+	"description": "Gesprekken voeren",
+	"kerndoelLabel": "Gesprekken voeren",
+	"prefix": "SO nl/ml Kerndoel LS 10"
+}

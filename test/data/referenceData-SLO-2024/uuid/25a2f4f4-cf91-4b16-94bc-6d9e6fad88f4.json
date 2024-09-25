@@ -1,0 +1,16 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/25a2f4f4-cf91-4b16-94bc-6d9e6fad88f4",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/25a2f4f4-cf91-4b16-94bc-6d9e6fad88f4",
+	"uuid": "25a2f4f4-cf91-4b16-94bc-6d9e6fad88f4",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Niveau",
+	"Vakleergebied": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "1003",
+	"title": "groep 3",
+	"description": "primair onderwijs, groep 3",
+	"type": "Leerjaar"
+}

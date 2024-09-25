@@ -1,0 +1,961 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/34afad57-42d1-4eaa-b5dc-faa777bbe1b6",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34afad57-42d1-4eaa-b5dc-faa777bbe1b6",
+	"uuid": "34afad57-42d1-4eaa-b5dc-faa777bbe1b6",
+	"@type": "LdkVakinhoud",
+	"LdkVaksubkern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d0591c3f-86ec-4962-acf5-718b249c38fb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d0591c3f-86ec-4962-acf5-718b249c38fb",
+			"uuid": "d0591c3f-86ec-4962-acf5-718b249c38fb",
+			"title": "Hoe doe je dat?",
+			"prefix": "fa/3/1",
+			"deprecated": null,
+			"LdkVakkern": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7de7b3fb-bf81-420d-9d7b-015e5189e126",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7de7b3fb-bf81-420d-9d7b-015e5189e126",
+					"uuid": "7de7b3fb-bf81-420d-9d7b-015e5189e126",
+					"title": "Schrijven",
+					"prefix": "fa/3",
+					"deprecated": null,
+					"LdkVakleergebied": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/5b7e63ca-499e-4524-ab62-3fa443c1bd91",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b7e63ca-499e-4524-ab62-3fa443c1bd91",
+							"uuid": "5b7e63ca-499e-4524-ab62-3fa443c1bd91",
+							"title": "Frans",
+							"deprecated": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/85fd9942-9663-464c-9183-4b82c49de242",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85fd9942-9663-464c-9183-4b82c49de242",
+							"uuid": "85fd9942-9663-464c-9183-4b82c49de242",
+							"title": "Frans",
+							"deprecated": true
+						}
+					]
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/784f6765-2b6d-4d1b-ae37-61c9986b0a1e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/784f6765-2b6d-4d1b-ae37-61c9986b0a1e",
+					"uuid": "784f6765-2b6d-4d1b-ae37-61c9986b0a1e",
+					"title": "Schrijven",
+					"prefix": "fa/3",
+					"deprecated": true,
+					"LdkVakleergebied": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/2de8c75e-40f8-4a3b-a913-4f9138f95b36",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2de8c75e-40f8-4a3b-a913-4f9138f95b36",
+							"uuid": "2de8c75e-40f8-4a3b-a913-4f9138f95b36",
+							"title": "Frans",
+							"deprecated": true
+						}
+					]
+				}
+			]
+		}
+	],
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91a854f4-a278-479d-b04a-b33163fa939d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91a854f4-a278-479d-b04a-b33163fa939d",
+			"uuid": "91a854f4-a278-479d-b04a-b33163fa939d",
+			"prefix": "fa/3/1/2/1/obvmbokb",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c26c4670-47f4-40e5-bbc4-c5a89e09ec82",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c26c4670-47f4-40e5-bbc4-c5a89e09ec82",
+					"uuid": "c26c4670-47f4-40e5-bbc4-c5a89e09ec82",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+					"title": "ob vmbo kb",
+					"prefix": "3102",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4506bfe-3458-4779-8245-f9067cab18c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4506bfe-3458-4779-8245-f9067cab18c1",
+			"uuid": "a4506bfe-3458-4779-8245-f9067cab18c1",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c26c4670-47f4-40e5-bbc4-c5a89e09ec82",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c26c4670-47f4-40e5-bbc4-c5a89e09ec82",
+					"uuid": "c26c4670-47f4-40e5-bbc4-c5a89e09ec82",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c670c9a4-392d-48f9-bbc5-64a05bfbcbf4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c670c9a4-392d-48f9-bbc5-64a05bfbcbf4",
+			"uuid": "c670c9a4-392d-48f9-bbc5-64a05bfbcbf4",
+			"prefix": "fa/3/1/2/1/obvmbogl",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace47f7c-ec54-4b88-83d6-76d550bfd5f5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace47f7c-ec54-4b88-83d6-76d550bfd5f5",
+					"uuid": "ace47f7c-ec54-4b88-83d6-76d550bfd5f5",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+					"title": "ob vmbo gl",
+					"prefix": "3103",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3902b3d-b11b-4c11-8997-85e89c29ec37",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3902b3d-b11b-4c11-8997-85e89c29ec37",
+			"uuid": "d3902b3d-b11b-4c11-8997-85e89c29ec37",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace47f7c-ec54-4b88-83d6-76d550bfd5f5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace47f7c-ec54-4b88-83d6-76d550bfd5f5",
+					"uuid": "ace47f7c-ec54-4b88-83d6-76d550bfd5f5",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1e2c0fd0-c366-4b86-bd93-cd884da126a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1e2c0fd0-c366-4b86-bd93-cd884da126a8",
+			"uuid": "1e2c0fd0-c366-4b86-bd93-cd884da126a8",
+			"prefix": "fa/3/1/2/1/obvmbotl",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5e192e-0cfb-475d-938d-68fa9eabd268",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5e192e-0cfb-475d-938d-68fa9eabd268",
+					"uuid": "1d5e192e-0cfb-475d-938d-68fa9eabd268",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+					"title": "ob vmbo tl",
+					"prefix": "3104",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45fc3f02-0cbb-4b2c-b552-e754d5a61112",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45fc3f02-0cbb-4b2c-b552-e754d5a61112",
+			"uuid": "45fc3f02-0cbb-4b2c-b552-e754d5a61112",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5e192e-0cfb-475d-938d-68fa9eabd268",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5e192e-0cfb-475d-938d-68fa9eabd268",
+					"uuid": "1d5e192e-0cfb-475d-938d-68fa9eabd268",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8b057183-73d9-4928-a515-36594bcb21d4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b057183-73d9-4928-a515-36594bcb21d4",
+			"uuid": "8b057183-73d9-4928-a515-36594bcb21d4",
+			"prefix": "fa/3/1/2/1/obhavo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8ed7ed55-e008-494d-97e3-5ef3fdba9ec0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ed7ed55-e008-494d-97e3-5ef3fdba9ec0",
+					"uuid": "8ed7ed55-e008-494d-97e3-5ef3fdba9ec0",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+					"title": "ob havo",
+					"prefix": "4107",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9f06e0c2-ee46-4c61-a53a-ccb1fb83862d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9f06e0c2-ee46-4c61-a53a-ccb1fb83862d",
+			"uuid": "9f06e0c2-ee46-4c61-a53a-ccb1fb83862d",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8ed7ed55-e008-494d-97e3-5ef3fdba9ec0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ed7ed55-e008-494d-97e3-5ef3fdba9ec0",
+					"uuid": "8ed7ed55-e008-494d-97e3-5ef3fdba9ec0",
+					"title": "Je hanteert een beperkt repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ce71522-98c9-42c3-8afa-d3a44e154cc0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ce71522-98c9-42c3-8afa-d3a44e154cc0",
+			"uuid": "7ce71522-98c9-42c3-8afa-d3a44e154cc0",
+			"prefix": "fa/3/1/2/2/obhavo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/18d7d1bf-caaa-471a-ab38-37d02afe61df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/18d7d1bf-caaa-471a-ab38-37d02afe61df",
+					"uuid": "18d7d1bf-caaa-471a-ab38-37d02afe61df",
+					"title": "Je hanteert een redelijk repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+					"title": "ob havo",
+					"prefix": "4107",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89c03320-2129-4e70-b1ab-118851d60fd0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89c03320-2129-4e70-b1ab-118851d60fd0",
+			"uuid": "89c03320-2129-4e70-b1ab-118851d60fd0",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/18d7d1bf-caaa-471a-ab38-37d02afe61df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/18d7d1bf-caaa-471a-ab38-37d02afe61df",
+					"uuid": "18d7d1bf-caaa-471a-ab38-37d02afe61df",
+					"title": "Je hanteert een redelijk repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+					"title": "A2+",
+					"prefix": "1014",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/321f56c1-9d5b-45df-93ca-113761273358",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/321f56c1-9d5b-45df-93ca-113761273358",
+			"uuid": "321f56c1-9d5b-45df-93ca-113761273358",
+			"prefix": "fa/3/1/2/1/obvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1db7ad81-b6f3-4485-8356-bf657d6c81de",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1db7ad81-b6f3-4485-8356-bf657d6c81de",
+					"uuid": "1db7ad81-b6f3-4485-8356-bf657d6c81de",
+					"title": "Je hanteert een redelijk repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+					"title": "ob vwo",
+					"prefix": "4150",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/79908753-527d-4fa2-9554-90bbcdaffeb9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79908753-527d-4fa2-9554-90bbcdaffeb9",
+			"uuid": "79908753-527d-4fa2-9554-90bbcdaffeb9",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1db7ad81-b6f3-4485-8356-bf657d6c81de",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1db7ad81-b6f3-4485-8356-bf657d6c81de",
+					"uuid": "1db7ad81-b6f3-4485-8356-bf657d6c81de",
+					"title": "Je hanteert een redelijk repertoire met uit het hoofd geleerde uitdrukkingen om te voorzien in concrete alledaagse behoeften.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+					"title": "A2+",
+					"prefix": "1014",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/457c450d-c6e3-4e57-861f-f1f9a1a5b87e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/457c450d-c6e3-4e57-861f-f1f9a1a5b87e",
+			"uuid": "457c450d-c6e3-4e57-861f-f1f9a1a5b87e",
+			"prefix": "fa/3/1/2/1/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf0b9c62-e40f-4deb-b859-9175f78e6ae5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf0b9c62-e40f-4deb-b859-9175f78e6ae5",
+					"uuid": "cf0b9c62-e40f-4deb-b859-9175f78e6ae5",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5759d32c-d0a2-453a-aaa1-d583478b621a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5759d32c-d0a2-453a-aaa1-d583478b621a",
+			"uuid": "5759d32c-d0a2-453a-aaa1-d583478b621a",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf0b9c62-e40f-4deb-b859-9175f78e6ae5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf0b9c62-e40f-4deb-b859-9175f78e6ae5",
+					"uuid": "cf0b9c62-e40f-4deb-b859-9175f78e6ae5",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5a6b52af-49f6-4b9d-82ca-cdba3630bff2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5a6b52af-49f6-4b9d-82ca-cdba3630bff2",
+					"uuid": "5a6b52af-49f6-4b9d-82ca-cdba3630bff2",
+					"title": "Domein D: Schrijfvaardigheid",
+					"prefix": "MVT/FA/H/DomeinD"
+				}
+			],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/77de12a2-7776-4f83-91ac-2b29b35803f3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/77de12a2-7776-4f83-91ac-2b29b35803f3",
+			"uuid": "77de12a2-7776-4f83-91ac-2b29b35803f3",
+			"prefix": "fa/3/1/2/1/bbvmbogl",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa17ec42-4409-4ea8-8022-42eae7085e31",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa17ec42-4409-4ea8-8022-42eae7085e31",
+					"uuid": "fa17ec42-4409-4ea8-8022-42eae7085e31",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45139278-2c59-4a1d-8192-d525787e0104",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45139278-2c59-4a1d-8192-d525787e0104",
+			"uuid": "45139278-2c59-4a1d-8192-d525787e0104",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa17ec42-4409-4ea8-8022-42eae7085e31",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa17ec42-4409-4ea8-8022-42eae7085e31",
+					"uuid": "fa17ec42-4409-4ea8-8022-42eae7085e31",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"uuid": "2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"title": "Basisvaardigheden",
+					"prefix": "FA/K/2"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9827d61d-9881-4647-943c-aaf3ef656984",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9827d61d-9881-4647-943c-aaf3ef656984",
+					"uuid": "9827d61d-9881-4647-943c-aaf3ef656984",
+					"title": "Leervaardigheden in de Moderne Vreemde Talen",
+					"prefix": "FA/K/3"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"uuid": "4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"title": "Schrijfvaardigheid",
+					"prefix": "FA/K/7"
+				}
+			],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/db544d4c-9100-4300-9c7f-8982469802a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db544d4c-9100-4300-9c7f-8982469802a1",
+			"uuid": "db544d4c-9100-4300-9c7f-8982469802a1",
+			"prefix": "fa/3/1/2/1/bbvmbokb",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8eb97ca6-eec1-4015-8447-7851e30ba0b5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8eb97ca6-eec1-4015-8447-7851e30ba0b5",
+					"uuid": "8eb97ca6-eec1-4015-8447-7851e30ba0b5",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/298326b7-6747-40a5-b120-4d6a250e15dd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/298326b7-6747-40a5-b120-4d6a250e15dd",
+			"uuid": "298326b7-6747-40a5-b120-4d6a250e15dd",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8eb97ca6-eec1-4015-8447-7851e30ba0b5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8eb97ca6-eec1-4015-8447-7851e30ba0b5",
+					"uuid": "8eb97ca6-eec1-4015-8447-7851e30ba0b5",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"prefix": "1003",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"uuid": "2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"title": "Basisvaardigheden",
+					"prefix": "FA/K/2"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9827d61d-9881-4647-943c-aaf3ef656984",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9827d61d-9881-4647-943c-aaf3ef656984",
+					"uuid": "9827d61d-9881-4647-943c-aaf3ef656984",
+					"title": "Leervaardigheden in de Moderne Vreemde Talen",
+					"prefix": "FA/K/3"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"uuid": "4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"title": "Schrijfvaardigheid",
+					"prefix": "FA/K/7"
+				}
+			],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7a4a4d4-bd26-4957-be10-889c7a53de76",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7a4a4d4-bd26-4957-be10-889c7a53de76",
+			"uuid": "c7a4a4d4-bd26-4957-be10-889c7a53de76",
+			"prefix": "fa/3/1/2/1/bbvmbotl",
+			"ce_se": "CE;SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8b1b32fe-d067-4568-bb9e-9aeb215b5a13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b1b32fe-d067-4568-bb9e-9aeb215b5a13",
+					"uuid": "8b1b32fe-d067-4568-bb9e-9aeb215b5a13",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/12f30763-82f6-4a54-854d-6db5d77f290a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/12f30763-82f6-4a54-854d-6db5d77f290a",
+			"uuid": "12f30763-82f6-4a54-854d-6db5d77f290a",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8b1b32fe-d067-4568-bb9e-9aeb215b5a13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b1b32fe-d067-4568-bb9e-9aeb215b5a13",
+					"uuid": "8b1b32fe-d067-4568-bb9e-9aeb215b5a13",
+					"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"uuid": "2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+					"title": "Basisvaardigheden",
+					"prefix": "FA/K/2"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9827d61d-9881-4647-943c-aaf3ef656984",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9827d61d-9881-4647-943c-aaf3ef656984",
+					"uuid": "9827d61d-9881-4647-943c-aaf3ef656984",
+					"title": "Leervaardigheden in de Moderne Vreemde Talen",
+					"prefix": "FA/K/3"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"uuid": "4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+					"title": "Schrijfvaardigheid",
+					"prefix": "FA/K/7"
+				}
+			],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8f95e43-94fc-4c03-8ae7-02c51c541fc8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8f95e43-94fc-4c03-8ae7-02c51c541fc8",
+			"uuid": "f8f95e43-94fc-4c03-8ae7-02c51c541fc8",
+			"prefix": "fa/3/1/2/1/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9b2e1f7a-fcad-4c8c-858b-b734df3d6357",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9b2e1f7a-fcad-4c8c-858b-b734df3d6357",
+					"uuid": "9b2e1f7a-fcad-4c8c-858b-b734df3d6357",
+					"title": "Je beheerst de woorden die tot de basis behoren goed, al maak je nog wel fouten als het wat moeilijker wordt of als het gaat over niet-vertrouwde onderwerpen en situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/455bc6af-1392-446e-bed8-9d9ec02fbb10",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/455bc6af-1392-446e-bed8-9d9ec02fbb10",
+			"uuid": "455bc6af-1392-446e-bed8-9d9ec02fbb10",
+			"prefix": null,
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9b2e1f7a-fcad-4c8c-858b-b734df3d6357",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9b2e1f7a-fcad-4c8c-858b-b734df3d6357",
+					"uuid": "9b2e1f7a-fcad-4c8c-858b-b734df3d6357",
+					"title": "Je beheerst de woorden die tot de basis behoren goed, al maak je nog wel fouten als het wat moeilijker wordt of als het gaat over niet-vertrouwde onderwerpen en situaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"prefix": "4902",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/611d5a11-4735-47c3-b93d-05819924b21a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/611d5a11-4735-47c3-b93d-05819924b21a",
+					"uuid": "611d5a11-4735-47c3-b93d-05819924b21a",
+					"title": "Domein D: Schrijfvaardigheid",
+					"prefix": "MVT/FA/V/DomeinD"
+				}
+			],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+			"title": "A1",
+			"prefix": "1003-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/ebf1cc90-05cb-4976-9561-dfb2041ca264/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+			"title": "A2",
+			"prefix": "1004-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/1d5d9624-055f-42ed-bc39-06b183ecb40b/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+			"title": "A2+",
+			"prefix": "1014-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/620710de-54d2-48b5-93ab-40888732aab7/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"title": "ob vmbo kb",
+			"prefix": "3102-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"title": "ob vmbo gl",
+			"prefix": "3103-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/01aede69-edcd-4352-97e8-e16cb5d0015e/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"title": "ob vmbo tl",
+			"prefix": "3104-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/c63858da-23e4-4e1e-8456-b4aa13a6a826/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"title": "ob havo",
+			"prefix": "4107-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ca732b3-3ec2-4b13-9f08-d55b8739fe31/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"title": "ob vwo",
+			"prefix": "4150-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/b5a4f104-fb2d-4c71-8f36-702d9567a752/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"prefix": "4600-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+			"title": "B1",
+			"prefix": "4902-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/a94b005d-9697-49f6-897a-0ad6516044f9/ldk_vakinhoud/34afad57-42d1-4eaa-b5dc-faa777bbe1b6"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Beheersing van de woordenschat",
+	"prefix": "fa/3/1/2"
+}

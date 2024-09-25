@@ -1,0 +1,23 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/58fe0010-9685-4dae-ba70-2e47d94ad844",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/58fe0010-9685-4dae-ba70-2e47d94ad844",
+	"uuid": "58fe0010-9685-4dae-ba70-2e47d94ad844",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Vakleergebied",
+	"ExamenprogrammaVakleergebied": [],
+	"ExamenprogrammaBgProfiel": [],
+	"LdkVakleergebied": [],
+	"KerndoelVakleergebied": [],
+	"Niveau": [],
+	"SyllabusVakleergebied": [],
+	"InhVakleergebied": [],
+	"RefVakleergebied": [],
+	"ErkVakleergebied": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "fg",
+	"title": "Fysische geografie",
+	"description": null
+}

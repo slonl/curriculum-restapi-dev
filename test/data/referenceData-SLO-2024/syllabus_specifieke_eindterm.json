@@ -1,0 +1,3916 @@
+{
+	"count": 12230,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/66a06a40-bd55-40a4-86c3-08658899a536",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/66a06a40-bd55-40a4-86c3-08658899a536",
+			"uuid": "66a06a40-bd55-40a4-86c3-08658899a536",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "(On)veiligheid als maatschappelijk en politiek vraagstuk",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"uuid": "f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"title": "Syllabus Maatschappijwetenschappen havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"uuid": "ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"title": "Syllabus Maatschappijwetenschappen havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"uuid": "6d69068e-9d68-4005-9cea-86d049705622",
+					"title": "Syllabus Maatschappijwetenschappen havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"uuid": "49d5c110-dd16-4015-a537-c431841073a0",
+					"title": "Syllabus Maatschappijwetenschappen havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cd3d1e92-8de2-4543-8fe2-05964abc90f0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cd3d1e92-8de2-4543-8fe2-05964abc90f0",
+			"uuid": "cd3d1e92-8de2-4543-8fe2-05964abc90f0",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "(Stijl)citaten uit verschillende culturen, c.q. subculturen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"uuid": "df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"title": "Syllabus Kunst (algemeen) havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"uuid": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"title": "Syllabus Kunst (algemeen) havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4c4a277-ef2f-4039-838e-fd23c8119666",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4c4a277-ef2f-4039-838e-fd23c8119666",
+			"uuid": "f4c4a277-ef2f-4039-838e-fd23c8119666",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "0 De kandidaat kent/weet de rol en taken van de reclassering: De reclassering werkt met mensen die in aanraking zijn gekomen met politie en justitie. Zij zet zich in om herhaling van strafbaar gedrag te voorkomen. Zij speelt een rol voor, tijdens en na het strafproces.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/724c6fb4-b078-4851-be56-e2d727fba9aa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/724c6fb4-b078-4851-be56-e2d727fba9aa",
+					"uuid": "724c6fb4-b078-4851-be56-e2d727fba9aa",
+					"title": "Syllabus Maatschappijkunde vmbo bb 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/12e107e4-eaaa-4cb1-985a-2c250e808818",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/12e107e4-eaaa-4cb1-985a-2c250e808818",
+					"uuid": "12e107e4-eaaa-4cb1-985a-2c250e808818",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c09dc6ec-3a27-4b7f-82be-c4944f217934",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c09dc6ec-3a27-4b7f-82be-c4944f217934",
+					"uuid": "c09dc6ec-3a27-4b7f-82be-c4944f217934",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b0bf1421-5e04-4bdf-8335-c09ec603d61f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b0bf1421-5e04-4bdf-8335-c09ec603d61f",
+					"uuid": "b0bf1421-5e04-4bdf-8335-c09ec603d61f",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3f7b3157-a2fe-4958-a29b-d4bedca6e84d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f7b3157-a2fe-4958-a29b-d4bedca6e84d",
+					"uuid": "3f7b3157-a2fe-4958-a29b-d4bedca6e84d",
+					"title": "Syllabus Maatschappijkunde vmbo bb 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2053b45b-ece7-4860-ba85-f80874f23ce1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2053b45b-ece7-4860-ba85-f80874f23ce1",
+					"uuid": "2053b45b-ece7-4860-ba85-f80874f23ce1",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a6c57609-611d-4b81-8563-d1b35e7293bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6c57609-611d-4b81-8563-d1b35e7293bb",
+					"uuid": "a6c57609-611d-4b81-8563-d1b35e7293bb",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/256f1b40-a58d-4130-af4c-189a2d3e0d82",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/256f1b40-a58d-4130-af4c-189a2d3e0d82",
+					"uuid": "256f1b40-a58d-4130-af4c-189a2d3e0d82",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d50f6217-305c-48f6-910d-9d35e3183f4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d50f6217-305c-48f6-910d-9d35e3183f4b",
+					"uuid": "d50f6217-305c-48f6-910d-9d35e3183f4b",
+					"title": "Syllabus Maatschappijkunde vmbo bb 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1075541a-d5a5-4d1a-a657-c9be36027f8e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1075541a-d5a5-4d1a-a657-c9be36027f8e",
+					"uuid": "1075541a-d5a5-4d1a-a657-c9be36027f8e",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d055aa4-d7f1-41a3-b393-c82c15565a20",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d055aa4-d7f1-41a3-b393-c82c15565a20",
+					"uuid": "6d055aa4-d7f1-41a3-b393-c82c15565a20",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/038bf0b6-00c0-4bbc-bef4-89cdea7d7a34",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/038bf0b6-00c0-4bbc-bef4-89cdea7d7a34",
+					"uuid": "038bf0b6-00c0-4bbc-bef4-89cdea7d7a34",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a363c713-9f8a-44ec-9c53-1a31cdd636bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a363c713-9f8a-44ec-9c53-1a31cdd636bb",
+					"uuid": "a363c713-9f8a-44ec-9c53-1a31cdd636bb",
+					"title": "Syllabus Maatschappijkunde vmbo bb 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+					"uuid": "6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f73e48b4-8395-4623-af2c-c4c04f8631c4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f73e48b4-8395-4623-af2c-c4c04f8631c4",
+					"uuid": "f73e48b4-8395-4623-af2c-c4c04f8631c4",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+					"uuid": "be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d65670b6-8c1d-4c66-990b-802bec9e502f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d65670b6-8c1d-4c66-990b-802bec9e502f",
+					"uuid": "d65670b6-8c1d-4c66-990b-802bec9e502f",
+					"title": "Syllabus Maatschappijkunde vmbo bb 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dee6b382-9a5a-4a5f-bd10-7fac84588224",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dee6b382-9a5a-4a5f-bd10-7fac84588224",
+					"uuid": "dee6b382-9a5a-4a5f-bd10-7fac84588224",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/17b169bf-2ba0-426f-b38b-13ff4da71d68",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17b169bf-2ba0-426f-b38b-13ff4da71d68",
+					"uuid": "17b169bf-2ba0-426f-b38b-13ff4da71d68",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+					"uuid": "d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c9ae335-eb54-4beb-a737-54d0f2781646",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c9ae335-eb54-4beb-a737-54d0f2781646",
+					"uuid": "2c9ae335-eb54-4beb-a737-54d0f2781646",
+					"title": "Syllabus Maatschappijkunde vmbo bb 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f67f0110-4a60-42bb-bee5-af444e623ade",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f67f0110-4a60-42bb-bee5-af444e623ade",
+					"uuid": "f67f0110-4a60-42bb-bee5-af444e623ade",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+					"uuid": "ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5cd94d43-0702-491d-8670-464f57924d47",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5cd94d43-0702-491d-8670-464f57924d47",
+					"uuid": "5cd94d43-0702-491d-8670-464f57924d47",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eea2abf9-80ff-4e91-a457-593ed0a0507d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eea2abf9-80ff-4e91-a457-593ed0a0507d",
+			"uuid": "eea2abf9-80ff-4e91-a457-593ed0a0507d",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Afleiden: uit gepresenteerde informatie een logische conclusie kunnen trekken.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d9c46a8f-7a88-4e69-8c66-f50375d8361c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d9c46a8f-7a88-4e69-8c66-f50375d8361c",
+			"uuid": "d9c46a8f-7a88-4e69-8c66-f50375d8361c",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Afleiden: uit gepresenteerde informatie een logische conclusie kunnen trekken.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa7d948c-2722-4c8d-b1c9-3fbe4c96012b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa7d948c-2722-4c8d-b1c9-3fbe4c96012b",
+			"uuid": "aa7d948c-2722-4c8d-b1c9-3fbe4c96012b",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Afleiden: uit gepresenteerde informatie een logische conclusie kunnen trekken.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85870c52-b374-439d-a3d4-a78eb07403bc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85870c52-b374-439d-a3d4-a78eb07403bc",
+			"uuid": "85870c52-b374-439d-a3d4-a78eb07403bc",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Afname van ongelijkheid door toename van rechten van burgers",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"uuid": "f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"title": "Syllabus Maatschappijwetenschappen havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"uuid": "ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"title": "Syllabus Maatschappijwetenschappen havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"uuid": "6d69068e-9d68-4005-9cea-86d049705622",
+					"title": "Syllabus Maatschappijwetenschappen havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"uuid": "49d5c110-dd16-4015-a537-c431841073a0",
+					"title": "Syllabus Maatschappijwetenschappen havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/400bf2c3-0c2b-43d6-b98e-331afc01968f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/400bf2c3-0c2b-43d6-b98e-331afc01968f",
+			"uuid": "400bf2c3-0c2b-43d6-b98e-331afc01968f",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Akkoordenschema's van standards vormen de basis.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"uuid": "d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"title": "Syllabus Muziek vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"uuid": "e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"title": "Syllabus Muziek vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"uuid": "3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"title": "Syllabus Muziek vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"uuid": "90414fcf-ca04-487e-bbea-495738ea8991",
+					"title": "Syllabus Muziek vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d8a6cca4-3d31-45c4-8438-1a2262a3995b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8a6cca4-3d31-45c4-8438-1a2262a3995b",
+			"uuid": "d8a6cca4-3d31-45c4-8438-1a2262a3995b",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Amusementsmuziek",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"uuid": "df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"title": "Syllabus Kunst (algemeen) havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"uuid": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"title": "Syllabus Kunst (algemeen) havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d91477c5-d0d9-4648-97a4-73a658cca0c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d91477c5-d0d9-4648-97a4-73a658cca0c2",
+			"uuid": "d91477c5-d0d9-4648-97a4-73a658cca0c2",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Analyseren: Materiaal in onderdelen op kunnen splitsen en kunnen bestuderen hoe onderdelen aan elkaar en aan het geheel zijn gerelateerd.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"uuid": "62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"title": "Syllabus Tekenen vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cc01e54e-2d8e-460a-a95a-fb503164db42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc01e54e-2d8e-460a-a95a-fb503164db42",
+			"uuid": "cc01e54e-2d8e-460a-a95a-fb503164db42",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Analyseren: Materiaal in onderdelen op kunnen splitsen en kunnen bestuderen hoe onderdelen aan elkaar en aan het geheel zijn gerelateerd.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"uuid": "0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"title": "Syllabus Textiele vormgeving vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e710d628-066c-4dc8-98ea-e643977faf21",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e710d628-066c-4dc8-98ea-e643977faf21",
+			"uuid": "e710d628-066c-4dc8-98ea-e643977faf21",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Analyseren: Materiaal in onderdelen op kunnen splitsen en kunnen bestuderen hoe onderdelen aan elkaar en aan het geheel zijn gerelateerd.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85a7d029-5a96-4fa9-a9d4-0e12d2164c4d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85a7d029-5a96-4fa9-a9d4-0e12d2164c4d",
+			"uuid": "85a7d029-5a96-4fa9-a9d4-0e12d2164c4d",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Andere kunstvormen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c43e996a-6d25-4c72-b620-5c5170241e47",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c43e996a-6d25-4c72-b620-5c5170241e47",
+					"uuid": "c43e996a-6d25-4c72-b620-5c5170241e47",
+					"title": "Syllabus Muziek vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/944ff79b-b7ea-4189-92b3-fc728d19ad99",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/944ff79b-b7ea-4189-92b3-fc728d19ad99",
+					"uuid": "944ff79b-b7ea-4189-92b3-fc728d19ad99",
+					"title": "Syllabus Muziek vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/89c11f72-889f-45e5-96ca-22cf53789274",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89c11f72-889f-45e5-96ca-22cf53789274",
+					"uuid": "89c11f72-889f-45e5-96ca-22cf53789274",
+					"title": "Syllabus Muziek vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/190068d0-fbb1-4ef9-8c86-6657b5478bda",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/190068d0-fbb1-4ef9-8c86-6657b5478bda",
+					"uuid": "190068d0-fbb1-4ef9-8c86-6657b5478bda",
+					"title": "Syllabus Muziek vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6be7ffa9-d486-46e8-b03b-cfe38f7f8600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6be7ffa9-d486-46e8-b03b-cfe38f7f8600",
+					"uuid": "6be7ffa9-d486-46e8-b03b-cfe38f7f8600",
+					"title": "Syllabus Muziek vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8395221b-336e-4553-9e58-bf3b702c9319",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8395221b-336e-4553-9e58-bf3b702c9319",
+					"uuid": "8395221b-336e-4553-9e58-bf3b702c9319",
+					"title": "Syllabus Muziek vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/25dba8a9-5b56-4b63-8da3-fc6f010e58aa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/25dba8a9-5b56-4b63-8da3-fc6f010e58aa",
+					"uuid": "25dba8a9-5b56-4b63-8da3-fc6f010e58aa",
+					"title": "Syllabus Muziek vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/102e1c9e-0df2-46bd-90fb-e28b5d90fa18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/102e1c9e-0df2-46bd-90fb-e28b5d90fa18",
+					"uuid": "102e1c9e-0df2-46bd-90fb-e28b5d90fa18",
+					"title": "Syllabus Muziek vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d23821e2-df27-4045-9cc4-1ae952b53005",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d23821e2-df27-4045-9cc4-1ae952b53005",
+					"uuid": "d23821e2-df27-4045-9cc4-1ae952b53005",
+					"title": "Syllabus Muziek vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/575b94fa-55d3-45d3-8a42-aede0f45b24a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/575b94fa-55d3-45d3-8a42-aede0f45b24a",
+					"uuid": "575b94fa-55d3-45d3-8a42-aede0f45b24a",
+					"title": "Syllabus Muziek vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5108bdf9-91b1-43ee-9bcc-1566ad4d7d6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5108bdf9-91b1-43ee-9bcc-1566ad4d7d6a",
+					"uuid": "5108bdf9-91b1-43ee-9bcc-1566ad4d7d6a",
+					"title": "Syllabus Muziek vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5ce56b5-d771-4e14-8080-33d51f634f01",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5ce56b5-d771-4e14-8080-33d51f634f01",
+					"uuid": "d5ce56b5-d771-4e14-8080-33d51f634f01",
+					"title": "Syllabus Muziek vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6bdbbdbc-411c-46ad-9214-87c58715da91",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6bdbbdbc-411c-46ad-9214-87c58715da91",
+					"uuid": "6bdbbdbc-411c-46ad-9214-87c58715da91",
+					"title": "Syllabus Muziek vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a1f9d881-d210-4608-811c-984e5b6ff237",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1f9d881-d210-4608-811c-984e5b6ff237",
+					"uuid": "a1f9d881-d210-4608-811c-984e5b6ff237",
+					"title": "Syllabus Muziek vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2012f28f-3134-4678-8c1d-1bbde738bec2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2012f28f-3134-4678-8c1d-1bbde738bec2",
+			"uuid": "2012f28f-3134-4678-8c1d-1bbde738bec2",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Andere kunstvormen herkennen en functies benoemen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/53f3c4a7-afe3-4eee-a88f-9c46469db911",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53f3c4a7-afe3-4eee-a88f-9c46469db911",
+					"uuid": "53f3c4a7-afe3-4eee-a88f-9c46469db911",
+					"title": "Syllabus Drama vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3bf5ad8c-6918-4282-8a73-11c27805d64b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3bf5ad8c-6918-4282-8a73-11c27805d64b",
+					"uuid": "3bf5ad8c-6918-4282-8a73-11c27805d64b",
+					"title": "Syllabus Drama vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1682297f-b3db-4b25-8d7c-911a5e29b270",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1682297f-b3db-4b25-8d7c-911a5e29b270",
+					"uuid": "1682297f-b3db-4b25-8d7c-911a5e29b270",
+					"title": "Syllabus Drama vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+					"uuid": "b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+					"title": "Syllabus Drama vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1c7085ea-a525-4976-926c-4a3ba649aa5b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c7085ea-a525-4976-926c-4a3ba649aa5b",
+					"uuid": "1c7085ea-a525-4976-926c-4a3ba649aa5b",
+					"title": "Syllabus Drama vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9e3fc6bd-132a-4f79-81bc-03a875f9237a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e3fc6bd-132a-4f79-81bc-03a875f9237a",
+					"uuid": "9e3fc6bd-132a-4f79-81bc-03a875f9237a",
+					"title": "Syllabus Drama vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/56f02e62-e9ab-4fa2-8a54-e54caa914076",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56f02e62-e9ab-4fa2-8a54-e54caa914076",
+					"uuid": "56f02e62-e9ab-4fa2-8a54-e54caa914076",
+					"title": "Syllabus Drama vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c1a1bfe0-7a19-4882-93cd-f38669571517",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1a1bfe0-7a19-4882-93cd-f38669571517",
+					"uuid": "c1a1bfe0-7a19-4882-93cd-f38669571517",
+					"title": "Syllabus Drama vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9da6873b-ee2d-4d47-993a-2139482f3123",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9da6873b-ee2d-4d47-993a-2139482f3123",
+					"uuid": "9da6873b-ee2d-4d47-993a-2139482f3123",
+					"title": "Syllabus Drama vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4934d929-5606-421d-a242-c41cbf9ba6f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4934d929-5606-421d-a242-c41cbf9ba6f1",
+					"uuid": "4934d929-5606-421d-a242-c41cbf9ba6f1",
+					"title": "Syllabus Drama vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c75227e4-affc-44a7-9f8e-79a61ebad84d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c75227e4-affc-44a7-9f8e-79a61ebad84d",
+			"uuid": "c75227e4-affc-44a7-9f8e-79a61ebad84d",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Andere plaatsen dan het theater",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/53f3c4a7-afe3-4eee-a88f-9c46469db911",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53f3c4a7-afe3-4eee-a88f-9c46469db911",
+					"uuid": "53f3c4a7-afe3-4eee-a88f-9c46469db911",
+					"title": "Syllabus Drama vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3bf5ad8c-6918-4282-8a73-11c27805d64b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3bf5ad8c-6918-4282-8a73-11c27805d64b",
+					"uuid": "3bf5ad8c-6918-4282-8a73-11c27805d64b",
+					"title": "Syllabus Drama vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1682297f-b3db-4b25-8d7c-911a5e29b270",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1682297f-b3db-4b25-8d7c-911a5e29b270",
+					"uuid": "1682297f-b3db-4b25-8d7c-911a5e29b270",
+					"title": "Syllabus Drama vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+					"uuid": "b0d7092c-ccc9-4d4c-8140-f8f8a605e8b2",
+					"title": "Syllabus Drama vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1c7085ea-a525-4976-926c-4a3ba649aa5b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c7085ea-a525-4976-926c-4a3ba649aa5b",
+					"uuid": "1c7085ea-a525-4976-926c-4a3ba649aa5b",
+					"title": "Syllabus Drama vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/25e24a33-7f12-45da-aa7c-4dfc09c3bfa2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/25e24a33-7f12-45da-aa7c-4dfc09c3bfa2",
+					"uuid": "25e24a33-7f12-45da-aa7c-4dfc09c3bfa2",
+					"title": "Syllabus Drama vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/417155d9-32f4-4494-90d4-0965f2353e08",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/417155d9-32f4-4494-90d4-0965f2353e08",
+					"uuid": "417155d9-32f4-4494-90d4-0965f2353e08",
+					"title": "Syllabus Drama vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a940d426-5883-466e-8bf4-690de3bf8792",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a940d426-5883-466e-8bf4-690de3bf8792",
+					"uuid": "a940d426-5883-466e-8bf4-690de3bf8792",
+					"title": "Syllabus Drama vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4f869a9-389f-4b10-af0d-9b6e8bc4493b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4f869a9-389f-4b10-af0d-9b6e8bc4493b",
+					"uuid": "f4f869a9-389f-4b10-af0d-9b6e8bc4493b",
+					"title": "Syllabus Drama vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e20f3a02-c888-4c76-a4df-da3a6900cffb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e20f3a02-c888-4c76-a4df-da3a6900cffb",
+					"uuid": "e20f3a02-c888-4c76-a4df-da3a6900cffb",
+					"title": "Syllabus Drama vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9e3fc6bd-132a-4f79-81bc-03a875f9237a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e3fc6bd-132a-4f79-81bc-03a875f9237a",
+					"uuid": "9e3fc6bd-132a-4f79-81bc-03a875f9237a",
+					"title": "Syllabus Drama vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/56f02e62-e9ab-4fa2-8a54-e54caa914076",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56f02e62-e9ab-4fa2-8a54-e54caa914076",
+					"uuid": "56f02e62-e9ab-4fa2-8a54-e54caa914076",
+					"title": "Syllabus Drama vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c1a1bfe0-7a19-4882-93cd-f38669571517",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1a1bfe0-7a19-4882-93cd-f38669571517",
+					"uuid": "c1a1bfe0-7a19-4882-93cd-f38669571517",
+					"title": "Syllabus Drama vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9da6873b-ee2d-4d47-993a-2139482f3123",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9da6873b-ee2d-4d47-993a-2139482f3123",
+					"uuid": "9da6873b-ee2d-4d47-993a-2139482f3123",
+					"title": "Syllabus Drama vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4934d929-5606-421d-a242-c41cbf9ba6f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4934d929-5606-421d-a242-c41cbf9ba6f1",
+					"uuid": "4934d929-5606-421d-a242-c41cbf9ba6f1",
+					"title": "Syllabus Drama vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4a3b5fbd-345b-4350-ae82-94b90c05085f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4a3b5fbd-345b-4350-ae82-94b90c05085f",
+			"uuid": "4a3b5fbd-345b-4350-ae82-94b90c05085f",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Aristoteles’ Poëtica",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"uuid": "1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"title": "Syllabus Griekse taal en cultuur vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d917c327-48e3-42df-a19d-a2badaa8160c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d917c327-48e3-42df-a19d-a2badaa8160c",
+					"uuid": "d917c327-48e3-42df-a19d-a2badaa8160c",
+					"title": "Syllabus Griekse taal en cultuur vwo 2021",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f587609f-5d50-43a8-80ad-729780322b7f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f587609f-5d50-43a8-80ad-729780322b7f",
+			"uuid": "f587609f-5d50-43a8-80ad-729780322b7f",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Aristotelische principes in het theater.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"uuid": "df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"title": "Syllabus Kunst (algemeen) havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"uuid": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"title": "Syllabus Kunst (algemeen) havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/be42e3a5-867a-4c85-9a74-aee86f103655",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be42e3a5-867a-4c85-9a74-aee86f103655",
+			"uuid": "be42e3a5-867a-4c85-9a74-aee86f103655",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Attribueren: een onderliggend standpunt, mening, waarde of intentie in gepresenteerd materiaal vast kunnen stellen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/72a774e1-7af4-4982-b683-98e470e28964",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72a774e1-7af4-4982-b683-98e470e28964",
+			"uuid": "72a774e1-7af4-4982-b683-98e470e28964",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Attribueren: een onderliggend standpunt, mening, waarde of intentie in gepresenteerd materiaal vast kunnen stellen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/98d7e5f0-726b-40a6-be4c-908e87881958",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98d7e5f0-726b-40a6-be4c-908e87881958",
+			"uuid": "98d7e5f0-726b-40a6-be4c-908e87881958",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Attribueren: een onderliggend standpunt, mening, waarde of intentie in gepresenteerd materiaal vast kunnen stellen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f38ed23-83c2-4733-9aab-13dd0f7c70e9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f38ed23-83c2-4733-9aab-13dd0f7c70e9",
+			"uuid": "0f38ed23-83c2-4733-9aab-13dd0f7c70e9",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Audiovisuele media.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"uuid": "df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"title": "Syllabus Kunst (algemeen) havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"uuid": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"title": "Syllabus Kunst (algemeen) havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75ba61a4-11fb-4626-9915-ab7e3d8fb722",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75ba61a4-11fb-4626-9915-ab7e3d8fb722",
+			"uuid": "75ba61a4-11fb-4626-9915-ab7e3d8fb722",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Bacchae",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"uuid": "1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"title": "Syllabus Griekse taal en cultuur vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d917c327-48e3-42df-a19d-a2badaa8160c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d917c327-48e3-42df-a19d-a2badaa8160c",
+					"uuid": "d917c327-48e3-42df-a19d-a2badaa8160c",
+					"title": "Syllabus Griekse taal en cultuur vwo 2021",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8a3b60df-9b23-4f52-8f63-68693f3268b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a3b60df-9b23-4f52-8f63-68693f3268b6",
+			"uuid": "8a3b60df-9b23-4f52-8f63-68693f3268b6",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Bedreigingen van de Nederlandse samenleving",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"uuid": "f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"title": "Syllabus Maatschappijwetenschappen havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"uuid": "ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"title": "Syllabus Maatschappijwetenschappen havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"uuid": "6d69068e-9d68-4005-9cea-86d049705622",
+					"title": "Syllabus Maatschappijwetenschappen havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"uuid": "49d5c110-dd16-4015-a537-c431841073a0",
+					"title": "Syllabus Maatschappijwetenschappen havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ef43af80-423f-4fb3-bfc1-efafbdbf4a9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef43af80-423f-4fb3-bfc1-efafbdbf4a9c",
+			"uuid": "ef43af80-423f-4fb3-bfc1-efafbdbf4a9c",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Beeldvorming rondom (on)veiligheid",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"uuid": "f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"title": "Syllabus Maatschappijwetenschappen havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"uuid": "ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"title": "Syllabus Maatschappijwetenschappen havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"uuid": "6d69068e-9d68-4005-9cea-86d049705622",
+					"title": "Syllabus Maatschappijwetenschappen havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"uuid": "49d5c110-dd16-4015-a537-c431841073a0",
+					"title": "Syllabus Maatschappijwetenschappen havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b9056162-2933-4060-a3ba-ed73691f74a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b9056162-2933-4060-a3ba-ed73691f74a7",
+			"uuid": "b9056162-2933-4060-a3ba-ed73691f74a7",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Begrijpen: Betekenis kunnen construeren via verbale, geschreven en grafische communicatie van instructie-inhouden, zoals dat tijdens lessen, in boeken en via computers en monitors gepresenteerd is. Verbanden leggen tussen voorkennis en nieuwe kennis.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"uuid": "62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"title": "Syllabus Tekenen vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64d3150b-4c21-472b-84d8-e80201f0aa29",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64d3150b-4c21-472b-84d8-e80201f0aa29",
+			"uuid": "64d3150b-4c21-472b-84d8-e80201f0aa29",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Begrijpen: Betekenis kunnen construeren via verbale, geschreven en grafische communicatie van instructie-inhouden, zoals dat tijdens lessen, in boeken en via computers en monitors gepresenteerd is. Verbanden leggen tussen voorkennis en nieuwe kennis.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"uuid": "0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"title": "Syllabus Textiele vormgeving vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/99f11994-e297-4841-ada4-9f79bce816ca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/99f11994-e297-4841-ada4-9f79bce816ca",
+			"uuid": "99f11994-e297-4841-ada4-9f79bce816ca",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Begrijpen: Betekenis kunnen construeren via verbale, geschreven en grafische communicatie van instructie-inhouden, zoals dat tijdens lessen, in boeken en via computers en monitors gepresenteerd is. Verbanden leggen tussen voorkennis en nieuwe kennis.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b7d9cc5c-b3a8-4b51-98aa-a45f06878d4a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b7d9cc5c-b3a8-4b51-98aa-a45f06878d4a",
+			"uuid": "b7d9cc5c-b3a8-4b51-98aa-a45f06878d4a",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Bekritiseren (Beoordelen): inconsistenties tussen een product of uitvoering en bepaalde externe criteria vast kunnen stellen, kunnen bepalen of een product extern consistent is, of beoordelen of een procedure geschikt is om een bepaald probleem op te lossen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/54511afe-9cbf-4240-896a-693972f23230",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/54511afe-9cbf-4240-896a-693972f23230",
+			"uuid": "54511afe-9cbf-4240-896a-693972f23230",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Bekritiseren (Beoordelen): inconsistenties tussen een product of uitvoering en bepaalde externe criteria vast kunnen stellen, kunnen bepalen of een product extern consistent is, of beoordelen of een procedure geschikt is om een bepaald probleem op te lossen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/54e013d7-abc3-40bc-8800-aa34ed822e5d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/54e013d7-abc3-40bc-8800-aa34ed822e5d",
+			"uuid": "54e013d7-abc3-40bc-8800-aa34ed822e5d",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Bekritiseren (Beoordelen): inconsistenties tussen een product of uitvoering en bepaalde externe criteria vast kunnen stellen, kunnen bepalen of een product extern consistent is, of beoordelen of een procedure geschikt is om een bepaald probleem op te lossen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5731c08-1459-42f1-84e5-eb6e75a5e613",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5731c08-1459-42f1-84e5-eb6e75a5e613",
+			"uuid": "d5731c08-1459-42f1-84e5-eb6e75a5e613",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f6a1ef54-0fc4-461d-9fe1-17a69eb57f74",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f6a1ef54-0fc4-461d-9fe1-17a69eb57f74",
+					"uuid": "f6a1ef54-0fc4-461d-9fe1-17a69eb57f74",
+					"title": "Syllabus Handvaardigheid havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/96c3de31-a839-4b8d-8d99-ca5aa767f404",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96c3de31-a839-4b8d-8d99-ca5aa767f404",
+					"uuid": "96c3de31-a839-4b8d-8d99-ca5aa767f404",
+					"title": "Syllabus Handvaardigheid havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c7f3e823-7158-4e16-a996-0248e342aa6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7f3e823-7158-4e16-a996-0248e342aa6a",
+					"uuid": "c7f3e823-7158-4e16-a996-0248e342aa6a",
+					"title": "Syllabus Handvaardigheid havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c07b123b-0e79-4c45-a539-cf9f29800dfb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c07b123b-0e79-4c45-a539-cf9f29800dfb",
+			"uuid": "c07b123b-0e79-4c45-a539-cf9f29800dfb",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b4dafb63-001f-4b78-b234-7b4264d89d08",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b4dafb63-001f-4b78-b234-7b4264d89d08",
+					"uuid": "b4dafb63-001f-4b78-b234-7b4264d89d08",
+					"title": "Syllabus Textiele vormgeving havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a484c1a3-dd19-4b0b-abf7-a35d9f588d19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a484c1a3-dd19-4b0b-abf7-a35d9f588d19",
+					"uuid": "a484c1a3-dd19-4b0b-abf7-a35d9f588d19",
+					"title": "Syllabus Textiele vormgeving havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c630081a-238a-4885-b08b-5c5c387e4d05",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c630081a-238a-4885-b08b-5c5c387e4d05",
+					"uuid": "c630081a-238a-4885-b08b-5c5c387e4d05",
+					"title": "Syllabus Textiele vormgeving havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8f4aae0a-dad8-446e-b92e-c12e82539cce",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f4aae0a-dad8-446e-b92e-c12e82539cce",
+			"uuid": "8f4aae0a-dad8-446e-b92e-c12e82539cce",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Beschouwen betreft formele en inhoudelijke aspecten van beelden.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d86d4e73-cf48-43bb-bc59-f956fedf2b12",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d86d4e73-cf48-43bb-bc59-f956fedf2b12",
+					"uuid": "d86d4e73-cf48-43bb-bc59-f956fedf2b12",
+					"title": "Syllabus Tekenen havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4e4938f4-808a-4662-84ab-c4547ee32089",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e4938f4-808a-4662-84ab-c4547ee32089",
+					"uuid": "4e4938f4-808a-4662-84ab-c4547ee32089",
+					"title": "Syllabus Tekenen havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a0588e96-709d-437d-8a82-e97e648cfc28",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0588e96-709d-437d-8a82-e97e648cfc28",
+					"uuid": "a0588e96-709d-437d-8a82-e97e648cfc28",
+					"title": "Syllabus Tekenen havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43af3b61-ba8b-4fb7-a73a-36a66af29904",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43af3b61-ba8b-4fb7-a73a-36a66af29904",
+			"uuid": "43af3b61-ba8b-4fb7-a73a-36a66af29904",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Binding en maatschappelijk middenveld",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e986498c-8d2b-4929-8104-1b2852fac8b4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e986498c-8d2b-4929-8104-1b2852fac8b4",
+			"uuid": "e986498c-8d2b-4929-8104-1b2852fac8b4",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Binding en sociale integratie",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cf0c31d3-d810-49ff-88ef-4e19319454ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf0c31d3-d810-49ff-88ef-4e19319454ad",
+			"uuid": "cf0c31d3-d810-49ff-88ef-4e19319454ad",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Binding en sociale netwerken",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/77880e06-e84c-494d-8982-2dc1383698b9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/77880e06-e84c-494d-8982-2dc1383698b9",
+			"uuid": "77880e06-e84c-494d-8982-2dc1383698b9",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Binding me de staat sterker dan met Europa",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ba2f7d26-ea11-4ee3-89ee-d7cd6e334e45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ba2f7d26-ea11-4ee3-89ee-d7cd6e334e45",
+			"uuid": "ba2f7d26-ea11-4ee3-89ee-d7cd6e334e45",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Bindingen bezien vanuit paradigma's",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26506438-a221-4eff-b93c-d67b13a4744b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26506438-a221-4eff-b93c-d67b13a4744b",
+			"uuid": "26506438-a221-4eff-b93c-d67b13a4744b",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Bindingen in de multiculturele samenleving",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8c8be0c3-895d-4b0a-84cd-b66b2038a271",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c8be0c3-895d-4b0a-84cd-b66b2038a271",
+			"uuid": "8c8be0c3-895d-4b0a-84cd-b66b2038a271",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Camera obscura",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"uuid": "df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"title": "Syllabus Kunst (algemeen) havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"uuid": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"title": "Syllabus Kunst (algemeen) havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/756b169a-d7c2-4fcf-92bd-f93f7de0dd21",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/756b169a-d7c2-4fcf-92bd-f93f7de0dd21",
+			"uuid": "756b169a-d7c2-4fcf-92bd-f93f7de0dd21",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale begrippen en toonaangevende visies uit de ethiek.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"uuid": "14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"title": "Syllabus Filosofie vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"uuid": "63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"title": "Syllabus Filosofie vwo 2023",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de677f08-200c-4840-951c-dae965b12222",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de677f08-200c-4840-951c-dae965b12222",
+			"uuid": "de677f08-200c-4840-951c-dae965b12222",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale begrippen en toonaangevende visies uit de kennisleer",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"uuid": "14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"title": "Syllabus Filosofie vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"uuid": "63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"title": "Syllabus Filosofie vwo 2023",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/14eb5186-342b-408a-8c1b-596ef1e917e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14eb5186-342b-408a-8c1b-596ef1e917e1",
+			"uuid": "14eb5186-342b-408a-8c1b-596ef1e917e1",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale begrippen en toonaangevende visies uit de wetenschapsfilosofie",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"uuid": "14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"title": "Syllabus Filosofie vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"uuid": "63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"title": "Syllabus Filosofie vwo 2023",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61b7785e-a123-4270-ba0e-df525e4fd839",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61b7785e-a123-4270-ba0e-df525e4fd839",
+			"uuid": "61b7785e-a123-4270-ba0e-df525e4fd839",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale begrippen en toonaangevende visies uit de wijsgerige antrolologie.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"uuid": "14de71f0-70c6-487e-a2ce-254d8fc076df",
+					"title": "Syllabus Filosofie vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"uuid": "63f42e5b-03a7-4731-ad99-5ee513093a9a",
+					"title": "Syllabus Filosofie vwo 2023",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10803082-edc1-4b3f-a4dc-67b2aa204189",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10803082-edc1-4b3f-a4dc-67b2aa204189",
+			"uuid": "10803082-edc1-4b3f-a4dc-67b2aa204189",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale thema's",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6cfb870d-81e8-4339-8851-f6513234626d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cfb870d-81e8-4339-8851-f6513234626d",
+					"uuid": "6cfb870d-81e8-4339-8851-f6513234626d",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bf9eaa13-e9cc-4c67-9103-abb22f8c1afe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bf9eaa13-e9cc-4c67-9103-abb22f8c1afe",
+					"uuid": "bf9eaa13-e9cc-4c67-9103-abb22f8c1afe",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7fd688fa-00fa-40de-94fb-b18e2c618bc6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7fd688fa-00fa-40de-94fb-b18e2c618bc6",
+			"uuid": "7fd688fa-00fa-40de-94fb-b18e2c618bc6",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale thema's van Ab Urbe Condita",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"uuid": "a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2024",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc3248cc-fa69-44b1-abc4-c208a2beede8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc3248cc-fa69-44b1-abc4-c208a2beede8",
+			"uuid": "fc3248cc-fa69-44b1-abc4-c208a2beede8",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale thema's van het werk",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"uuid": "d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"title": "Syllabus Griekse taal en cultuur vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e010453c-c64f-4099-8a44-15a018f155b5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e010453c-c64f-4099-8a44-15a018f155b5",
+					"uuid": "e010453c-c64f-4099-8a44-15a018f155b5",
+					"title": "Syllabus Griekse taal en cultuur vwo 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/88521a03-d733-4282-9375-292887880be9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/88521a03-d733-4282-9375-292887880be9",
+			"uuid": "88521a03-d733-4282-9375-292887880be9",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale thema’s van beide werken",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"uuid": "0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"title": "Syllabus Griekse taal en cultuur vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/592da4c1-2f99-4eae-8c42-0929581697ab",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/592da4c1-2f99-4eae-8c42-0929581697ab",
+					"uuid": "592da4c1-2f99-4eae-8c42-0929581697ab",
+					"title": "Syllabus Griekse taal en cultuur vwo 2022",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/273a49a8-ed72-4fc9-9312-76852584109d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/273a49a8-ed72-4fc9-9312-76852584109d",
+			"uuid": "273a49a8-ed72-4fc9-9312-76852584109d",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Centrale thema’s van de werken",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"uuid": "1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"title": "Syllabus Griekse taal en cultuur vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d917c327-48e3-42df-a19d-a2badaa8160c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d917c327-48e3-42df-a19d-a2badaa8160c",
+					"uuid": "d917c327-48e3-42df-a19d-a2badaa8160c",
+					"title": "Syllabus Griekse taal en cultuur vwo 2021",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/158ce70a-1d51-4288-82ab-0e03f8570691",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/158ce70a-1d51-4288-82ab-0e03f8570691",
+			"uuid": "158ce70a-1d51-4288-82ab-0e03f8570691",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Christendom",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"uuid": "21455f68-d552-4755-a69a-aa04618ad29d",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"uuid": "b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9319f725-8e2b-4fe3-ba09-8badbd3603af",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9319f725-8e2b-4fe3-ba09-8badbd3603af",
+			"uuid": "9319f725-8e2b-4fe3-ba09-8badbd3603af",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Classificeren: vast kunnen stellen dat iets (een bepaald gegeven of object) tot een bepaalde categorie behoort (of tot een bepaald concept of principe)",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4cfeab2b-5d47-4416-9f4e-12105417c80b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4cfeab2b-5d47-4416-9f4e-12105417c80b",
+			"uuid": "4cfeab2b-5d47-4416-9f4e-12105417c80b",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Classificeren: vast kunnen stellen dat iets (een bepaald gegeven of object) tot een bepaalde categorie behoort (of tot een bepaald concept of principe)",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1cff9526-4037-47ec-b28e-e023d24f1c14",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1cff9526-4037-47ec-b28e-e023d24f1c14",
+			"uuid": "1cff9526-4037-47ec-b28e-e023d24f1c14",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Classificeren: vast kunnen stellen dat iets (een bepaald gegeven of object) tot een bepaalde categorie behoort (of tot een bepaald concept of principe)",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d1a4d054-8f4a-4da7-9802-9345eeaf7c49",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d1a4d054-8f4a-4da7-9802-9345eeaf7c49",
+			"uuid": "d1a4d054-8f4a-4da7-9802-9345eeaf7c49",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Compositietechnieken, homofone en polyfone structuren",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"uuid": "f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"title": "Syllabus Muziek havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"uuid": "0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"title": "Syllabus Muziek havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64515c01-0d8f-4104-ba1e-94875382553b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64515c01-0d8f-4104-ba1e-94875382553b",
+					"uuid": "64515c01-0d8f-4104-ba1e-94875382553b",
+					"title": "Syllabus Muziek havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1568c765-7b74-4262-8f33-87371e9746b1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1568c765-7b74-4262-8f33-87371e9746b1",
+					"uuid": "1568c765-7b74-4262-8f33-87371e9746b1",
+					"title": "Syllabus Muziek havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69eb1a7d-1d5c-43a0-9697-21670101d685",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69eb1a7d-1d5c-43a0-9697-21670101d685",
+			"uuid": "69eb1a7d-1d5c-43a0-9697-21670101d685",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Compositietechnieken, homofone en polyfone structuren",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"uuid": "d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"title": "Syllabus Muziek vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"uuid": "e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"title": "Syllabus Muziek vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"uuid": "3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"title": "Syllabus Muziek vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"uuid": "90414fcf-ca04-487e-bbea-495738ea8991",
+					"title": "Syllabus Muziek vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f4b29c5-18f0-4c6b-b7ad-b6759edcb451",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f4b29c5-18f0-4c6b-b7ad-b6759edcb451",
+			"uuid": "6f4b29c5-18f0-4c6b-b7ad-b6759edcb451",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Computertechnieken en elektronische kunst; virtual reality",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"uuid": "df8596d4-b4a9-41a2-a980-8d552cc53537",
+					"title": "Syllabus Kunst (algemeen) havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"uuid": "9fd3b14d-5468-4cc7-9ae1-306731f76238",
+					"title": "Syllabus Kunst (algemeen) havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fef29461-be98-44a7-ae0c-16c6cfcf4b6f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fef29461-be98-44a7-ae0c-16c6cfcf4b6f",
+			"uuid": "fef29461-be98-44a7-ae0c-16c6cfcf4b6f",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Concerterende structuren",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"uuid": "f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"title": "Syllabus Muziek havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"uuid": "0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"title": "Syllabus Muziek havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64515c01-0d8f-4104-ba1e-94875382553b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64515c01-0d8f-4104-ba1e-94875382553b",
+					"uuid": "64515c01-0d8f-4104-ba1e-94875382553b",
+					"title": "Syllabus Muziek havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1568c765-7b74-4262-8f33-87371e9746b1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1568c765-7b74-4262-8f33-87371e9746b1",
+					"uuid": "1568c765-7b74-4262-8f33-87371e9746b1",
+					"title": "Syllabus Muziek havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0bb02738-bc71-4f5c-bf6b-541a6dc26bce",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0bb02738-bc71-4f5c-bf6b-541a6dc26bce",
+			"uuid": "0bb02738-bc71-4f5c-bf6b-541a6dc26bce",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Concerterende structuren",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"uuid": "d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"title": "Syllabus Muziek vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"uuid": "e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"title": "Syllabus Muziek vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"uuid": "3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"title": "Syllabus Muziek vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"uuid": "90414fcf-ca04-487e-bbea-495738ea8991",
+					"title": "Syllabus Muziek vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de92a748-3a7e-4693-8bc7-e50956b98e85",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de92a748-3a7e-4693-8bc7-e50956b98e85",
+			"uuid": "de92a748-3a7e-4693-8bc7-e50956b98e85",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Confessionalisme",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d1b5636-9a2e-4186-b474-7d4a2acb4b2b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d1b5636-9a2e-4186-b474-7d4a2acb4b2b",
+			"uuid": "8d1b5636-9a2e-4186-b474-7d4a2acb4b2b",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Confessionalisme",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f5906832-6169-426a-bb81-62ae83958aae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f5906832-6169-426a-bb81-62ae83958aae",
+			"uuid": "f5906832-6169-426a-bb81-62ae83958aae",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Controleren (Coördineren, detecteren, monitoren, testen): inconsistenties of fouten in een proces of product kunnen herkennen, vast kunnen stellen of een proces of product intern consistent is of de effectiviteit van een procedure wanneer deze geïmplementeerd wordt kunnen bepalen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cdd4d06b-420b-4227-9a1d-3361757ef854",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdd4d06b-420b-4227-9a1d-3361757ef854",
+			"uuid": "cdd4d06b-420b-4227-9a1d-3361757ef854",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Controleren (Coördineren, detecteren, monitoren, testen): inconsistenties of fouten in een proces of product kunnen herkennen, vast kunnen stellen of een proces of product intern consistent is of de effectiviteit van een procedure wanneer deze geïmplementeerd wordt kunnen bepalen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cafe690d-dd69-455a-89dc-d52b881d912d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cafe690d-dd69-455a-89dc-d52b881d912d",
+			"uuid": "cafe690d-dd69-455a-89dc-d52b881d912d",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Controleren (Coördineren, detecteren, monitoren, testen): inconsistenties of fouten in een proces of product kunnen herkennen, vast kunnen stellen of een proces of product intern consistent is of de effectiviteit van een procedure wanneer deze geïmplementeerd wordt kunnen bepalen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d7754382-4922-4395-a040-10073a384e8f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d7754382-4922-4395-a040-10073a384e8f",
+			"uuid": "d7754382-4922-4395-a040-10073a384e8f",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Creëren: Elementen samenvoegen tot een coherent of functioneel geheel, elementen reorganiseren in nieuwe patronen of structuren. Creëren is erop gericht om nieuwe, originele producten te maken.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"uuid": "eaa24b7d-390a-41dc-870b-7d37593f92c3",
+					"title": "Syllabus Tekenen vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"uuid": "62591d8c-3bd8-46e9-b74c-045e7a8ade8a",
+					"title": "Syllabus Tekenen vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a1c318b2-1c9a-4aac-80c9-4dfeb5c6ce08",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1c318b2-1c9a-4aac-80c9-4dfeb5c6ce08",
+			"uuid": "a1c318b2-1c9a-4aac-80c9-4dfeb5c6ce08",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Creëren: Elementen samenvoegen tot een coherent of functioneel geheel, elementen reorganiseren in nieuwe patronen of structuren. Creëren is erop gericht om nieuwe, originele producten te maken.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"uuid": "b2ea4eb5-286c-475c-a22c-668dc644dcf4",
+					"title": "Syllabus Textiele vormgeving vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"uuid": "0c3a9fb4-f64e-42d4-bcd0-745ea6818159",
+					"title": "Syllabus Textiele vormgeving vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fe0b399a-c1dc-4455-a364-d21ae5825226",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe0b399a-c1dc-4455-a364-d21ae5825226",
+			"uuid": "fe0b399a-c1dc-4455-a364-d21ae5825226",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Creëren: Elementen samenvoegen tot een coherent of functioneel geheel, elementen reorganiseren in nieuwe patronen of structuren. Creëren is erop gericht om nieuwe, originele producten te maken.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+					"title": "Syllabus Beeldende vakken vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+					"title": "Syllabus Handvaardigheid vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5d260da2-e56a-4570-a38c-07ce3bce4e60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d260da2-e56a-4570-a38c-07ce3bce4e60",
+			"uuid": "5d260da2-e56a-4570-a38c-07ce3bce4e60",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Culturele gevolgen van het proces van globalisering en internationalisering.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d0513db7-3e1c-4458-82d3-eae8c061e26e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d0513db7-3e1c-4458-82d3-eae8c061e26e",
+			"uuid": "d0513db7-3e1c-4458-82d3-eae8c061e26e",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Cultuur en de dimensies van Hofstede",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"uuid": "f4e7e8b0-800c-437c-8a54-89895b641bd8",
+					"title": "Syllabus Maatschappijwetenschappen havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"uuid": "ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"title": "Syllabus Maatschappijwetenschappen havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d69068e-9d68-4005-9cea-86d049705622",
+					"uuid": "6d69068e-9d68-4005-9cea-86d049705622",
+					"title": "Syllabus Maatschappijwetenschappen havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"uuid": "49d5c110-dd16-4015-a537-c431841073a0",
+					"title": "Syllabus Maatschappijwetenschappen havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc01dc97-1479-4a7c-b085-d3699b6bc75a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc01dc97-1479-4a7c-b085-d3699b6bc75a",
+			"uuid": "bc01dc97-1479-4a7c-b085-d3699b6bc75a",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Cultuur en de dimensies van Hofstede",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/62c1a9ac-3e0d-41da-b00f-b38e81b72894",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62c1a9ac-3e0d-41da-b00f-b38e81b72894",
+			"uuid": "62c1a9ac-3e0d-41da-b00f-b38e81b72894",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Cultuurhistorische achtergronden in het Rome van de eerste eeuw voor en na Christus",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"uuid": "21455f68-d552-4755-a69a-aa04618ad29d",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"uuid": "b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dd4204e7-e539-4c6d-b12a-c5dc21d776e3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd4204e7-e539-4c6d-b12a-c5dc21d776e3",
+			"uuid": "dd4204e7-e539-4c6d-b12a-c5dc21d776e3",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Cultuurhistorische context",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"uuid": "a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6cfb870d-81e8-4339-8851-f6513234626d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cfb870d-81e8-4339-8851-f6513234626d",
+					"uuid": "6cfb870d-81e8-4339-8851-f6513234626d",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"uuid": "21455f68-d552-4755-a69a-aa04618ad29d",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861c2ed4-1278-4340-8efc-6f480e5f461c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861c2ed4-1278-4340-8efc-6f480e5f461c",
+					"uuid": "861c2ed4-1278-4340-8efc-6f480e5f461c",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91666b98-2529-4d24-8f92-b3af31d7cb61",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91666b98-2529-4d24-8f92-b3af31d7cb61",
+			"uuid": "91666b98-2529-4d24-8f92-b3af31d7cb61",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Cultuurhistorische context",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/92df1d85-2611-4590-b721-1dce73623f67",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92df1d85-2611-4590-b721-1dce73623f67",
+					"uuid": "92df1d85-2611-4590-b721-1dce73623f67",
+					"title": "Syllabus Griekse taal en cultuur vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"uuid": "d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"title": "Syllabus Griekse taal en cultuur vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"uuid": "0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"title": "Syllabus Griekse taal en cultuur vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"uuid": "1c2f8fa5-0b56-412c-a2d6-798a4366935b",
+					"title": "Syllabus Griekse taal en cultuur vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2e22a9b3-b626-42ce-b138-3865d41f4041",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e22a9b3-b626-42ce-b138-3865d41f4041",
+			"uuid": "2e22a9b3-b626-42ce-b138-3865d41f4041",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Daarnaast is het van belang om verschillende (kunsthistorische) benaderingswijzen te kennen om kunst te beschouwen, te interpreteren en te verklaren.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+					"uuid": "ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+					"title": "Syllabus Beeldende vakken vwo 2023",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b6c237fe-b478-4834-8d35-459738bb7eb4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6c237fe-b478-4834-8d35-459738bb7eb4",
+			"uuid": "b6c237fe-b478-4834-8d35-459738bb7eb4",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Daderonderzoek: Enquêtes waarin de onderzochte personen zelf kunnen aangeven of ze al of niet een delict hebben gepleegd.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/12e107e4-eaaa-4cb1-985a-2c250e808818",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/12e107e4-eaaa-4cb1-985a-2c250e808818",
+					"uuid": "12e107e4-eaaa-4cb1-985a-2c250e808818",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c09dc6ec-3a27-4b7f-82be-c4944f217934",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c09dc6ec-3a27-4b7f-82be-c4944f217934",
+					"uuid": "c09dc6ec-3a27-4b7f-82be-c4944f217934",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b0bf1421-5e04-4bdf-8335-c09ec603d61f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b0bf1421-5e04-4bdf-8335-c09ec603d61f",
+					"uuid": "b0bf1421-5e04-4bdf-8335-c09ec603d61f",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2053b45b-ece7-4860-ba85-f80874f23ce1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2053b45b-ece7-4860-ba85-f80874f23ce1",
+					"uuid": "2053b45b-ece7-4860-ba85-f80874f23ce1",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a6c57609-611d-4b81-8563-d1b35e7293bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6c57609-611d-4b81-8563-d1b35e7293bb",
+					"uuid": "a6c57609-611d-4b81-8563-d1b35e7293bb",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/256f1b40-a58d-4130-af4c-189a2d3e0d82",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/256f1b40-a58d-4130-af4c-189a2d3e0d82",
+					"uuid": "256f1b40-a58d-4130-af4c-189a2d3e0d82",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1075541a-d5a5-4d1a-a657-c9be36027f8e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1075541a-d5a5-4d1a-a657-c9be36027f8e",
+					"uuid": "1075541a-d5a5-4d1a-a657-c9be36027f8e",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d055aa4-d7f1-41a3-b393-c82c15565a20",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d055aa4-d7f1-41a3-b393-c82c15565a20",
+					"uuid": "6d055aa4-d7f1-41a3-b393-c82c15565a20",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/038bf0b6-00c0-4bbc-bef4-89cdea7d7a34",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/038bf0b6-00c0-4bbc-bef4-89cdea7d7a34",
+					"uuid": "038bf0b6-00c0-4bbc-bef4-89cdea7d7a34",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+					"uuid": "6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f73e48b4-8395-4623-af2c-c4c04f8631c4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f73e48b4-8395-4623-af2c-c4c04f8631c4",
+					"uuid": "f73e48b4-8395-4623-af2c-c4c04f8631c4",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+					"uuid": "be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dee6b382-9a5a-4a5f-bd10-7fac84588224",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dee6b382-9a5a-4a5f-bd10-7fac84588224",
+					"uuid": "dee6b382-9a5a-4a5f-bd10-7fac84588224",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/17b169bf-2ba0-426f-b38b-13ff4da71d68",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17b169bf-2ba0-426f-b38b-13ff4da71d68",
+					"uuid": "17b169bf-2ba0-426f-b38b-13ff4da71d68",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+					"uuid": "d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f67f0110-4a60-42bb-bee5-af444e623ade",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f67f0110-4a60-42bb-bee5-af444e623ade",
+					"uuid": "f67f0110-4a60-42bb-bee5-af444e623ade",
+					"title": "Syllabus Maatschappijkunde vmbo kb 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+					"uuid": "ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+					"title": "Syllabus Maatschappijkunde vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5cd94d43-0702-491d-8670-464f57924d47",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5cd94d43-0702-491d-8670-464f57924d47",
+					"uuid": "5cd94d43-0702-491d-8670-464f57924d47",
+					"title": "Syllabus Maatschappijkunde vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/48350e0b-a2f6-4975-af9b-603d3300ac02",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48350e0b-a2f6-4975-af9b-603d3300ac02",
+			"uuid": "48350e0b-a2f6-4975-af9b-603d3300ac02",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans en andere kunsten",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"uuid": "206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"uuid": "cf856e33-6431-4041-99c2-40cf35a345e6",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f2e6753-b261-4cfa-98e0-dca662f64a82",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f2e6753-b261-4cfa-98e0-dca662f64a82",
+			"uuid": "1f2e6753-b261-4cfa-98e0-dca662f64a82",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans en maatschappij",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aed35642-2074-495d-8de7-217b6b7beb52",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aed35642-2074-495d-8de7-217b6b7beb52",
+			"uuid": "aed35642-2074-495d-8de7-217b6b7beb52",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans en maatschappij",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a6c03b78-dc1a-4160-a3c3-dc2ed4e683c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6c03b78-dc1a-4160-a3c3-dc2ed4e683c5",
+			"uuid": "a6c03b78-dc1a-4160-a3c3-dc2ed4e683c5",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans, cultuur en tijd",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"uuid": "206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"uuid": "cf856e33-6431-4041-99c2-40cf35a345e6",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3f3dd96e-3933-4a59-bce7-e5e9ffdb1d4f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f3dd96e-3933-4a59-bce7-e5e9ffdb1d4f",
+			"uuid": "3f3dd96e-3933-4a59-bce7-e5e9ffdb1d4f",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans: Danselementen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/95bb8072-7a28-4d58-adde-6f1cba772699",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95bb8072-7a28-4d58-adde-6f1cba772699",
+					"uuid": "95bb8072-7a28-4d58-adde-6f1cba772699",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a8efc5ca-3561-4b06-aaff-0279fd356181",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8efc5ca-3561-4b06-aaff-0279fd356181",
+					"uuid": "a8efc5ca-3561-4b06-aaff-0279fd356181",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9136cd7c-4685-44b6-8d18-92cc88bb08be",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9136cd7c-4685-44b6-8d18-92cc88bb08be",
+					"uuid": "9136cd7c-4685-44b6-8d18-92cc88bb08be",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/72734ded-807c-4ed9-9638-36645642075a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72734ded-807c-4ed9-9638-36645642075a",
+			"uuid": "72734ded-807c-4ed9-9638-36645642075a",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans: Danselementen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ea73877a-82bc-49fe-b9bd-4cc2bc96b443",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea73877a-82bc-49fe-b9bd-4cc2bc96b443",
+			"uuid": "ea73877a-82bc-49fe-b9bd-4cc2bc96b443",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans: Lichaam",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4fde3e84-c9cf-42b9-bcd9-797ca80809bf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4fde3e84-c9cf-42b9-bcd9-797ca80809bf",
+			"uuid": "4fde3e84-c9cf-42b9-bcd9-797ca80809bf",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans: Lichaam",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/17b6a4d2-de27-44b8-99ab-260938314d90",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17b6a4d2-de27-44b8-99ab-260938314d90",
+			"uuid": "17b6a4d2-de27-44b8-99ab-260938314d90",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans: Structuur",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8690796d-7c3a-4753-a0da-6e408b35043f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8690796d-7c3a-4753-a0da-6e408b35043f",
+			"uuid": "8690796d-7c3a-4753-a0da-6e408b35043f",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dans: Structuur",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c8bd7a68-137d-448f-b3da-eb65d10781e3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8bd7a68-137d-448f-b3da-eb65d10781e3",
+			"uuid": "c8bd7a68-137d-448f-b3da-eb65d10781e3",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Danselementen - Beschouwen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"uuid": "206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"uuid": "cf856e33-6431-4041-99c2-40cf35a345e6",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d84a28fe-5bab-41d2-ab68-aff5b8556e36",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d84a28fe-5bab-41d2-ab68-aff5b8556e36",
+			"uuid": "d84a28fe-5bab-41d2-ab68-aff5b8556e36",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dansen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"uuid": "f1a94266-72e1-4573-add3-a5c39c72e6fe",
+					"title": "Syllabus Muziek havo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"uuid": "0edf30bd-8062-44d7-a3f3-fb44e4994a30",
+					"title": "Syllabus Muziek havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64515c01-0d8f-4104-ba1e-94875382553b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64515c01-0d8f-4104-ba1e-94875382553b",
+					"uuid": "64515c01-0d8f-4104-ba1e-94875382553b",
+					"title": "Syllabus Muziek havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1568c765-7b74-4262-8f33-87371e9746b1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1568c765-7b74-4262-8f33-87371e9746b1",
+					"uuid": "1568c765-7b74-4262-8f33-87371e9746b1",
+					"title": "Syllabus Muziek havo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/12f72407-842d-442d-8ae2-dcde225b8fca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/12f72407-842d-442d-8ae2-dcde225b8fca",
+			"uuid": "12f72407-842d-442d-8ae2-dcde225b8fca",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dansen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"uuid": "d8c5ff85-e6a6-4ee3-9345-c6cf188e6020",
+					"title": "Syllabus Muziek vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"uuid": "e0c5feeb-a8ab-4e7e-be32-020e9594d160",
+					"title": "Syllabus Muziek vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"uuid": "3f0cf1fa-f6e8-4cef-bbdf-b0682edcaa40",
+					"title": "Syllabus Muziek vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90414fcf-ca04-487e-bbea-495738ea8991",
+					"uuid": "90414fcf-ca04-487e-bbea-495738ea8991",
+					"title": "Syllabus Muziek vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ef8cebb-3230-4cd0-8c5c-22e8f0b0aed8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ef8cebb-3230-4cd0-8c5c-22e8f0b0aed8",
+			"uuid": "5ef8cebb-3230-4cd0-8c5c-22e8f0b0aed8",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Danser - Beschouwen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a6420260-8d90-40e1-9741-709e313b8c2a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6420260-8d90-40e1-9741-709e313b8c2a",
+			"uuid": "a6420260-8d90-40e1-9741-709e313b8c2a",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Danser - Beschouwen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4716beb1-f574-40b2-bff4-ba86677eafa8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4716beb1-f574-40b2-bff4-ba86677eafa8",
+			"uuid": "4716beb1-f574-40b2-bff4-ba86677eafa8",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dansexpressie - Beschouwen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f52403ab-46f8-4c11-b07b-aaafa7f876e2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f52403ab-46f8-4c11-b07b-aaafa7f876e2",
+			"uuid": "f52403ab-46f8-4c11-b07b-aaafa7f876e2",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dansexpressie - Beschouwen",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5c6884f-a922-4610-990f-87c0473b84e4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5c6884f-a922-4610-990f-87c0473b84e4",
+			"uuid": "b5c6884f-a922-4610-990f-87c0473b84e4",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dansfuncties",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"uuid": "206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"uuid": "cf856e33-6431-4041-99c2-40cf35a345e6",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7152272d-1cac-40e6-baff-acb1df8b86c7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7152272d-1cac-40e6-baff-acb1df8b86c7",
+			"uuid": "7152272d-1cac-40e6-baff-acb1df8b86c7",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dansinhoud / betekens",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/456e6d5a-8ada-45c0-8a53-5c35b6f890cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/456e6d5a-8ada-45c0-8a53-5c35b6f890cc",
+			"uuid": "456e6d5a-8ada-45c0-8a53-5c35b6f890cc",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Dansinhoud / betekens",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ad3e2910-cd72-461c-97ed-00a3a1050208",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ad3e2910-cd72-461c-97ed-00a3a1050208",
+			"uuid": "ad3e2910-cd72-461c-97ed-00a3a1050208",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "Danssoorten",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"uuid": "e2e41e41-2e45-4920-9c73-eb30aab5791d",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"uuid": "0f6dd0e9-5361-4c7c-8829-2ab5e7f3f708",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"uuid": "e9416f89-f8d9-4a3a-804c-95d7c09e74b3",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"uuid": "ace9462c-978c-4e83-b872-5bb6f917fcaa",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"uuid": "e48d0e6b-063b-484b-a396-373895bdbfd9",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"uuid": "c94d88aa-1627-49db-a97e-904b7e9d3fe2",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"uuid": "206fe142-b1d9-4e45-9910-bcc6f27ede6a",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"uuid": "0815b177-fa6f-42e6-bbec-cdec3970bd16",
+					"title": "Syllabus Dans vmbo gl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"uuid": "2ae521ee-fde0-446a-b3fd-ee3dd99142bb",
+					"title": "Syllabus Dans vmbo tl 2024",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"uuid": "596ecf0e-6342-4553-9234-386f8b98f4eb",
+					"title": "Syllabus Dans vmbo gl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"uuid": "9c9040e7-0a43-4332-a79d-4039ea6eb439",
+					"title": "Syllabus Dans vmbo tl 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8764afd-297f-492f-9807-1441d34be2c3",
+					"uuid": "b8764afd-297f-492f-9807-1441d34be2c3",
+					"title": "Syllabus Dans vmbo gl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"uuid": "b3ffa88f-3152-4054-af04-cf952d4bb2d5",
+					"title": "Syllabus Dans vmbo tl 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf856e33-6431-4041-99c2-40cf35a345e6",
+					"uuid": "cf856e33-6431-4041-99c2-40cf35a345e6",
+					"title": "Syllabus Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc95d538-c4b1-4d02-9c68-dd09d55895db",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc95d538-c4b1-4d02-9c68-dd09d55895db",
+			"uuid": "bc95d538-c4b1-4d02-9c68-dd09d55895db",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "De Europese Unie. De Europese samenwerking is tot stand gekomen met het doel oorlog te voorkomen en economische voorspoed te brengen.",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/383ca41d-543c-4230-84bf-358fae5686e8",
+					"uuid": "383ca41d-543c-4230-84bf-358fae5686e8",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"uuid": "f569bcdb-8ff1-456d-ae89-5e82c3ed3d86",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"uuid": "f08ae12f-7b12-4778-83b1-dc15dd4a2d4b",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378227ad-53bc-4760-a667-108306a6e70f",
+					"uuid": "378227ad-53bc-4760-a667-108306a6e70f",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"uuid": "bcd1e0a4-6340-42cb-859b-8894c468b298",
+					"title": "Syllabus Maatschappijwetenschappen vwo 2021",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4deecc0a-550a-413d-bab2-d9d207046c11",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4deecc0a-550a-413d-bab2-d9d207046c11",
+			"uuid": "4deecc0a-550a-413d-bab2-d9d207046c11",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "De Geschiedenis van het gezin en andere samenlevingsvormen in Nederland vanaf de tweede helft van de 20ste eeuw",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"uuid": "ace01882-105d-4673-bda3-c066a7ec5e5a",
+					"title": "Syllabus Maatschappijwetenschappen havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49d5c110-dd16-4015-a537-c431841073a0",
+					"uuid": "49d5c110-dd16-4015-a537-c431841073a0",
+					"title": "Syllabus Maatschappijwetenschappen havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/61ebb872-51fb-449d-a691-ca3c61da7b91",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61ebb872-51fb-449d-a691-ca3c61da7b91",
+					"uuid": "61ebb872-51fb-449d-a691-ca3c61da7b91",
+					"title": "Syllabus Maatschappijwetenschappen havo 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7e4fb61-0fdd-4231-aa42-5a47000b35e6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7e4fb61-0fdd-4231-aa42-5a47000b35e6",
+					"uuid": "f7e4fb61-0fdd-4231-aa42-5a47000b35e6",
+					"title": "Syllabus Maatschappijwetenschappen havo 2021",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/63778ebf-cb3a-4c5b-9d97-034ab718974a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63778ebf-cb3a-4c5b-9d97-034ab718974a",
+			"uuid": "63778ebf-cb3a-4c5b-9d97-034ab718974a",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "De auteur en zijn werk",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/92df1d85-2611-4590-b721-1dce73623f67",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92df1d85-2611-4590-b721-1dce73623f67",
+					"uuid": "92df1d85-2611-4590-b721-1dce73623f67",
+					"title": "Syllabus Griekse taal en cultuur vwo 2024",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"uuid": "d3704b2f-d5f1-4176-8c31-9dbc95befb24",
+					"title": "Syllabus Griekse taal en cultuur vwo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"uuid": "0c1320f4-7b14-47bc-8cda-5804ef487604",
+					"title": "Syllabus Griekse taal en cultuur vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e010453c-c64f-4099-8a44-15a018f155b5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e010453c-c64f-4099-8a44-15a018f155b5",
+					"uuid": "e010453c-c64f-4099-8a44-15a018f155b5",
+					"title": "Syllabus Griekse taal en cultuur vwo 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/592da4c1-2f99-4eae-8c42-0929581697ab",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/592da4c1-2f99-4eae-8c42-0929581697ab",
+					"uuid": "592da4c1-2f99-4eae-8c42-0929581697ab",
+					"title": "Syllabus Griekse taal en cultuur vwo 2022",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b9ac7ad-414e-42bd-a366-4a61d0e36c34",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b9ac7ad-414e-42bd-a366-4a61d0e36c34",
+			"uuid": "3b9ac7ad-414e-42bd-a366-4a61d0e36c34",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "De auteur en zijn werk",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"uuid": "a1275d21-4c78-4180-a7e2-16927667d4a9",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2024",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ae981544-9130-4e07-87ce-2340baa5a69a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ae981544-9130-4e07-87ce-2340baa5a69a",
+			"uuid": "ae981544-9130-4e07-87ce-2340baa5a69a",
+			"@type": "SyllabusSpecifiekeEindterm",
+			"title": "De auteurs en hun werken",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21455f68-d552-4755-a69a-aa04618ad29d",
+					"uuid": "21455f68-d552-4755-a69a-aa04618ad29d",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"uuid": "b895f7ce-1a9f-4c52-b335-0f058e045d10",
+					"title": "Syllabus Latijnse taal en cultuur vwo 2022",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

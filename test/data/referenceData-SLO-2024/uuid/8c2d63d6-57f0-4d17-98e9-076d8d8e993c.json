@@ -1,0 +1,233 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/8c2d63d6-57f0-4d17-98e9-076d8d8e993c",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c2d63d6-57f0-4d17-98e9-076d8d8e993c",
+	"uuid": "8c2d63d6-57f0-4d17-98e9-076d8d8e993c",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusVakleergebied",
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+			"uuid": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+			"title": "Engels",
+			"deprecated": null
+		}
+	],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6204a085-e36f-4b16-a5b0-afa1c58cf3d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6204a085-e36f-4b16-a5b0-afa1c58cf3d5",
+			"uuid": "6204a085-e36f-4b16-a5b0-afa1c58cf3d5",
+			"title": "Syllabus Moderne vreemde talen Engels havo 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/23b0414c-4fac-4a67-9900-1607e2e08b11",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23b0414c-4fac-4a67-9900-1607e2e08b11",
+			"uuid": "23b0414c-4fac-4a67-9900-1607e2e08b11",
+			"title": "Syllabus Moderne vreemde talen Engels vwo 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/772dcf0c-e5ad-4f71-a4a5-51af541cd3f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/772dcf0c-e5ad-4f71-a4a5-51af541cd3f4",
+			"uuid": "772dcf0c-e5ad-4f71-a4a5-51af541cd3f4",
+			"title": "Syllabus Moderne vreemde talen Engels havo 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5e115c8a-2d9b-4e6b-810b-f721b8d6a816",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5e115c8a-2d9b-4e6b-810b-f721b8d6a816",
+			"uuid": "5e115c8a-2d9b-4e6b-810b-f721b8d6a816",
+			"title": "Syllabus Moderne vreemde talen Engels vwo 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/903fb232-b178-4f29-a6e0-9eb904239012",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/903fb232-b178-4f29-a6e0-9eb904239012",
+			"uuid": "903fb232-b178-4f29-a6e0-9eb904239012",
+			"title": "Syllabus Moderne vreemde talen Engels vwo 2021",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/84d98c49-49d5-4596-b68f-6b81a22c4c47",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/84d98c49-49d5-4596-b68f-6b81a22c4c47",
+			"uuid": "84d98c49-49d5-4596-b68f-6b81a22c4c47",
+			"title": "Syllabus Moderne vreemde talen Engels havo 2021",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/857c8847-d908-4a2e-ade5-731750b3d6b4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/857c8847-d908-4a2e-ade5-731750b3d6b4",
+			"uuid": "857c8847-d908-4a2e-ade5-731750b3d6b4",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo bb 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/78f86dc8-d5e9-4bd8-820f-8919daeb4820",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/78f86dc8-d5e9-4bd8-820f-8919daeb4820",
+			"uuid": "78f86dc8-d5e9-4bd8-820f-8919daeb4820",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo gl 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/145201f8-273b-4f76-85a1-0384f2cb1545",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/145201f8-273b-4f76-85a1-0384f2cb1545",
+			"uuid": "145201f8-273b-4f76-85a1-0384f2cb1545",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo kb 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de330310-c890-4804-9bce-efb1f8482bbc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de330310-c890-4804-9bce-efb1f8482bbc",
+			"uuid": "de330310-c890-4804-9bce-efb1f8482bbc",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo tl 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3aa59aa2-924b-4a4e-8edb-34a8ee5b3a51",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3aa59aa2-924b-4a4e-8edb-34a8ee5b3a51",
+			"uuid": "3aa59aa2-924b-4a4e-8edb-34a8ee5b3a51",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo bb 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a2f36be8-b51e-421c-807d-9a49d6796d93",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a2f36be8-b51e-421c-807d-9a49d6796d93",
+			"uuid": "a2f36be8-b51e-421c-807d-9a49d6796d93",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo gl 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/51d96cb0-7ba2-412c-b9c7-3d224bd9e392",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51d96cb0-7ba2-412c-b9c7-3d224bd9e392",
+			"uuid": "51d96cb0-7ba2-412c-b9c7-3d224bd9e392",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo kb 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/893c7a98-a2a7-4f47-81a1-047fa843d2a9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/893c7a98-a2a7-4f47-81a1-047fa843d2a9",
+			"uuid": "893c7a98-a2a7-4f47-81a1-047fa843d2a9",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo tl 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d493e8b-92c1-4ba7-8171-745d8e1b4712",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d493e8b-92c1-4ba7-8171-745d8e1b4712",
+			"uuid": "8d493e8b-92c1-4ba7-8171-745d8e1b4712",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo gl, tl",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/304e0c3f-f5ae-42b5-9d20-2cd82b1e9a77",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/304e0c3f-f5ae-42b5-9d20-2cd82b1e9a77",
+			"uuid": "304e0c3f-f5ae-42b5-9d20-2cd82b1e9a77",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo bb, kb",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6a9a7f83-06c9-4ba8-a181-00db933d13ba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6a9a7f83-06c9-4ba8-a181-00db933d13ba",
+			"uuid": "6a9a7f83-06c9-4ba8-a181-00db933d13ba",
+			"title": "Syllabus Moderne vreemde talen Engels vwo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/57e56d65-93ea-429d-97d8-85937ae88533",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/57e56d65-93ea-429d-97d8-85937ae88533",
+			"uuid": "57e56d65-93ea-429d-97d8-85937ae88533",
+			"title": "Syllabus Moderne vreemde talen Engels havo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2408d18a-2a9b-45f2-826c-3439cac2dcae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2408d18a-2a9b-45f2-826c-3439cac2dcae",
+			"uuid": "2408d18a-2a9b-45f2-826c-3439cac2dcae",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo gl, tl",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e59047dc-0b54-4224-bcb2-09e6382602de",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e59047dc-0b54-4224-bcb2-09e6382602de",
+			"uuid": "e59047dc-0b54-4224-bcb2-09e6382602de",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo bb, kb",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c93fb9ce-2d6e-4d53-ad73-ea6b02821239",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c93fb9ce-2d6e-4d53-ad73-ea6b02821239",
+			"uuid": "c93fb9ce-2d6e-4d53-ad73-ea6b02821239",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo bb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b45ede46-3bb1-4043-9af0-8448307ee313",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b45ede46-3bb1-4043-9af0-8448307ee313",
+			"uuid": "b45ede46-3bb1-4043-9af0-8448307ee313",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo gl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f777288-c0df-4a4c-8fb7-7063b4e2f875",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f777288-c0df-4a4c-8fb7-7063b4e2f875",
+			"uuid": "6f777288-c0df-4a4c-8fb7-7063b4e2f875",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo kb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fa2353ee-f636-4202-87ea-47cfaddd3b1b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa2353ee-f636-4202-87ea-47cfaddd3b1b",
+			"uuid": "fa2353ee-f636-4202-87ea-47cfaddd3b1b",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo tl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b20cd92-45f6-4aa0-8d8f-ac948b08ef71",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b20cd92-45f6-4aa0-8d8f-ac948b08ef71",
+			"uuid": "3b20cd92-45f6-4aa0-8d8f-ac948b08ef71",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo bb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5a1ceedc-46b4-47a0-aa4a-3769b4e88c93",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5a1ceedc-46b4-47a0-aa4a-3769b4e88c93",
+			"uuid": "5a1ceedc-46b4-47a0-aa4a-3769b4e88c93",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo gl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4b4d4dd-fc26-417b-8b4c-efc34d98899e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4b4d4dd-fc26-417b-8b4c-efc34d98899e",
+			"uuid": "a4b4d4dd-fc26-417b-8b4c-efc34d98899e",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo kb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e3924b57-49aa-4d68-bc10-8a615a6760a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e3924b57-49aa-4d68-bc10-8a615a6760a4",
+			"uuid": "e3924b57-49aa-4d68-bc10-8a615a6760a4",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo tl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2a54851b-38b7-4c89-9d6e-913a1cc829a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a54851b-38b7-4c89-9d6e-913a1cc829a2",
+			"uuid": "2a54851b-38b7-4c89-9d6e-913a1cc829a2",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo gl, tl",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dad8e2b5-981b-4e4c-8a88-7a2147e7a9c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dad8e2b5-981b-4e4c-8a88-7a2147e7a9c4",
+			"uuid": "dad8e2b5-981b-4e4c-8a88-7a2147e7a9c4",
+			"title": "Syllabus Moderne vreemde talen Engels vmbo bb, kb",
+			"deprecated": true
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Engels"
+}

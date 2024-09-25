@@ -1,0 +1,512 @@
+{
+	"count": 78,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/afaa5ea0-15c5-4282-9df2-b8857c9fa030",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/afaa5ea0-15c5-4282-9df2-b8857c9fa030",
+			"uuid": "afaa5ea0-15c5-4282-9df2-b8857c9fa030",
+			"@type": "KerndoelDomein",
+			"title": "Dramatische vorming",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"uuid": "f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"title": "Kunstzinnige oriëntatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"uuid": "62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"@type": "KerndoelDomein",
+			"title": "Getallen en bewerkingen",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"uuid": "96552012-d8f9-44e8-bce2-609d5ac42849",
+					"title": "Rekenen en wiskunde",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"uuid": "b6224471-366b-47c1-a35a-e41203ca356d",
+					"title": "Rekenen en wiskunde",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cc93153d-9c83-492f-8285-0cf31c2d0e52",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc93153d-9c83-492f-8285-0cf31c2d0e52",
+			"uuid": "cc93153d-9c83-492f-8285-0cf31c2d0e52",
+			"@type": "KerndoelDomein",
+			"title": "Leren functioneren in sociale situaties",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f477a7b-fd36-488f-bdff-051a43020708",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f477a7b-fd36-488f-bdff-051a43020708",
+			"uuid": "0f477a7b-fd36-488f-bdff-051a43020708",
+			"@type": "KerndoelDomein",
+			"title": "Leren leren",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8b1eff8c-62ea-4b15-bce5-15079d734adc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b1eff8c-62ea-4b15-bce5-15079d734adc",
+			"uuid": "8b1eff8c-62ea-4b15-bce5-15079d734adc",
+			"@type": "KerndoelDomein",
+			"title": "Leren taken uitvoeren",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/07be4466-6b97-48c2-99f8-c4a8572b54c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/07be4466-6b97-48c2-99f8-c4a8572b54c1",
+			"uuid": "07be4466-6b97-48c2-99f8-c4a8572b54c1",
+			"@type": "KerndoelDomein",
+			"title": "Manuele vaardigheden",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"uuid": "a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"title": "Nederlandse gebarentaal",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b916ca8c-da6e-44df-a93a-f37e3228507d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b916ca8c-da6e-44df-a93a-f37e3228507d",
+			"uuid": "b916ca8c-da6e-44df-a93a-f37e3228507d",
+			"@type": "KerndoelDomein",
+			"title": "Mens en samenleving",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"uuid": "3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"title": "Oriëntatie op jezelf en de wereld",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4ce80c28-7ca0-4718-b301-6c5fd61e57d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ce80c28-7ca0-4718-b301-6c5fd61e57d5",
+			"uuid": "4ce80c28-7ca0-4718-b301-6c5fd61e57d5",
+			"@type": "KerndoelDomein",
+			"title": "Meten en meetkunde",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"uuid": "96552012-d8f9-44e8-bce2-609d5ac42849",
+					"title": "Rekenen en wiskunde",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"uuid": "b6224471-366b-47c1-a35a-e41203ca356d",
+					"title": "Rekenen en wiskunde",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dc54e70a-b969-48b6-963d-d257fc20f89f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dc54e70a-b969-48b6-963d-d257fc20f89f",
+			"uuid": "dc54e70a-b969-48b6-963d-d257fc20f89f",
+			"@type": "KerndoelDomein",
+			"title": "Mondeling taalonderwijs",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"uuid": "6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"title": "Fries",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"uuid": "4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"@type": "KerndoelDomein",
+			"title": "Mondeling taalonderwijs",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"uuid": "d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"title": "Nederlands",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"uuid": "2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"title": "Nederlands",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/00552e63-405d-4568-8d75-02d594d27a78",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/00552e63-405d-4568-8d75-02d594d27a78",
+			"uuid": "00552e63-405d-4568-8d75-02d594d27a78",
+			"@type": "KerndoelDomein",
+			"title": "Muziek",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"uuid": "f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"title": "Kunstzinnige oriëntatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/350f95ee-4676-456c-bcf1-b290ec163e13",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/350f95ee-4676-456c-bcf1-b290ec163e13",
+			"uuid": "350f95ee-4676-456c-bcf1-b290ec163e13",
+			"@type": "KerndoelDomein",
+			"title": "Natuur en techniek",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"uuid": "3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"title": "Oriëntatie op jezelf en de wereld",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/befead63-bfb4-4f9b-8e74-e97e8e212479",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/befead63-bfb4-4f9b-8e74-e97e8e212479",
+			"uuid": "befead63-bfb4-4f9b-8e74-e97e8e212479",
+			"@type": "KerndoelDomein",
+			"title": "Omgaan met media en technologische hulpmiddelen",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1f6a9d9-29a9-441f-a0ba-b1f6b202e5b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1f6a9d9-29a9-441f-a0ba-b1f6b202e5b0",
+			"uuid": "f1f6a9d9-29a9-441f-a0ba-b1f6b202e5b0",
+			"@type": "KerndoelDomein",
+			"title": "Ontwikkelen van een persoonlijk toekomstperspectief",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ad7f532f-5cba-40df-909a-bc2518e90c02",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ad7f532f-5cba-40df-909a-bc2518e90c02",
+			"uuid": "ad7f532f-5cba-40df-909a-bc2518e90c02",
+			"@type": "KerndoelDomein",
+			"title": "Praktische redzaamheid",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/358bdd33-05dd-4656-a298-5ad717784cd8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/358bdd33-05dd-4656-a298-5ad717784cd8",
+			"uuid": "358bdd33-05dd-4656-a298-5ad717784cd8",
+			"@type": "KerndoelDomein",
+			"title": "Ruimte",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"uuid": "3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"title": "Oriëntatie op jezelf en de wereld",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ed5387f5-9524-4289-a16f-d54139995736",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ed5387f5-9524-4289-a16f-d54139995736",
+			"uuid": "ed5387f5-9524-4289-a16f-d54139995736",
+			"@type": "KerndoelDomein",
+			"title": "Ruimtelijke oriëntatie en mobiliteit",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5fa0ce5f-d8e9-431a-83f8-c804fcfa6260",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5fa0ce5f-d8e9-431a-83f8-c804fcfa6260",
+			"uuid": "5fa0ce5f-d8e9-431a-83f8-c804fcfa6260",
+			"@type": "KerndoelDomein",
+			"title": "Schriftelijk taalonderwijs",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"uuid": "6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"title": "Fries",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/34d6bd9c-565c-45fe-9b21-d6497cd3f0d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34d6bd9c-565c-45fe-9b21-d6497cd3f0d1",
+			"uuid": "34d6bd9c-565c-45fe-9b21-d6497cd3f0d1",
+			"@type": "KerndoelDomein",
+			"title": "Schriftelijk taalonderwijs",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"uuid": "d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"title": "Nederlands",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"uuid": "2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"title": "Nederlands",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2ea95b8c-faa3-4f78-aa6d-7acb65656ddf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ea95b8c-faa3-4f78-aa6d-7acb65656ddf",
+			"uuid": "2ea95b8c-faa3-4f78-aa6d-7acb65656ddf",
+			"@type": "KerndoelDomein",
+			"title": "Sociale en emotionele ontwikkeling",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ceafd213-2ece-46d4-a9fc-9eb330646b7f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ceafd213-2ece-46d4-a9fc-9eb330646b7f",
+			"uuid": "ceafd213-2ece-46d4-a9fc-9eb330646b7f",
+			"@type": "KerndoelDomein",
+			"title": "Spel en beweging",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"uuid": "f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"title": "Kunstzinnige oriëntatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+			"uuid": "a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+			"@type": "KerndoelDomein",
+			"title": "Taalbeschouwing, waaronder strategieën",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"uuid": "a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"title": "Nederlandse gebarentaal",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bae14315-61e3-4b3a-8b80-936a3d6c754e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bae14315-61e3-4b3a-8b80-936a3d6c754e",
+			"uuid": "bae14315-61e3-4b3a-8b80-936a3d6c754e",
+			"@type": "KerndoelDomein",
+			"title": "Taalbeschouwing, waaronder strategieën",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"uuid": "6db136e4-b9ad-4695-9d23-a2225a744b7e",
+					"title": "Fries",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fcdae226-0095-4eec-8584-96919df2b2d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcdae226-0095-4eec-8584-96919df2b2d1",
+			"uuid": "fcdae226-0095-4eec-8584-96919df2b2d1",
+			"@type": "KerndoelDomein",
+			"title": "Taalbeschouwing, waaronder strategieën",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"uuid": "d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+					"title": "Nederlands",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"uuid": "2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+					"title": "Nederlands",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/55762a19-956f-4870-8693-65a5f4959965",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/55762a19-956f-4870-8693-65a5f4959965",
+			"uuid": "55762a19-956f-4870-8693-65a5f4959965",
+			"@type": "KerndoelDomein",
+			"title": "Tekenen en handvaardigheid",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"uuid": "f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+					"title": "Kunstzinnige oriëntatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/57bd37c2-edeb-43f5-9dc5-66d90bcd38a9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/57bd37c2-edeb-43f5-9dc5-66d90bcd38a9",
+			"uuid": "57bd37c2-edeb-43f5-9dc5-66d90bcd38a9",
+			"@type": "KerndoelDomein",
+			"title": "Tekstuele vaardigheden",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"uuid": "a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"title": "Nederlandse gebarentaal",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/97c7d1f4-64b3-4283-b7a0-24bebfb70a1d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/97c7d1f4-64b3-4283-b7a0-24bebfb70a1d",
+			"uuid": "97c7d1f4-64b3-4283-b7a0-24bebfb70a1d",
+			"@type": "KerndoelDomein",
+			"title": "Tijd",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"uuid": "3b11db01-d97d-4370-ad85-3a0f7f082339",
+					"title": "Oriëntatie op jezelf en de wereld",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"uuid": "3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"@type": "KerndoelDomein",
+			"title": "Wiskundig inzicht en handelen",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+					"uuid": "96552012-d8f9-44e8-bce2-609d5ac42849",
+					"title": "Rekenen en wiskunde",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+					"uuid": "b6224471-366b-47c1-a35a-e41203ca356d",
+					"title": "Rekenen en wiskunde",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/edf8ebcf-90e8-49d3-9554-be546a965bb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edf8ebcf-90e8-49d3-9554-be546a965bb6",
+			"uuid": "edf8ebcf-90e8-49d3-9554-be546a965bb6",
+			"@type": "KerndoelDomein",
+			"title": "Zintuigelijke en motorische ontwikkeling",
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+					"title": "Leergebied overstijgende vaardigheden",
+					"deprecated": null
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

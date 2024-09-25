@@ -1,0 +1,66 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+	"uuid": "2c7be1c1-991d-49e3-884a-602687b55d06",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefVakleergebied",
+	"Doelniveau": [],
+	"RefDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7c80091e-7993-49a4-b12a-7382cc5c9940",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c80091e-7993-49a4-b12a-7382cc5c9940",
+			"uuid": "7c80091e-7993-49a4-b12a-7382cc5c9940",
+			"prefix": "RKT1",
+			"title": "Mondelinge taalvaardigheid",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5bb0c7d-14d3-4cb4-a801-4a243ea268d8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5bb0c7d-14d3-4cb4-a801-4a243ea268d8",
+			"uuid": "b5bb0c7d-14d3-4cb4-a801-4a243ea268d8",
+			"prefix": "RKT2",
+			"title": "Lezen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+			"uuid": "3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+			"prefix": "RKT3",
+			"title": "Schrijven",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_akleergebied/2c7be1c1-991d-49e3-884a-602687b55d06"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_akleergebied/2c7be1c1-991d-49e3-884a-602687b55d06"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_akleergebied/2c7be1c1-991d-49e3-884a-602687b55d06"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"title": "4F",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ec6d733-a3b2-46db-9d42-72b4be4f7750/ref_akleergebied/2c7be1c1-991d-49e3-884a-602687b55d06"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKT",
+	"title": "Referentiekader Taal"
+}

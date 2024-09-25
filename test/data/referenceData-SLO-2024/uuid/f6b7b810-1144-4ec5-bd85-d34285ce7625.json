@@ -1,0 +1,100 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/f6b7b810-1144-4ec5-bd85-d34285ce7625",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f6b7b810-1144-4ec5-bd85-d34285ce7625",
+	"uuid": "f6b7b810-1144-4ec5-bd85-d34285ce7625",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+	"@type": "InhVakleergebied",
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+			"uuid": "fdd97fff-f5e5-4b82-b937-9ab302666c50",
+			"title": "Rekenen en wiskunde",
+			"deprecated": null
+		}
+	],
+	"Doelniveau": [],
+	"InhInhoudslijn": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/56ef5d20-2bce-4670-9ef3-b5df997f9d63",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56ef5d20-2bce-4670-9ef3-b5df997f9d63",
+			"uuid": "56ef5d20-2bce-4670-9ef3-b5df997f9d63",
+			"prefix": "RW/gb",
+			"title": "Inhoudslijn Getalbegrip",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5e72d14-02a6-4e88-b451-a206c1e6c4ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5e72d14-02a6-4e88-b451-a206c1e6c4ee",
+			"uuid": "e5e72d14-02a6-4e88-b451-a206c1e6c4ee",
+			"prefix": "RW/bew",
+			"title": "Inhoudslijn Bewerkingen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8f91da01-44ef-4f73-97e2-e83941d38cea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f91da01-44ef-4f73-97e2-e83941d38cea",
+			"uuid": "8f91da01-44ef-4f73-97e2-e83941d38cea",
+			"prefix": "RW/verh",
+			"title": "Inhoudslijn Verhoudingen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75042071-87ce-4115-9056-930c67538aaa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75042071-87ce-4115-9056-930c67538aaa",
+			"uuid": "75042071-87ce-4115-9056-930c67538aaa",
+			"prefix": "RW/m",
+			"title": "Inhoudslijn Meten",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/40793391-b02d-437b-9466-91a009828fdf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/40793391-b02d-437b-9466-91a009828fdf",
+			"uuid": "40793391-b02d-437b-9466-91a009828fdf",
+			"prefix": "RW/mk",
+			"title": "Inhoudslijn Meetkunde",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b2b40b03-dc06-438a-b347-1d70c697e819",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2b40b03-dc06-438a-b347-1d70c697e819",
+			"uuid": "b2b40b03-dc06-438a-b347-1d70c697e819",
+			"prefix": "RW/verb",
+			"title": "Inhoudslijn Verbanden",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de856286-e572-4ab9-a21f-7dce64a25645",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de856286-e572-4ab9-a21f-7dce64a25645",
+			"uuid": "de856286-e572-4ab9-a21f-7dce64a25645",
+			"title": "Rekenen en wiskunde"
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"title": "fase 1",
+			"prefix": "1200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0a3d23df-1758-439b-b219-cd2854cc639b/inh_akleergebied/f6b7b810-1144-4ec5-bd85-d34285ce7625"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"title": "fase 2",
+			"prefix": "1202-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5edad2fa-2cf0-4701-93d9-97edbe06ac02/inh_akleergebied/f6b7b810-1144-4ec5-bd85-d34285ce7625"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"title": "fase 3",
+			"prefix": "1204-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fc0fa444-07f6-4744-b7a7-6f9aadeeff42/inh_akleergebied/f6b7b810-1144-4ec5-bd85-d34285ce7625"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RW",
+	"title": "Rekenen en wiskunde"
+}

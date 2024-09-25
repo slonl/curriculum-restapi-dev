@@ -1,0 +1,65 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/a6b8a2ca-4e17-4cfa-ba57-7fcfee58e185",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6b8a2ca-4e17-4cfa-ba57-7fcfee58e185",
+	"uuid": "a6b8a2ca-4e17-4cfa-ba57-7fcfee58e185",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusSpecifiekeEindterm",
+	"ExamenprogrammaEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b035e82b-12ed-4fe6-894d-4eea404a896a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b035e82b-12ed-4fe6-894d-4eea404a896a",
+			"uuid": "b035e82b-12ed-4fe6-894d-4eea404a896a",
+			"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaDomein": [],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/62e95be6-bc07-4bbd-8b8a-d47e0d8027c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62e95be6-bc07-4bbd-8b8a-d47e0d8027c5",
+			"uuid": "62e95be6-bc07-4bbd-8b8a-d47e0d8027c5",
+			"title": "Syllabus Economie vwo 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/697bb6e0-ad63-427a-9b21-bb37a140f41d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/697bb6e0-ad63-427a-9b21-bb37a140f41d",
+			"uuid": "697bb6e0-ad63-427a-9b21-bb37a140f41d",
+			"title": "Syllabus Economie vwo 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a05ea602-b840-4148-84e8-7bb9602f81fe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a05ea602-b840-4148-84e8-7bb9602f81fe",
+			"uuid": "a05ea602-b840-4148-84e8-7bb9602f81fe",
+			"title": "Syllabus Economie vwo 2021",
+			"deprecated": true
+		}
+	],
+	"SyllabusToelichting": [],
+	"SyllabusVakbegrip": [],
+	"Tag": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c71c86d9-4dff-4289-9afe-0a5d7a7697e9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c71c86d9-4dff-4289-9afe-0a5d7a7697e9",
+			"uuid": "c71c86d9-4dff-4289-9afe-0a5d7a7697e9",
+			"title": "De kandidaat kan in contexten herkennen en toepassen inkomenselasticiteit (alleen segmentelasticiteit) als een maat voor de relatieve verandering van de gevraagde hoeveelheid als gevolg van een relatieve inkomensverandering."
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3da1cbc2-5951-4d6f-acf1-cc0277f308b3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3da1cbc2-5951-4d6f-acf1-cc0277f308b3",
+			"uuid": "3da1cbc2-5951-4d6f-acf1-cc0277f308b3",
+			"title": "De kandidaat kan in contexten herkennen en toepassen inkomenselasticiteit (alleen segmentelasticiteit) als een maat voor de relatieve verandering van de gevraagde hoeveelheid als gevolg van een relatieve inkomensverandering."
+		}
+	],
+	"Niveau": [],
+	"deprecated": true,
+	"prefix": "EC/V/DomeinD/4.D1.7",
+	"title": "De kandidaat kan in contexten herkennen en toepassen inkomenselasticiteit (alleen segmentelasticiteit) als een maat voor de relatieve verandering van de gevraagde hoeveelheid als gevolg van een relatieve inkomensverandering.",
+	"ce_se": "CE"
+}

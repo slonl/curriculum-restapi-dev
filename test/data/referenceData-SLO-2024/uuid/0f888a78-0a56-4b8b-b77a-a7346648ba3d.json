@@ -1,0 +1,217 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+	"uuid": "0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKerndeel",
+	"ExamenprogrammaBgKern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a34f37d7-92d2-4be1-aae4-de09c5788b71",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a34f37d7-92d2-4be1-aae4-de09c5788b71",
+			"uuid": "a34f37d7-92d2-4be1-aae4-de09c5788b71",
+			"prefix": "PK/GR",
+			"title": "Kern Groen",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"uuid": "76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"title": "Groen",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"uuid": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"title": "Groen",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/94098824-6e06-4997-b06d-93aa3542294c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94098824-6e06-4997-b06d-93aa3542294c",
+			"uuid": "94098824-6e06-4997-b06d-93aa3542294c",
+			"prefix": "PK/GR",
+			"title": "Kern Groen",
+			"deprecated": true,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/94eac546-91dd-4c15-8912-fd0c13667824",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94eac546-91dd-4c15-8912-fd0c13667824",
+					"uuid": "94eac546-91dd-4c15-8912-fd0c13667824",
+					"title": "Groen",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"ExamenprogrammaBgGlobaleEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/67f30612-f731-4fe0-9763-07b2b71afe47",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/67f30612-f731-4fe0-9763-07b2b71afe47",
+			"uuid": "67f30612-f731-4fe0-9763-07b2b71afe47",
+			"prefix": "PK/GR/a-01",
+			"title": "De kandidaat kan de Nederlandse taal in opleidings- en beroepssituaties gebruiken.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/306eb282-ad6d-4be5-af31-43bdd410e268",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/306eb282-ad6d-4be5-af31-43bdd410e268",
+			"uuid": "306eb282-ad6d-4be5-af31-43bdd410e268",
+			"prefix": "PK/GR/a-02",
+			"title": "De kandidaat kan een informatiebehoefte signaleen en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b54aeac-e2b9-4892-9d60-3365699c57c3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b54aeac-e2b9-4892-9d60-3365699c57c3",
+			"uuid": "4b54aeac-e2b9-4892-9d60-3365699c57c3",
+			"prefix": "PK/GR/a-03",
+			"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2f58157d-e11e-4fd4-9690-acb3c9351238",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f58157d-e11e-4fd4-9690-acb3c9351238",
+			"uuid": "2f58157d-e11e-4fd4-9690-acb3c9351238",
+			"prefix": "PK/GR/a-04",
+			"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/47240c98-1648-428c-a659-c4172c2ee0dd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/47240c98-1648-428c-a659-c4172c2ee0dd",
+			"uuid": "47240c98-1648-428c-a659-c4172c2ee0dd",
+			"prefix": "PK/GR/a-05",
+			"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9d0492c8-31a7-4c9e-a3cc-69bf6464624a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9d0492c8-31a7-4c9e-a3cc-69bf6464624a",
+			"uuid": "9d0492c8-31a7-4c9e-a3cc-69bf6464624a",
+			"prefix": "PK/GR/a-06",
+			"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/16e0552f-7f03-4db3-b21c-d5d43e958540",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/16e0552f-7f03-4db3-b21c-d5d43e958540",
+			"uuid": "16e0552f-7f03-4db3-b21c-d5d43e958540",
+			"prefix": "PK/GR/a-07",
+			"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situaties",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c3335313-9f0e-432d-832d-46e922b0bbb1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c3335313-9f0e-432d-832d-46e922b0bbb1",
+			"uuid": "c3335313-9f0e-432d-832d-46e922b0bbb1",
+			"prefix": "PK/GR/a-08",
+			"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6b7da7a1-9992-4367-a6b1-7ede174aef7d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b7da7a1-9992-4367-a6b1-7ede174aef7d",
+			"uuid": "6b7da7a1-9992-4367-a6b1-7ede174aef7d",
+			"prefix": "PK/GR/a-09",
+			"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c9958f81-d756-45f4-8ad6-f5406beb0565",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c9958f81-d756-45f4-8ad6-f5406beb0565",
+			"uuid": "c9958f81-d756-45f4-8ad6-f5406beb0565",
+			"prefix": "PK/GR/a-10",
+			"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f2a94dee-b52c-44cd-8541-767327fd9a3b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f2a94dee-b52c-44cd-8541-767327fd9a3b",
+			"uuid": "f2a94dee-b52c-44cd-8541-767327fd9a3b",
+			"prefix": "PK/GR/a-11",
+			"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7186036b-ab1b-4e1a-a0d5-29d6ce0391de",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7186036b-ab1b-4e1a-a0d5-29d6ce0391de",
+			"uuid": "7186036b-ab1b-4e1a-a0d5-29d6ce0391de",
+			"prefix": "PK/GR/a-12",
+			"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3e825404-169a-4927-aa38-2caca703eb79",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3e825404-169a-4927-aa38-2caca703eb79",
+			"uuid": "3e825404-169a-4927-aa38-2caca703eb79",
+			"prefix": "PK/GR/a-13",
+			"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/531bdd06-260f-4a55-8715-55dc3e96e738",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/531bdd06-260f-4a55-8715-55dc3e96e738",
+			"uuid": "531bdd06-260f-4a55-8715-55dc3e96e738",
+			"prefix": "PK/GR/a-14",
+			"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/44adfbb8-8a41-4033-a704-65b5bcfa5361",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44adfbb8-8a41-4033-a704-65b5bcfa5361",
+			"uuid": "44adfbb8-8a41-4033-a704-65b5bcfa5361",
+			"prefix": "PK/GR/a-15",
+			"title": "De kandidaat kan hygiënisch werken.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/87856085-0837-4fef-a146-b369625fc9b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/87856085-0837-4fef-a146-b369625fc9b6",
+			"uuid": "87856085-0837-4fef-a146-b369625fc9b6",
+			"prefix": "PK/GR/a-16",
+			"title": "De kandidaat kan milieubewust handelen.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
+			"uuid": "f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
+			"prefix": "PK/GR/a-17",
+			"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53f8607e-4667-4b67-8481-d558847fe4cf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53f8607e-4667-4b67-8481-d558847fe4cf",
+			"uuid": "53f8607e-4667-4b67-8481-d558847fe4cf",
+			"prefix": "PK/GR/a-18",
+			"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de branche.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cee3dedf-6ba8-4190-95e7-ac857902db29",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cee3dedf-6ba8-4190-95e7-ac857902db29",
+			"uuid": "cee3dedf-6ba8-4190-95e7-ac857902db29",
+			"prefix": "PR/GR/a-19",
+			"title": "De kandidaat kan in een (gesimuleerde) beroepssituatie en stage in een bedrijf omgaan me verschillen op basis van culturele gebondenheid en geslacht.",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
+			"uuid": "1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
+			"title": "Competenties"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "PK/GR/a",
+	"title": "Algemene kennis en vaardigheden"
+}

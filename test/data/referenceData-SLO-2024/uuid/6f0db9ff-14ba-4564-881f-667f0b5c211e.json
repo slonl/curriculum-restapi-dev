@@ -1,0 +1,26 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/6f0db9ff-14ba-4564-881f-667f0b5c211e",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f0db9ff-14ba-4564-881f-667f0b5c211e",
+	"uuid": "6f0db9ff-14ba-4564-881f-667f0b5c211e",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkCandobeschrijving",
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/677c431e-7ac6-438f-8204-aea78aef7025",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/677c431e-7ac6-438f-8204-aea78aef7025",
+			"uuid": "677c431e-7ac6-438f-8204-aea78aef7025",
+			"title": "pre A1",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/677c431e-7ac6-438f-8204-aea78aef7025"
+		}
+	],
+	"ErkVoorbeeld": [],
+	"ErkLesidee": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "",
+	"title": "Geen descriptoren beschikbaar.",
+	"isempty": "true"
+}

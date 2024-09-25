@@ -1,0 +1,16 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/ac188375-0a1a-4984-ac80-14d04a086a19",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac188375-0a1a-4984-ac80-14d04a086a19",
+	"uuid": "ac188375-0a1a-4984-ac80-14d04a086a19",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Niveau",
+	"Vakleergebied": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "4501",
+	"title": "vwo, 1",
+	"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  1",
+	"type": "Leerjaar"
+}

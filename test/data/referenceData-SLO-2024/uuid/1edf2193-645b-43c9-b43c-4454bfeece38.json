@@ -1,0 +1,236 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/1edf2193-645b-43c9-b43c-4454bfeece38",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1edf2193-645b-43c9-b43c-4454bfeece38",
+	"uuid": "1edf2193-645b-43c9-b43c-4454bfeece38",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "KerndoelVakleergebied",
+	"Kerndoel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/02088a74-17e5-48bd-86ac-8097584c6113",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02088a74-17e5-48bd-86ac-8097584c6113",
+			"uuid": "02088a74-17e5-48bd-86ac-8097584c6113",
+			"title": "De leerling verkent de mogelijkheden van werk en activiteiten die bereikbaar zijn.",
+			"prefix": "VSO Kerndoel DB 52",
+			"kerndoelLabel": "Oriëntatie op werk en activiteiten",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/837b4c3c-bf6a-498e-887e-f0ceb27c8f59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/837b4c3c-bf6a-498e-887e-f0ceb27c8f59",
+			"uuid": "837b4c3c-bf6a-498e-887e-f0ceb27c8f59",
+			"title": "De leerling leert vaardigheden die het kiezen voor deelname aan en veranderen van werk of activiteiten mogelijk maken.",
+			"prefix": "VSO Kerndoel DB 53",
+			"kerndoelLabel": "Vaardigheden voor deelname aan werk / activiteiten",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/51ff659e-08af-4e8c-915c-6ff2b45642e6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51ff659e-08af-4e8c-915c-6ff2b45642e6",
+			"uuid": "51ff659e-08af-4e8c-915c-6ff2b45642e6",
+			"title": "De leerling ontwikkelt algemene competenties voor het uitvoeren van werk en activiteiten, met name de volgende:",
+			"prefix": "VSO Kerndoel DB 54",
+			"kerndoelLabel": "Algemene competenties voor werktaken:",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/08bcd4cd-813b-43c8-881f-8a03de167f6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/08bcd4cd-813b-43c8-881f-8a03de167f6e",
+			"uuid": "08bcd4cd-813b-43c8-881f-8a03de167f6e",
+			"title": "De leerling leert samen te werken en te overleggen.",
+			"prefix": "VSO Kerndoel DB 54.1",
+			"kerndoelLabel": "Samenwerken en overleggen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e870c7d5-01bc-4025-bc67-6566af3b54c9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e870c7d5-01bc-4025-bc67-6566af3b54c9",
+			"uuid": "e870c7d5-01bc-4025-bc67-6566af3b54c9",
+			"title": "De leerling leert instructies en procedures op te volgen.",
+			"prefix": "VSO Kerndoel DB 54.2",
+			"kerndoelLabel": "Instructies en procedures volgen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a81f32cb-1472-4ae7-8b83-b54a18f96196",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a81f32cb-1472-4ae7-8b83-b54a18f96196",
+			"uuid": "a81f32cb-1472-4ae7-8b83-b54a18f96196",
+			"title": "De leerling leert bij arbeidsmatige taken de juiste materialen en middelen op een doelmatige en doelgerichte manier in te zetten.",
+			"prefix": "VSO Kerndoel DB 54.3",
+			"kerndoelLabel": "Materiaal en middelen keuze",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca6d611c-dd2f-4129-8a69-82d8fdab7f02",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca6d611c-dd2f-4129-8a69-82d8fdab7f02",
+			"uuid": "ca6d611c-dd2f-4129-8a69-82d8fdab7f02",
+			"title": "De leerling leert de eigen werkzaamheden te plannen en te organiseren.",
+			"prefix": "VSO Kerndoel DB 54.4",
+			"kerndoelLabel": "Werk plannen en organiseren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a05040a-a2db-448e-a14b-3e256c357121",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a05040a-a2db-448e-a14b-3e256c357121",
+			"uuid": "0a05040a-a2db-448e-a14b-3e256c357121",
+			"title": "De leerling leert kwaliteit te leveren in arbeidsmatige situaties.",
+			"prefix": "VSO Kerndoel DB 54.5",
+			"kerndoelLabel": "Kwaliteit leveren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f5314859-3655-4c58-b4ca-b88cf98bc5a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f5314859-3655-4c58-b4ca-b88cf98bc5a1",
+			"uuid": "f5314859-3655-4c58-b4ca-b88cf98bc5a1",
+			"title": "De leerling leert ethisch en integer te handelen in werksituaties.",
+			"prefix": "VSO Kerndoel DB 54.6",
+			"kerndoelLabel": "Integer handelen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f90b8a7-d79a-46d3-8f88-0667ea43bf60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f90b8a7-d79a-46d3-8f88-0667ea43bf60",
+			"uuid": "0f90b8a7-d79a-46d3-8f88-0667ea43bf60",
+			"title": "De leerling leert om te gaan met veranderingen en zich aan te passen.",
+			"prefix": "VSO Kerndoel DB 54.7",
+			"kerndoelLabel": "Omgaan met veranderingen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/47df51c8-8ad0-43be-ba66-f8c7bd42bff3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/47df51c8-8ad0-43be-ba66-f8c7bd42bff3",
+			"uuid": "47df51c8-8ad0-43be-ba66-f8c7bd42bff3",
+			"title": "De leerling leert met druk en tegenslag om te gaan.",
+			"prefix": "VSO Kerndoel DB 54.8 ",
+			"kerndoelLabel": "Omgaan met druk en tegenslag",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6c50e054-7e6f-475d-9001-359259a8a6db",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c50e054-7e6f-475d-9001-359259a8a6db",
+			"uuid": "6c50e054-7e6f-475d-9001-359259a8a6db",
+			"title": "De leerling ontwikkelt specifieke werkvaardigheden die passen bij de eigen keuzes, mogelijkheden en beperkingen.",
+			"prefix": "VSO Kerndoel DB 55",
+			"kerndoelLabel": "Specifieke werkvaardigheden",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		}
+	],
+	"KerndoelDomein": [],
+	"KerndoelUitstroomprofiel": [],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d743552d-dfcf-48fe-a3a1-9f6229755708",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d743552d-dfcf-48fe-a3a1-9f6229755708",
+			"uuid": "d743552d-dfcf-48fe-a3a1-9f6229755708",
+			"title": "Voorbereiding op dagbesteding",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1bfe5cbf-d38e-4e1f-ba1c-ae5fc702caca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1bfe5cbf-d38e-4e1f-ba1c-ae5fc702caca",
+			"uuid": "1bfe5cbf-d38e-4e1f-ba1c-ae5fc702caca",
+			"title": "Voorbereiding op dagbesteding"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Voorbereiding op dagbesteding"
+}

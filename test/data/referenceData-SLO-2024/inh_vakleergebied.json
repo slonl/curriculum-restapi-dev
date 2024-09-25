@@ -1,0 +1,240 @@
+{
+	"count": 13,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/95c4d94a-db95-474a-9790-76f1c2ff6444",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95c4d94a-db95-474a-9790-76f1c2ff6444",
+			"uuid": "95c4d94a-db95-474a-9790-76f1c2ff6444",
+			"@type": "InhVakleergebied",
+			"prefix": "BO",
+			"title": "Bewegingsonderwijs",
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4f2f7088-7cbc-4f5f-b857-f80f8b697bf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4f2f7088-7cbc-4f5f-b857-f80f8b697bf4",
+					"uuid": "4f2f7088-7cbc-4f5f-b857-f80f8b697bf4",
+					"title": "Bewegingsonderwijs",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5b7d369-f084-4c8c-9c8d-c13c8d2e6bcb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5b7d369-f084-4c8c-9c8d-c13c8d2e6bcb",
+			"uuid": "e5b7d369-f084-4c8c-9c8d-c13c8d2e6bcb",
+			"@type": "InhVakleergebied",
+			"prefix": "DG",
+			"title": "Digitale geletterdheid",
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b285b813-e182-46bd-ba41-bccc737e1350",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b285b813-e182-46bd-ba41-bccc737e1350",
+					"uuid": "b285b813-e182-46bd-ba41-bccc737e1350",
+					"title": "Digitale Geletterdheid",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+					"title": "fase 4",
+					"prefix": "1206",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0d10e2d9-c069-4bab-907e-03050936984e",
+					"title": "fase 5",
+					"prefix": "1208",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d10e2d9-c069-4bab-907e-03050936984e"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a73345fd-375c-4776-937d-76ada71cb148",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a73345fd-375c-4776-937d-76ada71cb148",
+			"uuid": "a73345fd-375c-4776-937d-76ada71cb148",
+			"@type": "InhVakleergebied",
+			"prefix": "KO",
+			"title": "Kunstzinnige oriëntatie",
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60133458-f6b1-4a6e-8e62-ea5ff0b8e9b7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60133458-f6b1-4a6e-8e62-ea5ff0b8e9b7",
+					"uuid": "60133458-f6b1-4a6e-8e62-ea5ff0b8e9b7",
+					"title": "Kunstzinnige oriëntatie",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/87a8ff37-6f8f-4957-832e-cb982bcd3552",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/87a8ff37-6f8f-4957-832e-cb982bcd3552",
+			"uuid": "87a8ff37-6f8f-4957-832e-cb982bcd3552",
+			"@type": "InhVakleergebied",
+			"prefix": "NE",
+			"title": "Nederlands",
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e41b8c50-d002-4a9f-be8b-9b5da0008656",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e41b8c50-d002-4a9f-be8b-9b5da0008656",
+					"uuid": "e41b8c50-d002-4a9f-be8b-9b5da0008656",
+					"title": "Nederlands",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+			"uuid": "6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+			"@type": "InhVakleergebied",
+			"prefix": "OJW",
+			"title": "Orientatie op jezelf en de wereld",
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/682218a8-0e89-4d4c-938c-36629a474e7c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/682218a8-0e89-4d4c-938c-36629a474e7c",
+					"uuid": "682218a8-0e89-4d4c-938c-36629a474e7c",
+					"title": "Oriëntatie op jezelf en de wereld",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f6b7b810-1144-4ec5-bd85-d34285ce7625",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f6b7b810-1144-4ec5-bd85-d34285ce7625",
+			"uuid": "f6b7b810-1144-4ec5-bd85-d34285ce7625",
+			"@type": "InhVakleergebied",
+			"prefix": "RW",
+			"title": "Rekenen en wiskunde",
+			"Vakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+					"uuid": "fdd97fff-f5e5-4b82-b937-9ab302666c50",
+					"title": "Rekenen en wiskunde",
+					"deprecated": null
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

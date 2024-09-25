@@ -1,0 +1,296 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0c0e82b2-510b-4d20-bba4-bdaf90815747",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c0e82b2-510b-4d20-bba4-bdaf90815747",
+	"uuid": "0c0e82b2-510b-4d20-bba4-bdaf90815747",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+	"@type": "InhCluster",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/733f6f7f-6501-455e-88c5-e3c56857572f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/733f6f7f-6501-455e-88c5-e3c56857572f",
+			"uuid": "733f6f7f-6501-455e-88c5-e3c56857572f",
+			"prefix": "bo/bomtempo/01/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/48c3fb4c-c683-42e8-9cfc-10caf9d5615d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48c3fb4c-c683-42e8-9cfc-10caf9d5615d",
+					"uuid": "48c3fb4c-c683-42e8-9cfc-10caf9d5615d",
+					"title": "bewegen zoals stappen, huppelen, klappen, actuele muziek en kinderdansmuziek",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "BO.1.040",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"uuid": "8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"title": "De leerlingen leren op een verantwoorde manier deelnemen aan de omringende bewegingscultuur en leren de hoofdbeginselen van de belangrijkste bewegings- en spelvormen ervaren en uitvoeren.",
+					"description": "Leren deelnemen",
+					"kerndoelLabel": "Leren deelnemen",
+					"prefix": "PO Kerndoel 57"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"uuid": "4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"title": "De leerlingen leren samen met anderen op een respectvolle manier aan bewegingsactiviteiten deelnemen, afspraken maken over het reguleren daarvan, de eigen bewegingsmogelijkheden inschatten en daarmee bij activiteiten rekening houden.",
+					"description": "Leren samenwerken",
+					"kerndoelLabel": "Leren samenwerken",
+					"prefix": "PO Kerndoel 58"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1204cde3-f7eb-4f37-bd69-7c0a4bd1ff98",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1204cde3-f7eb-4f37-bd69-7c0a4bd1ff98",
+			"uuid": "1204cde3-f7eb-4f37-bd69-7c0a4bd1ff98",
+			"prefix": "bo/bomtempo/01/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1be45bd8-fd0a-4bfb-bc66-f63dba9b631b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1be45bd8-fd0a-4bfb-bc66-f63dba9b631b",
+					"uuid": "1be45bd8-fd0a-4bfb-bc66-f63dba9b631b",
+					"title": "huppelen, gaan in galop op actuele muziek",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "BO.2.060",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"uuid": "8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"title": "De leerlingen leren op een verantwoorde manier deelnemen aan de omringende bewegingscultuur en leren de hoofdbeginselen van de belangrijkste bewegings- en spelvormen ervaren en uitvoeren.",
+					"description": "Leren deelnemen",
+					"kerndoelLabel": "Leren deelnemen",
+					"prefix": "PO Kerndoel 57"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"uuid": "4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"title": "De leerlingen leren samen met anderen op een respectvolle manier aan bewegingsactiviteiten deelnemen, afspraken maken over het reguleren daarvan, de eigen bewegingsmogelijkheden inschatten en daarmee bij activiteiten rekening houden.",
+					"description": "Leren samenwerken",
+					"kerndoelLabel": "Leren samenwerken",
+					"prefix": "PO Kerndoel 58"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5e0ec1bd-79f7-4199-a156-867457f2cd9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5e0ec1bd-79f7-4199-a156-867457f2cd9e",
+			"uuid": "5e0ec1bd-79f7-4199-a156-867457f2cd9e",
+			"prefix": "bo/bomtempo/02/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6c628410-f060-4873-ac2a-4515f1022f1e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c628410-f060-4873-ac2a-4515f1022f1e",
+					"uuid": "6c628410-f060-4873-ac2a-4515f1022f1e",
+					"title": "individueel in pas lopen op geslagen ritme",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "BO.2.061",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"uuid": "8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"title": "De leerlingen leren op een verantwoorde manier deelnemen aan de omringende bewegingscultuur en leren de hoofdbeginselen van de belangrijkste bewegings- en spelvormen ervaren en uitvoeren.",
+					"description": "Leren deelnemen",
+					"kerndoelLabel": "Leren deelnemen",
+					"prefix": "PO Kerndoel 57"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"uuid": "4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"title": "De leerlingen leren samen met anderen op een respectvolle manier aan bewegingsactiviteiten deelnemen, afspraken maken over het reguleren daarvan, de eigen bewegingsmogelijkheden inschatten en daarmee bij activiteiten rekening houden.",
+					"description": "Leren samenwerken",
+					"kerndoelLabel": "Leren samenwerken",
+					"prefix": "PO Kerndoel 58"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7abd2fc8-c41d-4db4-9204-9b1583e0e1e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7abd2fc8-c41d-4db4-9204-9b1583e0e1e0",
+			"uuid": "7abd2fc8-c41d-4db4-9204-9b1583e0e1e0",
+			"prefix": "bo/bomtempo/01/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6704b138-c852-4242-8aee-643fdfba3912",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6704b138-c852-4242-8aee-643fdfba3912",
+					"uuid": "6704b138-c852-4242-8aee-643fdfba3912",
+					"title": "gaan in looppas in op actuele muziek",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "BO.3.062",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"uuid": "8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"title": "De leerlingen leren op een verantwoorde manier deelnemen aan de omringende bewegingscultuur en leren de hoofdbeginselen van de belangrijkste bewegings- en spelvormen ervaren en uitvoeren.",
+					"description": "Leren deelnemen",
+					"kerndoelLabel": "Leren deelnemen",
+					"prefix": "PO Kerndoel 57"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"uuid": "4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"title": "De leerlingen leren samen met anderen op een respectvolle manier aan bewegingsactiviteiten deelnemen, afspraken maken over het reguleren daarvan, de eigen bewegingsmogelijkheden inschatten en daarmee bij activiteiten rekening houden.",
+					"description": "Leren samenwerken",
+					"kerndoelLabel": "Leren samenwerken",
+					"prefix": "PO Kerndoel 58"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f564c88f-0d9c-4369-8a94-5ec390b1d262",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f564c88f-0d9c-4369-8a94-5ec390b1d262",
+			"uuid": "f564c88f-0d9c-4369-8a94-5ec390b1d262",
+			"prefix": "bo/bomtempo/02/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/267776be-c3e4-45cd-8015-dcb3985e0732",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/267776be-c3e4-45cd-8015-dcb3985e0732",
+					"uuid": "267776be-c3e4-45cd-8015-dcb3985e0732",
+					"title": "individueel springen en schuiven op actuele muziek",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "BO.3.063",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"uuid": "8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+					"title": "De leerlingen leren op een verantwoorde manier deelnemen aan de omringende bewegingscultuur en leren de hoofdbeginselen van de belangrijkste bewegings- en spelvormen ervaren en uitvoeren.",
+					"description": "Leren deelnemen",
+					"kerndoelLabel": "Leren deelnemen",
+					"prefix": "PO Kerndoel 57"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"uuid": "4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+					"title": "De leerlingen leren samen met anderen op een respectvolle manier aan bewegingsactiviteiten deelnemen, afspraken maken over het reguleren daarvan, de eigen bewegingsmogelijkheden inschatten en daarmee bij activiteiten rekening houden.",
+					"description": "Leren samenwerken",
+					"kerndoelLabel": "Leren samenwerken",
+					"prefix": "PO Kerndoel 58"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"title": "fase 1",
+			"prefix": "1200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0a3d23df-1758-439b-b219-cd2854cc639b/inh_luster/0c0e82b2-510b-4d20-bba4-bdaf90815747"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"title": "fase 2",
+			"prefix": "1202-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5edad2fa-2cf0-4701-93d9-97edbe06ac02/inh_luster/0c0e82b2-510b-4d20-bba4-bdaf90815747"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"title": "fase 3",
+			"prefix": "1204-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fc0fa444-07f6-4744-b7a7-6f9aadeeff42/inh_luster/0c0e82b2-510b-4d20-bba4-bdaf90815747"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "bo/bomtempo",
+	"title": "Bewegen op muziek - Bewegen n.a.v. het tempo van de muziek",
+	"InhSubcluster": []
+}

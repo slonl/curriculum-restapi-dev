@@ -1,0 +1,25 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/1347affc-fed6-4529-8ce9-0033044d9198",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1347affc-fed6-4529-8ce9-0033044d9198",
+	"uuid": "1347affc-fed6-4529-8ce9-0033044d9198",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusVakbegrip",
+	"ExamenprogrammaEindterm": [],
+	"Syllabus": [],
+	"Tag": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5/syllabusvakbegrip/1347affc-fed6-4529-8ce9-0033044d9198"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "'moderne' wapens en soort oorlogvoering",
+	"ce_se": "CE"
+}

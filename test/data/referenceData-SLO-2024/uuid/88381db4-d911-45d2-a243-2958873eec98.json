@@ -1,0 +1,60 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/88381db4-d911-45d2-a243-2958873eec98",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/88381db4-d911-45d2-a243-2958873eec98",
+	"uuid": "88381db4-d911-45d2-a243-2958873eec98",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+	"@type": "InhInhoudslijn",
+	"Doelniveau": [],
+	"InhCluster": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e9a12ef2-679e-4f9a-8c1e-36ddd2ddeeb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9a12ef2-679e-4f9a-8c1e-36ddd2ddeeb6",
+			"uuid": "e9a12ef2-679e-4f9a-8c1e-36ddd2ddeeb6",
+			"prefix": "ojw/ja/1",
+			"title": "Gevoelens, wensen en opvattingen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b04b52b-896a-4db2-8c8e-26bd87d600d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b04b52b-896a-4db2-8c8e-26bd87d600d0",
+			"uuid": "4b04b52b-896a-4db2-8c8e-26bd87d600d0",
+			"prefix": "ojw/ja/2",
+			"title": "Relaties en seksualiteit",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89faf7d5-ab13-4987-bff0-0b717129fa34",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89faf7d5-ab13-4987-bff0-0b717129fa34",
+			"uuid": "89faf7d5-ab13-4987-bff0-0b717129fa34",
+			"prefix": "ojw/ja/3",
+			"title": "Samen leven en samenwerken",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"title": "fase 1",
+			"prefix": "1200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0a3d23df-1758-439b-b219-cd2854cc639b/inh_nhoudslijn/88381db4-d911-45d2-a243-2958873eec98"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"title": "fase 2",
+			"prefix": "1202-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5edad2fa-2cf0-4701-93d9-97edbe06ac02/inh_nhoudslijn/88381db4-d911-45d2-a243-2958873eec98"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"title": "fase 3",
+			"prefix": "1204-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fc0fa444-07f6-4744-b7a7-6f9aadeeff42/inh_nhoudslijn/88381db4-d911-45d2-a243-2958873eec98"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "OJW/ja",
+	"title": "Inhoudslijn Jezelf en de ander"
+}

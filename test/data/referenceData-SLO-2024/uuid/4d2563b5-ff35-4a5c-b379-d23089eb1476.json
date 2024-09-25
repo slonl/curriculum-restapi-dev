@@ -1,0 +1,52 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/4d2563b5-ff35-4a5c-b379-d23089eb1476",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d2563b5-ff35-4a5c-b379-d23089eb1476",
+	"uuid": "4d2563b5-ff35-4a5c-b379-d23089eb1476",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "LdkVakbegrip",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3758484c-9a2c-4589-b60a-2dbe37529d2c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3758484c-9a2c-4589-b60a-2dbe37529d2c",
+			"uuid": "3758484c-9a2c-4589-b60a-2dbe37529d2c",
+			"prefix": "gs/9/10/5/bbvmbobb",
+			"ce_se": "CE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/72a5f166-b1b0-4329-953c-02057518f416",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72a5f166-b1b0-4329-953c-02057518f416",
+					"uuid": "72a5f166-b1b0-4329-953c-02057518f416",
+					"title": "Je beschrijft de kernmerken van de Tweede Wereldoorlog",
+					"description": null,
+					"bron": "Einddoel",
+					"vakbegrippen": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Kerndoel": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4d2563b5-ff35-4a5c-b379-d23089eb1476",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d2563b5-ff35-4a5c-b379-d23089eb1476",
+					"uuid": "4d2563b5-ff35-4a5c-b379-d23089eb1476",
+					"title": "'moderne’ wapens, veel slachtoffers, totale oorlog, bombardementen op steden, propaganda, censuur, massamoorden, Holocaust, gaskamers",
+					"ce_se": "CE"
+				}
+			]
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d066b6a4-2204-4ed8-aeed-18d1bb13c034",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d066b6a4-2204-4ed8-aeed-18d1bb13c034",
+			"uuid": "d066b6a4-2204-4ed8-aeed-18d1bb13c034",
+			"title": "'moderne’ wapens, veel slachtoffers, totale oorlog, bombardementen op steden, propaganda, censuur, massamoorden, Holocaust, gaskamers"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"title": "'moderne’ wapens, veel slachtoffers, totale oorlog, bombardementen op steden, propaganda, censuur, massamoorden, Holocaust, gaskamers",
+	"ce_se": "CE"
+}

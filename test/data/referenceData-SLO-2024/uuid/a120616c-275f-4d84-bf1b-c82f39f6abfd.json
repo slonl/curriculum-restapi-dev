@@ -1,0 +1,119 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/a120616c-275f-4d84-bf1b-c82f39f6abfd",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a120616c-275f-4d84-bf1b-c82f39f6abfd",
+	"uuid": "a120616c-275f-4d84-bf1b-c82f39f6abfd",
+	"@type": "LdkVakkern",
+	"LdkVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e31668a-c447-41bf-8b51-a22b9f7e4841",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e31668a-c447-41bf-8b51-a22b9f7e4841",
+			"uuid": "4e31668a-c447-41bf-8b51-a22b9f7e4841",
+			"title": "Wiskunde A",
+			"deprecated": null
+		}
+	],
+	"LdkVaksubkern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2bbf5b85-9bb4-4056-bf60-51f6648294b7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2bbf5b85-9bb4-4056-bf60-51f6648294b7",
+			"uuid": "2bbf5b85-9bb4-4056-bf60-51f6648294b7",
+			"title": "Analyse",
+			"prefix": "wisA/5/1",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0b8d8fd8-62f6-41b9-9fd2-db3bd249dfb5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0b8d8fd8-62f6-41b9-9fd2-db3bd249dfb5",
+			"uuid": "0b8d8fd8-62f6-41b9-9fd2-db3bd249dfb5",
+			"title": "Veranderingen",
+			"prefix": "wisA/5/2",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4c4eaab-7b6a-4902-9cea-a473f12aa2fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4c4eaab-7b6a-4902-9cea-a473f12aa2fc",
+			"uuid": "e4c4eaab-7b6a-4902-9cea-a473f12aa2fc",
+			"title": "Afgeleide functies",
+			"prefix": "wisA/5/3",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91e18968-1f5f-4455-a1d8-835e38dd5c78",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91e18968-1f5f-4455-a1d8-835e38dd5c78",
+			"uuid": "91e18968-1f5f-4455-a1d8-835e38dd5c78",
+			"title": "Differentiëren",
+			"prefix": "wisA/5/4",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b134e41c-e40e-4fe7-8a96-9633593c8738",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b134e41c-e40e-4fe7-8a96-9633593c8738",
+			"uuid": "b134e41c-e40e-4fe7-8a96-9633593c8738",
+			"title": "Optimaliseren",
+			"prefix": "wisA/5/5",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		}
+	],
+	"Doelniveau": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c3e80b4b-cac9-4063-9ece-b05c0941c7cf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c3e80b4b-cac9-4063-9ece-b05c0941c7cf",
+			"uuid": "c3e80b4b-cac9-4063-9ece-b05c0941c7cf",
+			"title": "Analyse"
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb/ldk_vakkern/a120616c-275f-4d84-bf1b-c82f39f6abfd"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Analyse",
+	"prefix": "wisA/5"
+}

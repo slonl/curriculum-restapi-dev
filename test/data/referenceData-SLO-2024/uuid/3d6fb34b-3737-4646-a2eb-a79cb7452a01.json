@@ -1,0 +1,57 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+	"uuid": "3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Doel",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8a198029-0ed7-497a-88d2-fc178b904428",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a198029-0ed7-497a-88d2-fc178b904428",
+			"uuid": "8a198029-0ed7-497a-88d2-fc178b904428",
+			"prefix": "RKR_3.B.3a-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+					"uuid": "3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+					"title": "(lengte)maten en geld in verband brengen met decimale getallen: • 1,65 m is 1 meter en 65 centimeter; • € 1,65 is 1 euro en 65 eurocent",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [],
+			"LpibVakkern": [],
+			"LpibVaksubkern": [],
+			"LpibVakinhoud": [],
+			"LdkVakleergebied": [],
+			"LdkVakkern": [],
+			"LdkVaksubkern": [],
+			"LdkVakinhoud": []
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "(lengte)maten en geld in verband brengen met decimale getallen: • 1,65 m is 1 meter en 65 centimeter; • € 1,65 is 1 euro en 65 eurocent",
+	"description": null,
+	"bron": "Tussendoel",
+	"vakbegrippen": null
+}

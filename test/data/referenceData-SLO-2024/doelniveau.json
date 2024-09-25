@@ -1,0 +1,4542 @@
+{
+	"count": 45013,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2bfcfb50-aaf5-45d7-b7f9-f91cb5c7551d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2bfcfb50-aaf5-45d7-b7f9-f91cb5c7551d",
+			"uuid": "2bfcfb50-aaf5-45d7-b7f9-f91cb5c7551d",
+			"@type": "DoelNiveau",
+			"prefix": "be/1/bbhavo",
+			"ce_se": "CE;SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60fa830e-1b1a-477b-b885-883c8dee9bac",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60fa830e-1b1a-477b-b885-883c8dee9bac",
+					"uuid": "60fa830e-1b1a-477b-b885-883c8dee9bac",
+					"title": "Hoe zorg je dat je als individu/gezin je financiën op orde hebt",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9b7d4dc-3354-4798-86c4-dc97327ed923",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9b7d4dc-3354-4798-86c4-dc97327ed923",
+			"uuid": "a9b7d4dc-3354-4798-86c4-dc97327ed923",
+			"@type": "DoelNiveau",
+			"prefix": "be/1/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9d1763be-27dc-42d8-b21e-f708f2fcb6f3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9d1763be-27dc-42d8-b21e-f708f2fcb6f3",
+					"uuid": "9d1763be-27dc-42d8-b21e-f708f2fcb6f3",
+					"title": "Hoe zorg je dat je als individu/gezin je financiën op orde hebt",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b88f558f-bea0-452b-927e-f9a642e47810",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b88f558f-bea0-452b-927e-f9a642e47810",
+			"uuid": "b88f558f-bea0-452b-927e-f9a642e47810",
+			"@type": "DoelNiveau",
+			"prefix": "be/2/bbhavo",
+			"ce_se": "CE;SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/842abc81-52cb-456c-b2d5-dc2c71cc7867",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/842abc81-52cb-456c-b2d5-dc2c71cc7867",
+					"uuid": "842abc81-52cb-456c-b2d5-dc2c71cc7867",
+					"title": "Hoe zet je planmatig een onderneming op",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/38653c61-90dc-4f6f-9566-46b389439a0a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38653c61-90dc-4f6f-9566-46b389439a0a",
+			"uuid": "38653c61-90dc-4f6f-9566-46b389439a0a",
+			"@type": "DoelNiveau",
+			"prefix": "be/2/bbhavo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b905c91a-2a41-42d3-a7b5-e09401b33253",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b905c91a-2a41-42d3-a7b5-e09401b33253",
+					"uuid": "b905c91a-2a41-42d3-a7b5-e09401b33253",
+					"title": "Hoe kom je als individu tot een onderneming",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b94522e-6c68-40e0-98d3-7e558f0ca247",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b94522e-6c68-40e0-98d3-7e558f0ca247",
+			"uuid": "3b94522e-6c68-40e0-98d3-7e558f0ca247",
+			"@type": "DoelNiveau",
+			"prefix": "be/2/bbhavo",
+			"ce_se": "CE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bbcfacfd-357d-43ec-b8dd-b109021a1c26",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bbcfacfd-357d-43ec-b8dd-b109021a1c26",
+					"uuid": "bbcfacfd-357d-43ec-b8dd-b109021a1c26",
+					"title": "Hoe zet je planmatig een onderneming op",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c857be98-798a-4fb7-b4e8-182a00f5a7b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c857be98-798a-4fb7-b4e8-182a00f5a7b0",
+			"uuid": "c857be98-798a-4fb7-b4e8-182a00f5a7b0",
+			"@type": "DoelNiveau",
+			"prefix": "be/2/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/aa41db42-5416-4bc9-80b9-27217f7b99aa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa41db42-5416-4bc9-80b9-27217f7b99aa",
+					"uuid": "aa41db42-5416-4bc9-80b9-27217f7b99aa",
+					"title": "Hoe zet je planmatig een onderneming op",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/84e1560a-0cb2-4dda-ac63-fd901bde94d3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/84e1560a-0cb2-4dda-ac63-fd901bde94d3",
+			"uuid": "84e1560a-0cb2-4dda-ac63-fd901bde94d3",
+			"@type": "DoelNiveau",
+			"prefix": "be/2/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/561739e8-dcc5-4b39-80f6-efa44a37ec3b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/561739e8-dcc5-4b39-80f6-efa44a37ec3b",
+					"uuid": "561739e8-dcc5-4b39-80f6-efa44a37ec3b",
+					"title": "Hoe kom je als individu tot een onderneming",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a7e6b705-46e9-4d25-b736-005c2fcc3557",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a7e6b705-46e9-4d25-b736-005c2fcc3557",
+			"uuid": "a7e6b705-46e9-4d25-b736-005c2fcc3557",
+			"@type": "DoelNiveau",
+			"prefix": "be/2/bbvwo",
+			"ce_se": "CE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3c35f711-0bf7-464b-9381-f197ad5b27d3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c35f711-0bf7-464b-9381-f197ad5b27d3",
+					"uuid": "3c35f711-0bf7-464b-9381-f197ad5b27d3",
+					"title": "Hoe zet je planmatig een onderneming op",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/03f3cb9e-ef51-4a6e-98f8-7c4db2433186",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03f3cb9e-ef51-4a6e-98f8-7c4db2433186",
+			"uuid": "03f3cb9e-ef51-4a6e-98f8-7c4db2433186",
+			"@type": "DoelNiveau",
+			"prefix": "be/2/1/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/434d5a6c-71db-41ff-82e3-e2edf97bc3b6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/434d5a6c-71db-41ff-82e3-e2edf97bc3b6",
+					"uuid": "434d5a6c-71db-41ff-82e3-e2edf97bc3b6",
+					"title": "De kandidaat kan het proces voor en rond de opdrichting van een eenmanszaak beschrijven en in de rol van ondernemer toepassen en analyseren",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7619fc0d-19b7-4a55-8d58-021fedbb103e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7619fc0d-19b7-4a55-8d58-021fedbb103e",
+			"uuid": "7619fc0d-19b7-4a55-8d58-021fedbb103e",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbhavo",
+			"ce_se": "CE;SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c62e0b40-8ea7-46c7-90c8-99a1a5a898a1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c62e0b40-8ea7-46c7-90c8-99a1a5a898a1",
+					"uuid": "c62e0b40-8ea7-46c7-90c8-99a1a5a898a1",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f75ed877-7ce6-4d50-88fa-443d11fbab39",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f75ed877-7ce6-4d50-88fa-443d11fbab39",
+			"uuid": "f75ed877-7ce6-4d50-88fa-443d11fbab39",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c8b45b42-da3d-4344-9943-c926ae967afd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8b45b42-da3d-4344-9943-c926ae967afd",
+					"uuid": "c8b45b42-da3d-4344-9943-c926ae967afd",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dec124fb-777b-4e24-8750-10dc1ee9e8f5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dec124fb-777b-4e24-8750-10dc1ee9e8f5",
+			"uuid": "dec124fb-777b-4e24-8750-10dc1ee9e8f5",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9ef6d1e1-fc6b-462e-b720-cefd0f4c270e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ef6d1e1-fc6b-462e-b720-cefd0f4c270e",
+					"uuid": "9ef6d1e1-fc6b-462e-b720-cefd0f4c270e",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2b0e04bd-0d2c-4e36-991f-9f6e635fa130",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2b0e04bd-0d2c-4e36-991f-9f6e635fa130",
+			"uuid": "2b0e04bd-0d2c-4e36-991f-9f6e635fa130",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbhavo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9087f987-03bc-4900-86c5-d6af5a9a9eae",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9087f987-03bc-4900-86c5-d6af5a9a9eae",
+					"uuid": "9087f987-03bc-4900-86c5-d6af5a9a9eae",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern) = dit een leerdoel",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45e06436-8694-4ed6-a529-16ea14f96857",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45e06436-8694-4ed6-a529-16ea14f96857",
+			"uuid": "45e06436-8694-4ed6-a529-16ea14f96857",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbhavo",
+			"ce_se": "CE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/796a994c-db59-4474-8370-2ef5f182b970",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/796a994c-db59-4474-8370-2ef5f182b970",
+					"uuid": "796a994c-db59-4474-8370-2ef5f182b970",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa92f86a-ef66-43a7-b297-c75f50564403",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa92f86a-ef66-43a7-b297-c75f50564403",
+			"uuid": "aa92f86a-ef66-43a7-b297-c75f50564403",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/823e6c45-512b-4aa1-a33c-e599388a131d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/823e6c45-512b-4aa1-a33c-e599388a131d",
+					"uuid": "823e6c45-512b-4aa1-a33c-e599388a131d",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8946c69f-618c-47b2-a277-6447b5d9d082",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8946c69f-618c-47b2-a277-6447b5d9d082",
+			"uuid": "8946c69f-618c-47b2-a277-6447b5d9d082",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9bda2728-092a-4ef9-832e-ad20aedea424",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9bda2728-092a-4ef9-832e-ad20aedea424",
+					"uuid": "9bda2728-092a-4ef9-832e-ad20aedea424",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/23460969-48f2-4140-8e15-dfa98c71ef59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23460969-48f2-4140-8e15-dfa98c71ef59",
+			"uuid": "23460969-48f2-4140-8e15-dfa98c71ef59",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1890949f-e15b-4416-98af-8342d9465d3e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1890949f-e15b-4416-98af-8342d9465d3e",
+					"uuid": "1890949f-e15b-4416-98af-8342d9465d3e",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53436a42-8cf7-468b-b874-b47ef38d8c2f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53436a42-8cf7-468b-b874-b47ef38d8c2f",
+			"uuid": "53436a42-8cf7-468b-b874-b47ef38d8c2f",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2f4064d9-356a-4cfe-866e-620eed255937",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f4064d9-356a-4cfe-866e-620eed255937",
+					"uuid": "2f4064d9-356a-4cfe-866e-620eed255937",
+					"title": "Hoe functioneren en opereren ondernemingen en andere organisaties (intern en extern)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bd2683ef-d625-4fee-82b7-315f51bdbf82",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bd2683ef-d625-4fee-82b7-315f51bdbf82",
+			"uuid": "bd2683ef-d625-4fee-82b7-315f51bdbf82",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/27e15b65-4a2d-43d6-8217-46ddb5093da3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/27e15b65-4a2d-43d6-8217-46ddb5093da3",
+					"uuid": "27e15b65-4a2d-43d6-8217-46ddb5093da3",
+					"title": "De interne organisatie (inclusief de taken van het management en de stijlen van leiderschap) van een organisatie beschrijven en deze relateren aan de doelstelling en aard van de organisatie",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7358256-b19f-448a-a13b-8b5d18e1d82b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7358256-b19f-448a-a13b-8b5d18e1d82b",
+			"uuid": "c7358256-b19f-448a-a13b-8b5d18e1d82b",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/1/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e8a274cf-b9ce-46e1-83e2-c967c103e636",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e8a274cf-b9ce-46e1-83e2-c967c103e636",
+					"uuid": "e8a274cf-b9ce-46e1-83e2-c967c103e636",
+					"title": "Je omschrijft wat onder het begrip organisatie wordt verstaan",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/991f63af-8ea6-4919-9716-ea2a70097556",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/991f63af-8ea6-4919-9716-ea2a70097556",
+					"uuid": "991f63af-8ea6-4919-9716-ea2a70097556",
+					"title": "organisatie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e948482-191a-4dc5-9a3a-459157112bb5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e948482-191a-4dc5-9a3a-459157112bb5",
+			"uuid": "9e948482-191a-4dc5-9a3a-459157112bb5",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/2/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cfc69750-00db-48be-b01f-7505f30ce4c1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfc69750-00db-48be-b01f-7505f30ce4c1",
+					"uuid": "cfc69750-00db-48be-b01f-7505f30ce4c1",
+					"title": "Je beschrijft het begrip organisatie met behulp van de missie/visie/doelstellingen (de aard van de organisatie).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b0424a37-552a-4aa8-a448-aba9392e3614",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b0424a37-552a-4aa8-a448-aba9392e3614",
+					"uuid": "b0424a37-552a-4aa8-a448-aba9392e3614",
+					"title": "missie, visie, doelstellingen",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa75c545-8a69-4130-8002-038360020c5a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa75c545-8a69-4130-8002-038360020c5a",
+			"uuid": "aa75c545-8a69-4130-8002-038360020c5a",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/3/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/72af1bd0-7b09-4d60-8516-45978ca3d8cd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72af1bd0-7b09-4d60-8516-45978ca3d8cd",
+					"uuid": "72af1bd0-7b09-4d60-8516-45978ca3d8cd",
+					"title": "Je benoemt verschillende organisatietypen (zoals organisatievormen als lijn-, lijnstaforganisatie, projectorganisatie, matrixorganisatie).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df9154f5-8001-4a8a-bf41-eea621a894db",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df9154f5-8001-4a8a-bf41-eea621a894db",
+			"uuid": "df9154f5-8001-4a8a-bf41-eea621a894db",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/4/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6cf26435-096c-4dea-9845-017aec32d282",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cf26435-096c-4dea-9845-017aec32d282",
+					"uuid": "6cf26435-096c-4dea-9845-017aec32d282",
+					"title": "Je onderscheidt verschillende bedrijfsprocessen (o.a. primaire, secundaire en bestuurlijke processen).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c6ca8113-19e0-4205-9d1e-6493d324f85f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c6ca8113-19e0-4205-9d1e-6493d324f85f",
+					"uuid": "c6ca8113-19e0-4205-9d1e-6493d324f85f",
+					"title": "primaire processen, secundaire processen, bestuurlijke processen",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3d97e733-8e71-4649-b097-12b6911fb724",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3d97e733-8e71-4649-b097-12b6911fb724",
+			"uuid": "3d97e733-8e71-4649-b097-12b6911fb724",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/5/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/536a1ebe-6e60-4679-a6da-a9a1c2213a71",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/536a1ebe-6e60-4679-a6da-a9a1c2213a71",
+					"uuid": "536a1ebe-6e60-4679-a6da-a9a1c2213a71",
+					"title": "Beschrijft de arbeidsverdeling binnen een organisatie naar werkzaamheden en taken.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3a0b225d-5ecd-47cc-9d5d-6f8d7635ef6e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a0b225d-5ecd-47cc-9d5d-6f8d7635ef6e",
+					"uuid": "3a0b225d-5ecd-47cc-9d5d-6f8d7635ef6e",
+					"title": "arbeidsverdeling, delegeren, spanwijdte,",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f29dfcf5-3862-4e1a-99c9-452aad64de2b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f29dfcf5-3862-4e1a-99c9-452aad64de2b",
+			"uuid": "f29dfcf5-3862-4e1a-99c9-452aad64de2b",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/6/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/34c9a8f3-1008-41c0-b4cd-a2add1f71e85",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34c9a8f3-1008-41c0-b4cd-a2add1f71e85",
+					"uuid": "34c9a8f3-1008-41c0-b4cd-a2add1f71e85",
+					"title": "Je beschrijft op grond van verstrekte gegevens een organisatiestructuur (bijvoorbeeld met behulp van een organogram).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/63f0fb2c-d2d3-40dd-ab25-aebf1c81b6f8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63f0fb2c-d2d3-40dd-ab25-aebf1c81b6f8",
+					"uuid": "63f0fb2c-d2d3-40dd-ab25-aebf1c81b6f8",
+					"title": "organisatiestructuur, organogram",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5188d74b-ba7c-4865-bcc0-1c4111d3a5fb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5188d74b-ba7c-4865-bcc0-1c4111d3a5fb",
+			"uuid": "5188d74b-ba7c-4865-bcc0-1c4111d3a5fb",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/7/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6e759db2-db70-46ca-9de5-3dcf151672f7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e759db2-db70-46ca-9de5-3dcf151672f7",
+					"uuid": "6e759db2-db70-46ca-9de5-3dcf151672f7",
+					"title": "Je beschrijft de betekenis en de aard van de verticale en horizontale taakverdeling en coördinatiemechanismen binnen een organisatie.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9ea29139-1d6d-4d33-b390-f24a4db9bb83",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ea29139-1d6d-4d33-b390-f24a4db9bb83",
+					"uuid": "9ea29139-1d6d-4d33-b390-f24a4db9bb83",
+					"title": "horizontale taakverdeling, verticale taakverdeling",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7d3aa858-3f34-4fe5-8eb5-a553d34bd24b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7d3aa858-3f34-4fe5-8eb5-a553d34bd24b",
+			"uuid": "7d3aa858-3f34-4fe5-8eb5-a553d34bd24b",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/8/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4bee68bf-0f04-4f15-87ae-69ffea0793e2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4bee68bf-0f04-4f15-87ae-69ffea0793e2",
+					"uuid": "4bee68bf-0f04-4f15-87ae-69ffea0793e2",
+					"title": "Je beschrijft voordelen en nadelen van de belangrijkste organisatievormen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c93ae85e-1264-426e-bbe2-83b086f8ad1c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c93ae85e-1264-426e-bbe2-83b086f8ad1c",
+			"uuid": "c93ae85e-1264-426e-bbe2-83b086f8ad1c",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/9/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d8f1902-b6cc-4d2a-ac8a-17b787192422",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d8f1902-b6cc-4d2a-ac8a-17b787192422",
+					"uuid": "1d8f1902-b6cc-4d2a-ac8a-17b787192422",
+					"title": "Je beschrijft verschillende vormen van (tijdelijke) samenwerking tussen organisaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6ee46723-d3cb-4141-9638-20569600cb16",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6ee46723-d3cb-4141-9638-20569600cb16",
+					"uuid": "6ee46723-d3cb-4141-9638-20569600cb16",
+					"title": "tijdelijke samenwerking",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b546edaa-b9cb-42d9-9ecb-e554a6ae261a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b546edaa-b9cb-42d9-9ecb-e554a6ae261a",
+			"uuid": "b546edaa-b9cb-42d9-9ecb-e554a6ae261a",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/10/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cffb0223-35c1-4258-8a71-b53cc3fc443c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cffb0223-35c1-4258-8a71-b53cc3fc443c",
+					"uuid": "cffb0223-35c1-4258-8a71-b53cc3fc443c",
+					"title": "Je beschrijft de wisselwerking tussen de veranderende organisatiestructuur en hun veranderende omgeving beschrijven.\r\nMet aandacht voor: \r\n• de configuratietheorie van Mintzberg en ontwikkelingen in het structureren van organisaties;\r\n• (tijdelijke) samenwerkingsverbanden;\r\n• veranderende wet- en regelgeving op dit vlak.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/58e1dfc3-6257-472d-aab3-f8795d94d6c9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/58e1dfc3-6257-472d-aab3-f8795d94d6c9",
+					"uuid": "58e1dfc3-6257-472d-aab3-f8795d94d6c9",
+					"title": "configuratietheorie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/380bfd76-65bf-4610-935f-34ddb26ab419",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/380bfd76-65bf-4610-935f-34ddb26ab419",
+			"uuid": "380bfd76-65bf-4610-935f-34ddb26ab419",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/11/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2b10aace-aaed-41d1-a51e-29317883a60d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2b10aace-aaed-41d1-a51e-29317883a60d",
+					"uuid": "2b10aace-aaed-41d1-a51e-29317883a60d",
+					"title": "Je beschrijft hoe de organisatie identiteit aan de verschillende medewerkers kan verschaffen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1c718bf8-5d72-4430-8378-e5c756e0ea89",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c718bf8-5d72-4430-8378-e5c756e0ea89",
+			"uuid": "1c718bf8-5d72-4430-8378-e5c756e0ea89",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/12/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f1f88af-7ff6-4468-9480-374083cbae18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f1f88af-7ff6-4468-9480-374083cbae18",
+					"uuid": "0f1f88af-7ff6-4468-9480-374083cbae18",
+					"title": "Je beschrijft de werkzaamheden en de rollen van de manager.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d8449181-0d33-4aa7-ad3c-9a9d1f69019d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8449181-0d33-4aa7-ad3c-9a9d1f69019d",
+					"uuid": "d8449181-0d33-4aa7-ad3c-9a9d1f69019d",
+					"title": "managementtaken",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0b5679c-35d6-402f-b0a8-df627562254f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0b5679c-35d6-402f-b0a8-df627562254f",
+			"uuid": "a0b5679c-35d6-402f-b0a8-df627562254f",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/13/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cf4bba38-8477-420b-887f-b9aa3bfffb53",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf4bba38-8477-420b-887f-b9aa3bfffb53",
+					"uuid": "cf4bba38-8477-420b-887f-b9aa3bfffb53",
+					"title": "Je beschrijft en herkent de belangrijkste stijlen van leiderschap",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/463fb73a-1c12-4829-bf83-0db1a3990389",
+					"uuid": "463fb73a-1c12-4829-bf83-0db1a3990389",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/H/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5161d54b-d4b0-4b53-9e39-8e6ebbbdaf14",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5161d54b-d4b0-4b53-9e39-8e6ebbbdaf14",
+					"uuid": "5161d54b-d4b0-4b53-9e39-8e6ebbbdaf14",
+					"title": "leiderschapsstijlen, situationeel leiderschap",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e70baf36-9be9-4b40-bec6-7216bc4d75dc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e70baf36-9be9-4b40-bec6-7216bc4d75dc",
+			"uuid": "e70baf36-9be9-4b40-bec6-7216bc4d75dc",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/1/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/21df4443-ce3f-43b9-b2a4-6f5b57ef6b77",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21df4443-ce3f-43b9-b2a4-6f5b57ef6b77",
+					"uuid": "21df4443-ce3f-43b9-b2a4-6f5b57ef6b77",
+					"title": "Je omschrijft wat onder het begrip organisatie wordt verstaan",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eb9432d2-bb0a-4085-8a47-3e2e60ed53cc",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eb9432d2-bb0a-4085-8a47-3e2e60ed53cc",
+					"uuid": "eb9432d2-bb0a-4085-8a47-3e2e60ed53cc",
+					"title": "organisatie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b094523-ce5a-4265-b4db-91814e1065b2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b094523-ce5a-4265-b4db-91814e1065b2",
+			"uuid": "7b094523-ce5a-4265-b4db-91814e1065b2",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/2/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7a36ddde-09bd-4fa2-a635-9903ed07de67",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7a36ddde-09bd-4fa2-a635-9903ed07de67",
+					"uuid": "7a36ddde-09bd-4fa2-a635-9903ed07de67",
+					"title": "Je beschrijft het begrip organisatie met behulp van de missie/visie/doelstellingen (de aard van de organisatie).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c61c0292-2b79-4511-b998-c7dc2c4a3442",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c61c0292-2b79-4511-b998-c7dc2c4a3442",
+					"uuid": "c61c0292-2b79-4511-b998-c7dc2c4a3442",
+					"title": "missie, visie, doelstellingen",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bb1adbd9-fa05-4dd0-b56c-4f5c06628589",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bb1adbd9-fa05-4dd0-b56c-4f5c06628589",
+			"uuid": "bb1adbd9-fa05-4dd0-b56c-4f5c06628589",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/3/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bb9139e8-ffd2-4bbe-b03e-0bf6dd0487b8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bb9139e8-ffd2-4bbe-b03e-0bf6dd0487b8",
+					"uuid": "bb9139e8-ffd2-4bbe-b03e-0bf6dd0487b8",
+					"title": "Je benoemt verschillende organisatietypen (zoals organisatievormen als lijn-, lijnstaforganisatie, projectorganisatie, matrixorganisatie).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8bdde5f9-4aa3-4dd2-ac4b-34915bd13916",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8bdde5f9-4aa3-4dd2-ac4b-34915bd13916",
+					"uuid": "8bdde5f9-4aa3-4dd2-ac4b-34915bd13916",
+					"title": "organisatietypen, lijnorganisaties, lijnstaforganisaties, projectorganisatie, matrixorganisatie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3a55fde3-11b6-4559-8081-911085e997bf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a55fde3-11b6-4559-8081-911085e997bf",
+			"uuid": "3a55fde3-11b6-4559-8081-911085e997bf",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/4/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2ff137bd-8d74-4d76-ad38-2d51efe66d34",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ff137bd-8d74-4d76-ad38-2d51efe66d34",
+					"uuid": "2ff137bd-8d74-4d76-ad38-2d51efe66d34",
+					"title": "Je onderscheidt verschillende bedrijfsprocessen (o.a. primaire, secundaire en bestuurlijke processen).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0046f1a7-15da-47f1-aa1a-824adf90795e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0046f1a7-15da-47f1-aa1a-824adf90795e",
+					"uuid": "0046f1a7-15da-47f1-aa1a-824adf90795e",
+					"title": "primaire processen, secundaire processen, bestuurlijke processen",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/19b7176e-f3a5-4ccf-958a-4bf54a192d3d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/19b7176e-f3a5-4ccf-958a-4bf54a192d3d",
+			"uuid": "19b7176e-f3a5-4ccf-958a-4bf54a192d3d",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/5/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01743fc8-0b8a-437c-9dcd-1fb461a8a739",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01743fc8-0b8a-437c-9dcd-1fb461a8a739",
+					"uuid": "01743fc8-0b8a-437c-9dcd-1fb461a8a739",
+					"title": "Je beschrijft de arbeidsverdeling binnen een organisatie naar werkzaamheden en taken.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5228e315-6387-4016-be42-8f55361c2ce1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5228e315-6387-4016-be42-8f55361c2ce1",
+					"uuid": "5228e315-6387-4016-be42-8f55361c2ce1",
+					"title": "arbeidsverdeling, delegeren, spanwijdte",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86bed55b-6ea9-43b5-9819-c89c78b61e31",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86bed55b-6ea9-43b5-9819-c89c78b61e31",
+			"uuid": "86bed55b-6ea9-43b5-9819-c89c78b61e31",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/6/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a1d3ebac-fd9d-4f39-b855-b0989b96a960",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1d3ebac-fd9d-4f39-b855-b0989b96a960",
+					"uuid": "a1d3ebac-fd9d-4f39-b855-b0989b96a960",
+					"title": "Je beschrijft grondslagen voor taakspecialisatie aan de hand van deelbewerking (Adam Smith’s speldenmaker); vaktechnisch (loodgieter versus elektricien); Functioneel (verkoper, inkoper, controller, ontwerper); Product/doelgroep (kinderarts versus geriatrische arts); geografisch; distributiekanaal.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c7ed268b-c76c-48b6-9d46-524b3d0634f7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7ed268b-c76c-48b6-9d46-524b3d0634f7",
+					"uuid": "c7ed268b-c76c-48b6-9d46-524b3d0634f7",
+					"title": "grondslagen arbeidsspecialisatie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/21199227-9416-4c2a-8bda-9c91917be12e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21199227-9416-4c2a-8bda-9c91917be12e",
+			"uuid": "21199227-9416-4c2a-8bda-9c91917be12e",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/7/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/71b25539-3e06-4ea0-8633-1533e68b59b2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71b25539-3e06-4ea0-8633-1533e68b59b2",
+					"uuid": "71b25539-3e06-4ea0-8633-1533e68b59b2",
+					"title": "Je beschrijft op grond van verstrekte gegevens een organisatiestructuur (bijvoorbeeld met behulp van een organogram).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/adc944da-8f22-4446-a217-cb8f7c90e207",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/adc944da-8f22-4446-a217-cb8f7c90e207",
+					"uuid": "adc944da-8f22-4446-a217-cb8f7c90e207",
+					"title": "organisatiestructuur, organogram",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3e0e0f7-3632-4910-a80e-afea5cd5c6f0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3e0e0f7-3632-4910-a80e-afea5cd5c6f0",
+			"uuid": "a3e0e0f7-3632-4910-a80e-afea5cd5c6f0",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/8/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d02a2aa-f679-41df-ac70-8be4976c6ff9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d02a2aa-f679-41df-ac70-8be4976c6ff9",
+					"uuid": "1d02a2aa-f679-41df-ac70-8be4976c6ff9",
+					"title": "Je beschrijft de betekenis en de aard van de verticale en horizontale taakverdeling en coördinatiemechanismen binnen een organisatie.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cedaed99-0b67-4108-9cb2-7a079ad97383",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cedaed99-0b67-4108-9cb2-7a079ad97383",
+					"uuid": "cedaed99-0b67-4108-9cb2-7a079ad97383",
+					"title": "horizontale taakverdeling, verticale taakverdeling",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/79023a51-9e90-4651-8411-546da35d2664",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79023a51-9e90-4651-8411-546da35d2664",
+			"uuid": "79023a51-9e90-4651-8411-546da35d2664",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/9/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/22e47628-dfcc-4d94-a69e-0b4824ce4441",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22e47628-dfcc-4d94-a69e-0b4824ce4441",
+					"uuid": "22e47628-dfcc-4d94-a69e-0b4824ce4441",
+					"title": "Je beschrijft totstandkoming taakverdeling in de organisatie aan de hand van begrippen hiërarchische of opgelegde coördinatie (aanwijzingen van leidinggevenden, planning, budgets, structuren);",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3f3213a7-d575-42f9-9672-0b33042dbf6d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f3213a7-d575-42f9-9672-0b33042dbf6d",
+					"uuid": "3f3213a7-d575-42f9-9672-0b33042dbf6d",
+					"title": "opgelegde coördinatie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6312a8b7-2022-4524-8bc2-4b7b01b7c047",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6312a8b7-2022-4524-8bc2-4b7b01b7c047",
+			"uuid": "6312a8b7-2022-4524-8bc2-4b7b01b7c047",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/10/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/832a922a-71da-4e49-bac2-236dce3de93e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/832a922a-71da-4e49-bac2-236dce3de93e",
+					"uuid": "832a922a-71da-4e49-bac2-236dce3de93e",
+					"title": "Je beschrijft coördinatie in de organisatie aan de hand van zelfcoördinatie (directe horizontale communicatie tussen medewerkers, werkoverleg, teamwork, toegang tot gemeenschappelijke informatie, cultuur).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/80153d2e-5273-40d7-b4eb-b26b6ea83d4f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/80153d2e-5273-40d7-b4eb-b26b6ea83d4f",
+					"uuid": "80153d2e-5273-40d7-b4eb-b26b6ea83d4f",
+					"title": "zelf coördinatie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50029c14-b900-4c42-99b8-9b82f06f91df",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50029c14-b900-4c42-99b8-9b82f06f91df",
+			"uuid": "50029c14-b900-4c42-99b8-9b82f06f91df",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/11/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/343e1989-e4ce-40f3-9368-0a4a3b720fd0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/343e1989-e4ce-40f3-9368-0a4a3b720fd0",
+					"uuid": "343e1989-e4ce-40f3-9368-0a4a3b720fd0",
+					"title": "Je beschrijft de invloed van gedragswetenschappelijke aspecten, zoals psychologisch klimaat en organisatiecultuur, op de organisatie.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3c318df9-b28b-4d09-b701-9b701a61944f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c318df9-b28b-4d09-b701-9b701a61944f",
+					"uuid": "3c318df9-b28b-4d09-b701-9b701a61944f",
+					"title": "organisatiecultuur",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f78c4fef-f5ed-4b12-b12f-dc9e2af61693",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f78c4fef-f5ed-4b12-b12f-dc9e2af61693",
+			"uuid": "f78c4fef-f5ed-4b12-b12f-dc9e2af61693",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/12/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7f274304-e2cb-4621-8cb3-305d726d400b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f274304-e2cb-4621-8cb3-305d726d400b",
+					"uuid": "7f274304-e2cb-4621-8cb3-305d726d400b",
+					"title": "Je beschrijft voordelen en nadelen van de belangrijkste organisatievormen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/158c778a-04bc-431a-a5d0-258509e92f6c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/158c778a-04bc-431a-a5d0-258509e92f6c",
+			"uuid": "158c778a-04bc-431a-a5d0-258509e92f6c",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/13/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b41a5753-b49f-4cf4-b3f0-bc2e10d73b54",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b41a5753-b49f-4cf4-b3f0-bc2e10d73b54",
+					"uuid": "b41a5753-b49f-4cf4-b3f0-bc2e10d73b54",
+					"title": "Je beschrijft verschillende vormen van (tijdelijke) samenwerking tussen organisaties.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/88838333-a9c7-4457-a714-e26d8f72e6e3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/88838333-a9c7-4457-a714-e26d8f72e6e3",
+					"uuid": "88838333-a9c7-4457-a714-e26d8f72e6e3",
+					"title": "tijdelijke samenwerking",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ad9ab74-51c5-488a-8608-db7632115640",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ad9ab74-51c5-488a-8608-db7632115640",
+			"uuid": "3ad9ab74-51c5-488a-8608-db7632115640",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/14/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2581b1f9-5431-4fde-a60c-0455e3a3c41f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2581b1f9-5431-4fde-a60c-0455e3a3c41f",
+					"uuid": "2581b1f9-5431-4fde-a60c-0455e3a3c41f",
+					"title": "Je beschrijft en legt uit waarom publiek-private samenwerking (tijdelijk) tot stand komt.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1560e876-ee3c-4a63-a5fe-8ff9e2fcb30e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1560e876-ee3c-4a63-a5fe-8ff9e2fcb30e",
+					"uuid": "1560e876-ee3c-4a63-a5fe-8ff9e2fcb30e",
+					"title": "publiek-private samenwerking",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8fb150a5-c9d6-4dce-aa25-e07208b4b543",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8fb150a5-c9d6-4dce-aa25-e07208b4b543",
+			"uuid": "8fb150a5-c9d6-4dce-aa25-e07208b4b543",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/15/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8ac4389-3f3a-49f9-a3be-7c1036a091b7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8ac4389-3f3a-49f9-a3be-7c1036a091b7",
+					"uuid": "b8ac4389-3f3a-49f9-a3be-7c1036a091b7",
+					"title": "Je beschrijft en legt uit het belang van netwerkafspraken in kader van circulaire economie of/en vendor rating.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c28c0dfa-be8e-4d15-a85a-d880be58130e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c28c0dfa-be8e-4d15-a85a-d880be58130e",
+					"uuid": "c28c0dfa-be8e-4d15-a85a-d880be58130e",
+					"title": "netwerkafspraken, circulaire economie, vendor rating",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f109991f-a79b-4ee0-ad47-02cdc2e9a880",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f109991f-a79b-4ee0-ad47-02cdc2e9a880",
+			"uuid": "f109991f-a79b-4ee0-ad47-02cdc2e9a880",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/16/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/40a77302-4940-4393-b3a2-ba33be0a5186",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/40a77302-4940-4393-b3a2-ba33be0a5186",
+					"uuid": "40a77302-4940-4393-b3a2-ba33be0a5186",
+					"title": "Je beschrijft de rol van informatie bij het nemen van beslissingen en het beoordelen van prestaties (informatie als kapitaalgoed, informatie als input voor producten en diensten en informatie als basis voor communicatie en coördinatie).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/33d00107-c3d0-4121-92d5-d4b569cbf33e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/33d00107-c3d0-4121-92d5-d4b569cbf33e",
+					"uuid": "33d00107-c3d0-4121-92d5-d4b569cbf33e",
+					"title": "informatie als kapitaalgoed",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a42d96d9-30aa-4bbc-b66e-4a739b456e9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a42d96d9-30aa-4bbc-b66e-4a739b456e9c",
+			"uuid": "a42d96d9-30aa-4bbc-b66e-4a739b456e9c",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/17/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b52b2f9b-1dd2-468d-95a7-2c1bd0ea3c47",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b52b2f9b-1dd2-468d-95a7-2c1bd0ea3c47",
+					"uuid": "b52b2f9b-1dd2-468d-95a7-2c1bd0ea3c47",
+					"title": "Je beschrijft de wisselwerking tussen de veranderende organisatiestructuur en hun veranderende omgeving beschrijven.\r\nMet aandacht voor: \r\n• de configuratietheorie van Mintzberg en ontwikkelingen in het structureren van organisaties;\r\n• (tijdelijke) samenwerkingsverbanden;\r\n• veranderende wet- en regelgeving op dit vlak.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ac712a54-ca0c-4c85-8940-8f57a2b7d8bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac712a54-ca0c-4c85-8940-8f57a2b7d8bf",
+					"uuid": "ac712a54-ca0c-4c85-8940-8f57a2b7d8bf",
+					"title": "configuratietheorie",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d0b88875-107f-409d-bfbd-85c01e3cb493",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d0b88875-107f-409d-bfbd-85c01e3cb493",
+			"uuid": "d0b88875-107f-409d-bfbd-85c01e3cb493",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/18/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/972c39a5-4609-46c9-80c0-7dd841891fef",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/972c39a5-4609-46c9-80c0-7dd841891fef",
+					"uuid": "972c39a5-4609-46c9-80c0-7dd841891fef",
+					"title": "Je beschrijft hoe de organisatie identiteit aan de verschillende medewerkers kan verschaffen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/900e5112-dc86-4e9b-9f27-304f9f4e4762",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/900e5112-dc86-4e9b-9f27-304f9f4e4762",
+			"uuid": "900e5112-dc86-4e9b-9f27-304f9f4e4762",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/19/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1cd49c55-d3c4-4d13-8b2c-62cc1d32783e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1cd49c55-d3c4-4d13-8b2c-62cc1d32783e",
+					"uuid": "1cd49c55-d3c4-4d13-8b2c-62cc1d32783e",
+					"title": "Je beschrijft en herkent hoe de interne organisatie immaterieel kapitaal kan vormen dat bij kan dragen aan de verdediging en uitbouw van de concurrentiepositie van het bedrijf.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/92293b0e-86b3-42df-b4e1-168373e6cee5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92293b0e-86b3-42df-b4e1-168373e6cee5",
+					"uuid": "92293b0e-86b3-42df-b4e1-168373e6cee5",
+					"title": "immaterieel kapitaal",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/44dec4a0-4002-4b0e-a860-8f4984691297",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44dec4a0-4002-4b0e-a860-8f4984691297",
+			"uuid": "44dec4a0-4002-4b0e-a860-8f4984691297",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/20/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7d50efb-28f5-4cca-8589-21ca3c5a3995",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7d50efb-28f5-4cca-8589-21ca3c5a3995",
+					"uuid": "f7d50efb-28f5-4cca-8589-21ca3c5a3995",
+					"title": "Je beschrijft de werkzaamheden en de rollen van de manager.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ed05e54b-9c0c-4715-879f-08c410e1f5dd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ed05e54b-9c0c-4715-879f-08c410e1f5dd",
+					"uuid": "ed05e54b-9c0c-4715-879f-08c410e1f5dd",
+					"title": "managementtaken",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ed7e6d04-c580-45b4-ab34-c02963a014d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ed7e6d04-c580-45b4-ab34-c02963a014d0",
+			"uuid": "ed7e6d04-c580-45b4-ab34-c02963a014d0",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/21/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ab91e92e-9e28-41e8-8759-8692b44c9cfc",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab91e92e-9e28-41e8-8759-8692b44c9cfc",
+					"uuid": "ab91e92e-9e28-41e8-8759-8692b44c9cfc",
+					"title": "Je beschrijft en herkent de belangrijkste stijlen van leiderschap",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e240018e-422d-492f-b03d-3217ca8c304d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e240018e-422d-492f-b03d-3217ca8c304d",
+					"uuid": "e240018e-422d-492f-b03d-3217ca8c304d",
+					"title": "leiderschapsstijlen, situationeel leiderschap",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/819264b2-a745-42b3-90a2-ff42a749aeb7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/819264b2-a745-42b3-90a2-ff42a749aeb7",
+			"uuid": "819264b2-a745-42b3-90a2-ff42a749aeb7",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/2/1/22/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/577af6ee-75c5-495f-b11f-9882ebd7c85f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/577af6ee-75c5-495f-b11f-9882ebd7c85f",
+					"uuid": "577af6ee-75c5-495f-b11f-9882ebd7c85f",
+					"title": "Je beschrijft historische organisatietheorieën",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"uuid": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
+					"title": "Subdomein C1: Interne organisatie",
+					"prefix": "BE/V/DomeinC/C1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64608d20-8cd0-4b86-87dc-039298583833",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64608d20-8cd0-4b86-87dc-039298583833",
+					"uuid": "64608d20-8cd0-4b86-87dc-039298583833",
+					"title": "organisatietheorieën",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eaf5a5e2-7314-4add-9453-2affba38c6e8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaf5a5e2-7314-4add-9453-2affba38c6e8",
+			"uuid": "eaf5a5e2-7314-4add-9453-2affba38c6e8",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/1/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/97277a1e-9af1-4924-b2e9-2502f16f3b18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/97277a1e-9af1-4924-b2e9-2502f16f3b18",
+					"uuid": "97277a1e-9af1-4924-b2e9-2502f16f3b18",
+					"title": "Welke gegevens zijn nodig om een investeringsanalyse uit te voeren?",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9fd19f0f-03a3-43fc-b27a-ff1ad1ebfa92",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fd19f0f-03a3-43fc-b27a-ff1ad1ebfa92",
+					"uuid": "9fd19f0f-03a3-43fc-b27a-ff1ad1ebfa92",
+					"title": "investeringsanalyse",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1ac428f-1c0f-4546-87d9-572ef1dddb7b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1ac428f-1c0f-4546-87d9-572ef1dddb7b",
+			"uuid": "f1ac428f-1c0f-4546-87d9-572ef1dddb7b",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/2/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0b9f7370-e0a7-42f7-9b61-38fe27b86c17",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0b9f7370-e0a7-42f7-9b61-38fe27b86c17",
+					"uuid": "0b9f7370-e0a7-42f7-9b61-38fe27b86c17",
+					"title": "Je herkent, beschrijft en berekent een operationele kasstroom, inclusief restwaarde.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc3fa8ed-dfa3-4ce3-b322-71f3755b3e01",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc3fa8ed-dfa3-4ce3-b322-71f3755b3e01",
+					"uuid": "fc3fa8ed-dfa3-4ce3-b322-71f3755b3e01",
+					"title": "operationele kasstroom, restwaarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5a75c6f-ab09-4fd5-a124-817038d578cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5a75c6f-ab09-4fd5-a124-817038d578cc",
+			"uuid": "e5a75c6f-ab09-4fd5-a124-817038d578cc",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/3/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7c14bcf7-4c8a-404c-bca1-b8934e43462d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c14bcf7-4c8a-404c-bca1-b8934e43462d",
+					"uuid": "7c14bcf7-4c8a-404c-bca1-b8934e43462d",
+					"title": "Je berekent en interpreteert een meerjarig kasstroomoverzicht.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5afda8d4-f9b7-4350-8641-972c4e3fedd6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5afda8d4-f9b7-4350-8641-972c4e3fedd6",
+					"uuid": "5afda8d4-f9b7-4350-8641-972c4e3fedd6",
+					"title": "meerjarig kasstroomoverzicht",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/23a06fea-22d8-48b7-a70d-c5da8ff00613",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23a06fea-22d8-48b7-a70d-c5da8ff00613",
+			"uuid": "23a06fea-22d8-48b7-a70d-c5da8ff00613",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/4/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/03204b69-5fee-4737-a9c4-10cdf7881fc4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03204b69-5fee-4737-a9c4-10cdf7881fc4",
+					"uuid": "03204b69-5fee-4737-a9c4-10cdf7881fc4",
+					"title": "Je herkent en legt uit het begrip disconteringsvoet.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/997adc8d-699d-4847-a1cd-5bf61e9113e6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/997adc8d-699d-4847-a1cd-5bf61e9113e6",
+					"uuid": "997adc8d-699d-4847-a1cd-5bf61e9113e6",
+					"title": "disconteringsvoet",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fd6374ab-2780-47d0-81b7-602607965f78",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fd6374ab-2780-47d0-81b7-602607965f78",
+			"uuid": "fd6374ab-2780-47d0-81b7-602607965f78",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/5/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c6c1fb41-caf5-40cd-bf1c-1e31f1909e42",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c6c1fb41-caf5-40cd-bf1c-1e31f1909e42",
+					"uuid": "c6c1fb41-caf5-40cd-bf1c-1e31f1909e42",
+					"title": "Je beschrijft waarom de disconteringsvoet per onderneming maar ook per jaar kan verschillen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7ef1c890-4c1e-49d8-8b17-2e0b60bf5d19",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ef1c890-4c1e-49d8-8b17-2e0b60bf5d19",
+					"uuid": "7ef1c890-4c1e-49d8-8b17-2e0b60bf5d19",
+					"title": "disconteringsvoet",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b2f76ff4-c078-4d80-bee7-78b35eb575d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2f76ff4-c078-4d80-bee7-78b35eb575d5",
+			"uuid": "b2f76ff4-c078-4d80-bee7-78b35eb575d5",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/6/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ae0004c-3b1d-45a3-a0d8-ab860849b542",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ae0004c-3b1d-45a3-a0d8-ab860849b542",
+					"uuid": "5ae0004c-3b1d-45a3-a0d8-ab860849b542",
+					"title": "Je benoemt, beschrijft en herkent het verschil tussen vervangingsinvesteringen en uitbreidingsinvesteringen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/27da4aa9-a318-43e9-93d6-27333f3c0098",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/27da4aa9-a318-43e9-93d6-27333f3c0098",
+					"uuid": "27da4aa9-a318-43e9-93d6-27333f3c0098",
+					"title": "vervangingsinvesteringen, uitbreidingsinvesteringen",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2097ec2-d95d-4ebc-9f27-c70bc87e873d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2097ec2-d95d-4ebc-9f27-c70bc87e873d",
+			"uuid": "e2097ec2-d95d-4ebc-9f27-c70bc87e873d",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/7/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/93a9462d-4c88-4da1-b601-71ad035cc874",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93a9462d-4c88-4da1-b601-71ad035cc874",
+					"uuid": "93a9462d-4c88-4da1-b601-71ad035cc874",
+					"title": "Je kunt volgens een methode verschillende investeringsalternatieven tegen elkaar afwegen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ffae55df-28ad-447d-97f5-df1fd63e88cd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ffae55df-28ad-447d-97f5-df1fd63e88cd",
+			"uuid": "ffae55df-28ad-447d-97f5-df1fd63e88cd",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/8/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d0e588b3-c248-4f41-b547-aca5bf926ac3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d0e588b3-c248-4f41-b547-aca5bf926ac3",
+					"uuid": "d0e588b3-c248-4f41-b547-aca5bf926ac3",
+					"title": "Je noemt en beschrijft selectiecriteria terugverdientijd en netto contante waarde methode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ea4d18f6-6a56-4912-87c4-6b205fd572da",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea4d18f6-6a56-4912-87c4-6b205fd572da",
+					"uuid": "ea4d18f6-6a56-4912-87c4-6b205fd572da",
+					"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/160fdcb9-5595-4b60-92ec-9ada1f160cc8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/160fdcb9-5595-4b60-92ec-9ada1f160cc8",
+			"uuid": "160fdcb9-5595-4b60-92ec-9ada1f160cc8",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/9/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f82a5325-6050-47d9-845d-931250706967",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f82a5325-6050-47d9-845d-931250706967",
+					"uuid": "f82a5325-6050-47d9-845d-931250706967",
+					"title": "Je berekent de terugverdientijd als investeringsselectiemethode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ee8916ff-48db-4471-aaaa-067b8e180b30",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ee8916ff-48db-4471-aaaa-067b8e180b30",
+					"uuid": "ee8916ff-48db-4471-aaaa-067b8e180b30",
+					"title": "terugverdientijd",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dbb0ad01-66f1-4a27-9f58-96a94e295a34",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbb0ad01-66f1-4a27-9f58-96a94e295a34",
+			"uuid": "dbb0ad01-66f1-4a27-9f58-96a94e295a34",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/10/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6c170c3e-1557-4148-a7db-42c133e723ee",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c170c3e-1557-4148-a7db-42c133e723ee",
+					"uuid": "6c170c3e-1557-4148-a7db-42c133e723ee",
+					"title": "Je berekent de netto contante waarde als investeringsselectiemethode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b8e3ec63-3e0b-4d9e-82f6-b52673d9e32a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8e3ec63-3e0b-4d9e-82f6-b52673d9e32a",
+					"uuid": "b8e3ec63-3e0b-4d9e-82f6-b52673d9e32a",
+					"title": "netto contante waarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6258e118-1335-482c-8f0b-8cc49f6c0415",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6258e118-1335-482c-8f0b-8cc49f6c0415",
+			"uuid": "6258e118-1335-482c-8f0b-8cc49f6c0415",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/11/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6c6d5f45-1c20-44e1-9c1e-c368136b789b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c6d5f45-1c20-44e1-9c1e-c368136b789b",
+					"uuid": "6c6d5f45-1c20-44e1-9c1e-c368136b789b",
+					"title": "Je kunt vaststellen of een investering economisch zinvol is",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cfd78e0a-cd7f-4243-b5f2-0122373ff8c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfd78e0a-cd7f-4243-b5f2-0122373ff8c5",
+			"uuid": "cfd78e0a-cd7f-4243-b5f2-0122373ff8c5",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/12/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ecb9341e-ca20-48fa-8111-f4ed7b535f8e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ecb9341e-ca20-48fa-8111-f4ed7b535f8e",
+					"uuid": "ecb9341e-ca20-48fa-8111-f4ed7b535f8e",
+					"title": "Je legt uit en evalueert de uitkomsten van de terugverdientijd en de netto contante waarde als selectiecriteria).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/48caf1e0-304f-4f16-ba3c-190789725a88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48caf1e0-304f-4f16-ba3c-190789725a88",
+					"uuid": "48caf1e0-304f-4f16-ba3c-190789725a88",
+					"title": "investeringsselectiecriteria",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b85545b5-dfc4-45c4-a8ff-c628dd25d5d2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b85545b5-dfc4-45c4-a8ff-c628dd25d5d2",
+			"uuid": "b85545b5-dfc4-45c4-a8ff-c628dd25d5d2",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/13/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6056bb4c-8c9b-47ff-a474-a88234b186b8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6056bb4c-8c9b-47ff-a474-a88234b186b8",
+					"uuid": "6056bb4c-8c9b-47ff-a474-a88234b186b8",
+					"title": "Je noemt en begrijpt voordelen en nadelen van de selectiecriteria terugverdientijd en netto contante waarde methode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e21f1e43-6a51-4c28-8b6d-44d1b2fd7350",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e21f1e43-6a51-4c28-8b6d-44d1b2fd7350",
+					"uuid": "e21f1e43-6a51-4c28-8b6d-44d1b2fd7350",
+					"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b9aba8d-aaac-49ed-b447-299dc3b76c43",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b9aba8d-aaac-49ed-b447-299dc3b76c43",
+			"uuid": "4b9aba8d-aaac-49ed-b447-299dc3b76c43",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/14/bbhavo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f2487f5-94ed-44dd-8bf0-cee4cffb433c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f2487f5-94ed-44dd-8bf0-cee4cffb433c",
+					"uuid": "0f2487f5-94ed-44dd-8bf0-cee4cffb433c",
+					"title": "Je beschrijft dat in het  verlengde van 18.3.2  deze analyse ook andere factoren die in de afweging een rol spelen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46765d47-5e81-4cd7-b149-c971b503afb3",
+					"uuid": "46765d47-5e81-4cd7-b149-c971b503afb3",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/H/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c439599a-ce55-4b68-87c9-d2b65e6c8956",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c439599a-ce55-4b68-87c9-d2b65e6c8956",
+					"uuid": "c439599a-ce55-4b68-87c9-d2b65e6c8956",
+					"title": "niet-financiële argumenten",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/384ea86c-d3da-4b4c-b84d-95fbd4797947",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/384ea86c-d3da-4b4c-b84d-95fbd4797947",
+			"uuid": "384ea86c-d3da-4b4c-b84d-95fbd4797947",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/1/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9ff777d9-027d-4f01-a15f-dd58ead682d6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ff777d9-027d-4f01-a15f-dd58ead682d6",
+					"uuid": "9ff777d9-027d-4f01-a15f-dd58ead682d6",
+					"title": "Welke gegevens zijn nodig om een investeringsanalyse uit te voeren?",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ef63b52f-bc37-4de3-b092-f3b4851fad74",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef63b52f-bc37-4de3-b092-f3b4851fad74",
+					"uuid": "ef63b52f-bc37-4de3-b092-f3b4851fad74",
+					"title": "investeringsanalyse",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5f847500-a438-41c9-b448-1dfca89251d6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5f847500-a438-41c9-b448-1dfca89251d6",
+			"uuid": "5f847500-a438-41c9-b448-1dfca89251d6",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/2/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/282e7254-994d-4b1a-a9b7-beb636c8e15c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/282e7254-994d-4b1a-a9b7-beb636c8e15c",
+					"uuid": "282e7254-994d-4b1a-a9b7-beb636c8e15c",
+					"title": "Je herkent, beschrijft en berekent een operationele kasstroom, inclusief restwaarde.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f838ea52-191a-434f-8625-947e06841525",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f838ea52-191a-434f-8625-947e06841525",
+					"uuid": "f838ea52-191a-434f-8625-947e06841525",
+					"title": "operationele kasstroom, restwaarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3e92a6f4-3951-4fb3-80d5-86209af8e7d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3e92a6f4-3951-4fb3-80d5-86209af8e7d1",
+			"uuid": "3e92a6f4-3951-4fb3-80d5-86209af8e7d1",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/3/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a5d1768b-6c7e-4c61-af02-79c3223d709b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a5d1768b-6c7e-4c61-af02-79c3223d709b",
+					"uuid": "a5d1768b-6c7e-4c61-af02-79c3223d709b",
+					"title": "Je stelt op, berekent en interpreteert een meerjarig kasstroomoverzicht",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d2fa8d3e-ec31-4113-a04e-a94c49db534c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d2fa8d3e-ec31-4113-a04e-a94c49db534c",
+					"uuid": "d2fa8d3e-ec31-4113-a04e-a94c49db534c",
+					"title": "meerjarig kasstroomoverzicht",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/637d5891-65bd-4d8f-80fd-952cf4d1bc50",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/637d5891-65bd-4d8f-80fd-952cf4d1bc50",
+			"uuid": "637d5891-65bd-4d8f-80fd-952cf4d1bc50",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/4/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/98dd4cf0-4693-40e0-9a55-f7e546fc0d1b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98dd4cf0-4693-40e0-9a55-f7e546fc0d1b",
+					"uuid": "98dd4cf0-4693-40e0-9a55-f7e546fc0d1b",
+					"title": "Je herkent en legt uit het begrip disconteringsvoet (geëist rendement).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/690d69a9-b634-4e7b-b3e2-f308892b1b24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/690d69a9-b634-4e7b-b3e2-f308892b1b24",
+					"uuid": "690d69a9-b634-4e7b-b3e2-f308892b1b24",
+					"title": "disconteringsvoet, geëist rendement",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e57e1a3-b90d-4659-a00b-e56d51c33ff2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e57e1a3-b90d-4659-a00b-e56d51c33ff2",
+			"uuid": "6e57e1a3-b90d-4659-a00b-e56d51c33ff2",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/5/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/91d2d9d1-3cc0-4492-aa61-67a82da27533",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91d2d9d1-3cc0-4492-aa61-67a82da27533",
+					"uuid": "91d2d9d1-3cc0-4492-aa61-67a82da27533",
+					"title": "Je beschrijft en verklaart waarom de disconteringsvoet per onderneming maar ook per jaar kan verschillen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4a1fb710-6c91-49e7-ace7-f680b02771e3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4a1fb710-6c91-49e7-ace7-f680b02771e3",
+					"uuid": "4a1fb710-6c91-49e7-ace7-f680b02771e3",
+					"title": "disconteringsvoet",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4f473c95-c3d9-4168-bb87-e7f97e807bae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4f473c95-c3d9-4168-bb87-e7f97e807bae",
+			"uuid": "4f473c95-c3d9-4168-bb87-e7f97e807bae",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/6/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/63230b6b-cee1-4264-b531-7ecf49c8c072",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63230b6b-cee1-4264-b531-7ecf49c8c072",
+					"uuid": "63230b6b-cee1-4264-b531-7ecf49c8c072",
+					"title": "Je benoemt, beschrijft en herkent het verschil tussen vervangingsinvesteringen en uitbreidingsinvesteringen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/695acde8-8ea0-4923-b905-3b7e82cc0712",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/695acde8-8ea0-4923-b905-3b7e82cc0712",
+					"uuid": "695acde8-8ea0-4923-b905-3b7e82cc0712",
+					"title": "vervangingsinvesteringen, uitbreidingsinvesteringen",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/354e9878-c118-4c89-8ee1-ade9f891cd3f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/354e9878-c118-4c89-8ee1-ade9f891cd3f",
+			"uuid": "354e9878-c118-4c89-8ee1-ade9f891cd3f",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/7/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8f1b95ce-92c2-4afa-ae58-bf33109b2bd6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f1b95ce-92c2-4afa-ae58-bf33109b2bd6",
+					"uuid": "8f1b95ce-92c2-4afa-ae58-bf33109b2bd6",
+					"title": "Je benoemt en herkent de verschillen en de overeenkomsten tussen investeringen in materiële activa en immateriële activa.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2406570a-50bd-4c9e-89d5-0a8b7db46896",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2406570a-50bd-4c9e-89d5-0a8b7db46896",
+					"uuid": "2406570a-50bd-4c9e-89d5-0a8b7db46896",
+					"title": "investeringen in materiële activa, investeringen in immateriële activa.",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75085e2e-5ea4-43e8-bd2d-c4d2b2affc15",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75085e2e-5ea4-43e8-bd2d-c4d2b2affc15",
+			"uuid": "75085e2e-5ea4-43e8-bd2d-c4d2b2affc15",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/8/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2158a3df-2400-4809-825c-5eff769a51df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2158a3df-2400-4809-825c-5eff769a51df",
+					"uuid": "2158a3df-2400-4809-825c-5eff769a51df",
+					"title": "Je voert uit en interpreteert de uitkomsten van een gevoeligheidsanalyse.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e419fefd-d8a5-4de5-8766-8d170ec64f04",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e419fefd-d8a5-4de5-8766-8d170ec64f04",
+					"uuid": "e419fefd-d8a5-4de5-8766-8d170ec64f04",
+					"title": "gevoeligheidsanalyse, scenarioanalyse",
+					"ce_se": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7473a36-af29-4d35-ae3a-692b932f3b2b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7473a36-af29-4d35-ae3a-692b932f3b2b",
+			"uuid": "c7473a36-af29-4d35-ae3a-692b932f3b2b",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/9/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/618b31df-55ce-4cd2-8518-3085df383cdb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/618b31df-55ce-4cd2-8518-3085df383cdb",
+					"uuid": "618b31df-55ce-4cd2-8518-3085df383cdb",
+					"title": "Je kunt volgens een methode verschillende investeringsalternatieven tegen elkaar afwegen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0ec9e6b7-7bd6-4660-8472-fc1ef3f08f03",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ec9e6b7-7bd6-4660-8472-fc1ef3f08f03",
+			"uuid": "0ec9e6b7-7bd6-4660-8472-fc1ef3f08f03",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/10/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/53fd88b6-c524-4e4d-875a-c86432ec16fe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53fd88b6-c524-4e4d-875a-c86432ec16fe",
+					"uuid": "53fd88b6-c524-4e4d-875a-c86432ec16fe",
+					"title": "Je noemt en beschrijft selectiecriteria terugverdientijd en netto contante waarde methode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5791d85c-978a-4078-9b8b-337017fb57cc",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5791d85c-978a-4078-9b8b-337017fb57cc",
+					"uuid": "5791d85c-978a-4078-9b8b-337017fb57cc",
+					"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c31b8e3-1579-4b37-8ef0-a3e894b19439",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c31b8e3-1579-4b37-8ef0-a3e894b19439",
+			"uuid": "3c31b8e3-1579-4b37-8ef0-a3e894b19439",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/11/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4e2ec0aa-9176-4251-b0b5-5d5f7a748ec6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e2ec0aa-9176-4251-b0b5-5d5f7a748ec6",
+					"uuid": "4e2ec0aa-9176-4251-b0b5-5d5f7a748ec6",
+					"title": "Je berekent de terugverdientijd als investeringsselectiemethode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8ecce5e-a964-45d8-b019-46fdd8d89bb8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8ecce5e-a964-45d8-b019-46fdd8d89bb8",
+					"uuid": "f8ecce5e-a964-45d8-b019-46fdd8d89bb8",
+					"title": "terugverdientijd",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bdd94e79-1f92-4b86-8139-f22e51c16cb8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdd94e79-1f92-4b86-8139-f22e51c16cb8",
+			"uuid": "bdd94e79-1f92-4b86-8139-f22e51c16cb8",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/12/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/218de195-38a2-4069-9642-bb639a9a9117",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/218de195-38a2-4069-9642-bb639a9a9117",
+					"uuid": "218de195-38a2-4069-9642-bb639a9a9117",
+					"title": "Je berekent de netto contante waarde als investeringsselectiemethode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/74fbade8-eb60-4d02-b8f9-86637f31a5f4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/74fbade8-eb60-4d02-b8f9-86637f31a5f4",
+					"uuid": "74fbade8-eb60-4d02-b8f9-86637f31a5f4",
+					"title": "netto contante waarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6cff27aa-aad3-401c-8795-93c7eed664dd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cff27aa-aad3-401c-8795-93c7eed664dd",
+			"uuid": "6cff27aa-aad3-401c-8795-93c7eed664dd",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/13/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/16e8329c-e8c2-4f69-aeb9-98df308177c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/16e8329c-e8c2-4f69-aeb9-98df308177c3",
+					"uuid": "16e8329c-e8c2-4f69-aeb9-98df308177c3",
+					"title": "Je kunt vaststellen of een investering economisch zinvol is",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5089d39c-f640-4c78-8b8e-6e8239dd24a5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5089d39c-f640-4c78-8b8e-6e8239dd24a5",
+			"uuid": "5089d39c-f640-4c78-8b8e-6e8239dd24a5",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/14/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5390bfeb-93cd-42be-850d-40aa52905ba3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5390bfeb-93cd-42be-850d-40aa52905ba3",
+					"uuid": "5390bfeb-93cd-42be-850d-40aa52905ba3",
+					"title": "Je legt uit en evalueert  de uitkomst van de selectiecriteria terugverdientijd en netto contante waarde (rangordebepaling).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b3f79ab9-b132-435b-a563-ad7ba44007b9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3f79ab9-b132-435b-a563-ad7ba44007b9",
+					"uuid": "b3f79ab9-b132-435b-a563-ad7ba44007b9",
+					"title": "investeringsselectiecriteria, rangordebepaling",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61a7348b-0f70-4640-b298-7c831f557b4a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61a7348b-0f70-4640-b298-7c831f557b4a",
+			"uuid": "61a7348b-0f70-4640-b298-7c831f557b4a",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/15/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3898cd56-e553-40f9-9d93-0380afaf2496",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3898cd56-e553-40f9-9d93-0380afaf2496",
+					"uuid": "3898cd56-e553-40f9-9d93-0380afaf2496",
+					"title": "Je noemt en begrijpt voordelen en nadelen van de selectiecriteria terugverdientijd en netto contante waarde methode.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a20dad61-0b94-4eb3-9b27-6fb7778dfc0a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a20dad61-0b94-4eb3-9b27-6fb7778dfc0a",
+					"uuid": "a20dad61-0b94-4eb3-9b27-6fb7778dfc0a",
+					"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e29cfcf-e53e-4715-ad8f-368c6eaea208",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e29cfcf-e53e-4715-ad8f-368c6eaea208",
+			"uuid": "6e29cfcf-e53e-4715-ad8f-368c6eaea208",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/16/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/390f1183-e2cc-48b5-b70d-298da1e48347",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/390f1183-e2cc-48b5-b70d-298da1e48347",
+					"uuid": "390f1183-e2cc-48b5-b70d-298da1e48347",
+					"title": "Je beschrijft dat in het  verlengde van 18.3.2  deze analyse ook andere factoren die in de afweging een rol spelen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/67018b0d-68fc-4151-a02a-24992f0bbb93",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/67018b0d-68fc-4151-a02a-24992f0bbb93",
+					"uuid": "67018b0d-68fc-4151-a02a-24992f0bbb93",
+					"title": "niet-financiële argumenten",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/12a38596-cad1-4047-89b9-6833936a5c91",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/12a38596-cad1-4047-89b9-6833936a5c91",
+			"uuid": "12a38596-cad1-4047-89b9-6833936a5c91",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/17/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/468d76cb-9162-498f-b9d9-4d62dc72519a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/468d76cb-9162-498f-b9d9-4d62dc72519a",
+					"uuid": "468d76cb-9162-498f-b9d9-4d62dc72519a",
+					"title": "De leerling kan een aantal voorbeelden geven die in de praktijk toegepast kunnen worden om tot een beslissing onder risico te komen. Hierbij valt te denken aan: het instellen van een maximale terugverdientijd, het conservatief ramen van de kasstromen, de looptijd en de restwaarde, het verhogen van de disconteringsvoet met een risico-opslag, het variëren met de hoogte van de verkoopprijs en inkoopprijs.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3f5d305-09d1-4636-b742-f81123239f61",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3f5d305-09d1-4636-b742-f81123239f61",
+			"uuid": "d3f5d305-09d1-4636-b742-f81123239f61",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/18/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/488b3b72-24f1-4145-a08a-8bb415bc7103",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/488b3b72-24f1-4145-a08a-8bb415bc7103",
+					"uuid": "488b3b72-24f1-4145-a08a-8bb415bc7103",
+					"title": "De leerling kan de liquidatiewaarde, de intrinsieke waarde, de rentabiliteitswaarde, de marktwaarde en de discounted cashflow methode als waarderingsmethoden en beslissingscriterium van noemen, herkennen en beschrijven.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/73c072cd-991a-40fb-ac61-19061a5808b8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73c072cd-991a-40fb-ac61-19061a5808b8",
+			"uuid": "73c072cd-991a-40fb-ac61-19061a5808b8",
+			"@type": "DoelNiveau",
+			"prefix": "be/3/4/1/19/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2ba51ff-d78d-4ef3-a3f3-0a9d3b861493",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2ba51ff-d78d-4ef3-a3f3-0a9d3b861493",
+					"uuid": "b2ba51ff-d78d-4ef3-a3f3-0a9d3b861493",
+					"title": "De leerling kan aan de hand van deze methoden de waarde van de organisatie berekenen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"uuid": "76b58b62-721a-4efa-adcb-4dfe2152ac46",
+					"title": "Subdomein D1: Investeren",
+					"prefix": "BE/V/DomeinD/D1"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6eefa9e8-3304-4f37-9896-6e852c2aad47",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6eefa9e8-3304-4f37-9896-6e852c2aad47",
+			"uuid": "6eefa9e8-3304-4f37-9896-6e852c2aad47",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/bbhavo",
+			"ce_se": "CE;SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7c92f23d-5a0f-4552-9985-d94f6cd0dfb1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c92f23d-5a0f-4552-9985-d94f6cd0dfb1",
+					"uuid": "7c92f23d-5a0f-4552-9985-d94f6cd0dfb1",
+					"title": "Hoe verhoudt het bedrijf/de organisatie zich tot de maatschappij",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91001423-9684-4dd4-a620-c2fb785443e9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91001423-9684-4dd4-a620-c2fb785443e9",
+			"uuid": "91001423-9684-4dd4-a620-c2fb785443e9",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a64a5285-e0d4-4165-8be9-81b5482f4de1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a64a5285-e0d4-4165-8be9-81b5482f4de1",
+					"uuid": "a64a5285-e0d4-4165-8be9-81b5482f4de1",
+					"title": "Hoe verhoudt het bedrijf/de organisatie zich tot de maatschappij",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d8bf13db-68c8-45bf-9f24-52f6cb3fae63",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8bf13db-68c8-45bf-9f24-52f6cb3fae63",
+			"uuid": "d8bf13db-68c8-45bf-9f24-52f6cb3fae63",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/bbvwo",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3f035577-273a-4aee-a3bd-4b147203063a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f035577-273a-4aee-a3bd-4b147203063a",
+					"uuid": "3f035577-273a-4aee-a3bd-4b147203063a",
+					"title": "Hoe verhoudt het bedrijf/de organisatie zich tot de maatschappij",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a1e91584-f321-4d0c-b0d5-16d84517a1c3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1e91584-f321-4d0c-b0d5-16d84517a1c3",
+			"uuid": "a1e91584-f321-4d0c-b0d5-16d84517a1c3",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/1/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/83701bc5-d53f-4caf-8d0f-da275e152e3b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83701bc5-d53f-4caf-8d0f-da275e152e3b",
+					"uuid": "83701bc5-d53f-4caf-8d0f-da275e152e3b",
+					"title": "Je beschrijft om welke reden (-en) een bepaalde vorm van marketing vanuit ethisch perspectief (wel of) niet passend is.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/883590cb-1d19-433e-bef3-2e2e5e916bfe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/883590cb-1d19-433e-bef3-2e2e5e916bfe",
+					"uuid": "883590cb-1d19-433e-bef3-2e2e5e916bfe",
+					"title": "ethisch perspectief",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8ee1ce11-2e35-40b1-8705-c3d53f7c4cdb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ee1ce11-2e35-40b1-8705-c3d53f7c4cdb",
+			"uuid": "8ee1ce11-2e35-40b1-8705-c3d53f7c4cdb",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/2/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/73db9d30-9741-4d1f-9a6e-2033f08f6d60",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73db9d30-9741-4d1f-9a6e-2033f08f6d60",
+					"uuid": "73db9d30-9741-4d1f-9a6e-2033f08f6d60",
+					"title": "Je beschrijft en analyseert vanuit consumentenperspectief de invloed van marketing op het aankoopgedrag.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/462e0c60-3202-4207-abe5-0d82e946d772",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/462e0c60-3202-4207-abe5-0d82e946d772",
+					"uuid": "462e0c60-3202-4207-abe5-0d82e946d772",
+					"title": "consumentenperspectief",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b7cbd0a8-3044-4fee-877a-d92182e1ee5b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b7cbd0a8-3044-4fee-877a-d92182e1ee5b",
+			"uuid": "b7cbd0a8-3044-4fee-877a-d92182e1ee5b",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/3/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9d9867a4-5de8-4dc6-a1f6-7fd03407fe3b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9d9867a4-5de8-4dc6-a1f6-7fd03407fe3b",
+					"uuid": "9d9867a4-5de8-4dc6-a1f6-7fd03407fe3b",
+					"title": "Je analyseert vanuit consumentperspectief hoe een aankooppatroon door marketing zowel bewust als onbewust kan veranderen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2bdd0b81-bfbc-4e65-91c6-88897c0edec4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2bdd0b81-bfbc-4e65-91c6-88897c0edec4",
+			"uuid": "2bdd0b81-bfbc-4e65-91c6-88897c0edec4",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/4/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a4e276be-4c35-4959-adaa-14cc3db51418",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4e276be-4c35-4959-adaa-14cc3db51418",
+					"uuid": "a4e276be-4c35-4959-adaa-14cc3db51418",
+					"title": "Je analyseert aan de hand van een casus waarom een bepaalde vorm van marketing meer effect sorteert in de ene context dan in een andere context.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/40b464f6-56e7-4a32-a086-2a9b9ce4b670",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/40b464f6-56e7-4a32-a086-2a9b9ce4b670",
+					"uuid": "40b464f6-56e7-4a32-a086-2a9b9ce4b670",
+					"title": "psychologische effecten",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/90959983-b5df-467b-a15c-982fe5498b98",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90959983-b5df-467b-a15c-982fe5498b98",
+			"uuid": "90959983-b5df-467b-a15c-982fe5498b98",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/5/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0e422085-8a28-4b58-b8b8-eecc9c31ccb5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0e422085-8a28-4b58-b8b8-eecc9c31ccb5",
+					"uuid": "0e422085-8a28-4b58-b8b8-eecc9c31ccb5",
+					"title": "Je beschrijft de psychologische effecten van marketing en analyseert dit op basis van een eenvoudige casus.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45097559-41e8-476f-b169-cfb44f5c0727",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45097559-41e8-476f-b169-cfb44f5c0727",
+			"uuid": "45097559-41e8-476f-b169-cfb44f5c0727",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/6/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c5c16f7f-1a97-47fe-be2d-509efdb4fd0a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c5c16f7f-1a97-47fe-be2d-509efdb4fd0a",
+					"uuid": "c5c16f7f-1a97-47fe-be2d-509efdb4fd0a",
+					"title": "Je beschrijft, analyseert en beoordeelt (vanuit het ethisch aspect) het verband tussen marketing en consumentisme (in de loop van de tijd).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5c7b2510-e18e-4685-9d25-5ac2b5be31ce",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5c7b2510-e18e-4685-9d25-5ac2b5be31ce",
+					"uuid": "5c7b2510-e18e-4685-9d25-5ac2b5be31ce",
+					"title": "consumentisme",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc971667-733f-47ea-9886-cea147c3313f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc971667-733f-47ea-9886-cea147c3313f",
+			"uuid": "bc971667-733f-47ea-9886-cea147c3313f",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/7/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5b7473e0-7eeb-4573-a2f2-79c438d4df12",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b7473e0-7eeb-4573-a2f2-79c438d4df12",
+					"uuid": "5b7473e0-7eeb-4573-a2f2-79c438d4df12",
+					"title": "Je illustreert aan de hand van voorbeelden de rol van consument als machtsfactor.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a6f277e-ec86-4159-9ca3-066665d14696",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a6f277e-ec86-4159-9ca3-066665d14696",
+					"uuid": "0a6f277e-ec86-4159-9ca3-066665d14696",
+					"title": "consument als machtsfactor",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f93e8fb8-26de-45d5-8d38-849364c772f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f93e8fb8-26de-45d5-8d38-849364c772f2",
+			"uuid": "f93e8fb8-26de-45d5-8d38-849364c772f2",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/8/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6c2b1322-c235-4f5a-b5ac-2e73751c7236",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c2b1322-c235-4f5a-b5ac-2e73751c7236",
+					"uuid": "6c2b1322-c235-4f5a-b5ac-2e73751c7236",
+					"title": "Je beschrijft hoe bedrijven op deze mogelijke rol van de consument als machtsfactor anticiperen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/981a2b9f-67e0-4d6c-b599-218373af5cca",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/981a2b9f-67e0-4d6c-b599-218373af5cca",
+					"uuid": "981a2b9f-67e0-4d6c-b599-218373af5cca",
+					"title": "consument als machtsfactor",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/27a52854-883d-42c5-81a2-c70ef697a284",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/27a52854-883d-42c5-81a2-c70ef697a284",
+			"uuid": "27a52854-883d-42c5-81a2-c70ef697a284",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/9/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/23b9e038-900d-4028-b433-b6809e020991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23b9e038-900d-4028-b433-b6809e020991",
+					"uuid": "23b9e038-900d-4028-b433-b6809e020991",
+					"title": "Je analyseert wat de relatieve betekenis is van de consument als machtsfactor.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cd9557f4-25a1-42f4-92e0-1d174e46f49c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cd9557f4-25a1-42f4-92e0-1d174e46f49c",
+					"uuid": "cd9557f4-25a1-42f4-92e0-1d174e46f49c",
+					"title": "consument als machtsfactor",
+					"ce_se": "SE"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebe2e634-8612-4ab8-a98e-440214601d04",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebe2e634-8612-4ab8-a98e-440214601d04",
+			"uuid": "ebe2e634-8612-4ab8-a98e-440214601d04",
+			"@type": "DoelNiveau",
+			"prefix": "be/4/2/10/bbvwo",
+			"ce_se": "SE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/98eecc7f-b0ac-4db9-9c8d-656c92f6dc4c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98eecc7f-b0ac-4db9-9c8d-656c92f6dc4c",
+					"uuid": "98eecc7f-b0ac-4db9-9c8d-656c92f6dc4c",
+					"title": "Je beschrijft de (mogelijke) spanning tussen morele en commerciële keuzes vanuit bedrijfs- en maatschappelijk perspectief.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"uuid": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
+					"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
+					"prefix": "BE/V/DomeinE/E3"
+				}
+			],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e88f84d0-bd92-4a3b-8069-6900a4688963",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e88f84d0-bd92-4a3b-8069-6900a4688963",
+					"uuid": "e88f84d0-bd92-4a3b-8069-6900a4688963",
+					"title": "ethisch aspecten",
+					"ce_se": "SE"
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

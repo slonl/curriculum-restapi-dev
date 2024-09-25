@@ -1,0 +1,79 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+	"uuid": "0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKeuzevaktaak",
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cc6059c2-b22b-484b-bbe1-491e65744bd7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc6059c2-b22b-484b-bbe1-491e65744bd7",
+			"uuid": "cc6059c2-b22b-484b-bbe1-491e65744bd7",
+			"prefix": "K/GR/06",
+			"title": "Groei voorbereiden",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"uuid": "76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"title": "Groen",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6c57b253-59aa-48dd-b905-2e5babcd05fa",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c57b253-59aa-48dd-b905-2e5babcd05fa",
+					"uuid": "6c57b253-59aa-48dd-b905-2e5babcd05fa",
+					"title": "Groen",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/94eac546-91dd-4c15-8912-fd0c13667824",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94eac546-91dd-4c15-8912-fd0c13667824",
+					"uuid": "94eac546-91dd-4c15-8912-fd0c13667824",
+					"title": "Groen",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"uuid": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"title": "Groen",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/GR/06/KT",
+	"title": "Het teeltmedium gereed maken voor een teelt en onderhouden / met plantmateriaal omgaan / plantmateriaal zaaien, planten en poten"
+}

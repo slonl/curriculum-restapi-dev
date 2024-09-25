@@ -1,0 +1,26 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0a2d8368-9f86-4d41-8bb9-fc8cac61531b",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a2d8368-9f86-4d41-8bb9-fc8cac61531b",
+	"uuid": "0a2d8368-9f86-4d41-8bb9-fc8cac61531b",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkCandobeschrijving",
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+			"uuid": "a94b005d-9697-49f6-897a-0ad6516044f9",
+			"title": "B1",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/a94b005d-9697-49f6-897a-0ad6516044f9"
+		}
+	],
+	"ErkVoorbeeld": [],
+	"ErkLesidee": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "",
+	"title": "Kan in eenvoudige bewoordingen bespreken hoe de eigen cultureel bepaalde handelingen door mensen uit andere culturen anders opgevat kunnen worden.",
+	"isempty": null
+}

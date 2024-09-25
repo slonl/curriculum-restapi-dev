@@ -1,0 +1,75 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0d514a7b-38a5-4c1b-b467-86c8772ba963",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d514a7b-38a5-4c1b-b467-86c8772ba963",
+	"uuid": "0d514a7b-38a5-4c1b-b467-86c8772ba963",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaSubdomein",
+	"ExamenprogrammaEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c8948fd4-ce41-4292-8729-33e499b8e5fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8948fd4-ce41-4292-8729-33e499b8e5fc",
+			"uuid": "c8948fd4-ce41-4292-8729-33e499b8e5fc",
+			"prefix": "NA/H/DomeinA/A15/15",
+			"title": "De kandidaat kan fysische grootheden kwantificeren en mathematische uitdrukkingen in verband brengen met relaties tussen fysische begrippen.",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			]
+		}
+	],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/81cd9066-b51a-44e6-8d88-f86a64c23f45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/81cd9066-b51a-44e6-8d88-f86a64c23f45",
+			"uuid": "81cd9066-b51a-44e6-8d88-f86a64c23f45",
+			"prefix": "NA/H/DomeinA",
+			"title": "Domein A: Vaardigheden",
+			"deprecated": null,
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8dd6ee5b-62f6-4e5b-8aae-8a39887edfa4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8dd6ee5b-62f6-4e5b-8aae-8a39887edfa4",
+					"uuid": "8dd6ee5b-62f6-4e5b-8aae-8a39887edfa4",
+					"title": "Examenprogramma Natuurkunde havo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9e843a16-cb44-4131-92c1-6f235d5533e3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e843a16-cb44-4131-92c1-6f235d5533e3",
+					"uuid": "9e843a16-cb44-4131-92c1-6f235d5533e3",
+					"title": "Examenprogramma Natuurkunde havo",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Doelniveau": [],
+	"Tag": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5b51c44e-abc1-41cd-8b0b-b95086bde1cd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b51c44e-abc1-41cd-8b0b-b95086bde1cd",
+			"uuid": "5b51c44e-abc1-41cd-8b0b-b95086bde1cd",
+			"title": "Subdomein A15: Kwantificeren en interpreteren"
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"prefix": "4600-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da/examenprogrammasubdomein/0d514a7b-38a5-4c1b-b467-86c8772ba963"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "NA/H/DomeinA/A15",
+	"title": "Subdomein A15: Kwantificeren en interpreteren",
+	"ce_se": "CE; SE"
+}

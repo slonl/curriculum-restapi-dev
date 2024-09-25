@@ -1,0 +1,13 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/8052429f-2924-420a-bc88-02e4bc7b884c",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8052429f-2924-420a-bc88-02e4bc7b884c",
+	"uuid": "8052429f-2924-420a-bc88-02e4bc7b884c",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkLesidee",
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "",
+	"title": "--"
+}

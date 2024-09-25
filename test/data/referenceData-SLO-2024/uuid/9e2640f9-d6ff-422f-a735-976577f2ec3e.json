@@ -1,0 +1,210 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/9e2640f9-d6ff-422f-a735-976577f2ec3e",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e2640f9-d6ff-422f-a735-976577f2ec3e",
+	"uuid": "9e2640f9-d6ff-422f-a735-976577f2ec3e",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkSchaal",
+	"ErkCandobeschrijving": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b2a51b2-82d3-474d-b373-3446a21bdada",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b2a51b2-82d3-474d-b373-3446a21bdada",
+			"uuid": "7b2a51b2-82d3-474d-b373-3446a21bdada",
+			"title": "Geen descriptoren beschikbaar.",
+			"isempty": "true",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/677c431e-7ac6-438f-8204-aea78aef7025",
+					"title": "pre A1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/677c431e-7ac6-438f-8204-aea78aef7025"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/214a4f8c-0bbb-48d3-9809-01b3a989e6b4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/214a4f8c-0bbb-48d3-9809-01b3a989e6b4",
+			"uuid": "214a4f8c-0bbb-48d3-9809-01b3a989e6b4",
+			"title": "Geen descriptoren beschikbaar.",
+			"isempty": "true",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/47651ea4-7fab-40af-b596-bd71a746608d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/47651ea4-7fab-40af-b596-bd71a746608d",
+			"uuid": "47651ea4-7fab-40af-b596-bd71a746608d",
+			"title": "Kan aangeven of het gesprek te volgen is.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/11684bf4-feea-4b06-9c05-4b1c018bf59a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/11684bf4-feea-4b06-9c05-4b1c018bf59a",
+			"uuid": "11684bf4-feea-4b06-9c05-4b1c018bf59a",
+			"title": "Kan anderen uitnodigen aan de discussie deel te nemen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb0235fb-1b76-436c-a645-5a64f934f374",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb0235fb-1b76-436c-a645-5a64f934f374",
+			"uuid": "fb0235fb-1b76-436c-a645-5a64f934f374",
+			"title": "Kan gedeeltelijk herhalen wat iemand anders heeft gezegd om wederzijds begrip te bevestigen en te helpen de ontwikkeling van ideeën op koers te houden.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fd3320ee-2910-4d8e-9999-f2cceaa4f437",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fd3320ee-2910-4d8e-9999-f2cceaa4f437",
+			"uuid": "fd3320ee-2910-4d8e-9999-f2cceaa4f437",
+			"title": "Kan samenvatten op welk punt een discussie is beland en zo helpen het gesprek te focussen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+					"title": "B1+",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/931de932-da37-4fe8-81f6-75fa0eab4695",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/931de932-da37-4fe8-81f6-75fa0eab4695",
+			"uuid": "931de932-da37-4fe8-81f6-75fa0eab4695",
+			"title": "Kan een elementair taalrepertoire en strategieën benutten om een gesprek of discussie gaande te houden.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+					"title": "B1+",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ab11e8ba-afe0-4078-b963-197e30a17c9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab11e8ba-afe0-4078-b963-197e30a17c9e",
+			"uuid": "ab11e8ba-afe0-4078-b963-197e30a17c9e",
+			"title": "Kan het punt dat op een bepaald moment in een discussie is bereikt samenvatten en de volgende stappen voorstellen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83e38321-24c0-48ad-88df-602859c92629",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83e38321-24c0-48ad-88df-602859c92629",
+			"uuid": "83e38321-24c0-48ad-88df-602859c92629",
+			"title": "Kan discussies over vertrouwde onderwerpen op gang helpen en houden door te bevestigen dat iets begrepen is, anderen uit te nodigen het woord te nemen, enzovoort.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9b0ff6cc-64be-44d7-bca4-2805617639e2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9b0ff6cc-64be-44d7-bca4-2805617639e2",
+			"uuid": "9b0ff6cc-64be-44d7-bca4-2805617639e2",
+			"title": "Kan de belangrijkste punten van een discussie over zaken binnen het eigen academische of professionele vakgebied samenvatten en evalueren.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+					"title": "B2+",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7029325f-96e9-4476-b3bb-f9d018b0aeaa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7029325f-96e9-4476-b3bb-f9d018b0aeaa",
+			"uuid": "7029325f-96e9-4476-b3bb-f9d018b0aeaa",
+			"title": "Kan uitspraken en gevolgtrekkingen van feedback of opvolging voorzien en daarmee de ontwikkeling van de discussie helpen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+					"title": "B2+",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cf84ff1d-fc42-40c9-98a6-87d851f92bb9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf84ff1d-fc42-40c9-98a6-87d851f92bb9",
+			"uuid": "cf84ff1d-fc42-40c9-98a6-87d851f92bb9",
+			"title": "Kan eigen bijdragen vaardig in verband brengen met die van anderen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+					"title": "C1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c823c485-49aa-4818-8fe6-1fda9c2e778c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c823c485-49aa-4818-8fe6-1fda9c2e778c",
+			"uuid": "c823c485-49aa-4818-8fe6-1fda9c2e778c",
+			"title": "Kan bijdragen vaardig koppelen aan die van anderen om de reikwijdte van de interactie te vergroten en te helpen tot een resultaat te komen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2208c586-9043-47c1-b66b-536a50577725",
+					"title": "C2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2208c586-9043-47c1-b66b-536a50577725"
+				}
+			]
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "Samenwerken"
+}

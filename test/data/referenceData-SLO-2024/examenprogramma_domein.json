@@ -1,0 +1,2735 @@
+{
+	"count": 971,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bd1e20ec-930f-4ca8-92cd-48ed40ab8d67",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bd1e20ec-930f-4ca8-92cd-48ed40ab8d67",
+			"uuid": "bd1e20ec-930f-4ca8-92cd-48ed40ab8d67",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "WI/V/1",
+			"title": "Aanvullende eisen",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"uuid": "4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"uuid": "edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"uuid": "46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0b58ec9d-dbf1-40cf-8b4b-ab75fab2361b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0b58ec9d-dbf1-40cf-8b4b-ab75fab2361b",
+			"uuid": "0b58ec9d-dbf1-40cf-8b4b-ab75fab2361b",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO2/K/9",
+			"title": "Actuele bewegingsactiviteiten",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"uuid": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8394bf1a-6932-4a99-ae47-5eaa1ca7f75d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8394bf1a-6932-4a99-ae47-5eaa1ca7f75d",
+			"uuid": "8394bf1a-6932-4a99-ae47-5eaa1ca7f75d",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO1/K/9",
+			"title": "Actuele bewegingsactiviteiten",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"uuid": "60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"uuid": "ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e659b3dc-f4cf-4ccc-9c8b-c6c618811610",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e659b3dc-f4cf-4ccc-9c8b-c6c618811610",
+			"uuid": "e659b3dc-f4cf-4ccc-9c8b-c6c618811610",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "WI/K/4",
+			"title": "Algebraïsche verbanden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"uuid": "4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"uuid": "edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"uuid": "46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/481e2d36-2efb-40c0-b61a-466c281e1377",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/481e2d36-2efb-40c0-b61a-466c281e1377",
+			"uuid": "481e2d36-2efb-40c0-b61a-466c281e1377",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "ML2/V/1",
+			"title": "Analyse maatschappelijk vraagstuk",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"uuid": "17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"uuid": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7232c85e-ad9b-4122-8f8d-d9488e2a909c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7232c85e-ad9b-4122-8f8d-d9488e2a909c",
+			"uuid": "7232c85e-ad9b-4122-8f8d-d9488e2a909c",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EC/K/5B",
+			"title": "Arbeid en bedrijfsleven",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"uuid": "db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"uuid": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"title": "Examenprogramma economie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"uuid": "adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d2453620-4a7e-4f6a-bd7f-42e02ad291d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d2453620-4a7e-4f6a-bd7f-42e02ad291d1",
+			"uuid": "d2453620-4a7e-4f6a-bd7f-42e02ad291d1",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EC/K/5A",
+			"title": "Arbeid en productie",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"uuid": "db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"uuid": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"title": "Examenprogramma economie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"uuid": "adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/846069d0-5ed3-4201-8b6e-604a1fe6d96b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/846069d0-5ed3-4201-8b6e-604a1fe6d96b",
+			"uuid": "846069d0-5ed3-4201-8b6e-604a1fe6d96b",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/K/7",
+			"title": "Arm en rijk",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ed5a93b9-4dd6-4d39-b44b-59f12f6b87fb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ed5a93b9-4dd6-4d39-b44b-59f12f6b87fb",
+			"uuid": "ed5a93b9-4dd6-4d39-b44b-59f12f6b87fb",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO2/K/7",
+			"title": "Atletiek",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"uuid": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/70212cde-34d9-490c-a279-bfde65f6e526",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/70212cde-34d9-490c-a279-bfde65f6e526",
+			"uuid": "70212cde-34d9-490c-a279-bfde65f6e526",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO1/K/7",
+			"title": "Atletiek",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"uuid": "60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"uuid": "ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7effef8d-32dc-431e-83e3-8d339ef8d7ef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7effef8d-32dc-431e-83e3-8d339ef8d7ef",
+			"uuid": "7effef8d-32dc-431e-83e3-8d339ef8d7ef",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NASK2/K/10",
+			"title": "Basischemie voor vervolgopleiding en beroep",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"uuid": "53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"uuid": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ff2b12cd-f333-4654-adb3-176332b11a45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff2b12cd-f333-4654-adb3-176332b11a45",
+			"uuid": "ff2b12cd-f333-4654-adb3-176332b11a45",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "WI/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"uuid": "4922f8be-f5db-4648-8fe0-f88b4845da68",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"uuid": "edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"uuid": "46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+					"title": "Examenprogramma Wiskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/19df9d0a-44c2-443f-967e-5041001d980a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/19df9d0a-44c2-443f-967e-5041001d980a",
+			"uuid": "19df9d0a-44c2-443f-967e-5041001d980a",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NE/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/21c29f89-310c-4584-80fc-430425279937",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21c29f89-310c-4584-80fc-430425279937",
+					"uuid": "21c29f89-310c-4584-80fc-430425279937",
+					"title": "Examenprogramma Nederlandse taal vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3da5315b-0db1-4943-a946-aa09a46061c1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3da5315b-0db1-4943-a946-aa09a46061c1",
+					"uuid": "3da5315b-0db1-4943-a946-aa09a46061c1",
+					"title": "Examenprogramma nederlandse taal vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/59316717-c3c2-4b18-a219-1983d64dfeaf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/59316717-c3c2-4b18-a219-1983d64dfeaf",
+					"uuid": "59316717-c3c2-4b18-a219-1983d64dfeaf",
+					"title": "Examenprogramma Nederlandse taal vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d52367f5-c5ed-4883-9616-51722e022ead",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d52367f5-c5ed-4883-9616-51722e022ead",
+			"uuid": "d52367f5-c5ed-4883-9616-51722e022ead",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NASK2/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"uuid": "53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"uuid": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/82c10d57-2b3b-46dd-84e1-7e96c83e1348",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/82c10d57-2b3b-46dd-84e1-7e96c83e1348",
+			"uuid": "82c10d57-2b3b-46dd-84e1-7e96c83e1348",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NASK1/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"uuid": "d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"title": "Examenprogramma Natuur- en scheikunde I vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"uuid": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"title": "Examenprogramma natuur- en scheikunde I vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"uuid": "5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"title": "Examenprogramma Natuur- en scheikunde I vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b1353329-9e18-4caf-ac1e-fa1539095496",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1353329-9e18-4caf-ac1e-fa1539095496",
+			"uuid": "b1353329-9e18-4caf-ac1e-fa1539095496",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MU/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+					"uuid": "f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+					"title": "Examenprogramma Muziek vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/340236bd-8944-4768-8361-7f0c5d349eb4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/340236bd-8944-4768-8361-7f0c5d349eb4",
+					"uuid": "340236bd-8944-4768-8361-7f0c5d349eb4",
+					"title": "Examenprogramma muziek vmbo gl/tl",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8ee23adb-1f87-4fe7-8ca4-7bb464205859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ee23adb-1f87-4fe7-8ca4-7bb464205859",
+					"uuid": "8ee23adb-1f87-4fe7-8ca4-7bb464205859",
+					"title": "Examenprogramma Muziek vmbo gl/tl",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7c2aa44-8739-4bf0-97eb-216603722ce0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7c2aa44-8739-4bf0-97eb-216603722ce0",
+					"uuid": "f7c2aa44-8739-4bf0-97eb-216603722ce0",
+					"title": "Examenprogramma Muziek vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/63d95f1b-666f-44c6-bfc6-280dc62d3bff",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63d95f1b-666f-44c6-bfc6-280dc62d3bff",
+			"uuid": "63d95f1b-666f-44c6-bfc6-280dc62d3bff",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "ML1/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"uuid": "7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"title": "Examenprogramma Maatschappijleer vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"uuid": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"title": "Examenprogramma Maatschappijleer vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
+			"uuid": "6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "ML2/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"uuid": "17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"uuid": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c5b6be3f-c802-4aa9-8138-b46fdcb8e991",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c5b6be3f-c802-4aa9-8138-b46fdcb8e991",
+			"uuid": "c5b6be3f-c802-4aa9-8138-b46fdcb8e991",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO2/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"uuid": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e66d735b-0a79-4734-9062-6152f3cc9e57",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e66d735b-0a79-4734-9062-6152f3cc9e57",
+			"uuid": "e66d735b-0a79-4734-9062-6152f3cc9e57",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO1/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"uuid": "60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"uuid": "ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1867605e-8398-452f-a4dd-c599b5b73671",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1867605e-8398-452f-a4dd-c599b5b73671",
+			"uuid": "1867605e-8398-452f-a4dd-c599b5b73671",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "CKV/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+					"uuid": "e21918e9-207a-48d6-b3c5-490426ee7675",
+					"title": "Examenprogramma Kunstvakken incl. CKV vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdd3e66f-17df-4a0c-9496-89efae7dffef",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdd3e66f-17df-4a0c-9496-89efae7dffef",
+					"uuid": "cdd3e66f-17df-4a0c-9496-89efae7dffef",
+					"title": "Examenprogramma kunstvakken incl. CKV",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2321a6fc-8da2-4117-8ec3-204cae78d76e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2321a6fc-8da2-4117-8ec3-204cae78d76e",
+			"uuid": "2321a6fc-8da2-4117-8ec3-204cae78d76e",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"uuid": "fa44372f-c748-4ad3-94a2-267811b057cd",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"uuid": "0af05781-3b4e-4137-9f16-cb700db72b88",
+					"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"uuid": "5fbc4877-8077-4404-988b-f623203730a2",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"uuid": "22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+			"uuid": "2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "FA/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63",
+					"uuid": "0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63",
+					"title": "Examenprogramma Moderne vreemde talen Frans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/803fe798-4884-4e69-94b9-fc0364989e95",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/803fe798-4884-4e69-94b9-fc0364989e95",
+					"uuid": "803fe798-4884-4e69-94b9-fc0364989e95",
+					"title": "Examenprogramma Moderne vreemde talen Frans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b32da233-4e5a-46e0-9f68-45ced41b7a3e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b32da233-4e5a-46e0-9f68-45ced41b7a3e",
+			"uuid": "b32da233-4e5a-46e0-9f68-45ced41b7a3e",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EN/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5917efb3-d24a-48da-93a5-e8d5b09fa1d5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5917efb3-d24a-48da-93a5-e8d5b09fa1d5",
+					"uuid": "5917efb3-d24a-48da-93a5-e8d5b09fa1d5",
+					"title": "Examenprogramma Moderne vreemde talen Engels vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
+					"uuid": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
+					"title": "Examenprogramma engelse taal vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/51b44493-004b-4b9a-aa90-a83d6155561f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51b44493-004b-4b9a-aa90-a83d6155561f",
+					"uuid": "51b44493-004b-4b9a-aa90-a83d6155561f",
+					"title": "Examenprogramma Moderne vreemde talen Engels vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ea7cacc2-2251-47c1-8ecd-34878f3ef8a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea7cacc2-2251-47c1-8ecd-34878f3ef8a4",
+			"uuid": "ea7cacc2-2251-47c1-8ecd-34878f3ef8a4",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EC/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"uuid": "db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"uuid": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"title": "Examenprogramma economie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"uuid": "adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dbbb3a43-5edc-486b-991d-d099f24dd1c7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbbb3a43-5edc-486b-991d-d099f24dd1c7",
+			"uuid": "dbbb3a43-5edc-486b-991d-d099f24dd1c7",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DU/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dee5d094-e5b1-4194-b28a-403a67e5e022",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dee5d094-e5b1-4194-b28a-403a67e5e022",
+					"uuid": "dee5d094-e5b1-4194-b28a-403a67e5e022",
+					"title": "Examenprogramma Moderne vreemde talen Duits vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2e58a2e2-3332-4cd4-a39d-9205f36a50db",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e58a2e2-3332-4cd4-a39d-9205f36a50db",
+					"uuid": "2e58a2e2-3332-4cd4-a39d-9205f36a50db",
+					"title": "Examenprogramma Moderne vreemde talen Duits vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3adf1a30-893c-4b64-9446-9383d0d5d6bf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3adf1a30-893c-4b64-9446-9383d0d5d6bf",
+			"uuid": "3adf1a30-893c-4b64-9446-9383d0d5d6bf",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DR/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df738bb7-830e-404c-9ec5-63792743785e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df738bb7-830e-404c-9ec5-63792743785e",
+					"uuid": "df738bb7-830e-404c-9ec5-63792743785e",
+					"title": "Examenprogramma Drama vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d10201e5-a936-45cb-b8a8-36f576d78b77",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d10201e5-a936-45cb-b8a8-36f576d78b77",
+					"uuid": "d10201e5-a936-45cb-b8a8-36f576d78b77",
+					"title": "Examenprogramma drama vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/57f3047b-dd0a-4f36-9877-d050aef50835",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/57f3047b-dd0a-4f36-9877-d050aef50835",
+					"uuid": "57f3047b-dd0a-4f36-9877-d050aef50835",
+					"title": "Examenprogramma Drama vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da4d44a7-aee6-45ca-8578-5c6b4a30aa44",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da4d44a7-aee6-45ca-8578-5c6b4a30aa44",
+			"uuid": "da4d44a7-aee6-45ca-8578-5c6b4a30aa44",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DA/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"uuid": "0041d030-6688-49b3-8f64-8f0d2c199179",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"uuid": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"title": "Examenprogramma dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"uuid": "6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"uuid": "04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3778cff-e8e1-4092-b9d9-7c47bd6652d4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3778cff-e8e1-4092-b9d9-7c47bd6652d4",
+			"uuid": "a3778cff-e8e1-4092-b9d9-7c47bd6652d4",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BIO/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"uuid": "f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/68defffd-aaa5-49c9-86c2-45c36b18c37c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/68defffd-aaa5-49c9-86c2-45c36b18c37c",
+					"uuid": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
+					"title": "Examenprogramma biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f3f8286-43ab-4978-830d-9b169c84e991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f3f8286-43ab-4978-830d-9b169c84e991",
+					"uuid": "0f3f8286-43ab-4978-830d-9b169c84e991",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"uuid": "e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"uuid": "2a899285-4990-4942-b64a-d1aec6090bfd",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6d811442-ea28-471c-a960-c9f2fa5dd288",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d811442-ea28-471c-a960-c9f2fa5dd288",
+			"uuid": "6d811442-ea28-471c-a960-c9f2fa5dd288",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BV/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"uuid": "60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"uuid": "98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"uuid": "44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/beb15b5d-d2b1-4487-b700-2a349e498587",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/beb15b5d-d2b1-4487-b700-2a349e498587",
+			"uuid": "beb15b5d-d2b1-4487-b700-2a349e498587",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/88dddd78-8e31-4867-bd6c-6801949c012c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/88dddd78-8e31-4867-bd6c-6801949c012c",
+			"uuid": "88dddd78-8e31-4867-bd6c-6801949c012c",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "TU/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d364c573-39de-476e-aa0d-a272b26e0841",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d364c573-39de-476e-aa0d-a272b26e0841",
+					"uuid": "d364c573-39de-476e-aa0d-a272b26e0841",
+					"title": "Examenprogramma Moderne vreemde talen Turks vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/986b8af5-7495-41d3-8764-43053750ebcd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/986b8af5-7495-41d3-8764-43053750ebcd",
+					"uuid": "986b8af5-7495-41d3-8764-43053750ebcd",
+					"title": "Examenprogramma Moderne vreemde talen Turks vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8274266c-2556-46a6-a606-da505ad509e8",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8274266c-2556-46a6-a606-da505ad509e8",
+					"uuid": "8274266c-2556-46a6-a606-da505ad509e8",
+					"title": "Examenprogramma Moderne vreemde talen Turks vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4f9e33b0-f0ee-4276-90fb-a76e6b96962d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4f9e33b0-f0ee-4276-90fb-a76e6b96962d",
+			"uuid": "4f9e33b0-f0ee-4276-90fb-a76e6b96962d",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AR/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d82fbdd4-4d2f-490f-8c49-b75d0647b153",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d82fbdd4-4d2f-490f-8c49-b75d0647b153",
+					"uuid": "d82fbdd4-4d2f-490f-8c49-b75d0647b153",
+					"title": "Examenprogramma Moderne vreemde talen Arabisch vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c44ed430-460f-4103-98ee-bd1fd011d6f4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c44ed430-460f-4103-98ee-bd1fd011d6f4",
+					"uuid": "c44ed430-460f-4103-98ee-bd1fd011d6f4",
+					"title": "Examenprogramma Moderne vreemde talen Arabisch vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/821c5fee-1b34-466b-b6e5-9f202c685cd3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/821c5fee-1b34-466b-b6e5-9f202c685cd3",
+					"uuid": "821c5fee-1b34-466b-b6e5-9f202c685cd3",
+					"title": "Examenprogramma Moderne vreemde talen Arabisch vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2435d263-6129-484c-979f-dec4cdbce2ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2435d263-6129-484c-979f-dec4cdbce2ee",
+			"uuid": "2435d263-6129-484c-979f-dec4cdbce2ee",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "SP/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6974b666-1a32-4acb-aa62-ae13fc73145a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6974b666-1a32-4acb-aa62-ae13fc73145a",
+					"uuid": "6974b666-1a32-4acb-aa62-ae13fc73145a",
+					"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/787ab014-814b-436d-bd51-faa7ddf8eea4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/787ab014-814b-436d-bd51-faa7ddf8eea4",
+					"uuid": "787ab014-814b-436d-bd51-faa7ddf8eea4",
+					"title": "Examenprogramma Spaanse taal vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/053d8c12-a648-4c32-a941-f4626c57f624",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/053d8c12-a648-4c32-a941-f4626c57f624",
+					"uuid": "053d8c12-a648-4c32-a941-f4626c57f624",
+					"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+			"uuid": "9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "FR/K/2",
+			"title": "Basisvaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8600316-fcfb-4357-8e2d-4b707f0ff9c6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8600316-fcfb-4357-8e2d-4b707f0ff9c6",
+					"uuid": "f8600316-fcfb-4357-8e2d-4b707f0ff9c6",
+					"title": "Examenprogramma Friese taal en cultuur vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b15aa61b-37e4-4454-b510-fe358565faa3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b15aa61b-37e4-4454-b510-fe358565faa3",
+					"uuid": "b15aa61b-37e4-4454-b510-fe358565faa3",
+					"title": "Examenprogramma Friese taal en cultuur vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4fe2443f-ed9d-40f9-90c1-d58511f617db",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4fe2443f-ed9d-40f9-90c1-d58511f617db",
+					"uuid": "4fe2443f-ed9d-40f9-90c1-d58511f617db",
+					"title": "Examenprogramma Friese taal en cultuur vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ff966b62-8dc9-4b91-ac03-0b0b1d49e7ea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff966b62-8dc9-4b91-ac03-0b0b1d49e7ea",
+			"uuid": "ff966b62-8dc9-4b91-ac03-0b0b1d49e7ea",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BV/K/4",
+			"title": "Beeldend werk, productief",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"uuid": "60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"uuid": "98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"uuid": "44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7f111e95-277e-4bc1-b58f-18084889f921",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f111e95-277e-4bc1-b58f-18084889f921",
+			"uuid": "7f111e95-277e-4bc1-b58f-18084889f921",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "ML1/K/7",
+			"title": "Beeldvorming en stereotypering",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"uuid": "7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"title": "Examenprogramma Maatschappijleer vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"uuid": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"title": "Examenprogramma Maatschappijleer vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e3ed90c-7c18-4930-8d7f-8c636933b346",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e3ed90c-7c18-4930-8d7f-8c636933b346",
+			"uuid": "9e3ed90c-7c18-4930-8d7f-8c636933b346",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MU/K/7",
+			"title": "Beluisteren",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+					"uuid": "f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+					"title": "Examenprogramma Muziek vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/340236bd-8944-4768-8361-7f0c5d349eb4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/340236bd-8944-4768-8361-7f0c5d349eb4",
+					"uuid": "340236bd-8944-4768-8361-7f0c5d349eb4",
+					"title": "Examenprogramma muziek vmbo gl/tl",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8ee23adb-1f87-4fe7-8ca4-7bb464205859",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ee23adb-1f87-4fe7-8ca4-7bb464205859",
+					"uuid": "8ee23adb-1f87-4fe7-8ca4-7bb464205859",
+					"title": "Examenprogramma Muziek vmbo gl/tl",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7c2aa44-8739-4bf0-97eb-216603722ce0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7c2aa44-8739-4bf0-97eb-216603722ce0",
+					"uuid": "f7c2aa44-8739-4bf0-97eb-216603722ce0",
+					"title": "Examenprogramma Muziek vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5f80488-0e13-4a8f-9fb3-7715151efb5a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5f80488-0e13-4a8f-9fb3-7715151efb5a",
+			"uuid": "b5f80488-0e13-4a8f-9fb3-7715151efb5a",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO2/K/12",
+			"title": "Beroepspraktijkvorming",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"uuid": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
+			"uuid": "ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BIO/K/10",
+			"title": "Bescherming",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"uuid": "f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/68defffd-aaa5-49c9-86c2-45c36b18c37c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/68defffd-aaa5-49c9-86c2-45c36b18c37c",
+					"uuid": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
+					"title": "Examenprogramma biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0f3f8286-43ab-4978-830d-9b169c84e991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f3f8286-43ab-4978-830d-9b169c84e991",
+					"uuid": "0f3f8286-43ab-4978-830d-9b169c84e991",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"uuid": "e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"uuid": "2a899285-4990-4942-b64a-d1aec6090bfd",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ea9c5134-05f5-4b0e-9e50-7d144d3571e5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea9c5134-05f5-4b0e-9e50-7d144d3571e5",
+			"uuid": "ea9c5134-05f5-4b0e-9e50-7d144d3571e5",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BIO/V/1",
+			"title": "Bescherming en antistoffen",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"uuid": "f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"uuid": "e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"uuid": "2a899285-4990-4942-b64a-d1aec6090bfd",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3f8aca8-780d-42d1-ba84-42c0f77c8321",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3f8aca8-780d-42d1-ba84-42c0f77c8321",
+			"uuid": "d3f8aca8-780d-42d1-ba84-42c0f77c8321",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DR/K/7",
+			"title": "Beschouwen",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df738bb7-830e-404c-9ec5-63792743785e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df738bb7-830e-404c-9ec5-63792743785e",
+					"uuid": "df738bb7-830e-404c-9ec5-63792743785e",
+					"title": "Examenprogramma Drama vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d10201e5-a936-45cb-b8a8-36f576d78b77",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d10201e5-a936-45cb-b8a8-36f576d78b77",
+					"uuid": "d10201e5-a936-45cb-b8a8-36f576d78b77",
+					"title": "Examenprogramma drama vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/57f3047b-dd0a-4f36-9877-d050aef50835",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/57f3047b-dd0a-4f36-9877-d050aef50835",
+					"uuid": "57f3047b-dd0a-4f36-9877-d050aef50835",
+					"title": "Examenprogramma Drama vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cd12a322-97ac-4a3b-80f4-9c96fa09d0fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cd12a322-97ac-4a3b-80f4-9c96fa09d0fc",
+			"uuid": "cd12a322-97ac-4a3b-80f4-9c96fa09d0fc",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DA/K/7",
+			"title": "Beschouwen",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"uuid": "0041d030-6688-49b3-8f64-8f0d2c199179",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"uuid": "04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b75ccb90-50b2-41eb-9c18-f5c0e5f308ff",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b75ccb90-50b2-41eb-9c18-f5c0e5f308ff",
+			"uuid": "b75ccb90-50b2-41eb-9c18-f5c0e5f308ff",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BV/K/7",
+			"title": "Beschouwen - eigen werk, reflectief",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"uuid": "60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"uuid": "98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"uuid": "44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4eb60b1-b999-42bd-a3da-de640466dc79",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4eb60b1-b999-42bd-a3da-de640466dc79",
+			"uuid": "e4eb60b1-b999-42bd-a3da-de640466dc79",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BV/K/8",
+			"title": "Beschouwen - werk van anderen, reflectief",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"uuid": "60c62df4-0b67-4823-890a-85fc0fa35c34",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"uuid": "98074bac-0cd1-47df-86a4-c94e1084ba18",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"uuid": "44ec869a-0ad3-4066-a50e-573f716ab6d4",
+					"title": "Examenprogramma Beeldende vorming vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2ecb1097-7ab8-478c-8dbb-59c8db1cff37",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ecb1097-7ab8-478c-8dbb-59c8db1cff37",
+			"uuid": "2ecb1097-7ab8-478c-8dbb-59c8db1cff37",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/K/8",
+			"title": "Bevolking en ruimte",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/31e5c6f1-9c81-496f-baa9-cc330a97da2e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/31e5c6f1-9c81-496f-baa9-cc330a97da2e",
+			"uuid": "31e5c6f1-9c81-496f-baa9-cc330a97da2e",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO2/K/11",
+			"title": "Bewegen en samenleving en gezondheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"uuid": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/57c324d8-1721-4c1a-8d7d-f3d4346092a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/57c324d8-1721-4c1a-8d7d-f3d4346092a1",
+			"uuid": "57c324d8-1721-4c1a-8d7d-f3d4346092a1",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO2/K/6",
+			"title": "Bewegen op muziek",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"uuid": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2981c85-bf54-4d81-8aa2-a26456f21b7b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2981c85-bf54-4d81-8aa2-a26456f21b7b",
+			"uuid": "e2981c85-bf54-4d81-8aa2-a26456f21b7b",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO1/K/6",
+			"title": "Bewegen op muziek",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"uuid": "60bc0037-6f5d-4390-ad00-f1b8459a6418",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"uuid": "ef31ea11-caa0-4086-a75a-d791185c18c2",
+					"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4161d247-48f4-4f9b-af18-df8fe8f70481",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4161d247-48f4-4f9b-af18-df8fe8f70481",
+			"uuid": "4161d247-48f4-4f9b-af18-df8fe8f70481",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "LO2/K/10",
+			"title": "Bewegen regelen",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"uuid": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+					"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b34eff7-74ed-42bb-93e7-0d1028531d69",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b34eff7-74ed-42bb-93e7-0d1028531d69",
+			"uuid": "3b34eff7-74ed-42bb-93e7-0d1028531d69",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NASK1/K/10",
+			"title": "Bouw van de materie",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"uuid": "d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"title": "Examenprogramma Natuur- en scheikunde I vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"uuid": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"title": "Examenprogramma natuur- en scheikunde I vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"uuid": "5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"title": "Examenprogramma Natuur- en scheikunde I vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8e7b852b-fe53-46f5-a6c5-b6088414df16",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8e7b852b-fe53-46f5-a6c5-b6088414df16",
+			"uuid": "8e7b852b-fe53-46f5-a6c5-b6088414df16",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NASK2/K/11",
+			"title": "Bouw van materie",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"uuid": "53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"uuid": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9c811e4f-32e7-4f75-8d66-91e945a78cc2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c811e4f-32e7-4f75-8d66-91e945a78cc2",
+			"uuid": "9c811e4f-32e7-4f75-8d66-91e945a78cc2",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/K/5",
+			"title": "Bronnen van energie",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0bb5df5c-5cdd-4253-91f5-cff3c33f3b0e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0bb5df5c-5cdd-4253-91f5-cff3c33f3b0e",
+			"uuid": "0bb5df5c-5cdd-4253-91f5-cff3c33f3b0e",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/V/4",
+			"title": "Casus Arm en rijk: Arm en rijk en gezondheidszorg",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a80cd9d8-5988-4dcc-8893-378cc2324f29",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a80cd9d8-5988-4dcc-8893-378cc2324f29",
+			"uuid": "a80cd9d8-5988-4dcc-8893-378cc2324f29",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/V/5",
+			"title": "Casus Bevolking en ruimte: Bevolking en ruimte in grootstedelijke gebieden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/42b0e381-69fb-41c2-a993-5528fe1ad3e6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/42b0e381-69fb-41c2-a993-5528fe1ad3e6",
+			"uuid": "42b0e381-69fb-41c2-a993-5528fe1ad3e6",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/V/2",
+			"title": "Casus Bronnen van energie: Energiebeleid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dd648e89-2094-4f49-b198-93d7b7a18ce5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd648e89-2094-4f49-b198-93d7b7a18ce5",
+			"uuid": "dd648e89-2094-4f49-b198-93d7b7a18ce5",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/V/6",
+			"title": "Casus Grenzen en identiteit: Regionale identiteit",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c26aa86c-ec32-4454-9a28-6341a78eaa39",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c26aa86c-ec32-4454-9a28-6341a78eaa39",
+			"uuid": "c26aa86c-ec32-4454-9a28-6341a78eaa39",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/V/3",
+			"title": "Casus Water: Watermanagement",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8a6ac33a-58b3-48c2-bf4c-7e389d0711cb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a6ac33a-58b3-48c2-bf4c-7e389d0711cb",
+			"uuid": "8a6ac33a-58b3-48c2-bf4c-7e389d0711cb",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "AK/V/1",
+			"title": "Casus Weer en klimaat: Extreme weersomstandigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bf1d5bf2-1903-477c-8fed-25a3f39e1691",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bf1d5bf2-1903-477c-8fed-25a3f39e1691",
+			"uuid": "bf1d5bf2-1903-477c-8fed-25a3f39e1691",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "BIO/K/4",
+			"title": "Cellen staan aan de basis",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"uuid": "f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"uuid": "e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+					"uuid": "2a899285-4990-4942-b64a-d1aec6090bfd",
+					"title": "Examenprogramma Biologie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6543ca49-cdfa-499d-8c93-985ee0d65514",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6543ca49-cdfa-499d-8c93-985ee0d65514",
+			"uuid": "6543ca49-cdfa-499d-8c93-985ee0d65514",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NASK2/K/9",
+			"title": "Chemie en industrie",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"uuid": "53d18369-25e4-4dc4-8be6-bc059dbe117e",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"uuid": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
+					"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2d7279c1-7fe8-4fa2-9ce4-9d20294cc706",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2d7279c1-7fe8-4fa2-9ce4-9d20294cc706",
+			"uuid": "2d7279c1-7fe8-4fa2-9ce4-9d20294cc706",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NASK1/V/2",
+			"title": "Constructies",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"uuid": "d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+					"title": "Examenprogramma Natuur- en scheikunde I vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"uuid": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+					"title": "Examenprogramma natuur- en scheikunde I vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"uuid": "5d903c60-d498-4cf1-9b12-29397ba79d56",
+					"title": "Examenprogramma Natuur- en scheikunde I vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/71991e0d-6a4e-4b60-a5dd-59c089e5d0c9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71991e0d-6a4e-4b60-a5dd-59c089e5d0c9",
+			"uuid": "71991e0d-6a4e-4b60-a5dd-59c089e5d0c9",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EC/K/4A",
+			"title": "Consumptie",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"uuid": "db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"uuid": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"title": "Examenprogramma economie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"uuid": "adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4f5243e8-f001-4620-86b8-cb8cd5b6ccdd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4f5243e8-f001-4620-86b8-cb8cd5b6ccdd",
+			"uuid": "4f5243e8-f001-4620-86b8-cb8cd5b6ccdd",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EC/K/4B",
+			"title": "Consumptie en consumentenorganisaties",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"uuid": "db841ddf-975e-4a36-8581-ee1f4d449bfe",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"uuid": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
+					"title": "Examenprogramma economie vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"uuid": "adf337ad-8430-4c4c-b999-c855b2b5ff40",
+					"title": "Examenprogramma Economie vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cfe1c804-2761-4441-a6f4-4b443109be53",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfe1c804-2761-4441-a6f4-4b443109be53",
+			"uuid": "cfe1c804-2761-4441-a6f4-4b443109be53",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "ML2/K/8",
+			"title": "Criminaliteit en rechtsstaat",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"uuid": "17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"uuid": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ab531ebe-be2e-4392-a10b-7142f2606dd7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab531ebe-be2e-4392-a10b-7142f2606dd7",
+			"uuid": "ab531ebe-be2e-4392-a10b-7142f2606dd7",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/K/8",
+			"title": "Cultureel - mentale ontwikkelingen in Nederland na 1945",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"uuid": "fa44372f-c748-4ad3-94a2-267811b057cd",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"uuid": "0af05781-3b4e-4137-9f16-cb700db72b88",
+					"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"uuid": "5fbc4877-8077-4404-988b-f623203730a2",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"uuid": "22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/085d26de-1ca2-4ade-b6bf-1e4c1bae331f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/085d26de-1ca2-4ade-b6bf-1e4c1bae331f",
+			"uuid": "085d26de-1ca2-4ade-b6bf-1e4c1bae331f",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "CKV/K/3",
+			"title": "Culturele en kunstzinnige vorming en verdieping",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+					"uuid": "e21918e9-207a-48d6-b3c5-490426ee7675",
+					"title": "Examenprogramma Kunstvakken incl. CKV vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cdd3e66f-17df-4a0c-9496-89efae7dffef",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdd3e66f-17df-4a0c-9496-89efae7dffef",
+					"uuid": "cdd3e66f-17df-4a0c-9496-89efae7dffef",
+					"title": "Examenprogramma kunstvakken incl. CKV",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/028f1ba8-ff7d-4d5d-917b-4f6e038808fd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/028f1ba8-ff7d-4d5d-917b-4f6e038808fd",
+			"uuid": "028f1ba8-ff7d-4d5d-917b-4f6e038808fd",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "ML1/K/4",
+			"title": "Cultuur en socialisatie",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"uuid": "7944805b-458b-4b37-8f04-6e23dc428b0a",
+					"title": "Examenprogramma Maatschappijleer vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"uuid": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+					"title": "Examenprogramma Maatschappijleer vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7c80da1b-cbfe-49c9-951b-4c7179318d5a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c80da1b-cbfe-49c9-951b-4c7179318d5a",
+			"uuid": "7c80da1b-cbfe-49c9-951b-4c7179318d5a",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DA/K/9",
+			"title": "Dans en andere kunsten",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"uuid": "0041d030-6688-49b3-8f64-8f0d2c199179",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"uuid": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"title": "Examenprogramma dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"uuid": "6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"uuid": "04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9fb3700-38c6-445a-be4f-08008a05e66f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9fb3700-38c6-445a-be4f-08008a05e66f",
+			"uuid": "a9fb3700-38c6-445a-be4f-08008a05e66f",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DA/K/8",
+			"title": "Dans en maatschappij",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"uuid": "0041d030-6688-49b3-8f64-8f0d2c199179",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"uuid": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"title": "Examenprogramma dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"uuid": "6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"uuid": "04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bbbcf319-e29c-42d1-9a44-cb6a99cf1fea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bbbcf319-e29c-42d1-9a44-cb6a99cf1fea",
+			"uuid": "bbbcf319-e29c-42d1-9a44-cb6a99cf1fea",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "DA/K/4",
+			"title": "Dansen",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+					"uuid": "0041d030-6688-49b3-8f64-8f0d2c199179",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"uuid": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+					"title": "Examenprogramma dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"uuid": "6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"uuid": "04904430-aa3e-4c97-8c0d-ce76d2415d24",
+					"title": "Examenprogramma Dans vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cb156201-8593-419a-bffb-f6ce3186111f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb156201-8593-419a-bffb-f6ce3186111f",
+			"uuid": "cb156201-8593-419a-bffb-f6ce3186111f",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/K/9",
+			"title": "De Koude Oorlog",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"uuid": "fa44372f-c748-4ad3-94a2-267811b057cd",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"uuid": "0af05781-3b4e-4137-9f16-cb700db72b88",
+					"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"uuid": "5fbc4877-8077-4404-988b-f623203730a2",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"uuid": "22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/88ffb1cf-9f70-4996-a3e0-592ea001ca03",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/88ffb1cf-9f70-4996-a3e0-592ea001ca03",
+			"uuid": "88ffb1cf-9f70-4996-a3e0-592ea001ca03",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/K/6",
+			"title": "De industriële samenleving in Nederland",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"uuid": "fa44372f-c748-4ad3-94a2-267811b057cd",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"uuid": "0af05781-3b4e-4137-9f16-cb700db72b88",
+					"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"uuid": "5fbc4877-8077-4404-988b-f623203730a2",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"uuid": "22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/714f8ac9-9d18-4128-a296-8ddd65949131",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/714f8ac9-9d18-4128-a296-8ddd65949131",
+			"uuid": "714f8ac9-9d18-4128-a296-8ddd65949131",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/K/4",
+			"title": "De koloniale relatie Indonesië - Nederland",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"uuid": "fa44372f-c748-4ad3-94a2-267811b057cd",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"uuid": "0af05781-3b4e-4137-9f16-cb700db72b88",
+					"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"uuid": "5fbc4877-8077-4404-988b-f623203730a2",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"uuid": "22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/73efa9b7-d925-4435-ad41-57c9e5fa09c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73efa9b7-d925-4435-ad41-57c9e5fa09c1",
+			"uuid": "73efa9b7-d925-4435-ad41-57c9e5fa09c1",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "ML2/K/6",
+			"title": "De multiculturele samenleving",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"uuid": "17f035f8-84cd-4b75-88fd-6a638d943e9c",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"uuid": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+					"title": "Examenprogramma Maatschappijkunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
+			"uuid": "2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/V/3",
+			"title": "De verhouding mens - milieu",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+					"uuid": "fa44372f-c748-4ad3-94a2-267811b057cd",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0af05781-3b4e-4137-9f16-cb700db72b88",
+					"uuid": "0af05781-3b4e-4137-9f16-cb700db72b88",
+					"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5fbc4877-8077-4404-988b-f623203730a2",
+					"uuid": "5fbc4877-8077-4404-988b-f623203730a2",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"uuid": "22645894-4ffd-4655-8aa4-4f175b9b4524",
+					"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d1a10e98-9264-476c-a714-38fd316dddad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d1a10e98-9264-476c-a714-38fd316dddad",
+			"uuid": "d1a10e98-9264-476c-a714-38fd316dddad",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EC/H/DomeinA",
+			"title": "Domein A Vaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a2530725-8304-4601-9084-629b02f5dd51",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a2530725-8304-4601-9084-629b02f5dd51",
+					"uuid": "a2530725-8304-4601-9084-629b02f5dd51",
+					"title": "Examenprogramma Economie havo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/19748c0d-2656-49e3-b7d2-3f2bed019aa6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/19748c0d-2656-49e3-b7d2-3f2bed019aa6",
+					"uuid": "19748c0d-2656-49e3-b7d2-3f2bed019aa6",
+					"title": "Examenprogramma Economie havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fe791e8a-00a9-4d9a-a742-b896a23e15c9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe791e8a-00a9-4d9a-a742-b896a23e15c9",
+			"uuid": "fe791e8a-00a9-4d9a-a742-b896a23e15c9",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "EC/V/DomeinA",
+			"title": "Domein A Vaardigheden",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3e305b9f-384c-429b-b545-1996766e197a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3e305b9f-384c-429b-b545-1996766e197a",
+					"uuid": "3e305b9f-384c-429b-b545-1996766e197a",
+					"title": "Examenprogramma Economie vwo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b2b3697b-b990-4fec-9cc3-f476039a0f80",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b2b3697b-b990-4fec-9cc3-f476039a0f80",
+					"uuid": "b2b3697b-b990-4fec-9cc3-f476039a0f80",
+					"title": "Examenprogramma Economie vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f343dc00-9fcd-4174-95a7-8bb757f9a224",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f343dc00-9fcd-4174-95a7-8bb757f9a224",
+			"uuid": "f343dc00-9fcd-4174-95a7-8bb757f9a224",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/V/DomeinA",
+			"title": "Domein A: Historisch besef",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/abc5e4b4-05c2-4821-a072-22b6306abe6f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abc5e4b4-05c2-4821-a072-22b6306abe6f",
+					"uuid": "abc5e4b4-05c2-4821-a072-22b6306abe6f",
+					"title": "Examenprogramma Geschiedenis vwo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0d5794f9-2de5-4eef-a101-29ae65cf9385",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d5794f9-2de5-4eef-a101-29ae65cf9385",
+					"uuid": "0d5794f9-2de5-4eef-a101-29ae65cf9385",
+					"title": "Examenprogramma Geschiedenis vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ab5ce7b8-1c2c-4762-be50-f0f986b1afb2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab5ce7b8-1c2c-4762-be50-f0f986b1afb2",
+			"uuid": "ab5ce7b8-1c2c-4762-be50-f0f986b1afb2",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "GS/H/DomeinA",
+			"title": "Domein A: Historisch besef",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b185befa-5240-4a61-847a-7e564c0200bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b185befa-5240-4a61-847a-7e564c0200bf",
+					"uuid": "b185befa-5240-4a61-847a-7e564c0200bf",
+					"title": "Examenprogramma Geschiedenis havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d47bd2c0-a8cc-4276-b3f8-3c2a6b066219",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d47bd2c0-a8cc-4276-b3f8-3c2a6b066219",
+			"uuid": "d47bd2c0-a8cc-4276-b3f8-3c2a6b066219",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "CTC/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/da9fe3a7-c53f-4e2e-a867-6928720a2528",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da9fe3a7-c53f-4e2e-a867-6928720a2528",
+					"uuid": "da9fe3a7-c53f-4e2e-a867-6928720a2528",
+					"title": "Examenprogramma Moderne vreemde talen Chinese taal en cultuur vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97",
+			"uuid": "1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/RU/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/89e6ba6d-f3cb-4650-8c29-06b18e597221",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89e6ba6d-f3cb-4650-8c29-06b18e597221",
+					"uuid": "89e6ba6d-f3cb-4650-8c29-06b18e597221",
+					"title": "Examenprogramma Moderne vreemde talen Russisch vwo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3",
+					"uuid": "3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3",
+					"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch havo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/17fd3fa2-df89-4296-a34f-fc9302284659",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17fd3fa2-df89-4296-a34f-fc9302284659",
+					"uuid": "17fd3fa2-df89-4296-a34f-fc9302284659",
+					"title": "Examenprogramma Moderne vreemde talen Russisch vwo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/02232950-2959-4d7d-abbc-9f184ee4d942",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02232950-2959-4d7d-abbc-9f184ee4d942",
+			"uuid": "02232950-2959-4d7d-abbc-9f184ee4d942",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/SP/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/02370357-c94e-4b52-a261-b659a82f5700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02370357-c94e-4b52-a261-b659a82f5700",
+					"uuid": "02370357-c94e-4b52-a261-b659a82f5700",
+					"title": "Examenprogramma Moderne vreemde talen Spaans havo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/129ba6cd-7884-4fbb-9b4f-7abbec127976",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/129ba6cd-7884-4fbb-9b4f-7abbec127976",
+					"uuid": "129ba6cd-7884-4fbb-9b4f-7abbec127976",
+					"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans havo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/77043c42-2941-4ecf-9e83-b66258f36301",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/77043c42-2941-4ecf-9e83-b66258f36301",
+			"uuid": "77043c42-2941-4ecf-9e83-b66258f36301",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/IT/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
+					"uuid": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
+					"title": "Examenprogramma Moderne vreemde talen Italiaans vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/570352c8-86d8-4d8a-9270-052b71ee8f99",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/570352c8-86d8-4d8a-9270-052b71ee8f99",
+			"uuid": "570352c8-86d8-4d8a-9270-052b71ee8f99",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/IT/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4271e75e-53f5-4a60-932e-9f7719b0971b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4271e75e-53f5-4a60-932e-9f7719b0971b",
+					"uuid": "4271e75e-53f5-4a60-932e-9f7719b0971b",
+					"title": "Examenprogramma Moderne vreemde talen Italiaans havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/23ff6134-2568-4d26-bccc-cd0303b92e86",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23ff6134-2568-4d26-bccc-cd0303b92e86",
+			"uuid": "23ff6134-2568-4d26-bccc-cd0303b92e86",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/EN/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5d204169-3130-4065-9e3a-e615e7069e85",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d204169-3130-4065-9e3a-e615e7069e85",
+					"uuid": "5d204169-3130-4065-9e3a-e615e7069e85",
+					"title": "Examenprogramma Moderne vreemde talen Engels havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/126cbc57-b3a8-4e3c-a2f5-f4d295430761",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/126cbc57-b3a8-4e3c-a2f5-f4d295430761",
+			"uuid": "126cbc57-b3a8-4e3c-a2f5-f4d295430761",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/DUI/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f69eb17a-edd0-4ca5-8061-ff2037db0686",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f69eb17a-edd0-4ca5-8061-ff2037db0686",
+					"uuid": "f69eb17a-edd0-4ca5-8061-ff2037db0686",
+					"title": "Examenprogramma Moderne vreemde talen Duits vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e6bb1c1e-a0e9-41a1-8d29-aeb0dad6db41",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e6bb1c1e-a0e9-41a1-8d29-aeb0dad6db41",
+			"uuid": "e6bb1c1e-a0e9-41a1-8d29-aeb0dad6db41",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/FA/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/467b67bf-1333-42c5-94f7-e0db714ff6f6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/467b67bf-1333-42c5-94f7-e0db714ff6f6",
+					"uuid": "467b67bf-1333-42c5-94f7-e0db714ff6f6",
+					"title": "Examenprogramma Moderne vreemde talen Frans havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/37f75482-647e-438f-ac0d-3f10de767dc4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/37f75482-647e-438f-ac0d-3f10de767dc4",
+			"uuid": "37f75482-647e-438f-ac0d-3f10de767dc4",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/FA/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/de5f51ea-581f-45b4-90d0-d95a0d474433",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de5f51ea-581f-45b4-90d0-d95a0d474433",
+					"uuid": "de5f51ea-581f-45b4-90d0-d95a0d474433",
+					"title": "Examenprogramma Moderne vreemde talen Frans vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01108939-0541-4d52-9b25-f45d9c4ceea2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01108939-0541-4d52-9b25-f45d9c4ceea2",
+			"uuid": "01108939-0541-4d52-9b25-f45d9c4ceea2",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/DUI/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/533d6054-2a6f-46fc-86c9-eded2d404e95",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/533d6054-2a6f-46fc-86c9-eded2d404e95",
+					"uuid": "533d6054-2a6f-46fc-86c9-eded2d404e95",
+					"title": "Examenprogramma Moderne vreemde talen Duits havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c9462d9-9fe6-47c9-aab3-cf21ce5e1ffe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c9462d9-9fe6-47c9-aab3-cf21ce5e1ffe",
+			"uuid": "3c9462d9-9fe6-47c9-aab3-cf21ce5e1ffe",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/EN/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c709e281-d159-4053-9ee6-8b3a5968c34d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c709e281-d159-4053-9ee6-8b3a5968c34d",
+					"uuid": "c709e281-d159-4053-9ee6-8b3a5968c34d",
+					"title": "Examenprogramma Moderne vreemde talen Engels vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cb8b0a4d-4098-4f05-b95a-05405eaf5e40",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb8b0a4d-4098-4f05-b95a-05405eaf5e40",
+			"uuid": "cb8b0a4d-4098-4f05-b95a-05405eaf5e40",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/RU/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b4ec9212-3a33-48c0-aeab-b0b5a9730b37",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b4ec9212-3a33-48c0-aeab-b0b5a9730b37",
+					"uuid": "b4ec9212-3a33-48c0-aeab-b0b5a9730b37",
+					"title": "Examenprogramma Moderne vreemde talen Russisch havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/867285db-ee7e-4822-8b20-80be3c3cba03",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/867285db-ee7e-4822-8b20-80be3c3cba03",
+			"uuid": "867285db-ee7e-4822-8b20-80be3c3cba03",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/AR/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7c8e81ab-8f47-4537-a62d-a26f82af0e08",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c8e81ab-8f47-4537-a62d-a26f82af0e08",
+					"uuid": "7c8e81ab-8f47-4537-a62d-a26f82af0e08",
+					"title": "Examenprogramma Moderne vreemde talen Arabisch vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f2749722-689a-4acb-9c28-eccc08d6362c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f2749722-689a-4acb-9c28-eccc08d6362c",
+			"uuid": "f2749722-689a-4acb-9c28-eccc08d6362c",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/AR/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/02599883-e3e1-4ac4-b79f-968104b4d334",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02599883-e3e1-4ac4-b79f-968104b4d334",
+					"uuid": "02599883-e3e1-4ac4-b79f-968104b4d334",
+					"title": "Examenprogramma Moderne vreemde talen Arabisch havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5f9e4192-fe41-4e50-bf4b-d5cf9bd779a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5f9e4192-fe41-4e50-bf4b-d5cf9bd779a7",
+			"uuid": "5f9e4192-fe41-4e50-bf4b-d5cf9bd779a7",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/TU/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b6bfd286-5c9b-4870-849a-e21851b62a42",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6bfd286-5c9b-4870-849a-e21851b62a42",
+					"uuid": "b6bfd286-5c9b-4870-849a-e21851b62a42",
+					"title": "Examenprogramma Moderne vreemde talen Turks havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f397375f-b4b2-430e-9efa-1f3766944655",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f397375f-b4b2-430e-9efa-1f3766944655",
+			"uuid": "f397375f-b4b2-430e-9efa-1f3766944655",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/TU/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+					"uuid": "8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+					"title": "Examenprogramma Moderne vreemde talen Turks vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e81baf66-52e4-4e3f-ab3b-bb417e575a67",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e81baf66-52e4-4e3f-ab3b-bb417e575a67",
+			"uuid": "e81baf66-52e4-4e3f-ab3b-bb417e575a67",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "MVT/SP/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/648e65fd-96ef-4e1a-834c-302a93ce6445",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/648e65fd-96ef-4e1a-834c-302a93ce6445",
+					"uuid": "648e65fd-96ef-4e1a-834c-302a93ce6445",
+					"title": "Examenprogramma Moderne vreemde talen Spaans vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d9aace06-c7ca-409d-b8d6-4d61d66711ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d9aace06-c7ca-409d-b8d6-4d61d66711ee",
+			"uuid": "d9aace06-c7ca-409d-b8d6-4d61d66711ee",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "FR/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+					"uuid": "cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+					"title": "Examenprogramma Friese taal en cultuur vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/09c796f0-7570-44cf-8a91-4cbc789eae4e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/09c796f0-7570-44cf-8a91-4cbc789eae4e",
+			"uuid": "09c796f0-7570-44cf-8a91-4cbc789eae4e",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "FR/H/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4ade58a3-4ce3-423d-bcf7-4d031dc8763b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ade58a3-4ce3-423d-bcf7-4d031dc8763b",
+					"uuid": "4ade58a3-4ce3-423d-bcf7-4d031dc8763b",
+					"title": "Examenprogramma Friese taal en cultuur havo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bffaf581-9d46-4604-8f9e-7706bfb9181a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bffaf581-9d46-4604-8f9e-7706bfb9181a",
+			"uuid": "bffaf581-9d46-4604-8f9e-7706bfb9181a",
+			"@type": "ExamenprogrammaDomein",
+			"prefix": "NE/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/00739475-6c99-49ef-9f17-453767bfc29e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/00739475-6c99-49ef-9f17-453767bfc29e",
+					"uuid": "00739475-6c99-49ef-9f17-453767bfc29e",
+					"title": "Examenprogramma Nederlandse taal en literatuur vwo",
+					"deprecated": null
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

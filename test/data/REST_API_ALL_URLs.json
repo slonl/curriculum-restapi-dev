@@ -1,0 +1,257 @@
+[
+	"vakleergebied",
+    "niveau",
+    "doel",
+    "doelniveau",
+    "erk_vakleergebied",
+    "erk_gebied",
+    "erk_categorie",
+    "erk_taalprofiel",
+    "erk_taalprofieltekst",
+    "erk_taalactiviteit",
+    "erk_schaal",
+    "erk_candobeschrijving",
+    "erk_voorbeeld",
+    "erk_lesidee",
+    "erk_schalen",
+    "examenprogramma_bg_profiel",
+    "examenprogramma_bg_kern",
+    "examenprogramma_bg_kerndeel",
+    "examenprogramma_bg_globale_eindterm",
+    "examenprogramma_bg_module",
+    "examenprogramma_bg_keuzevak",
+    "examenprogramma_bg_deeltaak",
+    "examenprogramma_bg_moduletaak",
+    "examenprogramma_bg_keuzevaktaak",
+    "examenprogramma_vakleergebied",
+	"examenprogramma",
+	"examenprogramma_domein",
+	"examenprogramma_subdomein",
+	"examenprogramma_eindterm",
+	"examenprogramma_kop1",
+	"examenprogramma_kop2",
+	"examenprogramma_kop3",
+	"examenprogramma_kop4",
+	"examenprogramma_body",
+    "fo_set",
+    "fo_domein",
+    "fo_subdomein",
+    "fo_doelzin",
+    "fo_toelichting",
+    "fo_uitwerking",
+    "inh_vakleergebied",
+    "inh_inhoudslijn",
+    "inh_cluster",
+    "inh_subcluster",
+    "kerndoel",
+    "kerndoel_domein",
+    "kerndoel_vakleergebied",
+    "kerndoel_uitstroomprofiel",
+    "ldk_vakleergebied",
+    "ldk_vakkern",
+    "ldk_vaksubkern",
+    "ldk_vakinhoud",
+    "ldk_vakbegrip",
+    "nh_categorie",
+    "nh_sector",
+    "nh_schoolsoort",
+    "nh_leerweg",
+    "nh_bouw",
+    "nh_niveau",
+    "ref_vakleergebied",
+    "ref_domein",
+    "ref_subdomein",
+    "ref_onderwerp",
+    "ref_deelonderwerp",
+    "ref_tekstkenmerk",
+    "syllabus",
+    "syllabus_vakleergebied",
+    "syllabus_toelichting",
+    "syllabus_specifieke_eindterm",
+    "syllabus_vakbegrip",
+
+    "uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+    "uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+    "uuid/842b2332-cd7f-4917-b9ad-c90cc39f4040",
+   
+    "uuid/0d864083-dd04-4a3a-b3b9-31bf27493b16",
+    "uuid/7f6a1391-47eb-487c-ad3a-776ac49e4e8f",
+    "uuid/ff99c01f-9c97-4e76-b0e7-015491385a8a",
+
+    "uuid/0a2d8368-9f86-4d41-8bb9-fc8cac61531b",
+    "uuid/6f0db9ff-14ba-4564-881f-667f0b5c211e",
+    "uuid/ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+
+    "uuid/9b4030c8-47f7-41f3-bf94-fe64f2e1916e",
+    "uuid/ba228579-63ef-40ac-ba04-a5a80accdc01",
+    "uuid/f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+
+    "uuid/5b8735d8-16d9-45bd-b806-32c6fa936aa0",
+    "uuid/7a0a41fe-586b-4722-8d2b-4c5a5b864155",
+    "uuid/a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
+
+    "uuid/8052429f-2924-420a-bc88-02e4bc7b884c",
+
+    "uuid/0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+    "uuid/9e2640f9-d6ff-422f-a735-976577f2ec3e",
+    "uuid/f95a83cd-5069-4077-8f77-a87d9b038b24",
+ 
+    "uuid/05a808e1-1b89-4011-a967-bd2484b58df7",
+    "uuid/62971353-3ec4-45a8-b41a-f48167b4e61a",
+    "uuid/fd1f1e06-1486-4764-a443-c2f09b2683d9",
+
+    "uuid/51f8978f-ea5c-4774-bc1d-54caa5e686e2",
+    "uuid/2376168c-cec8-472d-8762-8440dda66061",
+    "uuid/f0e1e794-23be-49b7-876d-7521b2572c0c",
+
+    "uuid/00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+    "uuid/03d08c93-7bfd-4558-890b-ee6f0917e3b3",
+    "uuid/fcef1796-ce7b-4012-bc72-d3daa9e4d19c",
+
+    "uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+    "uuid/8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+    "uuid/fe56aa54-bc43-4208-8521-9d07610bb3c3",
+
+    "uuid/0eeb09e8-462e-46bb-8911-deb74c46e02a",
+    "uuid/48a45b8b-84d1-4e4b-9d85-d9f135a5cfeb",
+    "uuid/ff2d8e71-16ca-49e0-8333-b1fbc20479c4",
+
+    "uuid/0a00656f-c279-4775-81f0-ff7a58066494",
+    "uuid/863cd2da-bb15-4f05-96be-9e5ff75ef581",
+    "uuid/fe6c083f-1dbf-4311-8cf0-c8855752b254",
+
+    "uuid/2ba68b18-0986-4515-9321-fd31417161a7",
+    "uuid/74f15305-e375-4efa-a81e-5101311d5cc2",
+    "uuid/b1e5c55d-5017-477e-984b-857f392f1745",
+
+    "uuid/0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+    "uuid/330e996a-a150-4fa0-a3a9-3ac4b6c1b969",
+    "uuid/0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+
+    "uuid/0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+    "uuid/21d732b8-9a04-4ce7-a95a-2836b4ca8ac7",
+    "uuid/fe7101ce-5399-43df-bac5-e9d53a614712",
+
+    "uuid/0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+    "uuid/9e610e1a-6320-4416-a542-768a12e13b7c",
+    "uuid/fc35ebfa-20b4-4e07-846b-e3c71a2d5392",
+
+    "uuid/0a69ef0d-7af2-4b00-97df-6e92234b4d8d",
+    "uuid/a215a62a-0e45-4dc4-8e9f-df111d64a63d",
+    "uuid/fcb8f424-360e-4c65-915c-1edc2c457695",
+
+    "uuid/0a5c3ca3-733c-46de-b8f6-dc1562cc5cd7",
+    "uuid/652230da-c7ab-485f-9bfb-66517e0f12e7",
+    "uuid/fcdaa3d1-b190-45e7-a8da-b6e4c6efe276",
+
+    "uuid/3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+    "uuid/512515ac-8442-4213-83d7-84327e48d3e9",
+    "uuid/da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+
+    "uuid/03e037b4-02b6-4850-8836-73d0d307bf69",
+    "uuid/ff6c5f71-caac-4f11-8591-5280e79b92b9",
+
+    "uuid/0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+    "uuid/5b047852-7dfd-4320-9e90-07cace15ac49",
+
+    "uuid/0d514a7b-38a5-4c1b-b467-86c8772ba963",
+    "uuid/15a2fd1a-53e7-44ac-9992-3a80973af858",
+    "uuid/fcf9a359-2d4d-499e-ac04-420e8f84499e",
+
+    "uuid/0a4d1b78-0481-4662-9f5b-abaa156e8b05",
+    "uuid/8eee2b1a-adb5-42fa-b7d4-bda46b783bcb",
+    "uuid/fe12f70f-d4b5-4a7f-b689-8bb6faa3ee8e",
+
+    "uuid/0c0e82b2-510b-4d20-bba4-bdaf90815747",
+    "uuid/343efe27-76c9-4b56-a24c-0860d438bb5c",
+    "uuid/f1717656-c9ce-4930-bb2f-2dfb531c5de2",
+
+    "uuid/0ee152e0-e7b3-42e9-8667-057060391ab2",
+    "uuid/88381db4-d911-45d2-a243-2958873eec98",
+    "uuid/f92e7aad-67d6-4b35-be8b-ac074e932795",
+
+    "uuid/6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+    "uuid/8057a6f5-da25-4bc9-b1eb-77c4855ebe4f",
+    "uuid/f6b7b810-1144-4ec5-bd85-d34285ce7625",
+
+    "uuid/0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
+    "uuid/13f08f75-1c7c-402e-a7de-149082a9e5af",
+    "uuid/ff515534-6ed1-45cb-9767-ee4a70119b19",
+
+    "uuid/0f477a7b-fd36-488f-bdff-051a43020708",
+    "uuid/a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+    "uuid/fcdae226-0095-4eec-8584-96919df2b2d1",
+
+    "uuid/4bad9adc-f69d-4ff4-8ac6-11d671bd0b96",
+    "uuid/9f47a004-8a83-4108-8d10-0fc282837b1c",
+    "uuid/14066279-b193-4704-b377-2a1cf639943f",
+
+    "uuid/1edf2193-645b-43c9-b43c-4454bfeece38",
+    "uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+    "uuid/fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+
+    "uuid/4d2563b5-ff35-4a5c-b379-d23089eb1476",
+    "uuid/196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+    "uuid/1e997f1f-1e7f-41ae-b132-70fdbed032df",
+
+    "uuid/64ec762a-f1c6-4434-b8a5-dfc264e610c4",
+    "uuid/34afad57-42d1-4eaa-b5dc-faa777bbe1b6",
+    "uuid/4cd82a3c-bbba-414c-9f22-b73f3c9acf6d",
+
+	"uuid/a120616c-275f-4d84-bf1b-c82f39f6abfd",
+    "uuid/63b18cb1-c535-46ac-8615-88fe3fba744d",
+    "uuid/f28b1db3-3b27-44e6-9d0f-7a3db58df64b",
+
+	"uuid/7ebe8d09-055e-40ae-a039-fb1e93cc273b",
+    "uuid/372cbac8-0b15-41d8-89ba-6bf49802bcbd",
+    "uuid/7d41b9d0-2832-4811-8d2d-0e9bd717d99a",
+
+	"uuid/e37866c2-7736-4289-9f85-793c7d05017e",
+    "uuid/53d13e25-79d8-4a0f-89f2-f6245f3e6e2a",
+    "uuid/325755c6-01d6-43be-85b3-2639f402fee8",
+
+	"uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+    "uuid/25a2f4f4-cf91-4b16-94bc-6d9e6fad88f4",
+    "uuid/ac188375-0a1a-4984-ac80-14d04a086a19",
+
+	"uuid/43a0abda-98a7-40a5-a9fb-8512cdeee6e2",
+    "uuid/dd810ea0-ca57-47db-ae17-56ecc58ad455",
+    "uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+
+	"uuid/cbe5831f-4031-464d-9f9b-ea9d3c2f324e",
+    "uuid/8c519ad9-c040-4560-ab9b-c96caf64d75b",
+    "uuid/3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+
+	"uuid/fffa3793-e0b1-4d09-a602-1124ecd5a751",
+    "uuid/604673ba-21fe-49c6-a180-b2f91e9bf0bd",
+    "uuid/5ba32171-977b-469c-8538-511eb9d773f4",
+
+	"uuid/897ef51d-f217-422b-88ef-cd3084e1e909",
+    "uuid/8357a3fd-d988-4b02-abd7-dcad8632c6be",
+    "uuid/64c3fa38-7967-4c47-9d1b-0611db869731",
+
+    "uuid/87688155-0838-4547-b570-5f087ac509f2",
+    "uuid/2c7be1c1-991d-49e3-884a-602687b55d06",
+    "uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+
+    "uuid/b92fa51b-2c88-4c86-850e-fb0bee2def83",
+    "uuid/a6b8a2ca-4e17-4cfa-ba57-7fcfee58e185",
+    "uuid/13b2c46b-fb0b-45b8-9d51-abef6ecbeaf7",
+
+    "uuid/eeb483c5-875f-4a5c-a9ec-48adee476906",
+    "uuid/2c61a195-5a5e-4e62-8a53-acc0e2b50c48",
+    "uuid/3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d",
+
+    "uuid/1347affc-fed6-4529-8ce9-0033044d9198",
+    "uuid/dd4e1128-a6eb-4414-9f0c-d83367390f94",
+    "uuid/5d405e40-676d-4eba-bcbb-192485b93345",
+
+    "uuid/85f2ed0a-794c-4269-b933-2eff604826a6",
+    "uuid/8c2d63d6-57f0-4d17-98e9-076d8d8e993c",
+    "uuid/2573e278-9c8a-4787-bce9-8b7df670d4dd",
+
+	"uuid/caa85a8e-33e3-4b80-9e66-c5c1bd2d89f8",
+    "uuid/58fe0010-9685-4dae-ba70-2e47d94ad844",
+    "uuid/73cef23f-df24-4015-8516-072a13dcd369"
+ ]
+ 

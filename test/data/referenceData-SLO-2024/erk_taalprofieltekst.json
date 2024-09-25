@@ -1,0 +1,23 @@
+{
+	"count": 1,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/82c1c495-c6ad-41e9-b980-3368cf45fe59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/82c1c495-c6ad-41e9-b980-3368cf45fe59",
+			"uuid": "82c1c495-c6ad-41e9-b980-3368cf45fe59",
+			"@type": "ErkTaalprofieltekst",
+			"prefix": "",
+			"title": "",
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			],
+			"unreleased": null
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

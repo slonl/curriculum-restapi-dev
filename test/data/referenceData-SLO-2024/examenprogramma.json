@@ -1,0 +1,806 @@
+{
+	"count": 252,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eb1b9411-5a88-410e-b65a-aac635923c4d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eb1b9411-5a88-410e-b65a-aac635923c4d",
+			"uuid": "eb1b9411-5a88-410e-b65a-aac635923c4d",
+			"@type": "Examenprogramma",
+			"prefix": "AK/havo",
+			"title": "Examenprogramma Aardrijkskunde havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+			"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+			"@type": "Examenprogramma",
+			"prefix": "AK/vmbo",
+			"title": "Examenprogramma Aardrijkskunde vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/74789692-0aae-4ed7-a995-5f5601da5bfe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/74789692-0aae-4ed7-a995-5f5601da5bfe",
+			"uuid": "74789692-0aae-4ed7-a995-5f5601da5bfe",
+			"@type": "Examenprogramma",
+			"prefix": "AK/vwo",
+			"title": "Examenprogramma Aardrijkskunde vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0e84f441-71d8-4575-8fc9-c078efc11ae7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0e84f441-71d8-4575-8fc9-c078efc11ae7",
+			"uuid": "0e84f441-71d8-4575-8fc9-c078efc11ae7",
+			"@type": "Examenprogramma",
+			"prefix": "ANW/havo",
+			"title": "Examenprogramma Algemene natuurwetenschappen havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/71151b13-9fd5-4b83-9b2d-86e63abe9a30",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71151b13-9fd5-4b83-9b2d-86e63abe9a30",
+			"uuid": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
+			"@type": "Examenprogramma",
+			"prefix": "ANW/vwo",
+			"title": "Examenprogramma Algemene natuurwetenschappen vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/109897fc-4532-4a42-955c-c4d52bf8ba74",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/109897fc-4532-4a42-955c-c4d52bf8ba74",
+			"uuid": "109897fc-4532-4a42-955c-c4d52bf8ba74",
+			"@type": "Examenprogramma",
+			"prefix": "BE/havo",
+			"title": "Examenprogramma Bedrijfseconomie havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/09bb489b-9f21-4758-9e00-3dc351455a96",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/09bb489b-9f21-4758-9e00-3dc351455a96",
+			"uuid": "09bb489b-9f21-4758-9e00-3dc351455a96",
+			"@type": "Examenprogramma",
+			"prefix": "BE/vwo",
+			"title": "Examenprogramma Bedrijfseconomie vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60c62df4-0b67-4823-890a-85fc0fa35c34",
+			"uuid": "60c62df4-0b67-4823-890a-85fc0fa35c34",
+			"@type": "Examenprogramma",
+			"prefix": "BV/vmbo",
+			"title": "Examenprogramma Beeldende vorming vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b1a7d541-bfc5-490c-92ff-c1c9db9119f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1a7d541-bfc5-490c-92ff-c1c9db9119f1",
+			"uuid": "b1a7d541-bfc5-490c-92ff-c1c9db9119f1",
+			"@type": "Examenprogramma",
+			"prefix": "BSM/havo",
+			"title": "Examenprogramma Bewegen, sport en maatschappij havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f7c80fe9-05e1-4eca-b939-9bb6ca3846ab",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7c80fe9-05e1-4eca-b939-9bb6ca3846ab",
+			"uuid": "f7c80fe9-05e1-4eca-b939-9bb6ca3846ab",
+			"@type": "Examenprogramma",
+			"prefix": "BSM/vwo",
+			"title": "Examenprogramma Bewegen, sport en maatschappij vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e6c90eb1-e6ca-470f-923d-c04f016d13fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e6c90eb1-e6ca-470f-923d-c04f016d13fc",
+			"uuid": "e6c90eb1-e6ca-470f-923d-c04f016d13fc",
+			"@type": "Examenprogramma",
+			"prefix": "BIO/havo",
+			"title": "Examenprogramma Biologie havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+			"uuid": "f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+			"@type": "Examenprogramma",
+			"prefix": "BIO/vmbo",
+			"title": "Examenprogramma Biologie vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/79bbfbf5-fb3e-4bb1-9872-c973c1277b89",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79bbfbf5-fb3e-4bb1-9872-c973c1277b89",
+			"uuid": "79bbfbf5-fb3e-4bb1-9872-c973c1277b89",
+			"@type": "Examenprogramma",
+			"prefix": "BIO/vwo",
+			"title": "Examenprogramma Biologie vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2f19281a-0926-4466-8ca5-ceb98b8f3f48",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f19281a-0926-4466-8ca5-ceb98b8f3f48",
+			"uuid": "2f19281a-0926-4466-8ca5-ceb98b8f3f48",
+			"@type": "Examenprogramma",
+			"prefix": "CKV/havo",
+			"title": "Examenprogramma Culturele en kunstzinnige vorming havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5d55bb7-270a-48f1-aa0c-bdcdc34dfd6d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5d55bb7-270a-48f1-aa0c-bdcdc34dfd6d",
+			"uuid": "d5d55bb7-270a-48f1-aa0c-bdcdc34dfd6d",
+			"@type": "Examenprogramma",
+			"prefix": "CKV/vwo",
+			"title": "Examenprogramma Culturele en kunstzinnige vorming vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0041d030-6688-49b3-8f64-8f0d2c199179",
+			"uuid": "0041d030-6688-49b3-8f64-8f0d2c199179",
+			"@type": "Examenprogramma",
+			"prefix": "DA/vmbo",
+			"title": "Examenprogramma Dans vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df738bb7-830e-404c-9ec5-63792743785e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df738bb7-830e-404c-9ec5-63792743785e",
+			"uuid": "df738bb7-830e-404c-9ec5-63792743785e",
+			"@type": "Examenprogramma",
+			"prefix": "DR/vmbo",
+			"title": "Examenprogramma Drama vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a2530725-8304-4601-9084-629b02f5dd51",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a2530725-8304-4601-9084-629b02f5dd51",
+			"uuid": "a2530725-8304-4601-9084-629b02f5dd51",
+			"@type": "Examenprogramma",
+			"prefix": "EC/havo",
+			"title": "Examenprogramma Economie havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db841ddf-975e-4a36-8581-ee1f4d449bfe",
+			"uuid": "db841ddf-975e-4a36-8581-ee1f4d449bfe",
+			"@type": "Examenprogramma",
+			"prefix": "EC/vmbo",
+			"title": "Examenprogramma Economie vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3e305b9f-384c-429b-b545-1996766e197a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3e305b9f-384c-429b-b545-1996766e197a",
+			"uuid": "3e305b9f-384c-429b-b545-1996766e197a",
+			"@type": "Examenprogramma",
+			"prefix": "EC/vwo",
+			"title": "Examenprogramma Economie vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/93bd0e4d-4932-4ad9-896f-2056bb0fc613",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93bd0e4d-4932-4ad9-896f-2056bb0fc613",
+			"uuid": "93bd0e4d-4932-4ad9-896f-2056bb0fc613",
+			"@type": "Examenprogramma",
+			"prefix": "FI/havo",
+			"title": "Examenprogramma Filosofie havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
+			"uuid": "2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
+			"@type": "Examenprogramma",
+			"prefix": "FI/vwo",
+			"title": "Examenprogramma Filosofie vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4ade58a3-4ce3-423d-bcf7-4d031dc8763b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ade58a3-4ce3-423d-bcf7-4d031dc8763b",
+			"uuid": "4ade58a3-4ce3-423d-bcf7-4d031dc8763b",
+			"@type": "Examenprogramma",
+			"prefix": "FR/havo",
+			"title": "Examenprogramma Friese taal en cultuur havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8600316-fcfb-4357-8e2d-4b707f0ff9c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8600316-fcfb-4357-8e2d-4b707f0ff9c6",
+			"uuid": "f8600316-fcfb-4357-8e2d-4b707f0ff9c6",
+			"@type": "Examenprogramma",
+			"prefix": "FR/vmbo",
+			"title": "Examenprogramma Friese taal en cultuur vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"uuid": "cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
+			"@type": "Examenprogramma",
+			"prefix": "FR/vwo",
+			"title": "Examenprogramma Friese taal en cultuur vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa44372f-c748-4ad3-94a2-267811b057cd",
+			"uuid": "fa44372f-c748-4ad3-94a2-267811b057cd",
+			"@type": "Examenprogramma",
+			"prefix": "GS/vmbo",
+			"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b185befa-5240-4a61-847a-7e564c0200bf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b185befa-5240-4a61-847a-7e564c0200bf",
+			"uuid": "b185befa-5240-4a61-847a-7e564c0200bf",
+			"@type": "Examenprogramma",
+			"prefix": "GS/havo",
+			"title": "Examenprogramma Geschiedenis havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/abc5e4b4-05c2-4821-a072-22b6306abe6f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abc5e4b4-05c2-4821-a072-22b6306abe6f",
+			"uuid": "abc5e4b4-05c2-4821-a072-22b6306abe6f",
+			"@type": "Examenprogramma",
+			"prefix": "GS/vwo",
+			"title": "Examenprogramma Geschiedenis vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/048d826e-61ae-47ef-b1d5-235a96d34867",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/048d826e-61ae-47ef-b1d5-235a96d34867",
+			"uuid": "048d826e-61ae-47ef-b1d5-235a96d34867",
+			"@type": "Examenprogramma",
+			"prefix": "GTC/vwo",
+			"title": "Examenprogramma Griekse taal en cultuur vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9f4a0686-76b5-4d94-ae7f-0d6bef47e4aa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9f4a0686-76b5-4d94-ae7f-0d6bef47e4aa",
+			"uuid": "9f4a0686-76b5-4d94-ae7f-0d6bef47e4aa",
+			"@type": "Examenprogramma",
+			"prefix": "THT/H/havo",
+			"title": "Examenprogramma Handvaardigheid havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fe56aa54-bc43-4208-8521-9d07610bb3c3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe56aa54-bc43-4208-8521-9d07610bb3c3",
+			"uuid": "fe56aa54-bc43-4208-8521-9d07610bb3c3",
+			"@type": "Examenprogramma",
+			"prefix": "THT/H/vwo",
+			"title": "Examenprogramma Handvaardigheid vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fddc262e-f971-48a6-9fef-4b0cf4cd3253",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fddc262e-f971-48a6-9fef-4b0cf4cd3253",
+			"uuid": "fddc262e-f971-48a6-9fef-4b0cf4cd3253",
+			"@type": "Examenprogramma",
+			"prefix": "INF/havo",
+			"title": "Examenprogramma Informatica havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9d88473e-9cde-439e-88b7-32dea9665022",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9d88473e-9cde-439e-88b7-32dea9665022",
+			"uuid": "9d88473e-9cde-439e-88b7-32dea9665022",
+			"@type": "Examenprogramma",
+			"prefix": "Inf/vwo",
+			"title": "Examenprogramma Informatica vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bee7d594-7a6d-4912-a3d8-736325b575ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bee7d594-7a6d-4912-a3d8-736325b575ee",
+			"uuid": "bee7d594-7a6d-4912-a3d8-736325b575ee",
+			"@type": "Examenprogramma",
+			"prefix": "IT/vmbo",
+			"title": "Examenprogramma Informatietechnologie vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dcd73927-4903-440d-8d7f-a0e06454cf69",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dcd73927-4903-440d-8d7f-a0e06454cf69",
+			"uuid": "dcd73927-4903-440d-8d7f-a0e06454cf69",
+			"@type": "Examenprogramma",
+			"prefix": "KUA/havo",
+			"title": "Examenprogramma Kunst (algemeen) havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ab63813-605c-47e8-8a83-a4ea98fe3b3c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ab63813-605c-47e8-8a83-a4ea98fe3b3c",
+			"uuid": "5ab63813-605c-47e8-8a83-a4ea98fe3b3c",
+			"@type": "Examenprogramma",
+			"prefix": "KUA/vwo",
+			"title": "Examenprogramma Kunst (algemeen) vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/71434822-51a6-4500-93b6-b4620e1d488e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71434822-51a6-4500-93b6-b4620e1d488e",
+			"uuid": "71434822-51a6-4500-93b6-b4620e1d488e",
+			"@type": "Examenprogramma",
+			"prefix": "KUBV/havo",
+			"title": "Examenprogramma Kunst (beeldende vormgeving) havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dde74cc0-810e-4e92-a4b9-99c0e12d0786",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dde74cc0-810e-4e92-a4b9-99c0e12d0786",
+			"uuid": "dde74cc0-810e-4e92-a4b9-99c0e12d0786",
+			"@type": "Examenprogramma",
+			"prefix": "KUBV/vwo",
+			"title": "Examenprogramma Kunst (beeldende vormgeving) vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/afeaa1a6-9ea8-4771-8f9d-fcaf9d933e5c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/afeaa1a6-9ea8-4771-8f9d-fcaf9d933e5c",
+			"uuid": "afeaa1a6-9ea8-4771-8f9d-fcaf9d933e5c",
+			"@type": "Examenprogramma",
+			"prefix": "KUDA/havo",
+			"title": "Examenprogramma Kunst (dans) havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3f55389-ff66-4cb9-a0ec-68ee3348945f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3f55389-ff66-4cb9-a0ec-68ee3348945f",
+			"uuid": "f3f55389-ff66-4cb9-a0ec-68ee3348945f",
+			"@type": "Examenprogramma",
+			"prefix": "KUDA/vwo",
+			"title": "Examenprogramma Kunst (dans) vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/66c3d671-8fc1-4c34-89ba-00fa48bde6d3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/66c3d671-8fc1-4c34-89ba-00fa48bde6d3",
+			"uuid": "66c3d671-8fc1-4c34-89ba-00fa48bde6d3",
+			"@type": "Examenprogramma",
+			"prefix": "KUDR/havo",
+			"title": "Examenprogramma Kunst (drama) havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebfb3974-666a-443a-9251-a4cf628b5228",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebfb3974-666a-443a-9251-a4cf628b5228",
+			"uuid": "ebfb3974-666a-443a-9251-a4cf628b5228",
+			"@type": "Examenprogramma",
+			"prefix": "KUDR/vwo",
+			"title": "Examenprogramma Kunst (drama) vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"uuid": "10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"@type": "Examenprogramma",
+			"prefix": "KUMU/havo",
+			"title": "Examenprogramma Kunst (muziek) havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"uuid": "a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"@type": "Examenprogramma",
+			"prefix": "KUMU/vwo",
+			"title": "Examenprogramma Kunst (muziek) vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+			"uuid": "e21918e9-207a-48d6-b3c5-490426ee7675",
+			"@type": "Examenprogramma",
+			"prefix": "KV/vmbo",
+			"title": "Examenprogramma Kunstvakken incl. CKV vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e99c9eb4-f45b-4d5e-9626-27d8fb9bbf0f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e99c9eb4-f45b-4d5e-9626-27d8fb9bbf0f",
+			"uuid": "e99c9eb4-f45b-4d5e-9626-27d8fb9bbf0f",
+			"@type": "Examenprogramma",
+			"prefix": "LTC/vwo",
+			"title": "Examenprogramma Latijnse taal en cultuur vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60bc0037-6f5d-4390-ad00-f1b8459a6418",
+			"uuid": "60bc0037-6f5d-4390-ad00-f1b8459a6418",
+			"@type": "Examenprogramma",
+			"prefix": "LO1/vmbo",
+			"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f10f6090-4a99-44dc-9a31-0a44442e6264",
+			"uuid": "f10f6090-4a99-44dc-9a31-0a44442e6264",
+			"@type": "Examenprogramma",
+			"prefix": "LO2/vmbo",
+			"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4c4bddd2-c2ae-4a52-a1bc-c4ba103378a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4c4bddd2-c2ae-4a52-a1bc-c4ba103378a7",
+			"uuid": "4c4bddd2-c2ae-4a52-a1bc-c4ba103378a7",
+			"@type": "Examenprogramma",
+			"prefix": "LO/havo",
+			"title": "Examenprogramma Lichamelijke opvoeding havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7620c9ac-b4da-43bd-ad82-3907ee31194d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7620c9ac-b4da-43bd-ad82-3907ee31194d",
+			"uuid": "7620c9ac-b4da-43bd-ad82-3907ee31194d",
+			"@type": "Examenprogramma",
+			"prefix": "LO/V",
+			"title": "Examenprogramma Lichamelijke opvoeding vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+			"uuid": "17f035f8-84cd-4b75-88fd-6a638d943e9c",
+			"@type": "Examenprogramma",
+			"prefix": "MK/vmbo",
+			"title": "Examenprogramma Maatschappijkunde vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bd4ef329-a3c6-4cbc-b043-17fb8ff85703",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bd4ef329-a3c6-4cbc-b043-17fb8ff85703",
+			"uuid": "bd4ef329-a3c6-4cbc-b043-17fb8ff85703",
+			"@type": "Examenprogramma",
+			"prefix": "ML/havo",
+			"title": "Examenprogramma Maatschappijleer havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7944805b-458b-4b37-8f04-6e23dc428b0a",
+			"uuid": "7944805b-458b-4b37-8f04-6e23dc428b0a",
+			"@type": "Examenprogramma",
+			"prefix": "ML/vmbo",
+			"title": "Examenprogramma Maatschappijleer vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eb346b1c-1553-4ffd-9f81-725db6522083",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eb346b1c-1553-4ffd-9f81-725db6522083",
+			"uuid": "eb346b1c-1553-4ffd-9f81-725db6522083",
+			"@type": "Examenprogramma",
+			"prefix": "ML/vwo",
+			"title": "Examenprogramma Maatschappijleer vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64292983-7d41-4556-afc8-5cbd1f069739",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64292983-7d41-4556-afc8-5cbd1f069739",
+			"uuid": "64292983-7d41-4556-afc8-5cbd1f069739",
+			"@type": "Examenprogramma",
+			"prefix": "MAW/havo",
+			"title": "Examenprogramma Maatschappijwetenschappen havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c880df1e-da2c-4b8e-9428-3af24b6abc30",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c880df1e-da2c-4b8e-9428-3af24b6abc30",
+			"uuid": "c880df1e-da2c-4b8e-9428-3af24b6abc30",
+			"@type": "Examenprogramma",
+			"prefix": "MAW/vwo",
+			"title": "Examenprogramma Maatschappijwetenschappen vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d530a659-8e56-4a8a-8d9c-81eaa7727ca4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d530a659-8e56-4a8a-8d9c-81eaa7727ca4",
+			"uuid": "d530a659-8e56-4a8a-8d9c-81eaa7727ca4",
+			"@type": "Examenprogramma",
+			"prefix": "MO/havo",
+			"title": "Examenprogramma Management en organisatie havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8bb2659-7bfd-4806-83a1-7fa774ba2ff7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8bb2659-7bfd-4806-83a1-7fa774ba2ff7",
+			"uuid": "a8bb2659-7bfd-4806-83a1-7fa774ba2ff7",
+			"@type": "Examenprogramma",
+			"prefix": "MO/vwo",
+			"title": "Examenprogramma Management en organisatie vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/02599883-e3e1-4ac4-b79f-968104b4d334",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02599883-e3e1-4ac4-b79f-968104b4d334",
+			"uuid": "02599883-e3e1-4ac4-b79f-968104b4d334",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/AR/H",
+			"title": "Examenprogramma Moderne vreemde talen Arabisch havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d82fbdd4-4d2f-490f-8c49-b75d0647b153",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d82fbdd4-4d2f-490f-8c49-b75d0647b153",
+			"uuid": "d82fbdd4-4d2f-490f-8c49-b75d0647b153",
+			"@type": "Examenprogramma",
+			"prefix": "AR/vmbo",
+			"title": "Examenprogramma Moderne vreemde talen Arabisch vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7c8e81ab-8f47-4537-a62d-a26f82af0e08",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c8e81ab-8f47-4537-a62d-a26f82af0e08",
+			"uuid": "7c8e81ab-8f47-4537-a62d-a26f82af0e08",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/AR/V",
+			"title": "Examenprogramma Moderne vreemde talen Arabisch vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da9fe3a7-c53f-4e2e-a867-6928720a2528",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da9fe3a7-c53f-4e2e-a867-6928720a2528",
+			"uuid": "da9fe3a7-c53f-4e2e-a867-6928720a2528",
+			"@type": "Examenprogramma",
+			"prefix": "CTC/vwo",
+			"title": "Examenprogramma Moderne vreemde talen Chinese taal en cultuur vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/533d6054-2a6f-46fc-86c9-eded2d404e95",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/533d6054-2a6f-46fc-86c9-eded2d404e95",
+			"uuid": "533d6054-2a6f-46fc-86c9-eded2d404e95",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/DUI/H",
+			"title": "Examenprogramma Moderne vreemde talen Duits havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dee5d094-e5b1-4194-b28a-403a67e5e022",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dee5d094-e5b1-4194-b28a-403a67e5e022",
+			"uuid": "dee5d094-e5b1-4194-b28a-403a67e5e022",
+			"@type": "Examenprogramma",
+			"prefix": "DU/vmbo",
+			"title": "Examenprogramma Moderne vreemde talen Duits vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f69eb17a-edd0-4ca5-8061-ff2037db0686",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f69eb17a-edd0-4ca5-8061-ff2037db0686",
+			"uuid": "f69eb17a-edd0-4ca5-8061-ff2037db0686",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/DUI/V",
+			"title": "Examenprogramma Moderne vreemde talen Duits vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5d204169-3130-4065-9e3a-e615e7069e85",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d204169-3130-4065-9e3a-e615e7069e85",
+			"uuid": "5d204169-3130-4065-9e3a-e615e7069e85",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/EN/H",
+			"title": "Examenprogramma Moderne vreemde talen Engels havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5917efb3-d24a-48da-93a5-e8d5b09fa1d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5917efb3-d24a-48da-93a5-e8d5b09fa1d5",
+			"uuid": "5917efb3-d24a-48da-93a5-e8d5b09fa1d5",
+			"@type": "Examenprogramma",
+			"prefix": "EN/vmbo",
+			"title": "Examenprogramma Moderne vreemde talen Engels vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c709e281-d159-4053-9ee6-8b3a5968c34d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c709e281-d159-4053-9ee6-8b3a5968c34d",
+			"uuid": "c709e281-d159-4053-9ee6-8b3a5968c34d",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/EN/V",
+			"title": "Examenprogramma Moderne vreemde talen Engels vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/467b67bf-1333-42c5-94f7-e0db714ff6f6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/467b67bf-1333-42c5-94f7-e0db714ff6f6",
+			"uuid": "467b67bf-1333-42c5-94f7-e0db714ff6f6",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/FA/H",
+			"title": "Examenprogramma Moderne vreemde talen Frans havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63",
+			"uuid": "0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63",
+			"@type": "Examenprogramma",
+			"prefix": "FA/vmbo",
+			"title": "Examenprogramma Moderne vreemde talen Frans vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de5f51ea-581f-45b4-90d0-d95a0d474433",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de5f51ea-581f-45b4-90d0-d95a0d474433",
+			"uuid": "de5f51ea-581f-45b4-90d0-d95a0d474433",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/FA/V",
+			"title": "Examenprogramma Moderne vreemde talen Frans vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4271e75e-53f5-4a60-932e-9f7719b0971b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4271e75e-53f5-4a60-932e-9f7719b0971b",
+			"uuid": "4271e75e-53f5-4a60-932e-9f7719b0971b",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/IT/H",
+			"title": "Examenprogramma Moderne vreemde talen Italiaans havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
+			"uuid": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/IT/V",
+			"title": "Examenprogramma Moderne vreemde talen Italiaans vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b4ec9212-3a33-48c0-aeab-b0b5a9730b37",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b4ec9212-3a33-48c0-aeab-b0b5a9730b37",
+			"uuid": "b4ec9212-3a33-48c0-aeab-b0b5a9730b37",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/RU/H",
+			"title": "Examenprogramma Moderne vreemde talen Russisch havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89e6ba6d-f3cb-4650-8c29-06b18e597221",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89e6ba6d-f3cb-4650-8c29-06b18e597221",
+			"uuid": "89e6ba6d-f3cb-4650-8c29-06b18e597221",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/RU/V",
+			"title": "Examenprogramma Moderne vreemde talen Russisch vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/02370357-c94e-4b52-a261-b659a82f5700",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02370357-c94e-4b52-a261-b659a82f5700",
+			"uuid": "02370357-c94e-4b52-a261-b659a82f5700",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/SP/H",
+			"title": "Examenprogramma Moderne vreemde talen Spaans havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6974b666-1a32-4acb-aa62-ae13fc73145a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6974b666-1a32-4acb-aa62-ae13fc73145a",
+			"uuid": "6974b666-1a32-4acb-aa62-ae13fc73145a",
+			"@type": "Examenprogramma",
+			"prefix": "SP/vmbo",
+			"title": "Examenprogramma Moderne vreemde talen Spaans vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/648e65fd-96ef-4e1a-834c-302a93ce6445",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/648e65fd-96ef-4e1a-834c-302a93ce6445",
+			"uuid": "648e65fd-96ef-4e1a-834c-302a93ce6445",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/SP/V",
+			"title": "Examenprogramma Moderne vreemde talen Spaans vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b6bfd286-5c9b-4870-849a-e21851b62a42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6bfd286-5c9b-4870-849a-e21851b62a42",
+			"uuid": "b6bfd286-5c9b-4870-849a-e21851b62a42",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/TU/H",
+			"title": "Examenprogramma Moderne vreemde talen Turks havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d364c573-39de-476e-aa0d-a272b26e0841",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d364c573-39de-476e-aa0d-a272b26e0841",
+			"uuid": "d364c573-39de-476e-aa0d-a272b26e0841",
+			"@type": "Examenprogramma",
+			"prefix": "TU/vmbo",
+			"title": "Examenprogramma Moderne vreemde talen Turks vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+			"uuid": "8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+			"@type": "Examenprogramma",
+			"prefix": "MVT/TU/V",
+			"title": "Examenprogramma Moderne vreemde talen Turks vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f59bb1af-0eae-4b6f-8fc2-ddfcb5dc3294",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f59bb1af-0eae-4b6f-8fc2-ddfcb5dc3294",
+			"uuid": "f59bb1af-0eae-4b6f-8fc2-ddfcb5dc3294",
+			"@type": "Examenprogramma",
+			"prefix": "MU/havo",
+			"title": "Examenprogramma Muziek  havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8357bdd9-0b3d-43af-8969-de2494b666c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8357bdd9-0b3d-43af-8969-de2494b666c4",
+			"uuid": "8357bdd9-0b3d-43af-8969-de2494b666c4",
+			"@type": "Examenprogramma",
+			"prefix": "MU/vwo",
+			"title": "Examenprogramma Muziek  vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+			"uuid": "f8238f3a-f1c5-4a85-8695-741b56cb18f2",
+			"@type": "Examenprogramma",
+			"prefix": "MU/vmbo",
+			"title": "Examenprogramma Muziek vmbo gl/tl"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b477a5d1-07c5-4028-80c3-3e33cd4ef672",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b477a5d1-07c5-4028-80c3-3e33cd4ef672",
+			"uuid": "b477a5d1-07c5-4028-80c3-3e33cd4ef672",
+			"@type": "Examenprogramma",
+			"prefix": "NLT/havo",
+			"title": "Examenprogramma Natuur, leven en technologie havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/71393e79-ddd8-4230-95c0-2fb6846fb208",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71393e79-ddd8-4230-95c0-2fb6846fb208",
+			"uuid": "71393e79-ddd8-4230-95c0-2fb6846fb208",
+			"@type": "Examenprogramma",
+			"prefix": "NLT/vwo",
+			"title": "Examenprogramma Natuur, leven en technologie vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+			"uuid": "d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
+			"@type": "Examenprogramma",
+			"prefix": "NASK1/vmbo",
+			"title": "Examenprogramma Natuur- en scheikunde I vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53d18369-25e4-4dc4-8be6-bc059dbe117e",
+			"uuid": "53d18369-25e4-4dc4-8be6-bc059dbe117e",
+			"@type": "Examenprogramma",
+			"prefix": "NASK2/vmbo",
+			"title": "Examenprogramma Natuur- en scheikunde II vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8dd6ee5b-62f6-4e5b-8aae-8a39887edfa4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8dd6ee5b-62f6-4e5b-8aae-8a39887edfa4",
+			"uuid": "8dd6ee5b-62f6-4e5b-8aae-8a39887edfa4",
+			"@type": "Examenprogramma",
+			"prefix": "NA/havo",
+			"title": "Examenprogramma Natuurkunde havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0446a43f-344a-48e4-9312-c40fbe252dd3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0446a43f-344a-48e4-9312-c40fbe252dd3",
+			"uuid": "0446a43f-344a-48e4-9312-c40fbe252dd3",
+			"@type": "Examenprogramma",
+			"prefix": "NA/vwo",
+			"title": "Examenprogramma Natuurkunde vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/05440365-5453-46c1-8b03-dd5e62da21d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05440365-5453-46c1-8b03-dd5e62da21d1",
+			"uuid": "05440365-5453-46c1-8b03-dd5e62da21d1",
+			"@type": "Examenprogramma",
+			"prefix": "NE/H",
+			"title": "Examenprogramma Nederlandse taal en literatuur havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/00739475-6c99-49ef-9f17-453767bfc29e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/00739475-6c99-49ef-9f17-453767bfc29e",
+			"uuid": "00739475-6c99-49ef-9f17-453767bfc29e",
+			"@type": "Examenprogramma",
+			"prefix": "NE/vwo",
+			"title": "Examenprogramma Nederlandse taal en literatuur vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/21c29f89-310c-4584-80fc-430425279937",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21c29f89-310c-4584-80fc-430425279937",
+			"uuid": "21c29f89-310c-4584-80fc-430425279937",
+			"@type": "Examenprogramma",
+			"prefix": "NE/vmbo",
+			"title": "Examenprogramma Nederlandse taal vmbo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5c8d0a3-cfc8-4397-87a2-eafc25db1d8c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5c8d0a3-cfc8-4397-87a2-eafc25db1d8c",
+			"uuid": "d5c8d0a3-cfc8-4397-87a2-eafc25db1d8c",
+			"@type": "Examenprogramma",
+			"prefix": "SK/havo",
+			"title": "Examenprogramma Scheikunde havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebb05acf-108c-4688-88c8-0777fb24d7d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebb05acf-108c-4688-88c8-0777fb24d7d1",
+			"uuid": "ebb05acf-108c-4688-88c8-0777fb24d7d1",
+			"@type": "Examenprogramma",
+			"prefix": "SK/vwo",
+			"title": "Examenprogramma Scheikunde vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/56d6b9de-9cc6-4048-b0c7-84a97dd5fc64",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56d6b9de-9cc6-4048-b0c7-84a97dd5fc64",
+			"uuid": "56d6b9de-9cc6-4048-b0c7-84a97dd5fc64",
+			"@type": "Examenprogramma",
+			"prefix": "THT/T/havo",
+			"title": "Examenprogramma Tekenen havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43beb4d1-9950-4e88-b18e-0dee930169fe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43beb4d1-9950-4e88-b18e-0dee930169fe",
+			"uuid": "43beb4d1-9950-4e88-b18e-0dee930169fe",
+			"@type": "Examenprogramma",
+			"prefix": "THT/T/vwo",
+			"title": "Examenprogramma Tekenen vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ec5efd5c-3365-4207-8d49-91500cc3d1dc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ec5efd5c-3365-4207-8d49-91500cc3d1dc",
+			"uuid": "ec5efd5c-3365-4207-8d49-91500cc3d1dc",
+			"@type": "Examenprogramma",
+			"prefix": "THT/TV/havo",
+			"title": "Examenprogramma Textiele vormgeving havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8154c65d-5f4b-4608-8f0a-0e24fce45261",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8154c65d-5f4b-4608-8f0a-0e24fce45261",
+			"uuid": "8154c65d-5f4b-4608-8f0a-0e24fce45261",
+			"@type": "Examenprogramma",
+			"prefix": "THT/TV/vwo",
+			"title": "Examenprogramma Textiele vormgeving vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d78bccc-c004-4b8a-a8c6-a81709670664",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d78bccc-c004-4b8a-a8c6-a81709670664",
+			"uuid": "8d78bccc-c004-4b8a-a8c6-a81709670664",
+			"@type": "Examenprogramma",
+			"prefix": "WI/A/havo",
+			"title": "Examenprogramma Wiskunde A havo"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

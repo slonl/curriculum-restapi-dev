@@ -1,0 +1,43 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/62971353-3ec4-45a8-b41a-f48167b4e61a",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62971353-3ec4-45a8-b41a-f48167b4e61a",
+	"uuid": "62971353-3ec4-45a8-b41a-f48167b4e61a",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkTaalactiviteit",
+	"ErkSchaal": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+			"uuid": "e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+			"title": "Interculturele ruimte mogelijk maken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+			"uuid": "8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+			"title": "Als intermediair optreden in informele situaties",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b350bcbb-483f-4e23-8a62-a9ddf3b82a87",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b350bcbb-483f-4e23-8a62-a9ddf3b82a87",
+			"uuid": "b350bcbb-483f-4e23-8a62-a9ddf3b82a87",
+			"title": "Communicatie bevorderen in gevoelige situaties en bij onenigheid",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f79460fd-a90d-40ad-9950-e07d896d04f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f79460fd-a90d-40ad-9950-e07d896d04f2",
+			"uuid": "f79460fd-a90d-40ad-9950-e07d896d04f2",
+			"title": "Mediation van communicatie"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": null,
+	"title": "Mediation van communicatie"
+}

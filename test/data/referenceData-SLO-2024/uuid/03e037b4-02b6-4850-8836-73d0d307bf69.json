@@ -1,0 +1,106 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/03e037b4-02b6-4850-8836-73d0d307bf69",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03e037b4-02b6-4850-8836-73d0d307bf69",
+	"uuid": "03e037b4-02b6-4850-8836-73d0d307bf69",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaEindterm",
+	"ExamenprogrammaSubdomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a06003a0-2c2c-4669-996e-45b4a52bc95d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a06003a0-2c2c-4669-996e-45b4a52bc95d",
+			"uuid": "a06003a0-2c2c-4669-996e-45b4a52bc95d",
+			"prefix": "MAW/H/DomeinA/A1",
+			"title": "Subdomein A1: Informatievaardigheden",
+			"deprecated": null,
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6596bd5d-5695-46e6-b314-fdc2dd48529d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6596bd5d-5695-46e6-b314-fdc2dd48529d",
+					"uuid": "6596bd5d-5695-46e6-b314-fdc2dd48529d",
+					"title": "Domein A: Vaardigheden",
+					"deprecated": null,
+					"Examenprogramma": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/64292983-7d41-4556-afc8-5cbd1f069739",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64292983-7d41-4556-afc8-5cbd1f069739",
+							"uuid": "64292983-7d41-4556-afc8-5cbd1f069739",
+							"title": "Examenprogramma Maatschappijwetenschappen havo",
+							"deprecated": null
+						}
+					]
+				}
+			]
+		}
+	],
+	"ExamenprogrammaDomein": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"uuid": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		}
+	],
+	"SyllabusSpecifiekeEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/247b1ba8-d2e4-4d70-a117-6b6858c8fe34",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/247b1ba8-d2e4-4d70-a117-6b6858c8fe34",
+			"uuid": "247b1ba8-d2e4-4d70-a117-6b6858c8fe34",
+			"title": "De kandidaat kan op basis van vakinhoudelijke kennis gericht informatie c.q. gegevens selecteren uit een of meerdere informatiebronnen en de bruikbaarheid daarvan beoordelen.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8655a15f-815d-4cef-869b-3f54622b36fe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8655a15f-815d-4cef-869b-3f54622b36fe",
+			"uuid": "8655a15f-815d-4cef-869b-3f54622b36fe",
+			"title": "De kandidaat kan op basis van vakinhoudelijke kennis gericht informatie c.q. gegevens selecteren uit een of meerdere informatiebronnen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e814139f-45b4-4940-bb4c-6e9b57c569a5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e814139f-45b4-4940-bb4c-6e9b57c569a5",
+			"uuid": "e814139f-45b4-4940-bb4c-6e9b57c569a5",
+			"title": "De kandidaat kan de aard van informatiebronnen onderscheiden door bronnen met elkaar te vergelijken en deze te typeren naar schrijver, identiteit van de schrijver, doel van het geschrevene en mate van objectiviteit. De mate van objectiviteit en subjectiviteit kan hij herkennen in onderwerpkeuze, woordgebruik en beeldkeuze.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c0817fea-7744-440c-8d78-16ba8822428d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c0817fea-7744-440c-8d78-16ba8822428d",
+			"uuid": "c0817fea-7744-440c-8d78-16ba8822428d",
+			"title": "Tevens kan de kandidaat de betrouwbaarheid en representativiteit van informatiebronnen vaststellen door na te gaan waar deze vandaan komen (denk bv. aan wie is de schrijver?, met welk doel zijn zij geschreven?, wat is de identiteit van de schrijver?), op welke wijze zij zijn verzameld (denk bv. aan selectiecriteria, referentiekader) en hoe zij zijn weergegeven (denk bv. aan journalistieke principes toepassen als hoor en wederhoor, scheiding feiten en commentaar, streven naar objectiviteit, juiste weergave van feiten, citaten, checken van bronnen). Het begrip betrouwbaarheid heeft betrekking op de vraag of de bron gegevens kan opleveren die als feitelijk juist kunnen worden beschouwd.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9249f252-0667-4eea-926c-484dc2225319",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9249f252-0667-4eea-926c-484dc2225319",
+			"uuid": "9249f252-0667-4eea-926c-484dc2225319",
+			"title": "De kandidaat kan de aard van informatiebronnen onderscheiden door bronnen met elkaar te vergelijken en te typeren naar de mate van objectivieit, de mate van betrouwbaarheid en de mate van representativiteit.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b4a48f06-4cd6-4014-bab9-b7cf0fd3395c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b4a48f06-4cd6-4014-bab9-b7cf0fd3395c",
+			"uuid": "b4a48f06-4cd6-4014-bab9-b7cf0fd3395c",
+			"title": "De kandidaat kan de aard van informatiebronnen onderscheiden door bronnen met elkaar te vergelijken en te typeren naar de mate van objectivieit, de mate van betrouwbaarheid en de mate van representativiteit.",
+			"deprecated": true
+		}
+	],
+	"SyllabusToelichting": [],
+	"SyllabusVakbegrip": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a66ec364-385e-41ed-8678-8083d851f4a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a66ec364-385e-41ed-8678-8083d851f4a8",
+			"uuid": "a66ec364-385e-41ed-8678-8083d851f4a8",
+			"title": "De kandidaat kan benodigde informatie verwerven en selecteren uit digitale en niet-digitale bronnen."
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "",
+	"title": "De kandidaat kan benodigde informatie verwerven en selecteren uit digitale en niet-digitale bronnen.",
+	"ce_se": "SE; CE"
+}

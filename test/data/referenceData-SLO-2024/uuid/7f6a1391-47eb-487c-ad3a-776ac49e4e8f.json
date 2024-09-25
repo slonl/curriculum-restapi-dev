@@ -1,0 +1,38 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/7f6a1391-47eb-487c-ad3a-776ac49e4e8f",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f6a1391-47eb-487c-ad3a-776ac49e4e8f",
+	"uuid": "7f6a1391-47eb-487c-ad3a-776ac49e4e8f",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Doelniveau",
+	"ExamenprogrammaEindterm": [],
+	"ExamenprogrammaSubdomein": [],
+	"ExamenprogrammaDomein": [],
+	"LdkVakleergebied": [],
+	"LdkVakkern": [],
+	"LdkVaksubkern": [],
+	"LdkVakinhoud": [],
+	"Kerndoel": [],
+	"LpibVakkern": [],
+	"LpibVaksubkern": [],
+	"LpibVakinhoud": [],
+	"Doel": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"description": "bovenbouw vmbo beroepsgerichte leerweg",
+			"prefix": "3501",
+			"type": "Opleiding",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		}
+	],
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": null,
+	"ce_se": null,
+	"LdkVakbegrip": []
+}

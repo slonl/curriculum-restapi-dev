@@ -1,0 +1,706 @@
+{
+	"count": 27619,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3793b564-4032-4be3-b998-709b496389dc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3793b564-4032-4be3-b998-709b496389dc",
+			"uuid": "3793b564-4032-4be3-b998-709b496389dc",
+			"@type": "Doel",
+			"title": "(-)ei(-) of (-)ij(-) (trein, lijst)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/39b62613-a700-4ca2-a5e3-ad03a9cd2b75",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/39b62613-a700-4ca2-a5e3-ad03a9cd2b75",
+			"uuid": "39b62613-a700-4ca2-a5e3-ad03a9cd2b75",
+			"@type": "Doel",
+			"title": "(-)y(-) (yoghurt, pony)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b8227c4-82dc-4225-b19f-9c19296d4aa8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b8227c4-82dc-4225-b19f-9c19296d4aa8",
+			"uuid": "7b8227c4-82dc-4225-b19f-9c19296d4aa8",
+			"@type": "Doel",
+			"title": "(aansluiten,) aanzetten en uitzetten van de computer"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5b191d5-2ca9-4c6b-8a1d-443bc8dcdf34",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5b191d5-2ca9-4c6b-8a1d-443bc8dcdf34",
+			"uuid": "d5b191d5-2ca9-4c6b-8a1d-443bc8dcdf34",
+			"@type": "Doel",
+			"title": "(aansluiten,) aanzetten en uitzetten van de computer"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/41888d57-9066-4fc4-a194-c8c3903f8e3e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41888d57-9066-4fc4-a194-c8c3903f8e3e",
+			"uuid": "41888d57-9066-4fc4-a194-c8c3903f8e3e",
+			"@type": "Doel",
+			"title": "(associatief) relaties leggen tussen een verhaal en de werkelijkheid"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/068b0541-2f86-4fdc-8003-feddca03c12b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/068b0541-2f86-4fdc-8003-feddca03c12b",
+			"uuid": "068b0541-2f86-4fdc-8003-feddca03c12b",
+			"@type": "Doel",
+			"title": "(bewust) omgaan met (zak-)geld"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/447d7d3c-97b0-4944-a291-7ca91953c161",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/447d7d3c-97b0-4944-a291-7ca91953c161",
+			"uuid": "447d7d3c-97b0-4944-a291-7ca91953c161",
+			"@type": "Doel",
+			"title": "(gehurkt) hoogspringen met rechte aanloop"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5700be6-ddd9-4c1f-adae-feafccc05461",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5700be6-ddd9-4c1f-adae-feafccc05461",
+			"uuid": "e5700be6-ddd9-4c1f-adae-feafccc05461",
+			"@type": "Doel",
+			"title": "(groep 3) voorspellen waar de tekst over gaat en herlezen en onderstrepen, met name om nog een keer te genieten van de tekst en om te onthouden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dc9137db-4db5-48cf-8ae1-db91cd33abb8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dc9137db-4db5-48cf-8ae1-db91cd33abb8",
+			"uuid": "dc9137db-4db5-48cf-8ae1-db91cd33abb8",
+			"@type": "Doel",
+			"title": "(her)kennen van getalbeelden tot ten minste 20"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/764b818e-a64c-4d9c-a83a-ca4ad332146a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/764b818e-a64c-4d9c-a83a-ca4ad332146a",
+			"uuid": "764b818e-a64c-4d9c-a83a-ca4ad332146a",
+			"@type": "Doel",
+			"title": "(her)kennen van kenmerken en uitingen van vriendschap"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/99b6f5b8-d9e0-484d-ab70-eca0ad86edbb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/99b6f5b8-d9e0-484d-ab70-eca0ad86edbb",
+			"uuid": "99b6f5b8-d9e0-484d-ab70-eca0ad86edbb",
+			"@type": "Doel",
+			"title": "(her)kennen, begrijpen en gebruiken van wiskundetaal bij aftrekken ('weghalen/wegnemen/eraf' en 'verschil bepalen' en de formele notatie: .. - .. = ..)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6b0bfe7e-fff0-487f-a2fc-6550bd5755f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b0bfe7e-fff0-487f-a2fc-6550bd5755f1",
+			"uuid": "6b0bfe7e-fff0-487f-a2fc-6550bd5755f1",
+			"@type": "Doel",
+			"title": "(her)kennen, begrijpen en gebruiken van wiskundetaal bij delen zoals 'verdelen', 'opdelen', 'delen door', 'gedeeld door', 'herhaald aftrekken', 'rest' en de formele notatie .. : .. = .."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c1f5a4f-9c78-4187-8bb9-e76de6c6ea99",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c1f5a4f-9c78-4187-8bb9-e76de6c6ea99",
+			"uuid": "2c1f5a4f-9c78-4187-8bb9-e76de6c6ea99",
+			"@type": "Doel",
+			"title": "(her)kennen, begrijpen en gebruiken van wiskundetaal bij optellen ('erbij komen/vermeerderen' en 'samenvoegen' en de formele notatie: .. + .. = ..)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/90456138-9b93-49f8-aac8-f4b56768937e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90456138-9b93-49f8-aac8-f4b56768937e",
+			"uuid": "90456138-9b93-49f8-aac8-f4b56768937e",
+			"@type": "Doel",
+			"title": "(her)kennen, begrijpen en gebruiken van wiskundetaal bij vermenigvuldigen zoals 'aantal keer', 'keer', 'maal', 'herhaald optellen', 'vermenigvuldigen met' en de formele notatie .. × .. = .."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc77abe8-1fbc-4d59-8297-a3709dd07f67",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc77abe8-1fbc-4d59-8297-a3709dd07f67",
+			"uuid": "bc77abe8-1fbc-4d59-8297-a3709dd07f67",
+			"@type": "Doel",
+			"title": "(indien nodig) aandacht hebben voor vlotte en accurate woordherkenning"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ece6dd6-7507-4efe-b54e-da32146d9646",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ece6dd6-7507-4efe-b54e-da32146d9646",
+			"uuid": "3ece6dd6-7507-4efe-b54e-da32146d9646",
+			"@type": "Doel",
+			"title": "(kritisch) redeneren over en reflecteren op eigen uitgaven in relatie tot een budget en nadenken over uitgeven van (te veel) geld"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+			"uuid": "3d6fb34b-3737-4646-a2eb-a79cb7452a01",
+			"@type": "Doel",
+			"title": "(lengte)maten en geld in verband brengen met decimale getallen: • 1,65 m is 1 meter en 65 centimeter; • € 1,65 is 1 euro en 65 eurocent"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f038bee5-72e4-4115-a5c7-a202938791de",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f038bee5-72e4-4115-a5c7-a202938791de",
+			"uuid": "f038bee5-72e4-4115-a5c7-a202938791de",
+			"@type": "Doel",
+			"title": "(m)kmm (als, kaart),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fad44277-1ca8-4996-b98b-471d4bf93b2e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fad44277-1ca8-4996-b98b-471d4bf93b2e",
+			"uuid": "fad44277-1ca8-4996-b98b-471d4bf93b2e",
+			"@type": "Doel",
+			"title": "(met hulp) aanpassen van tekst n.a.v. reacties van publiek (klasgenootjes)(groep 3) "
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dbecaa29-27f8-405d-a12b-15846a8802ec",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbecaa29-27f8-405d-a12b-15846a8802ec",
+			"uuid": "dbecaa29-27f8-405d-a12b-15846a8802ec",
+			"@type": "Doel",
+			"title": "(met hulp) afstemmen van manier luisteren op doel"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/09168b64-a7af-4226-a53c-1d106e5d2181",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/09168b64-a7af-4226-a53c-1d106e5d2181",
+			"uuid": "09168b64-a7af-4226-a53c-1d106e5d2181",
+			"@type": "Doel",
+			"title": "(met hulp) begrijpen van de bedoeling van de schrijver (onderscheiden van lezen om te weten, overtuigen of doen)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/416cd05f-2cd1-418f-b73c-e8abb188a77c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/416cd05f-2cd1-418f-b73c-e8abb188a77c",
+			"uuid": "416cd05f-2cd1-418f-b73c-e8abb188a77c",
+			"@type": "Doel",
+			"title": "(met hulp) begrijpen van informatieve prentenboeken (bijv. juiste plaatje aanwijzen tijdens of na het lezen)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/be8eeec8-db57-4465-84e5-b34f36ae9531",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be8eeec8-db57-4465-84e5-b34f36ae9531",
+			"uuid": "be8eeec8-db57-4465-84e5-b34f36ae9531",
+			"@type": "Doel",
+			"title": "(met hulp) bepalen van inhoud en aanpak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/90512876-2d57-40a7-ab28-dd842bbc5d36",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90512876-2d57-40a7-ab28-dd842bbc5d36",
+			"uuid": "90512876-2d57-40a7-ab28-dd842bbc5d36",
+			"@type": "Doel",
+			"title": "(met hulp) bepalen van leerdoelen voor een volgend gesprek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a287823b-bd02-42b5-8b1c-e1ab85decc5c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a287823b-bd02-42b5-8b1c-e1ab85decc5c",
+			"uuid": "a287823b-bd02-42b5-8b1c-e1ab85decc5c",
+			"@type": "Doel",
+			"title": "(met hulp) bewust worden van aspecten van het eigen leesleerproces (groep 3)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/24fb0b5c-8c1f-4f9e-bb71-217f9bd7632c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/24fb0b5c-8c1f-4f9e-bb71-217f9bd7632c",
+			"uuid": "24fb0b5c-8c1f-4f9e-bb71-217f9bd7632c",
+			"@type": "Doel",
+			"title": "(met hulp) duidelijk maken van spreekdoel en hieraan vasthouden tijdens het spreken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb222675-2190-4b5a-aff1-feb85f7b514d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb222675-2190-4b5a-aff1-feb85f7b514d",
+			"uuid": "fb222675-2190-4b5a-aff1-feb85f7b514d",
+			"@type": "Doel",
+			"title": "(met hulp) herkennen van verschillende gesprekssoorten met bijbehorende doelen (bijv. uitwisseling over oplossing rekenprobleem of overleg over te organiseren tentoonstelling)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/882bb43c-33e4-4a72-9849-ede22e548187",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/882bb43c-33e4-4a72-9849-ede22e548187",
+			"uuid": "882bb43c-33e4-4a72-9849-ede22e548187",
+			"@type": "Doel",
+			"title": "(met hulp) identificeren van het beoogde publiek van een tekst"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2fa11227-04c3-4c52-8c26-1d5332071998",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2fa11227-04c3-4c52-8c26-1d5332071998",
+			"uuid": "2fa11227-04c3-4c52-8c26-1d5332071998",
+			"@type": "Doel",
+			"title": "(met hulp) inzetten van lichaamshouding, oogcontact, gebaren tijdens het spreken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9874751b-001b-4628-b06b-048b6e533614",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9874751b-001b-4628-b06b-048b6e533614",
+			"uuid": "9874751b-001b-4628-b06b-048b6e533614",
+			"@type": "Doel",
+			"title": "(met hulp) inzetten van luisterstrategieën"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/089a196c-a606-47d3-86f1-525cbff1c650",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/089a196c-a606-47d3-86f1-525cbff1c650",
+			"uuid": "089a196c-a606-47d3-86f1-525cbff1c650",
+			"@type": "Doel",
+			"title": "(met hulp) inzetten van luisterstrategieën"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2f281a7b-b1a9-4db9-9466-d4c8759cfa4b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f281a7b-b1a9-4db9-9466-d4c8759cfa4b",
+			"uuid": "2f281a7b-b1a9-4db9-9466-d4c8759cfa4b",
+			"@type": "Doel",
+			"title": "(met hulp) inzetten van luisterstrategieën"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b566ddc3-e6b1-4544-b1e0-d3bf6bef9c4e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b566ddc3-e6b1-4544-b1e0-d3bf6bef9c4e",
+			"uuid": "b566ddc3-e6b1-4544-b1e0-d3bf6bef9c4e",
+			"@type": "Doel",
+			"title": "(met hulp) inzetten van luisterstrategieën"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9b6b2dd8-ffa0-4abf-be63-2bd846f13ec4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9b6b2dd8-ffa0-4abf-be63-2bd846f13ec4",
+			"uuid": "9b6b2dd8-ffa0-4abf-be63-2bd846f13ec4",
+			"@type": "Doel",
+			"title": "(met hulp) inzetten van schrijfstrategieën: - verkennen van het onderwerp; - 'verzamelen' van informatie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8252cf17-88a6-477b-b352-d3554b21c68b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8252cf17-88a6-477b-b352-d3554b21c68b",
+			"uuid": "8252cf17-88a6-477b-b352-d3554b21c68b",
+			"@type": "Doel",
+			"title": "(met hulp) kiezen en productief gebruiken van (nieuwe) woorden tijdens gesprekken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1598fe16-d61b-4a39-a2d3-20be638848b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1598fe16-d61b-4a39-a2d3-20be638848b6",
+			"uuid": "1598fe16-d61b-4a39-a2d3-20be638848b6",
+			"@type": "Doel",
+			"title": "(met hulp) ook inzetten op de schrijfstrategieën: - selecteren en ordenen van informatie; - reflecteren (vooral op inhoud, minder op vorm); - verzorgen van de lay-out van de tekst (groep 3)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/13c43689-e10c-40df-9a14-f87b096fa520",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13c43689-e10c-40df-9a14-f87b096fa520",
+			"uuid": "13c43689-e10c-40df-9a14-f87b096fa520",
+			"@type": "Doel",
+			"title": "(met hulp) ordenen van informatie en aanbrengen van structuur"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/526064de-c148-48e2-bcb0-096253a084a9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/526064de-c148-48e2-bcb0-096253a084a9",
+			"uuid": "526064de-c148-48e2-bcb0-096253a084a9",
+			"@type": "Doel",
+			"title": "(met hulp) oriënteren en reflecteren op het gebruik van leesstrategieën"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d87ffd27-1eca-4d81-aa24-e7b3ad1c6364",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d87ffd27-1eca-4d81-aa24-e7b3ad1c6364",
+			"uuid": "d87ffd27-1eca-4d81-aa24-e7b3ad1c6364",
+			"@type": "Doel",
+			"title": "(met hulp) oriënteren en reflecteren op verschillende aspecten van de uitvoering van de leestaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/486d05b2-81e5-4b3d-877f-da0c0043d7b1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/486d05b2-81e5-4b3d-877f-da0c0043d7b1",
+			"uuid": "486d05b2-81e5-4b3d-877f-da0c0043d7b1",
+			"@type": "Doel",
+			"title": "(met hulp) oriënteren op aanpak en uitvoering van de luistertaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1a167d6f-7f51-4337-9d26-8876b75a1c1a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1a167d6f-7f51-4337-9d26-8876b75a1c1a",
+			"uuid": "1a167d6f-7f51-4337-9d26-8876b75a1c1a",
+			"@type": "Doel",
+			"title": "(met hulp) oriënteren op de uitvoering van de luistertaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4fdffd61-8924-4443-9e5f-67edb5036c74",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4fdffd61-8924-4443-9e5f-67edb5036c74",
+			"uuid": "4fdffd61-8924-4443-9e5f-67edb5036c74",
+			"@type": "Doel",
+			"title": "(met hulp) oriënteren op de uitvoering van de luistertaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca34bd14-09cc-4958-ac9a-613a64b3f7d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca34bd14-09cc-4958-ac9a-613a64b3f7d0",
+			"uuid": "ca34bd14-09cc-4958-ac9a-613a64b3f7d0",
+			"@type": "Doel",
+			"title": "(met hulp) oriënteren op het leesdoel (groep 3)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/002e5bf6-5dc4-4c11-b45b-473d1ea10fa3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/002e5bf6-5dc4-4c11-b45b-473d1ea10fa3",
+			"uuid": "002e5bf6-5dc4-4c11-b45b-473d1ea10fa3",
+			"@type": "Doel",
+			"title": "(met hulp) oriënteren voorafgaand aan het gesprek op onderwerp en elementaire gespreksregels (bijv. naar elkaar luisteren)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c59947ba-2713-4655-834f-8e6e33aa2122",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c59947ba-2713-4655-834f-8e6e33aa2122",
+			"uuid": "c59947ba-2713-4655-834f-8e6e33aa2122",
+			"@type": "Doel",
+			"title": "(met hulp) productief gebruiken van aangeboden woorden tijdens gesprekken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a61bd85d-8b23-45b3-a0bd-1a5edc729983",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a61bd85d-8b23-45b3-a0bd-1a5edc729983",
+			"uuid": "a61bd85d-8b23-45b3-a0bd-1a5edc729983",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren in tekstbesprekingen op het schrijfproces (oriënteren, formuleren en reviseren) en het schrijfproduct (structuur, samenhang, stijl, doel, publiek, vormaspecten)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/51ffc970-016d-4727-8e2f-f4d0bd6d4029",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51ffc970-016d-4727-8e2f-f4d0bd6d4029",
+			"uuid": "51ffc970-016d-4727-8e2f-f4d0bd6d4029",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op aanpak en uitvoering van de luistertaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7d0194d6-6aad-4c15-a6f9-26701d18346b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7d0194d6-6aad-4c15-a6f9-26701d18346b",
+			"uuid": "7d0194d6-6aad-4c15-a6f9-26701d18346b",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op aanpak en uitvoering van spreektaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3bcb9ea-81e4-41e1-9749-aca04f18d166",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3bcb9ea-81e4-41e1-9749-aca04f18d166",
+			"uuid": "d3bcb9ea-81e4-41e1-9749-aca04f18d166",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op de uitvoering van de luistertaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/03f691f0-ec6e-4ec8-8204-f759bc9bb64f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03f691f0-ec6e-4ec8-8204-f759bc9bb64f",
+			"uuid": "03f691f0-ec6e-4ec8-8204-f759bc9bb64f",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op de uitvoering van de luistertaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83ae0df5-0696-4f4d-8316-acf9e637f547",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83ae0df5-0696-4f4d-8316-acf9e637f547",
+			"uuid": "83ae0df5-0696-4f4d-8316-acf9e637f547",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op eigen aandeel in en aanpak van gesprek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/20537d6a-9cab-48ef-bf57-033aefb206a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/20537d6a-9cab-48ef-bf57-033aefb206a2",
+			"uuid": "20537d6a-9cab-48ef-bf57-033aefb206a2",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op eigen aandeel in en aanpak van gesprek en openstaan voor reacties van gesprekspartners daarop"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92c267d7-7e9d-4bcb-9c2b-72d2309b0a81",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92c267d7-7e9d-4bcb-9c2b-72d2309b0a81",
+			"uuid": "92c267d7-7e9d-4bcb-9c2b-72d2309b0a81",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op eigen bijdrage aan het gesprek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9a9ada7d-0058-4e33-b5f5-4bd4663c57d4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9a9ada7d-0058-4e33-b5f5-4bd4663c57d4",
+			"uuid": "9a9ada7d-0058-4e33-b5f5-4bd4663c57d4",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op gebruik van eenvoudige planningsstrategieën en op uitvoering"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/00c8c9ac-04cb-4826-bb1a-cfd762575940",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/00c8c9ac-04cb-4826-bb1a-cfd762575940",
+			"uuid": "00c8c9ac-04cb-4826-bb1a-cfd762575940",
+			"@type": "Doel",
+			"title": "(met hulp) reflecteren op uitvoering spreektaak"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83d0b92f-dd19-4c68-8de7-24e17eb217b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83d0b92f-dd19-4c68-8de7-24e17eb217b6",
+			"uuid": "83d0b92f-dd19-4c68-8de7-24e17eb217b6",
+			"@type": "Doel",
+			"title": "(met hulp) selecteren van belangrijke informatie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7a36ed38-46f5-4cea-9776-86b9a52ac301",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7a36ed38-46f5-4cea-9776-86b9a52ac301",
+			"uuid": "7a36ed38-46f5-4cea-9776-86b9a52ac301",
+			"@type": "Doel",
+			"title": "(met hulp) signaleren wanneer regels voor beurtwisseling overtreden worden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5aef5ad9-b9df-4f12-8aa3-866edd6f8e92",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5aef5ad9-b9df-4f12-8aa3-866edd6f8e92",
+			"uuid": "5aef5ad9-b9df-4f12-8aa3-866edd6f8e92",
+			"@type": "Doel",
+			"title": "(met hulp) toepassen van complexere gespreksregels"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/512de110-2cdf-4b87-a5dd-3d2590021bea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512de110-2cdf-4b87-a5dd-3d2590021bea",
+			"uuid": "512de110-2cdf-4b87-a5dd-3d2590021bea",
+			"@type": "Doel",
+			"title": "(met hulp) toepassen van elementaire gespreksvaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dd9ebc8-a261-4328-b18d-607881797aad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dd9ebc8-a261-4328-b18d-607881797aad",
+			"uuid": "6dd9ebc8-a261-4328-b18d-607881797aad",
+			"@type": "Doel",
+			"title": "(met hulp) voorbereiden van een verhaal/praatje/boekbespreking"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/11d35e81-1ebd-4dfb-bd4d-b5a4af565208",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/11d35e81-1ebd-4dfb-bd4d-b5a4af565208",
+			"uuid": "11d35e81-1ebd-4dfb-bd4d-b5a4af565208",
+			"@type": "Doel",
+			"title": "(met hulp) voorbereiden van spreektaak (inhoud en aanpak)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61580bb5-5110-4b98-97a5-2ae65c3e9c50",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61580bb5-5110-4b98-97a5-2ae65c3e9c50",
+			"uuid": "61580bb5-5110-4b98-97a5-2ae65c3e9c50",
+			"@type": "Doel",
+			"title": "(met hulp) vormen van eigen mening over (een inhoudselement van) een tekst"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4d1d84f5-415b-40d4-9c4e-fc0fc13875bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d1d84f5-415b-40d4-9c4e-fc0fc13875bb",
+			"uuid": "4d1d84f5-415b-40d4-9c4e-fc0fc13875bb",
+			"@type": "Doel",
+			"title": "(met hulp) zich oriënteren voorafgaand aan het gesprek op soort gesprek en elementaire gespreksregels (bijv. reageren op dat wat de ander zegt)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/68d6f210-2939-4bc2-ac73-6b24340dbb7c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/68d6f210-2939-4bc2-ac73-6b24340dbb7c",
+			"uuid": "68d6f210-2939-4bc2-ac73-6b24340dbb7c",
+			"@type": "Doel",
+			"title": "(nieuwe) woorden kiezen en gebruiken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f2319c5-e52f-4230-beb6-94caeb43a00f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f2319c5-e52f-4230-beb6-94caeb43a00f",
+			"uuid": "6f2319c5-e52f-4230-beb6-94caeb43a00f",
+			"@type": "Doel",
+			"title": "(rijen)estafette lopen met estafettestokje"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/283b387f-f1b7-4490-b49a-35b58e663362",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/283b387f-f1b7-4490-b49a-35b58e663362",
+			"uuid": "283b387f-f1b7-4490-b49a-35b58e663362",
+			"@type": "Doel",
+			"title": "(rijen)estafette lopen met tikken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/adab9601-9970-4c2f-b6e2-b175bbf61707",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/adab9601-9970-4c2f-b6e2-b175bbf61707",
+			"uuid": "adab9601-9970-4c2f-b6e2-b175bbf61707",
+			"@type": "Doel",
+			"title": "(rijen)estafette lopen met wisselzone"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91f619db-c232-458b-ae85-62f7d3f36afa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91f619db-c232-458b-ae85-62f7d3f36afa",
+			"uuid": "91f619db-c232-458b-ae85-62f7d3f36afa",
+			"@type": "Doel",
+			"title": "(samen) nadenken over de inrichting van de naaste omgeving"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9357f0a1-cc41-4a8e-94c4-ff41dca5c9ba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9357f0a1-cc41-4a8e-94c4-ff41dca5c9ba",
+			"uuid": "9357f0a1-cc41-4a8e-94c4-ff41dca5c9ba",
+			"@type": "Doel",
+			"title": "(samen) nadenken over de inrichting van de ruimte"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7284f8f6-39a2-4247-987d-f4aa19bbfd13",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7284f8f6-39a2-4247-987d-f4aa19bbfd13",
+			"uuid": "7284f8f6-39a2-4247-987d-f4aa19bbfd13",
+			"@type": "Doel",
+			"title": "(samen) nadenken over inrichting van de ruimte om je heen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/648269de-f7b6-4205-b57c-3ce1725e8ddd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/648269de-f7b6-4205-b57c-3ce1725e8ddd",
+			"uuid": "648269de-f7b6-4205-b57c-3ce1725e8ddd",
+			"@type": "Doel",
+			"title": "(waar nodig met hulp) inzetten van schrijfstrategieën: - oriënteren met aandacht voor het doel en publiek; - plannen en maken van een opzet voor de tekst; - reflecteren en reviseren op inhoud (doel, publiek, opbouw van tekst) en vorm (opbouw van zinnen, spelling)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ba6e1b80-fcf9-4652-9394-08fbaf131d7e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ba6e1b80-fcf9-4652-9394-08fbaf131d7e",
+			"uuid": "ba6e1b80-fcf9-4652-9394-08fbaf131d7e",
+			"@type": "Doel",
+			"title": "(wiskundig) redeneren in situaties waarin percentages of verhoudingen voorkomen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d4c1a2df-6bd9-4128-9129-573f97b8d85c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4c1a2df-6bd9-4128-9129-573f97b8d85c",
+			"uuid": "d4c1a2df-6bd9-4128-9129-573f97b8d85c",
+			"@type": "Doel",
+			"title": "(wiskundig) redeneren in situaties waarin percentages of verhoudingen voorkomen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/085b7bb7-7141-4a6b-bc79-e402e581e29b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/085b7bb7-7141-4a6b-bc79-e402e581e29b",
+			"uuid": "085b7bb7-7141-4a6b-bc79-e402e581e29b",
+			"@type": "Doel",
+			"title": "-a, -o, -u (papa, foto, nu),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7c01724-a398-4e44-b544-2a3ab56a3a24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7c01724-a398-4e44-b544-2a3ab56a3a24",
+			"uuid": "c7c01724-a398-4e44-b544-2a3ab56a3a24",
+			"@type": "Doel",
+			"title": "-aai, -ooi, -oei (saai, mooi, boei),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bd951f99-c2d8-4a24-a928-7489c8478049",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bd951f99-c2d8-4a24-a928-7489c8478049",
+			"uuid": "bd951f99-c2d8-4a24-a928-7489c8478049",
+			"@type": "Doel",
+			"title": "-au-, -auw (saus, blauw)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5d6ef92-88ae-4399-a61c-8058cc8c95a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5d6ef92-88ae-4399-a61c-8058cc8c95a7",
+			"uuid": "d5d6ef92-88ae-4399-a61c-8058cc8c95a7",
+			"@type": "Doel",
+			"title": "-ch(t) (pech, bocht)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/22c1d2ba-8723-44c3-84b7-089b90e6d210",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22c1d2ba-8723-44c3-84b7-089b90e6d210",
+			"uuid": "22c1d2ba-8723-44c3-84b7-089b90e6d210",
+			"@type": "Doel",
+			"title": "-d (hond, paard) (verlengingsregel eenlettergrepige woorden),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/81954d4a-86a9-470e-a7b8-11577be87e64",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/81954d4a-86a9-470e-a7b8-11577be87e64",
+			"uuid": "81954d4a-86a9-470e-a7b8-11577be87e64",
+			"@type": "Doel",
+			"title": "-ee (zee, twee),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/37542c23-f80a-45da-b1f9-146147212f18",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/37542c23-f80a-45da-b1f9-146147212f18",
+			"uuid": "37542c23-f80a-45da-b1f9-146147212f18",
+			"@type": "Doel",
+			"title": "-eer, -oor, -eur (keer, spoor, deur)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7509daa4-5fa5-4f2f-8d01-7c0d4b419087",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7509daa4-5fa5-4f2f-8d01-7c0d4b419087",
+			"uuid": "7509daa4-5fa5-4f2f-8d01-7c0d4b419087",
+			"@type": "Doel",
+			"title": "-eeuw, -ieuw (leeuw, nieuw),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69d04abf-efa7-4558-88b5-51634b919a9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69d04abf-efa7-4558-88b5-51634b919a9e",
+			"uuid": "69d04abf-efa7-4558-88b5-51634b919a9e",
+			"@type": "Doel",
+			"title": "-el, -er, -en, -te (sleutel, moeder, molen, breedte),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f82f1d85-6620-48ae-8f30-cb6c83f36d03",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f82f1d85-6620-48ae-8f30-cb6c83f36d03",
+			"uuid": "f82f1d85-6620-48ae-8f30-cb6c83f36d03",
+			"@type": "Doel",
+			"title": "-f-, -v- ongeleed (tafel, oven),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/378802aa-9764-4755-aaff-eb2a12743a76",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/378802aa-9764-4755-aaff-eb2a12743a76",
+			"uuid": "378802aa-9764-4755-aaff-eb2a12743a76",
+			"@type": "Doel",
+			"title": "-mmm (eerst, kunst),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9710cdae-b899-4d75-8dfa-78bd9b4e8785",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9710cdae-b899-4d75-8dfa-78bd9b4e8785",
+			"uuid": "9710cdae-b899-4d75-8dfa-78bd9b4e8785",
+			"@type": "Doel",
+			"title": "-ng (bang),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a039fef-862b-4093-95c4-9f76a8a91131",
+			"uuid": "0a039fef-862b-4093-95c4-9f76a8a91131",
+			"@type": "Doel",
+			"title": "-nk (bank),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0def6546-199a-4b03-9b53-92a82b643ebe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0def6546-199a-4b03-9b53-92a82b643ebe",
+			"uuid": "0def6546-199a-4b03-9b53-92a82b643ebe",
+			"@type": "Doel",
+			"title": "-ou-, -ouw (stout, vrouw)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df952180-e380-49f2-bec9-97cd7363ff86",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df952180-e380-49f2-bec9-97cd7363ff86",
+			"uuid": "df952180-e380-49f2-bec9-97cd7363ff86",
+			"@type": "Doel",
+			"title": "-s-, -z- ongeleed (fase, pauze),"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb9f3636-1d76-4094-ae7b-e4358aa52a64",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb9f3636-1d76-4094-ae7b-e4358aa52a64",
+			"uuid": "fb9f3636-1d76-4094-ae7b-e4358aa52a64",
+			"@type": "Doel",
+			"title": "-tie (politie)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c5ef0191-88e0-4242-9def-624e4140c452",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c5ef0191-88e0-4242-9def-624e4140c452",
+			"uuid": "c5ef0191-88e0-4242-9def-624e4140c452",
+			"@type": "Doel",
+			"title": ".Je redeneert over aspecten van duurzaamheid bij deze omzetting"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4d01d42a-89a2-49b9-b731-0a08d1c9cc59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d01d42a-89a2-49b9-b731-0a08d1c9cc59",
+			"uuid": "4d01d42a-89a2-49b9-b731-0a08d1c9cc59",
+			"@type": "Doel",
+			"title": "/ie/ geschreven als i (liter, olifant, januari)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a69247ea-e194-434a-8efd-9667023b7cac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a69247ea-e194-434a-8efd-9667023b7cac",
+			"uuid": "a69247ea-e194-434a-8efd-9667023b7cac",
+			"@type": "Doel",
+			"title": "/k/ geschreven als -c- (contact)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5739a80f-7bad-4232-b34e-f82458b60c3a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5739a80f-7bad-4232-b34e-f82458b60c3a",
+			"uuid": "5739a80f-7bad-4232-b34e-f82458b60c3a",
+			"@type": "Doel",
+			"title": "/ks/ geschreven als -x- (taxi)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9a3cac53-8e6d-43ae-a078-29ed4207cae2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9a3cac53-8e6d-43ae-a078-29ed4207cae2",
+			"uuid": "9a3cac53-8e6d-43ae-a078-29ed4207cae2",
+			"@type": "Doel",
+			"title": "/oe/ geschreven als -ou- (route)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c949a4f-eb37-49e3-8a81-1969b5541dd0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c949a4f-eb37-49e3-8a81-1969b5541dd0",
+			"uuid": "3c949a4f-eb37-49e3-8a81-1969b5541dd0",
+			"@type": "Doel",
+			"title": "/s/ geschreven als -c- (narcis, precies)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/73086d37-0450-4c5c-9e02-b624f1d9b380",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73086d37-0450-4c5c-9e02-b624f1d9b380",
+			"uuid": "73086d37-0450-4c5c-9e02-b624f1d9b380",
+			"@type": "Doel",
+			"title": "/sj/ geschreven als -ch- (chocola, douche)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c98f3ab5-0c2b-4457-8a3d-4a67b348e369",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c98f3ab5-0c2b-4457-8a3d-4a67b348e369",
+			"uuid": "c98f3ab5-0c2b-4457-8a3d-4a67b348e369",
+			"@type": "Doel",
+			"title": "/t/ geschreven als th (thee)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/32aea80f-da19-415c-903a-445ba18306d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/32aea80f-da19-415c-903a-445ba18306d7",
+			"uuid": "32aea80f-da19-415c-903a-445ba18306d7",
+			"@type": "Doel",
+			"title": "/zj/ geschreven als g (horloge, gelei)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5f6d1cb4-cef7-4d0a-8011-af1e20375284",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5f6d1cb4-cef7-4d0a-8011-af1e20375284",
+			"uuid": "5f6d1cb4-cef7-4d0a-8011-af1e20375284",
+			"@type": "Doel",
+			"title": "0,45 is vijfenveertig honderdsten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4a01a45d-968e-4b72-8373-fdee03cdc11d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4a01a45d-968e-4b72-8373-fdee03cdc11d",
+			"uuid": "4a01a45d-968e-4b72-8373-fdee03cdc11d",
+			"@type": "Doel",
+			"title": "1 dm3 = 1 liter = 1000 ml"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

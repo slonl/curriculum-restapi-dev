@@ -1,0 +1,154 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/512515ac-8442-4213-83d7-84327e48d3e9",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512515ac-8442-4213-83d7-84327e48d3e9",
+	"uuid": "512515ac-8442-4213-83d7-84327e48d3e9",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgProfiel",
+	"ExamenprogrammaBgKern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4354969f-756d-460f-98c4-dba4cdf9461f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4354969f-756d-460f-98c4-dba4cdf9461f",
+			"uuid": "4354969f-756d-460f-98c4-dba4cdf9461f",
+			"prefix": "PK/HBR",
+			"title": "Kern Horeca, bakkerij en recreatie",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgModule": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3609ee5b-46b1-407d-8d2d-04a157073bb4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3609ee5b-46b1-407d-8d2d-04a157073bb4",
+			"uuid": "3609ee5b-46b1-407d-8d2d-04a157073bb4",
+			"prefix": "P/HBR/01",
+			"title": "Gastheerschap",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e7d59cb6-899a-4d28-9bce-d254d0eac415",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e7d59cb6-899a-4d28-9bce-d254d0eac415",
+			"uuid": "e7d59cb6-899a-4d28-9bce-d254d0eac415",
+			"prefix": "P/HBR/02",
+			"title": "De Bakkerij",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0161b36f-a157-4045-9847-95a3db020d9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0161b36f-a157-4045-9847-95a3db020d9e",
+			"uuid": "0161b36f-a157-4045-9847-95a3db020d9e",
+			"prefix": "P/HBR/03",
+			"title": "De keuken",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bb0df3cd-3ab1-4ac6-b66f-b0af17c43998",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bb0df3cd-3ab1-4ac6-b66f-b0af17c43998",
+			"uuid": "bb0df3cd-3ab1-4ac6-b66f-b0af17c43998",
+			"prefix": "P/HBR/04",
+			"title": "Recreatie",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df7b6e22-71b0-41a5-9608-990d84df318a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df7b6e22-71b0-41a5-9608-990d84df318a",
+			"uuid": "df7b6e22-71b0-41a5-9608-990d84df318a",
+			"prefix": "K/HBR/01",
+			"title": "Gastheerspecialisatie (Dit keuzevak is een verdieping van de profielmodule Gastheerschap)",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/66a07ffa-7c5c-49a2-94fe-161d250e2dc2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/66a07ffa-7c5c-49a2-94fe-161d250e2dc2",
+			"uuid": "66a07ffa-7c5c-49a2-94fe-161d250e2dc2",
+			"prefix": "K/HBR/02",
+			"title": "Brood- en banketspecialisatie (Dit keuzevak is een verdieping van de profielmodule Bakkerij)",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8feeada7-92b6-48d7-8359-3aa79aaf9324",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8feeada7-92b6-48d7-8359-3aa79aaf9324",
+			"uuid": "8feeada7-92b6-48d7-8359-3aa79aaf9324",
+			"prefix": "K/HBR/03",
+			"title": "Keukenspecialisatie (Dit keuzevak is een verdieping van de profielmodule Keuken)",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4c9ca69-ccb1-4f39-be42-273451fbdcf4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4c9ca69-ccb1-4f39-be42-273451fbdcf4",
+			"uuid": "e4c9ca69-ccb1-4f39-be42-273451fbdcf4",
+			"prefix": "K/HBR/04",
+			"title": "Evenementen (Dit keuzevak is een verdieping van de profielmodule Recreatie)",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/658e6920-b0f6-4aaa-95d1-74689f841b27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/658e6920-b0f6-4aaa-95d1-74689f841b27",
+			"uuid": "658e6920-b0f6-4aaa-95d1-74689f841b27",
+			"prefix": "K/HBR/05",
+			"title": "Patisserie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7894feb2-74ec-4738-8246-e0d409ac6bea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7894feb2-74ec-4738-8246-e0d409ac6bea",
+			"uuid": "7894feb2-74ec-4738-8246-e0d409ac6bea",
+			"prefix": "K/HBR/06",
+			"title": "De bijzondere keuken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/24769c77-4e28-4344-b588-19d70d8e581d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/24769c77-4e28-4344-b588-19d70d8e581d",
+			"uuid": "24769c77-4e28-4344-b588-19d70d8e581d",
+			"prefix": "K/HBR/07",
+			"title": "Traiteur",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7020a2e6-af93-44ec-beaa-91dee3522a5e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7020a2e6-af93-44ec-beaa-91dee3522a5e",
+			"uuid": "7020a2e6-af93-44ec-beaa-91dee3522a5e",
+			"prefix": "K/HBR/08",
+			"title": "Facilitaire dienstverlening, beheer en onderhoud",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
+			"uuid": "ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
+			"prefix": "K/HBR/09",
+			"title": "Siervakken (dit keuzevak is een verdieping van het keuzevak patisserie).",
+			"deprecated": true
+		}
+	],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/430c341c-d861-4076-bbce-b8adcda81555",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/430c341c-d861-4076-bbce-b8adcda81555",
+			"uuid": "430c341c-d861-4076-bbce-b8adcda81555",
+			"title": "Horeca, Bakkerij en Recreatie",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a28cd5c9-d020-434a-a4dd-8a539fa35092",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a28cd5c9-d020-434a-a4dd-8a539fa35092",
+			"uuid": "a28cd5c9-d020-434a-a4dd-8a539fa35092",
+			"title": "Horeca, bakkerij en recreatie"
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+			"uuid": "0a104388-b2c9-4190-8420-c9995167d142",
+			"title": "Horeca, bakkerij en recreatie"
+		}
+	],
+	"deprecated": true,
+	"prefix": "HBR",
+	"title": "Horeca, bakkerij en recreatie"
+}

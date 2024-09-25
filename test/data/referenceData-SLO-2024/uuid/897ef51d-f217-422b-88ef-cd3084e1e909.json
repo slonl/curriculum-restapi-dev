@@ -1,0 +1,88 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/897ef51d-f217-422b-88ef-cd3084e1e909",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/897ef51d-f217-422b-88ef-cd3084e1e909",
+	"uuid": "897ef51d-f217-422b-88ef-cd3084e1e909",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefSubdomein",
+	"Doelniveau": [],
+	"RefDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cbe5831f-4031-464d-9f9b-ea9d3c2f324e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cbe5831f-4031-464d-9f9b-ea9d3c2f324e",
+			"uuid": "cbe5831f-4031-464d-9f9b-ea9d3c2f324e",
+			"prefix": "RKR_1",
+			"title": "Getallen",
+			"deprecated": null
+		}
+	],
+	"RefOnderwerp": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fffa3793-e0b1-4d09-a602-1124ecd5a751",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fffa3793-e0b1-4d09-a602-1124ecd5a751",
+			"uuid": "fffa3793-e0b1-4d09-a602-1124ecd5a751",
+			"prefix": "RKR_1.A.1",
+			"title": "Paraat hebben",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0743bf87-de04-4012-9214-38871be9ebcb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0743bf87-de04-4012-9214-38871be9ebcb",
+			"uuid": "0743bf87-de04-4012-9214-38871be9ebcb",
+			"prefix": "RKR_1.A.2",
+			"title": "Functioneel gebruiken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/608a8b0b-b1ab-4fc0-a4d3-5f2cf7e2d62a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/608a8b0b-b1ab-4fc0-a4d3-5f2cf7e2d62a",
+			"uuid": "608a8b0b-b1ab-4fc0-a4d3-5f2cf7e2d62a",
+			"prefix": "RKR_1.A.3",
+			"title": "Weten waarom",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_ubdomein/897ef51d-f217-422b-88ef-cd3084e1e909"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+			"title": "1S",
+			"prefix": "1002-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/86d05d5a-8dfa-422b-820c-50019985426d/ref_ubdomein/897ef51d-f217-422b-88ef-cd3084e1e909"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_ubdomein/897ef51d-f217-422b-88ef-cd3084e1e909"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+			"title": "2S",
+			"prefix": "3201-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fadc20aa-082e-4e80-8a83-830c4006f236/ref_ubdomein/897ef51d-f217-422b-88ef-cd3084e1e909"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_ubdomein/897ef51d-f217-422b-88ef-cd3084e1e909"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"title": "3S",
+			"prefix": "4201-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18/ref_ubdomein/897ef51d-f217-422b-88ef-cd3084e1e909"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKR_1.A",
+	"title": "Notatie taal en betekenis"
+}

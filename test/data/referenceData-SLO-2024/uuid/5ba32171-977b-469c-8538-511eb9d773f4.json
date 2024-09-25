@@ -1,0 +1,350 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/5ba32171-977b-469c-8538-511eb9d773f4",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ba32171-977b-469c-8538-511eb9d773f4",
+	"uuid": "5ba32171-977b-469c-8538-511eb9d773f4",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefOnderwerp",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cb2782d8-2653-4b52-b3f3-6c5341a6f121",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb2782d8-2653-4b52-b3f3-6c5341a6f121",
+			"uuid": "cb2782d8-2653-4b52-b3f3-6c5341a6f121",
+			"prefix": "RKT3.1f-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/43599a10-a533-4550-a827-b2f47c99ad1a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43599a10-a533-4550-a827-b2f47c99ad1a",
+					"uuid": "43599a10-a533-4550-a827-b2f47c99ad1a",
+					"title": "Kan een titel gebruiken",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0ab186f7-f022-47ae-a912-1f4d280f5d77",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ab186f7-f022-47ae-a912-1f4d280f5d77",
+			"uuid": "0ab186f7-f022-47ae-a912-1f4d280f5d77",
+			"prefix": "RKT3.1f-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/780f4a52-cb72-432d-a9ef-b4abe2a314b2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/780f4a52-cb72-432d-a9ef-b4abe2a314b2",
+					"uuid": "780f4a52-cb72-432d-a9ef-b4abe2a314b2",
+					"title": "Voorziet een brief op de gebruikelijke plaats van datering, adressering, aanhef en ondertekening.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d68d5bd1-97d1-476d-a174-42ec47ea2fa2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d68d5bd1-97d1-476d-a174-42ec47ea2fa2",
+			"uuid": "d68d5bd1-97d1-476d-a174-42ec47ea2fa2",
+			"prefix": "RKT3.1f-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9b95d303-160d-453a-afcf-fbae0a981a91",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9b95d303-160d-453a-afcf-fbae0a981a91",
+					"uuid": "9b95d303-160d-453a-afcf-fbae0a981a91",
+					"title": "Besteedt aandacht aan de opmaak van de tekst (handschrift, bladspiegel, eventueel beeldende elementen en kleur).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a243639f-f073-4cc5-b430-60203778a2fe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a243639f-f073-4cc5-b430-60203778a2fe",
+			"uuid": "a243639f-f073-4cc5-b430-60203778a2fe",
+			"prefix": "RKT3.1f-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8c3cb879-5dc1-4446-9a52-ca12ec4190a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c3cb879-5dc1-4446-9a52-ca12ec4190a2",
+					"uuid": "8c3cb879-5dc1-4446-9a52-ca12ec4190a2",
+					"title": "Gebruikt titel en tekstkopjes.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f82bf222-af86-4a8b-ab6c-da9cc910c173",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f82bf222-af86-4a8b-ab6c-da9cc910c173",
+			"uuid": "f82bf222-af86-4a8b-ab6c-da9cc910c173",
+			"prefix": "RKT3.1f-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b6a70a6b-91a1-4601-ba20-7057dfefc3b9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6a70a6b-91a1-4601-ba20-7057dfefc3b9",
+					"uuid": "b6a70a6b-91a1-4601-ba20-7057dfefc3b9",
+					"title": "Heeft bij langere teksten (meer dan twee A4) ondersteuning nodig bij aanbrengen van de lay-out.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cec12f08-39d3-4be7-983f-346387ef7e04",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cec12f08-39d3-4be7-983f-346387ef7e04",
+			"uuid": "cec12f08-39d3-4be7-983f-346387ef7e04",
+			"prefix": "RKT3.1f-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e7e7101d-34c9-4c3e-b666-92587124a45e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e7e7101d-34c9-4c3e-b666-92587124a45e",
+					"uuid": "e7e7101d-34c9-4c3e-b666-92587124a45e",
+					"title": "Geeft een heldere structuur aan de tekst, gebruikt witregels, marges en kopjes.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45e4975c-5dc5-42f6-afd8-3cfdcad509ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45e4975c-5dc5-42f6-afd8-3cfdcad509ee",
+			"uuid": "45e4975c-5dc5-42f6-afd8-3cfdcad509ee",
+			"prefix": "RKT3.1f-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b306e25f-bf40-445e-a443-24b3b2d1f534",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b306e25f-bf40-445e-a443-24b3b2d1f534",
+					"uuid": "b306e25f-bf40-445e-a443-24b3b2d1f534",
+					"title": "Geeft in een langere tekst een indeling in paragrafen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2aae3e06-d5c3-4c02-a736-1f57d58975bf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2aae3e06-d5c3-4c02-a736-1f57d58975bf",
+			"uuid": "2aae3e06-d5c3-4c02-a736-1f57d58975bf",
+			"prefix": "RKT3.1f-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a2c6fad6-4ec5-4045-9ca0-86bde75d700b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a2c6fad6-4ec5-4045-9ca0-86bde75d700b",
+					"uuid": "a2c6fad6-4ec5-4045-9ca0-86bde75d700b",
+					"title": "Stemt de lay-out af op doel en publiek.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/23efbb79-9be9-4c0b-9352-2c1baa6f21c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23efbb79-9be9-4c0b-9352-2c1baa6f21c5",
+			"uuid": "23efbb79-9be9-4c0b-9352-2c1baa6f21c5",
+			"prefix": "RKT3.1f-4F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d736938-4996-4a17-8236-996ef4c34783",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d736938-4996-4a17-8236-996ef4c34783",
+					"uuid": "1d736938-4996-4a17-8236-996ef4c34783",
+					"title": "Lay-out en paragraafindeling zijn bewust en consequent toegepast om het begrip bij de lezer te ondersteunen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+					"title": "4F",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefSubdomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"uuid": "bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"prefix": "RKT3.1",
+			"title": "Correspondentie",
+			"deprecated": null
+		}
+	],
+	"RefDeelonderwerp": [],
+	"RefTekstkenmerk": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_nderwerp/5ba32171-977b-469c-8538-511eb9d773f4"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_nderwerp/5ba32171-977b-469c-8538-511eb9d773f4"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_nderwerp/5ba32171-977b-469c-8538-511eb9d773f4"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"title": "4F",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ec6d733-a3b2-46db-9d42-72b4be4f7750/ref_nderwerp/5ba32171-977b-469c-8538-511eb9d773f4"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKT3.1f",
+	"title": "Leesbaarheid"
+}

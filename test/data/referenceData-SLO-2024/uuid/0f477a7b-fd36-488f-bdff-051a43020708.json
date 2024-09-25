@@ -1,0 +1,221 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0f477a7b-fd36-488f-bdff-051a43020708",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f477a7b-fd36-488f-bdff-051a43020708",
+	"uuid": "0f477a7b-fd36-488f-bdff-051a43020708",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "KerndoelDomein",
+	"Kerndoel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3a68c840-0451-4538-87e3-83bdf331dc15",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a68c840-0451-4538-87e3-83bdf331dc15",
+			"uuid": "3a68c840-0451-4538-87e3-83bdf331dc15",
+			"title": "De leerlingen leren belangstelling hebben voor de wereld om hen heen, ze leren deze gemotiveerd onderzoeken en daarin taken uitvoeren, waarbij ze gebruik maken van informatie, strategieën en vaardigheden en ze leren reflecteren op eigen handelen.",
+			"prefix": "SO nl/ml Kerndoel LO 4",
+			"kerndoelLabel": "Leren leren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d7d13c96-a1a1-493c-8338-5e2cfc6908d4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d7d13c96-a1a1-493c-8338-5e2cfc6908d4",
+			"uuid": "d7d13c96-a1a1-493c-8338-5e2cfc6908d4",
+			"title": "De leerlingen leren belangstelling hebben voor de omringende wereld en leren die wereld onderzoeken en daarin taken uitvoeren.",
+			"prefix": "SO zml/mg Kerndoel LO 5",
+			"kerndoelLabel": "Werkhouding",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+					"title": "so zml/mb",
+					"prefix": "0001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/25e18ac5-e5a9-4a8f-badf-fdd08dba9662",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/25e18ac5-e5a9-4a8f-badf-fdd08dba9662",
+			"uuid": "25e18ac5-e5a9-4a8f-badf-fdd08dba9662",
+			"title": "De leerlingen leren uiteenlopende strategieën en vaardigheden gebruiken voor het opnemen, verwerken en hanteren van informatie.",
+			"prefix": "SO zml/mg Kerndoel LO 6",
+			"kerndoelLabel": "Aanpak gedrag",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+					"title": "so zml/mb",
+					"prefix": "0001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
+			"uuid": "ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
+			"title": "De leerling ontwikkelt een open en flexibele houding ten opzichte van de wereld om hem heen, mede in het kader van een leven lang leren.",
+			"prefix": "VSO Kerndoel LO 1",
+			"kerndoelLabel": "Leren leren, actief lerend in de wereld staan",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59",
+					"title": "vso",
+					"prefix": "1550",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b167b0a4-02fa-4fd4-af72-9884622e00fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b167b0a4-02fa-4fd4-af72-9884622e00fc",
+			"uuid": "b167b0a4-02fa-4fd4-af72-9884622e00fc",
+			"title": "De leerling leert doelgericht en planmatig te leren en daarbij strategieën te gebruiken.",
+			"prefix": "VSO Kerndoel LO 2",
+			"kerndoelLabel": "Leren leren, stellen van doelen en planmatig leren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59",
+					"title": "vso",
+					"prefix": "1550",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0c3bae8e-cd42-4960-847c-69ea39746df8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c3bae8e-cd42-4960-847c-69ea39746df8",
+			"uuid": "0c3bae8e-cd42-4960-847c-69ea39746df8",
+			"title": "De leerling leert verschillende soorten informatie te zoeken, te beoordelen en te gebruiken.",
+			"prefix": "VSO Kerndoel LO 3",
+			"kerndoelLabel": "Leren leren, informatie zoeken, beoordelen en gebruiken",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59",
+					"title": "vso",
+					"prefix": "1550",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cee77f5f-4add-4d92-91a6-73c868c7088d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cee77f5f-4add-4d92-91a6-73c868c7088d",
+			"uuid": "cee77f5f-4add-4d92-91a6-73c868c7088d",
+			"title": "De leerling leert op basis van feiten een mening te vormen, deze adequaat te uiten en respectvol om te gaan met andere meningen.",
+			"prefix": "VSO Kerndoel LO 4",
+			"kerndoelLabel": "Leren leren, onderscheiden van feiten en meningen en eigen meningen vormen en uiten",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59",
+					"title": "vso",
+					"prefix": "1550",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				}
+			]
+		}
+	],
+	"KerndoelVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+			"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+			"title": "Leergebied overstijgende vaardigheden",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6907960d-8d80-4f59-9efe-1a9514ed6c7a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6907960d-8d80-4f59-9efe-1a9514ed6c7a",
+			"uuid": "6907960d-8d80-4f59-9efe-1a9514ed6c7a",
+			"title": "Leren leren"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Leren leren"
+}

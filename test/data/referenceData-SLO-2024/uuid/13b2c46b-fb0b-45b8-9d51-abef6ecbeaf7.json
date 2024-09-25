@@ -1,0 +1,129 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/13b2c46b-fb0b-45b8-9d51-abef6ecbeaf7",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13b2c46b-fb0b-45b8-9d51-abef6ecbeaf7",
+	"uuid": "13b2c46b-fb0b-45b8-9d51-abef6ecbeaf7",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusSpecifiekeEindterm",
+	"ExamenprogrammaEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3090276-e7be-48c1-a1b3-fd7a4db0bdf1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3090276-e7be-48c1-a1b3-fd7a4db0bdf1",
+			"uuid": "f3090276-e7be-48c1-a1b3-fd7a4db0bdf1",
+			"title": "De kandidaat kan een aantal vaardigheden toepassen, zoals het toepassen van muzikale begrippen, die bijdragen tot de ontwikkeling van het eigen leervermogen.",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaDomein": [],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fe9aac16-9ce6-4558-ba72-d91304e7c6c9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe9aac16-9ce6-4558-ba72-d91304e7c6c9",
+			"uuid": "fe9aac16-9ce6-4558-ba72-d91304e7c6c9",
+			"title": "Syllabus Muziek vmbo gl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6b9741b2-3b9b-4bb8-b75e-93517b387cd4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b9741b2-3b9b-4bb8-b75e-93517b387cd4",
+			"uuid": "6b9741b2-3b9b-4bb8-b75e-93517b387cd4",
+			"title": "Syllabus Muziek vmbo tl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5b850951-8cd9-4c68-944a-d5334f50c47c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b850951-8cd9-4c68-944a-d5334f50c47c",
+			"uuid": "5b850951-8cd9-4c68-944a-d5334f50c47c",
+			"title": "Syllabus Muziek vmbo gl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a98dbc88-a99f-423c-8f5f-56332d92f019",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a98dbc88-a99f-423c-8f5f-56332d92f019",
+			"uuid": "a98dbc88-a99f-423c-8f5f-56332d92f019",
+			"title": "Syllabus Muziek vmbo tl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/74411a39-386a-4d9b-805c-6a4682330e95",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/74411a39-386a-4d9b-805c-6a4682330e95",
+			"uuid": "74411a39-386a-4d9b-805c-6a4682330e95",
+			"title": "Syllabus Muziek vmbo",
+			"deprecated": true
+		}
+	],
+	"SyllabusToelichting": [],
+	"SyllabusVakbegrip": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/08f5df4a-c331-4774-b968-3402d6b90b9d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/08f5df4a-c331-4774-b968-3402d6b90b9d",
+			"uuid": "08f5df4a-c331-4774-b968-3402d6b90b9d",
+			"title": "canon",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/528412b6-d1f0-4343-b020-d5ed0a6d762b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/528412b6-d1f0-4343-b020-d5ed0a6d762b",
+			"uuid": "528412b6-d1f0-4343-b020-d5ed0a6d762b",
+			"title": "gelijke / parallelle beweging / tweede stem",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/30bfa75e-ccd5-4493-9ca2-6aa37df11e8e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/30bfa75e-ccd5-4493-9ca2-6aa37df11e8e",
+			"uuid": "30bfa75e-ccd5-4493-9ca2-6aa37df11e8e",
+			"title": "homofonie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85e5c8ef-090c-4a65-9b56-1ae7c6f51361",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85e5c8ef-090c-4a65-9b56-1ae7c6f51361",
+			"uuid": "85e5c8ef-090c-4a65-9b56-1ae7c6f51361",
+			"title": "imitatie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3ca92ff-58bf-4f32-a781-aa7ed71384a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3ca92ff-58bf-4f32-a781-aa7ed71384a7",
+			"uuid": "f3ca92ff-58bf-4f32-a781-aa7ed71384a7",
+			"title": "polyfonie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/732689e0-e5a7-42b5-b999-e7a9b27a2fb0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/732689e0-e5a7-42b5-b999-e7a9b27a2fb0",
+			"uuid": "732689e0-e5a7-42b5-b999-e7a9b27a2fb0",
+			"title": "tegenbeweging",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c4c7d7e-48f2-49ea-87fe-a6f7a0e3dbcd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c4c7d7e-48f2-49ea-87fe-a6f7a0e3dbcd",
+			"uuid": "2c4c7d7e-48f2-49ea-87fe-a6f7a0e3dbcd",
+			"title": "tegenmelodie / tegenstem",
+			"deprecated": null
+		}
+	],
+	"Tag": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0129a802-f7d6-4fcf-a2ca-399c861ea609",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0129a802-f7d6-4fcf-a2ca-399c861ea609",
+			"uuid": "0129a802-f7d6-4fcf-a2ca-399c861ea609",
+			"title": "volgen van steminzetten"
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9e0cbc8-14f3-4667-aa36-df37ed1c5d36",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9e0cbc8-14f3-4667-aa36-df37ed1c5d36",
+			"uuid": "a9e0cbc8-14f3-4667-aa36-df37ed1c5d36",
+			"title": "volgen van steminzetten"
+		}
+	],
+	"Niveau": [],
+	"deprecated": true,
+	"prefix": "MU/K/3/3q",
+	"title": "volgen van steminzetten",
+	"ce_se": "CE"
+}

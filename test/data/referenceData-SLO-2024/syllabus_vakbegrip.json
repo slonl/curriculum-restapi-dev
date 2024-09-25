@@ -1,0 +1,1000 @@
+{
+	"count": 2946,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1347affc-fed6-4529-8ce9-0033044d9198",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1347affc-fed6-4529-8ce9-0033044d9198",
+			"uuid": "1347affc-fed6-4529-8ce9-0033044d9198",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "'moderne' wapens en soort oorlogvoering",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e005fea0-55f7-4c36-937c-50bfa750e0da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e005fea0-55f7-4c36-937c-50bfa750e0da",
+			"uuid": "e005fea0-55f7-4c36-937c-50bfa750e0da",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "'moderne’ wapens en soort oorlogvoering",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2af274ba-db31-4124-9f0d-8771bff2630a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2af274ba-db31-4124-9f0d-8771bff2630a",
+			"uuid": "2af274ba-db31-4124-9f0d-8771bff2630a",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(Anton) Mussert",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c0280adc-f973-43b4-b5d7-bdd27625f5dd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c0280adc-f973-43b4-b5d7-bdd27625f5dd",
+			"uuid": "c0280adc-f973-43b4-b5d7-bdd27625f5dd",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(E)EG",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f378c46c-6381-4130-80dd-acdc3e9db773",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f378c46c-6381-4130-80dd-acdc3e9db773",
+			"uuid": "f378c46c-6381-4130-80dd-acdc3e9db773",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(Hendrik) Colijn",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ba95d8ac-c566-4258-a589-2a06eaeb31ab",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ba95d8ac-c566-4258-a589-2a06eaeb31ab",
+			"uuid": "ba95d8ac-c566-4258-a589-2a06eaeb31ab",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(Pieter Jelles) Troelstra",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b75162c-d63f-4763-bbfd-eb92434c24d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b75162c-d63f-4763-bbfd-eb92434c24d0",
+			"uuid": "4b75162c-d63f-4763-bbfd-eb92434c24d0",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(Pim) Fortuyn",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c16b8025-f8b4-4bdf-8a3f-565fa4aecdd2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c16b8025-f8b4-4bdf-8a3f-565fa4aecdd2",
+			"uuid": "c16b8025-f8b4-4bdf-8a3f-565fa4aecdd2",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(Willem) Drees",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/466c8517-9559-481f-ad25-83de8e106e86",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/466c8517-9559-481f-ad25-83de8e106e86",
+			"uuid": "466c8517-9559-481f-ad25-83de8e106e86",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(an)organische stoffen",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/24c2e4fa-41e4-46a7-9ac4-3230f2a2d3ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/24c2e4fa-41e4-46a7-9ac4-3230f2a2d3ee",
+			"uuid": "24c2e4fa-41e4-46a7-9ac4-3230f2a2d3ee",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(de)nitrificatie",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e6ff48b-b09e-40ee-98bb-c7c96abacc12",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e6ff48b-b09e-40ee-98bb-c7c96abacc12",
+			"uuid": "4e6ff48b-b09e-40ee-98bb-c7c96abacc12",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(onvolledig) dominant",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cc86ee6c-67ce-4b69-9434-554f906fe5ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cc86ee6c-67ce-4b69-9434-554f906fe5ee",
+			"uuid": "cc86ee6c-67ce-4b69-9434-554f906fe5ee",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(positieve en negatieve) arbeid",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cda2453b-469f-41b4-94e7-ab45b37cefa8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cda2453b-469f-41b4-94e7-ab45b37cefa8",
+			"uuid": "cda2453b-469f-41b4-94e7-ab45b37cefa8",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(ruw) endoplasmatisch reticulum",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/88ff59b6-3f0c-450b-8f65-dc5a4083eaf1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/88ff59b6-3f0c-450b-8f65-dc5a4083eaf1",
+			"uuid": "88ff59b6-3f0c-450b-8f65-dc5a4083eaf1",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/HV/A/1m",
+			"title": "(solo)cadens, concerto grosso, concertino, tutti, dubbelkorigheid, soloconcert",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c0cfcc4-c371-497b-b09b-6227e4a2ac2e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0cfcc4-c371-497b-b09b-6227e4a2ac2e",
+			"uuid": "2c0cfcc4-c371-497b-b09b-6227e4a2ac2e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/V/A/1m",
+			"title": "(solo)cadens, concerto grosso, concertino, tutti, dubbelkorigheid, soloconcert",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f02b6ca4-d6bc-49ca-b80d-08f29af24475",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f02b6ca4-d6bc-49ca-b80d-08f29af24475",
+			"uuid": "f02b6ca4-d6bc-49ca-b80d-08f29af24475",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(spijs)vertering",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/06c48468-90c7-4725-91c8-c0255fbcb32f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/06c48468-90c7-4725-91c8-c0255fbcb32f",
+			"uuid": "06c48468-90c7-4725-91c8-c0255fbcb32f",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(sub)tropische klimaten",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e705dfe-8aa1-4db8-a956-1472e9ab153e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e705dfe-8aa1-4db8-a956-1472e9ab153e",
+			"uuid": "4e705dfe-8aa1-4db8-a956-1472e9ab153e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "(wens tot revanche meer grondgebied herbewapening) versterken in Duitsland nationalistische gevoelens",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/db4a9b7c-fab9-48c3-89ea-27dbcf448c7f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db4a9b7c-fab9-48c3-89ea-27dbcf448c7f",
+			"uuid": "db4a9b7c-fab9-48c3-89ea-27dbcf448c7f",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "10 mei 1940",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fca9df25-d4ea-47ef-a47f-6d38ff0850a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fca9df25-d4ea-47ef-a47f-6d38ff0850a8",
+			"uuid": "fca9df25-d4ea-47ef-a47f-6d38ff0850a8",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "11-9-2001",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b984897c-5fb4-438e-9504-deb84dc1b590",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b984897c-5fb4-438e-9504-deb84dc1b590",
+			"uuid": "b984897c-5fb4-438e-9504-deb84dc1b590",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "11-9-2001",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3867dd84-17ef-4bfd-a755-218a65b0fa45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3867dd84-17ef-4bfd-a755-218a65b0fa45",
+			"uuid": "3867dd84-17ef-4bfd-a755-218a65b0fa45",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "16229",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/65798f9f-46b1-41c7-b2c4-e70191a3750e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/65798f9f-46b1-41c7-b2c4-e70191a3750e",
+			"uuid": "65798f9f-46b1-41c7-b2c4-e70191a3750e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1914",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fa525c62-98ac-4a59-9999-1af730a6eeb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa525c62-98ac-4a59-9999-1af730a6eeb6",
+			"uuid": "fa525c62-98ac-4a59-9999-1af730a6eeb6",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1917",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3cbbad91-87d7-485c-af14-1bda47998125",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3cbbad91-87d7-485c-af14-1bda47998125",
+			"uuid": "3cbbad91-87d7-485c-af14-1bda47998125",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1917",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca483dc8-3ec9-45fc-bbfe-d849244c9ca7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca483dc8-3ec9-45fc-bbfe-d849244c9ca7",
+			"uuid": "ca483dc8-3ec9-45fc-bbfe-d849244c9ca7",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1918",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15ed2275-7940-4d6c-8d34-ef1f09047077",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15ed2275-7940-4d6c-8d34-ef1f09047077",
+			"uuid": "15ed2275-7940-4d6c-8d34-ef1f09047077",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1918",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6bb2480a-b7b1-4ab7-803c-b0fdd05e6822",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6bb2480a-b7b1-4ab7-803c-b0fdd05e6822",
+			"uuid": "6bb2480a-b7b1-4ab7-803c-b0fdd05e6822",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1919",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a69340cd-6a96-436e-9cac-4fcd9e966fec",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a69340cd-6a96-436e-9cac-4fcd9e966fec",
+			"uuid": "a69340cd-6a96-436e-9cac-4fcd9e966fec",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1923",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7967ee9d-d375-4798-811d-24c5f7449126",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7967ee9d-d375-4798-811d-24c5f7449126",
+			"uuid": "7967ee9d-d375-4798-811d-24c5f7449126",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1924",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b466cab9-151d-4315-8f9e-bdcb446f0f7c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b466cab9-151d-4315-8f9e-bdcb446f0f7c",
+			"uuid": "b466cab9-151d-4315-8f9e-bdcb446f0f7c",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1926",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ebea6ff-018e-478e-a70e-2a22bdb2b9f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ebea6ff-018e-478e-a70e-2a22bdb2b9f2",
+			"uuid": "7ebea6ff-018e-478e-a70e-2a22bdb2b9f2",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1929",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c85bee34-43be-46e7-8763-f130478fd074",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c85bee34-43be-46e7-8763-f130478fd074",
+			"uuid": "c85bee34-43be-46e7-8763-f130478fd074",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1933",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2e2480a0-3d2d-4c42-8c2e-e2843b162edb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e2480a0-3d2d-4c42-8c2e-e2843b162edb",
+			"uuid": "2e2480a0-3d2d-4c42-8c2e-e2843b162edb",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1938",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/12fcb956-18f3-4501-8683-29d4a265a504",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/12fcb956-18f3-4501-8683-29d4a265a504",
+			"uuid": "12fcb956-18f3-4501-8683-29d4a265a504",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1939",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4bffe632-09a0-4940-ad84-3d6477f8db1f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4bffe632-09a0-4940-ad84-3d6477f8db1f",
+			"uuid": "4bffe632-09a0-4940-ad84-3d6477f8db1f",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1939",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15fa14ae-8e5b-4a16-a94d-6c2cc64cce59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15fa14ae-8e5b-4a16-a94d-6c2cc64cce59",
+			"uuid": "15fa14ae-8e5b-4a16-a94d-6c2cc64cce59",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1941",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53f92bd2-50d4-44e5-815e-6e17cfb92b15",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53f92bd2-50d4-44e5-815e-6e17cfb92b15",
+			"uuid": "53f92bd2-50d4-44e5-815e-6e17cfb92b15",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1941",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6bc06631-0a4e-4585-a480-6786eba5cdf6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6bc06631-0a4e-4585-a480-6786eba5cdf6",
+			"uuid": "6bc06631-0a4e-4585-a480-6786eba5cdf6",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1942",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc196efc-e309-4718-9c70-c3ea00925ef2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc196efc-e309-4718-9c70-c3ea00925ef2",
+			"uuid": "fc196efc-e309-4718-9c70-c3ea00925ef2",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1942-1943",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/67cf01c6-11db-4f17-b39d-f50891df09d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/67cf01c6-11db-4f17-b39d-f50891df09d7",
+			"uuid": "67cf01c6-11db-4f17-b39d-f50891df09d7",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1944",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9d16863-f65e-458a-a236-d698e47f71e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9d16863-f65e-458a-a236-d698e47f71e0",
+			"uuid": "a9d16863-f65e-458a-a236-d698e47f71e0",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1945",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f05bd737-f5b2-4908-871f-b6bc65c1c206",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f05bd737-f5b2-4908-871f-b6bc65c1c206",
+			"uuid": "f05bd737-f5b2-4908-871f-b6bc65c1c206",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1945",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6252a649-2755-443a-a59d-5c8144de2f99",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6252a649-2755-443a-a59d-5c8144de2f99",
+			"uuid": "6252a649-2755-443a-a59d-5c8144de2f99",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1947",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bcf32ac6-e1b9-49af-8b6d-5c8c5892b50f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcf32ac6-e1b9-49af-8b6d-5c8c5892b50f",
+			"uuid": "bcf32ac6-e1b9-49af-8b6d-5c8c5892b50f",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1948",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb91457e-5a20-4a5c-8ce4-942414af79f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb91457e-5a20-4a5c-8ce4-942414af79f2",
+			"uuid": "fb91457e-5a20-4a5c-8ce4-942414af79f2",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1949",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d6fbf6d3-a4ad-45d8-8855-b1cf21234687",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d6fbf6d3-a4ad-45d8-8855-b1cf21234687",
+			"uuid": "d6fbf6d3-a4ad-45d8-8855-b1cf21234687",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1956",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/125f9227-a232-46e6-8bc8-75e4a87350d6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/125f9227-a232-46e6-8bc8-75e4a87350d6",
+			"uuid": "125f9227-a232-46e6-8bc8-75e4a87350d6",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1961",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c8500a56-26c5-4013-a3ec-df74a0fbfdb7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8500a56-26c5-4013-a3ec-df74a0fbfdb7",
+			"uuid": "c8500a56-26c5-4013-a3ec-df74a0fbfdb7",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1962",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0faf41f5-a097-4fd3-aac8-9833bd89903e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0faf41f5-a097-4fd3-aac8-9833bd89903e",
+			"uuid": "0faf41f5-a097-4fd3-aac8-9833bd89903e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1983",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/daac28ae-4fdb-40be-935f-bb99c63f8ac4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/daac28ae-4fdb-40be-935f-bb99c63f8ac4",
+			"uuid": "daac28ae-4fdb-40be-935f-bb99c63f8ac4",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1989",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ada308d-a0dd-40f5-8bb3-8bfdaa39b1dd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ada308d-a0dd-40f5-8bb3-8bfdaa39b1dd",
+			"uuid": "3ada308d-a0dd-40f5-8bb3-8bfdaa39b1dd",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1990-1991",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d36e9465-520f-4cdf-af8f-9e2dac7c15a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d36e9465-520f-4cdf-af8f-9e2dac7c15a4",
+			"uuid": "d36e9465-520f-4cdf-af8f-9e2dac7c15a4",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "1993",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a03bbf16-e319-4c16-9b45-cecd1edc3dd4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a03bbf16-e319-4c16-9b45-cecd1edc3dd4",
+			"uuid": "a03bbf16-e319-4c16-9b45-cecd1edc3dd4",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "2002",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6a4b2138-6ed9-4963-96b8-b8304e485974",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6a4b2138-6ed9-4963-96b8-b8304e485974",
+			"uuid": "6a4b2138-6ed9-4963-96b8-b8304e485974",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "4 mei dodenherdenking",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e19b0f2f-f7f5-4103-a0a3-fbbca87072eb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e19b0f2f-f7f5-4103-a0a3-fbbca87072eb",
+			"uuid": "e19b0f2f-f7f5-4103-a0a3-fbbca87072eb",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "5 mei 1945",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c30165a5-f29c-4ca8-a4c9-639fa30daae6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c30165a5-f29c-4ca8-a4c9-639fa30daae6",
+			"uuid": "c30165a5-f29c-4ca8-a4c9-639fa30daae6",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "5 mei Dag van de Vrijheid",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/66675eac-1b4f-43fb-b41f-04cdf2096bcf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/66675eac-1b4f-43fb-b41f-04cdf2096bcf",
+			"uuid": "66675eac-1b4f-43fb-b41f-04cdf2096bcf",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "AB0-systeem",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9ec7c37c-3e3a-4d9d-9ed1-130e1f3d541c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ec7c37c-3e3a-4d9d-9ed1-130e1f3d541c",
+			"uuid": "9ec7c37c-3e3a-4d9d-9ed1-130e1f3d541c",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "ADH",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3f533c2d-c9ce-40db-b767-122d6c01b440",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3f533c2d-c9ce-40db-b767-122d6c01b440",
+			"uuid": "3f533c2d-c9ce-40db-b767-122d6c01b440",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "ADP",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/71991862-2d06-4d9d-aba9-b16ac7cb5214",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71991862-2d06-4d9d-aba9-b16ac7cb5214",
+			"uuid": "71991862-2d06-4d9d-aba9-b16ac7cb5214",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "ADP en ATP",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/49443649-fe73-4bf6-be7f-b80037b19a6d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49443649-fe73-4bf6-be7f-b80037b19a6d",
+			"uuid": "49443649-fe73-4bf6-be7f-b80037b19a6d",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "ATP",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c85d2fa-d99e-4109-90e3-783b3449eea8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c85d2fa-d99e-4109-90e3-783b3449eea8",
+			"uuid": "2c85d2fa-d99e-4109-90e3-783b3449eea8",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "AV-knoop",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
+			"uuid": "3632edaf-cd24-4bbf-8a65-3a8c1e19078a",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Afghanistan, Afrika, Alaska, Amazone, Amerika, Andes, Ankara, Antarctica, Argentinië, Atlantische Oceaan, Australië, Azië, Bagdad, Bangkok, Bangladesh, Beijing (Peking), Brasilia, Brazilië, Buenos Aires, Cairo, Californië, Canada, Caribische Zee, Casablanca, Chang Jiang (Jangtsekiang), Chicago, Chili, China, Colombia, Curaçao, Delhi, Egypte, Ethiopië, Europa, Filipijnen, Ganges, Groenland, Grote (of Stille) Oceaan, Hawaii, Himalaya, India, Indische Oceaan, Indonesië, Irak, Iran, Israël, Jakarta, Japan, Java, Jeruzalem, Kaapstad, Kolkata (Calcutta), Kongo (Dem. Rep.), Lagos,Los Angeles, Marokko, Mekka, Mexico, Mexico-Stad, Midden-Oosten, Mississippi, Molukken, Montréal, Mumbai (Bombay), Nederlandse Antillen, New York, Nieuw-Zeeland, Nigeria, Nijl, Noordelijke Ijszee, Pakistan, Panamakanaal, Paramaribo, Perzische Golf, Rio de Janeiro, Rocky Mountains, Rode Zee, Sahara, Santiago, Saudi-Arabië, Seoul, Shanghai, Siberië, Singapore, Sudan (Noord- en Zuid- Sudan), Suezkanaal, Suriname, Sydney, Taiwan, Teheran, Thailand, Tokyo, Turkije, Venezuela, Verenigde Staten, Vietnam, Washington, Xianggang (Hongkong), Zuid-Afrika (rep.), Zuid-Korea",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/90d30f29-6e6d-4557-81c8-2016b549431b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90d30f29-6e6d-4557-81c8-2016b549431b",
+					"uuid": "90d30f29-6e6d-4557-81c8-2016b549431b",
+					"title": "Syllabus Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a9f8ab5a-5998-48ba-a901-b273e6615ec3",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9f8ab5a-5998-48ba-a901-b273e6615ec3",
+					"uuid": "a9f8ab5a-5998-48ba-a901-b273e6615ec3",
+					"title": "Syllabus aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4eef263-8648-40c8-b60f-206339831722",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4eef263-8648-40c8-b60f-206339831722",
+					"uuid": "c4eef263-8648-40c8-b60f-206339831722",
+					"title": "Syllabus Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7daa1c0-ffef-4c84-8c33-f86f8820dcf6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7daa1c0-ffef-4c84-8c33-f86f8820dcf6",
+					"uuid": "f7daa1c0-ffef-4c84-8c33-f86f8820dcf6",
+					"title": "Syllabus Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4e69f124-7be7-46fe-baf8-512696709bb9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e69f124-7be7-46fe-baf8-512696709bb9",
+					"uuid": "4e69f124-7be7-46fe-baf8-512696709bb9",
+					"title": "Syllabus Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/886ec39d-5fb7-4ce4-a7af-89aa000c014e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/886ec39d-5fb7-4ce4-a7af-89aa000c014e",
+			"uuid": "886ec39d-5fb7-4ce4-a7af-89aa000c014e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Aletta Jacobs",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/350d16e2-6400-419a-9804-2f745158a1c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/350d16e2-6400-419a-9804-2f745158a1c6",
+			"uuid": "350d16e2-6400-419a-9804-2f745158a1c6",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Alpien plooiingsgebied, Subtropische landschapszone, Mediterrane vegetatie, Mediterrane landbouwtypen, (grond)Waterproblematiek, Waterbalans, Duurzaam water- en landgebruik, Natuurramp, Milieuramp, Hazard Management",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/32bebd60-6422-47b4-898d-35705c858324",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/32bebd60-6422-47b4-898d-35705c858324",
+			"uuid": "32bebd60-6422-47b4-898d-35705c858324",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Anne Frank",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7f38d897-5d94-484c-ae4f-382c573976cb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f38d897-5d94-484c-ae4f-382c573976cb",
+			"uuid": "7f38d897-5d94-484c-ae4f-382c573976cb",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Anschluss (1938)",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3e3be8cf-f5b8-4874-b56d-c2017d94da4b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3e3be8cf-f5b8-4874-b56d-c2017d94da4b",
+			"uuid": "3e3be8cf-f5b8-4874-b56d-c2017d94da4b",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Anti-Revolutionaire Partij (ARP)",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3046bc1d-0ae7-49a2-8401-9d5d14fae1f5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3046bc1d-0ae7-49a2-8401-9d5d14fae1f5",
+			"uuid": "3046bc1d-0ae7-49a2-8401-9d5d14fae1f5",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Appeasementpolitiek",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da2a9a96-b781-4711-a3b1-6116661a2234",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da2a9a96-b781-4711-a3b1-6116661a2234",
+			"uuid": "da2a9a96-b781-4711-a3b1-6116661a2234",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Arbo",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/710f98be-f2e1-486b-a4fb-8607e1190d9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/710f98be-f2e1-486b-a4fb-8607e1190d9c",
+			"uuid": "710f98be-f2e1-486b-a4fb-8607e1190d9c",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "As-mogendheden: Duitsland, Italië en Japan",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1088f0e3-f46d-43ff-b467-34e6048fa29b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1088f0e3-f46d-43ff-b467-34e6048fa29b",
+			"uuid": "1088f0e3-f46d-43ff-b467-34e6048fa29b",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Atmosferische circulatie: hoge luchtdrukgebied; lage luchtdrukgebied; ITCZ; corioliseffect; wet van Buys Ballot; passaat en moesson, Oceanische circulatie: thermohaliene circulatie; diepwaterpomp; warme en koude zeestroom, Stralingsbalans, Klimaatgebied",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6d53433c-f31d-46f0-b0c3-bc746cfa73b2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d53433c-f31d-46f0-b0c3-bc746cfa73b2",
+			"uuid": "6d53433c-f31d-46f0-b0c3-bc746cfa73b2",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "B-cel",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/14858ad1-f97f-4c4f-b8cf-5362c7943f4e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14858ad1-f97f-4c4f-b8cf-5362c7943f4e",
+			"uuid": "14858ad1-f97f-4c4f-b8cf-5362c7943f4e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "BPP",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/04becbe6-aaf1-4849-bb81-6712d5ace931",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04becbe6-aaf1-4849-bb81-6712d5ace931",
+			"uuid": "04becbe6-aaf1-4849-bb81-6712d5ace931",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "BTW",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/312530b6-6176-4400-88ed-5e52d07c333a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/312530b6-6176-4400-88ed-5e52d07c333a",
+			"uuid": "312530b6-6176-4400-88ed-5e52d07c333a",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "BTW - af te dragen BTW",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/84c09979-f53f-498f-bc88-32a842918986",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/84c09979-f53f-498f-bc88-32a842918986",
+			"uuid": "84c09979-f53f-498f-bc88-32a842918986",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "BTW - te betalen BTW",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e91741a5-13a4-411b-93a3-39374004980c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e91741a5-13a4-411b-93a3-39374004980c",
+			"uuid": "e91741a5-13a4-411b-93a3-39374004980c",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "BTW - te vorderen BTW",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c9ed9a83-d553-44bd-acd0-1368e3a11d24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c9ed9a83-d553-44bd-acd0-1368e3a11d24",
+			"uuid": "c9ed9a83-d553-44bd-acd0-1368e3a11d24",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beatrix",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e43851d2-1379-464b-af87-1a0e9805d789",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e43851d2-1379-464b-af87-1a0e9805d789",
+			"uuid": "e43851d2-1379-464b-af87-1a0e9805d789",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beeldvormingstechnieken: CT-scan",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75e706db-0412-4e28-b2f9-d10a3ff0e33d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75e706db-0412-4e28-b2f9-d10a3ff0e33d",
+			"uuid": "75e706db-0412-4e28-b2f9-d10a3ff0e33d",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beeldvormingstechnieken: MRI-scan",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1b45b9ba-4e6a-4da0-aecb-ed8df9516ad1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1b45b9ba-4e6a-4da0-aecb-ed8df9516ad1",
+			"uuid": "1b45b9ba-4e6a-4da0-aecb-ed8df9516ad1",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beeldvormingstechnieken: PET-scan",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6eee85b0-1da0-4b37-bb79-a87a500f0ce5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6eee85b0-1da0-4b37-bb79-a87a500f0ce5",
+			"uuid": "6eee85b0-1da0-4b37-bb79-a87a500f0ce5",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beeldvormingstechnieken: echografie",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/82ec9dde-1bad-4db6-9175-63a01747ce9d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/82ec9dde-1bad-4db6-9175-63a01747ce9d",
+			"uuid": "82ec9dde-1bad-4db6-9175-63a01747ce9d",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beeldvormingstechnieken: nucleaire diagnostiek",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dca188c1-77c3-4e38-92ce-41b031df2a10",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dca188c1-77c3-4e38-92ce-41b031df2a10",
+			"uuid": "dca188c1-77c3-4e38-92ce-41b031df2a10",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "",
+			"title": "Beeldvormingstechnieken: röntgenopname",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9aca6086-c895-49b5-ae3d-b6bdb64aef2e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9aca6086-c895-49b5-ae3d-b6bdb64aef2e",
+			"uuid": "9aca6086-c895-49b5-ae3d-b6bdb64aef2e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "",
+			"title": "Beeldvormingstechnieken: röntgenopname, CT-scan, MRI-scan, PET-scan, echografie en nucleaire diagnostiek",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8dd35c71-c873-4190-a3e7-8f7b77f7efc6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8dd35c71-c873-4190-a3e7-8f7b77f7efc6",
+					"uuid": "8dd35c71-c873-4190-a3e7-8f7b77f7efc6",
+					"title": "Syllabus Natuurkunde vwo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8452bd9f-1ccd-4024-b90b-03db0e397f5c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8452bd9f-1ccd-4024-b90b-03db0e397f5c",
+					"uuid": "8452bd9f-1ccd-4024-b90b-03db0e397f5c",
+					"title": "Syllabus Natuurkunde vwo 2021",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7598582d-2f25-44a6-90f0-ec198a5b787e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7598582d-2f25-44a6-90f0-ec198a5b787e",
+			"uuid": "7598582d-2f25-44a6-90f0-ec198a5b787e",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beeldvormingstechnieken: röntgenopname, CT-scan, MRI-scan, echografie en nucleaire diagnostiek",
+			"Syllabus": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0ab9e885-c38b-4148-85c1-47043e596b75",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ab9e885-c38b-4148-85c1-47043e596b75",
+					"uuid": "0ab9e885-c38b-4148-85c1-47043e596b75",
+					"title": "Syllabus Natuurkunde havo 2023",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/33d81254-52b2-4d54-a199-7b8c4337d0bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/33d81254-52b2-4d54-a199-7b8c4337d0bf",
+					"uuid": "33d81254-52b2-4d54-a199-7b8c4337d0bf",
+					"title": "Syllabus Natuurkunde havo 2022",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d4d096e-0e70-40ac-b0d4-15ca10c53626",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d4d096e-0e70-40ac-b0d4-15ca10c53626",
+					"uuid": "6d4d096e-0e70-40ac-b0d4-15ca10c53626",
+					"title": "Syllabus Natuurkunde havo 2021",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dd2f4fb1-9b49-459e-afc2-865843d871e7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd2f4fb1-9b49-459e-afc2-865843d871e7",
+					"uuid": "dd2f4fb1-9b49-459e-afc2-865843d871e7",
+					"title": "Syllabus Natuurkunde havo 2023",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/231dd2fd-9f9c-4c8e-838c-c312944862d6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/231dd2fd-9f9c-4c8e-838c-c312944862d6",
+					"uuid": "231dd2fd-9f9c-4c8e-838c-c312944862d6",
+					"title": "Syllabus Natuurkunde havo 2022",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/800c322c-a5a5-49d2-975b-c4d8bd668264",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/800c322c-a5a5-49d2-975b-c4d8bd668264",
+					"uuid": "800c322c-a5a5-49d2-975b-c4d8bd668264",
+					"title": "Syllabus Natuurkunde havo 2021",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fd83bde1-484c-4a05-b70d-8a7f16942871",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fd83bde1-484c-4a05-b70d-8a7f16942871",
+			"uuid": "fd83bde1-484c-4a05-b70d-8a7f16942871",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beide kamers: recht van begroting en enquête.",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/36e53dc9-2383-43a2-a353-10bac89580fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/36e53dc9-2383-43a2-a353-10bac89580fc",
+			"uuid": "36e53dc9-2383-43a2-a353-10bac89580fc",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Beurskrach op Wallstreet (1929)",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7e3edeaa-5102-4e18-b691-9069cf7a1e16",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7e3edeaa-5102-4e18-b691-9069cf7a1e16",
+			"uuid": "7e3edeaa-5102-4e18-b691-9069cf7a1e16",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/HV/A/1i",
+			"title": "Blaas-/toetsinstrumenten: accordeon - (kerk-, pijp-)orgel",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9a462cf6-ee1c-45c5-9c99-989d23be55f3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9a462cf6-ee1c-45c5-9c99-989d23be55f3",
+			"uuid": "9a462cf6-ee1c-45c5-9c99-989d23be55f3",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/V/A/1i",
+			"title": "Blaas-/toetsinstrumenten: accordeon - (kerk-, pijp-)orgel",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/475e594a-e4f2-4960-997d-3ea6dbbb342b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/475e594a-e4f2-4960-997d-3ea6dbbb342b",
+			"uuid": "475e594a-e4f2-4960-997d-3ea6dbbb342b",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/H/A/1i",
+			"title": "Blaasinstrumenten - houten blaasinstrumenten: blokfluit - panfluit - (dwars)fluit/piccolo - hobo - klarinet - fagot - saxofoon (sopraan-, alt-, tenor- en bariton-)",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f8613a9-c1f4-4049-a3d3-e911880baf9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f8613a9-c1f4-4049-a3d3-e911880baf9c",
+			"uuid": "1f8613a9-c1f4-4049-a3d3-e911880baf9c",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/V/A/1i",
+			"title": "Blaasinstrumenten - houten blaasinstrumenten: blokfluit - panfluit - (dwars)fluit/piccolo - hobo/althobo - klarinet - fagot - saxofoon (sopraan-, alt-, tenor- en bariton-) - kromhoorn",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a555c15f-f2fd-4b3a-b481-bfff02fdf144",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a555c15f-f2fd-4b3a-b481-bfff02fdf144",
+			"uuid": "a555c15f-f2fd-4b3a-b481-bfff02fdf144",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/V/A/1i",
+			"title": "Blaasinstrumenten - koperen blaasinstrumenten: trompet - cornet -  hoorn - trombone - tuba/sousafoon",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fdd7f073-488c-457c-817e-8e0fd2156b9a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdd7f073-488c-457c-817e-8e0fd2156b9a",
+			"uuid": "fdd7f073-488c-457c-817e-8e0fd2156b9a",
+			"@type": "SyllabusVakbegrip",
+			"prefix": "MUZ/H/A/1i",
+			"title": "Blaasinstrumenten - koperen blaasinstrumenten: trompet - hoorn - trombone - tuba",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6361f9d1-c2e5-445c-bd72-2d93c5bf902d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6361f9d1-c2e5-445c-bd72-2d93c5bf902d",
+			"uuid": "6361f9d1-c2e5-445c-bd72-2d93c5bf902d",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Blitzkrieg",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/04d89ea0-b0a0-460d-bd84-6f93f32a83e7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04d89ea0-b0a0-460d-bd84-6f93f32a83e7",
+			"uuid": "04d89ea0-b0a0-460d-bd84-6f93f32a83e7",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Bohr-effect",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b14bd36-9400-441d-954e-0301bfffc6c3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b14bd36-9400-441d-954e-0301bfffc6c3",
+			"uuid": "7b14bd36-9400-441d-954e-0301bfffc6c3",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Bouw Berlijnse Muur (1961)",
+			"Syllabus": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/49607cf8-8f80-4394-b63d-7ab79c7b61ed",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49607cf8-8f80-4394-b63d-7ab79c7b61ed",
+			"uuid": "49607cf8-8f80-4394-b63d-7ab79c7b61ed",
+			"@type": "SyllabusVakbegrip",
+			"prefix": null,
+			"title": "Buitenlandse politiek:",
+			"Syllabus": []
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

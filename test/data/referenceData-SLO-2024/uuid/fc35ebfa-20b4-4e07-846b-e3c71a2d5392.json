@@ -1,0 +1,72 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fc35ebfa-20b4-4e07-846b-e3c71a2d5392",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc35ebfa-20b4-4e07-846b-e3c71a2d5392",
+	"uuid": "fc35ebfa-20b4-4e07-846b-e3c71a2d5392",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKeuzevaktaak",
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7020a2e6-af93-44ec-beaa-91dee3522a5e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7020a2e6-af93-44ec-beaa-91dee3522a5e",
+			"uuid": "7020a2e6-af93-44ec-beaa-91dee3522a5e",
+			"prefix": "K/HBR/08",
+			"title": "Facilitaire dienstverlening, beheer en onderhoud",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"uuid": "0a104388-b2c9-4190-8420-c9995167d142",
+					"title": "Horeca, bakkerij en recreatie",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a28cd5c9-d020-434a-a4dd-8a539fa35092",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a28cd5c9-d020-434a-a4dd-8a539fa35092",
+					"uuid": "a28cd5c9-d020-434a-a4dd-8a539fa35092",
+					"title": "Horeca, bakkerij en recreatie",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512515ac-8442-4213-83d7-84327e48d3e9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512515ac-8442-4213-83d7-84327e48d3e9",
+					"uuid": "512515ac-8442-4213-83d7-84327e48d3e9",
+					"title": "Horeca, bakkerij en recreatie",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/HBR/08/KT",
+	"title": "De voorkomende facilitaire werkzaamheden in en rondom het gastenverblijf en de accommodatie voorbereiden en uitvoere"
+}

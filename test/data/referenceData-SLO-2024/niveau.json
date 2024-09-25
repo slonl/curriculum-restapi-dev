@@ -1,0 +1,906 @@
+{
+	"count": 107,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"uuid": "d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"@type": "Niveau",
+			"title": "1F",
+			"description": "Referentiekader taal en rekenen,  fundamenteel niveau 1",
+			"prefix": "1001"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+			"uuid": "86d05d5a-8dfa-422b-820c-50019985426d",
+			"@type": "Niveau",
+			"title": "1S",
+			"description": "Referentiekader taal en rekenen,  streefniveau 1",
+			"prefix": "1002"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"uuid": "5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"@type": "Niveau",
+			"title": "2F",
+			"description": "Referentiekader taal en rekenen,  fundamenteel niveau 2",
+			"prefix": "3200"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+			"uuid": "fadc20aa-082e-4e80-8a83-830c4006f236",
+			"@type": "Niveau",
+			"title": "2S",
+			"description": "Referentiekader taal en rekenen,  streefniveau 2",
+			"prefix": "3201"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"uuid": "7835ae8e-0923-4a60-aadd-251b9c0b99b5",
+			"@type": "Niveau",
+			"title": "3 h/v",
+			"description": "3 havo/vwo (leerjaar 3 is onderdeel van onderbouw vo, maar alleen voor havo en vwo)",
+			"prefix": "5000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"uuid": "f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"@type": "Niveau",
+			"title": "3F",
+			"description": "Referentiekader taal en rekenen,  fundamenteel niveau 3",
+			"prefix": "4200"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"uuid": "2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"@type": "Niveau",
+			"title": "3S",
+			"description": "Referentiekader taal en rekenen,  streefniveau 3",
+			"prefix": "4201"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"uuid": "5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"@type": "Niveau",
+			"title": "4F",
+			"description": "Referentiekader taal en rekenen,  fundamenteel niveau 4",
+			"prefix": "4700"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7bae4f16-ed94-4739-9d42-d0842dee7c90",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7bae4f16-ed94-4739-9d42-d0842dee7c90",
+			"uuid": "7bae4f16-ed94-4739-9d42-d0842dee7c90",
+			"@type": "Niveau",
+			"title": "4S",
+			"description": "Referentiekader taal en rekenen,  streefniveau 4",
+			"prefix": "4701"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+			"uuid": "ebf1cc90-05cb-4976-9561-dfb2041ca264",
+			"@type": "Niveau",
+			"title": "A1",
+			"description": "europees referentiekader A1 moderne vreemde talen",
+			"prefix": "1003"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+			"uuid": "1d5d9624-055f-42ed-bc39-06b183ecb40b",
+			"@type": "Niveau",
+			"title": "A2",
+			"description": "europees referentiekader A2 moderne vreemde talen",
+			"prefix": "1004"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+			"uuid": "620710de-54d2-48b5-93ab-40888732aab7",
+			"@type": "Niveau",
+			"title": "A2+",
+			"description": "europees referentiekader A2+ moderne vreemde talen",
+			"prefix": "1014"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+			"uuid": "a94b005d-9697-49f6-897a-0ad6516044f9",
+			"@type": "Niveau",
+			"title": "B1",
+			"description": "europees referentiekader B1 moderne vreemde talen",
+			"prefix": "4902"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+			"uuid": "a0f545f9-a077-49fd-ab13-ef3533430ee6",
+			"@type": "Niveau",
+			"title": "B1+",
+			"description": "europees referentiekader B1+ moderne vreemde talen",
+			"prefix": "4912"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a",
+			"uuid": "f7920461-e732-4767-b855-87783a05c76a",
+			"@type": "Niveau",
+			"title": "B2",
+			"description": "europees referentiekader B2 moderne vreemde talen",
+			"prefix": "4903"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+			"uuid": "01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+			"@type": "Niveau",
+			"title": "B2+",
+			"description": "europees referentiekader B2+ moderne vreemde talen",
+			"prefix": "4913"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+			"uuid": "50fd5672-94d8-4445-b988-bb198f5515f4",
+			"@type": "Niveau",
+			"title": "C1",
+			"description": "europees referentiekader C1 moderne vreemde talen",
+			"prefix": "4904"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2208c586-9043-47c1-b66b-536a50577725",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2208c586-9043-47c1-b66b-536a50577725",
+			"uuid": "2208c586-9043-47c1-b66b-536a50577725",
+			"@type": "Niveau",
+			"title": "C2",
+			"description": "europees referentiekader C2 moderne vreemde talen",
+			"prefix": "4905"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"uuid": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"@type": "Niveau",
+			"title": "bb havo",
+			"description": "bovenbouw havo: leerjaar 4, leerjaar 5",
+			"prefix": "4600"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"uuid": "aced88e1-bb12-42f9-88df-16d7abfda57e",
+			"@type": "Niveau",
+			"title": "bb vmbo",
+			"description": "bovenbouw vmbo: leerjaar 3, leerjaar 4",
+			"prefix": "3500"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@type": "Niveau",
+			"title": "bb vmbo bb",
+			"description": "bovenbouw vmbo beroepsgerichte leerweg",
+			"prefix": "3501"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"@type": "Niveau",
+			"title": "bb vmbo gl",
+			"description": "bovenbouw vmbo gemengde leerweg",
+			"prefix": "3503"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@type": "Niveau",
+			"title": "bb vmbo kb",
+			"description": "bovenbouw vmbo kaderberoeps leerweg",
+			"prefix": "3502"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"uuid": "8450c011-f812-4f89-97a9-6b8820baffc5",
+			"@type": "Niveau",
+			"title": "bb vmbo tl",
+			"description": "bovenbouw vmbo theoretische leerweg",
+			"prefix": "3504"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"uuid": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"@type": "Niveau",
+			"title": "bb vwo",
+			"description": "bovenbouw vwo: leerjaar 4, leerjaar 5, leerjaar 6",
+			"prefix": "4700"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"uuid": "0a3d23df-1758-439b-b219-cd2854cc639b",
+			"@type": "Niveau",
+			"title": "fase 1",
+			"description": "fase 1: onderbouw primair onderwijs groep 1, groep 2, groep 3",
+			"prefix": "1200"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"uuid": "5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"@type": "Niveau",
+			"title": "fase 2",
+			"description": "fase 2: middenbouw primair onderwijs: groep 4, groep 5, groep 6",
+			"prefix": "1202"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"uuid": "fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"@type": "Niveau",
+			"title": "fase 3",
+			"description": "fase 3: bovenbouw primair onderwijs: groep 7, groep 8",
+			"prefix": "1204"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+			"uuid": "f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+			"@type": "Niveau",
+			"title": "fase 4",
+			"description": "fase 4: onderbouw voortgezet onderwijs: klas 1, klas 2",
+			"prefix": "1206"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d10e2d9-c069-4bab-907e-03050936984e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d10e2d9-c069-4bab-907e-03050936984e",
+			"uuid": "0d10e2d9-c069-4bab-907e-03050936984e",
+			"@type": "Niveau",
+			"title": "fase 5",
+			"description": "fase 5: bovenbouw voortgezet onderwijs: klas 3, klas 4, klas 5, klas 6",
+			"prefix": "1208"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/82ca4442-246c-44b3-a562-7b101793feb4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/82ca4442-246c-44b3-a562-7b101793feb4",
+			"uuid": "82ca4442-246c-44b3-a562-7b101793feb4",
+			"@type": "Niveau",
+			"title": "groep 1",
+			"description": "primair onderwijs, groep 1",
+			"prefix": "1001"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e222c093-f0c6-4895-9dfb-c08eafb27aef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e222c093-f0c6-4895-9dfb-c08eafb27aef",
+			"uuid": "e222c093-f0c6-4895-9dfb-c08eafb27aef",
+			"@type": "Niveau",
+			"title": "groep 1-2",
+			"description": "primair onderwijs, groep 1-2",
+			"prefix": "1201"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c007e4dd-a3d4-4f33-902d-778e3bbeeddb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c007e4dd-a3d4-4f33-902d-778e3bbeeddb",
+			"uuid": "c007e4dd-a3d4-4f33-902d-778e3bbeeddb",
+			"@type": "Niveau",
+			"title": "groep 2",
+			"description": "primair onderwijs, groep 2",
+			"prefix": "1002"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/25a2f4f4-cf91-4b16-94bc-6d9e6fad88f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/25a2f4f4-cf91-4b16-94bc-6d9e6fad88f4",
+			"uuid": "25a2f4f4-cf91-4b16-94bc-6d9e6fad88f4",
+			"@type": "Niveau",
+			"title": "groep 3",
+			"description": "primair onderwijs, groep 3",
+			"prefix": "1003"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e0d54104-4bbc-4e6a-9c53-114f0af56027",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0d54104-4bbc-4e6a-9c53-114f0af56027",
+			"uuid": "e0d54104-4bbc-4e6a-9c53-114f0af56027",
+			"@type": "Niveau",
+			"title": "groep 3-4",
+			"description": "primair onderwijs, groep 3-4",
+			"prefix": "1203"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5c072b3f-7f58-40ee-9799-27981f0a6b2b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5c072b3f-7f58-40ee-9799-27981f0a6b2b",
+			"uuid": "5c072b3f-7f58-40ee-9799-27981f0a6b2b",
+			"@type": "Niveau",
+			"title": "groep 4",
+			"description": "primair onderwijs, groep 4",
+			"prefix": "1004"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc213214-b83d-4673-b9c1-8fdaa63d6d56",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc213214-b83d-4673-b9c1-8fdaa63d6d56",
+			"uuid": "bc213214-b83d-4673-b9c1-8fdaa63d6d56",
+			"@type": "Niveau",
+			"title": "groep 5",
+			"description": "primair onderwijs, groep 5",
+			"prefix": "1005"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a719649f-03ca-48cf-b689-252b109de32c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a719649f-03ca-48cf-b689-252b109de32c",
+			"uuid": "a719649f-03ca-48cf-b689-252b109de32c",
+			"@type": "Niveau",
+			"title": "groep 5-6",
+			"description": "primair onderwijs, groep 5-6",
+			"prefix": "1205"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/abfb190f-e814-46f5-a9cc-ebd53f04018e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/abfb190f-e814-46f5-a9cc-ebd53f04018e",
+			"uuid": "abfb190f-e814-46f5-a9cc-ebd53f04018e",
+			"@type": "Niveau",
+			"title": "groep 6",
+			"description": "primair onderwijs, groep 6",
+			"prefix": "1006"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4813bb6-cf63-4594-af56-6afb321723d8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4813bb6-cf63-4594-af56-6afb321723d8",
+			"uuid": "a4813bb6-cf63-4594-af56-6afb321723d8",
+			"@type": "Niveau",
+			"title": "groep 7",
+			"description": "primair onderwijs, groep 7",
+			"prefix": "1007"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/457f3ac7-522b-41f4-b2c7-6f4c2d891faf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/457f3ac7-522b-41f4-b2c7-6f4c2d891faf",
+			"uuid": "457f3ac7-522b-41f4-b2c7-6f4c2d891faf",
+			"@type": "Niveau",
+			"title": "groep 7-8",
+			"description": "primair onderwijs, groep 7-8",
+			"prefix": "1207"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+			"uuid": "95138558-9f65-4888-8ea3-8acce5eea273",
+			"@type": "Niveau",
+			"title": "groep 8",
+			"description": "primair onderwijs, groep 8",
+			"prefix": "1008"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3ddbe60-8478-4204-b769-6f5e9f4cbca2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3ddbe60-8478-4204-b769-6f5e9f4cbca2",
+			"uuid": "a3ddbe60-8478-4204-b769-6f5e9f4cbca2",
+			"@type": "Niveau",
+			"title": "havo",
+			"description": "hoger algemeen voortgezet onderwijs",
+			"prefix": "4200"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/78f5cabe-6649-4dc3-84bf-36d82c6c2d31",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/78f5cabe-6649-4dc3-84bf-36d82c6c2d31",
+			"uuid": "78f5cabe-6649-4dc3-84bf-36d82c6c2d31",
+			"@type": "Niveau",
+			"title": "havo 1",
+			"description": "havo, leerjaar 1",
+			"prefix": "4201"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eaa0c07f-193e-4be5-8dc6-a00bbfc7a446",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa0c07f-193e-4be5-8dc6-a00bbfc7a446",
+			"uuid": "eaa0c07f-193e-4be5-8dc6-a00bbfc7a446",
+			"@type": "Niveau",
+			"title": "havo 2",
+			"description": "havo, leerjaar 2",
+			"prefix": "4202"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/af3ecd88-a654-4458-9c5b-1e1f7d09f463",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/af3ecd88-a654-4458-9c5b-1e1f7d09f463",
+			"uuid": "af3ecd88-a654-4458-9c5b-1e1f7d09f463",
+			"@type": "Niveau",
+			"title": "havo 3",
+			"description": "havo, leerjaar 3",
+			"prefix": "4203"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/70af3752-c6ad-43d9-aa0c-9ff099931f8a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/70af3752-c6ad-43d9-aa0c-9ff099931f8a",
+			"uuid": "70af3752-c6ad-43d9-aa0c-9ff099931f8a",
+			"@type": "Niveau",
+			"title": "havo 4",
+			"description": "havo, leerjaar 4",
+			"prefix": "4204"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cb61531d-61eb-4412-a52f-ca065ca37e39",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb61531d-61eb-4412-a52f-ca065ca37e39",
+			"uuid": "cb61531d-61eb-4412-a52f-ca065ca37e39",
+			"@type": "Niveau",
+			"title": "havo 5",
+			"description": "havo, leerjaar 5",
+			"prefix": "4205"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"uuid": "5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"@type": "Niveau",
+			"title": "ob havo",
+			"description": "onderbouw havo: leerjaar 1, leerjaar 2, leerjaar 3",
+			"prefix": "4107"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c8621962-12ec-4792-b8e9-604cb2e74d07",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8621962-12ec-4792-b8e9-604cb2e74d07",
+			"uuid": "c8621962-12ec-4792-b8e9-604cb2e74d07",
+			"@type": "Niveau",
+			"title": "ob havo basis",
+			"description": "Onderbouw havo bewegen en sport basisniveau",
+			"prefix": "4113"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a526db51-0477-4acb-b86c-a4e627312bbe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a526db51-0477-4acb-b86c-a4e627312bbe",
+			"uuid": "a526db51-0477-4acb-b86c-a4e627312bbe",
+			"@type": "Niveau",
+			"title": "ob havo gevorderd",
+			"description": "Onderbouw havo bewegen en sport gevorderd niveau",
+			"prefix": "4116"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/81552702-cb71-440e-b26c-8015993196d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/81552702-cb71-440e-b26c-8015993196d7",
+			"uuid": "81552702-cb71-440e-b26c-8015993196d7",
+			"@type": "Niveau",
+			"title": "ob havo vervolg",
+			"description": "Onderbouw havo bewegen en sport vervolgniveau",
+			"prefix": "4114"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+			"uuid": "c2ad90a9-30fb-49f2-89c2-bd269b60a784",
+			"@type": "Niveau",
+			"title": "ob vmbo",
+			"description": "onderbouw vmbo: leerjaar 1, leerjaar 2",
+			"prefix": "3100"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5437183-0c54-4020-bf47-34b83a2ee511",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5437183-0c54-4020-bf47-34b83a2ee511",
+			"uuid": "b5437183-0c54-4020-bf47-34b83a2ee511",
+			"@type": "Niveau",
+			"title": "ob vmbo basis",
+			"description": "onderbouw vmbo bewegen en sport basisniveau",
+			"prefix": "3109"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"uuid": "50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"@type": "Niveau",
+			"title": "ob vmbo bb",
+			"description": "onderbouw vmbo basisberoeps leerweg",
+			"prefix": "3101"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/553479de-32ba-42b2-a8e7-5ceb19caac42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/553479de-32ba-42b2-a8e7-5ceb19caac42",
+			"uuid": "553479de-32ba-42b2-a8e7-5ceb19caac42",
+			"@type": "Niveau",
+			"title": "ob vmbo gevorderd",
+			"description": "onderbouw vmbo bewegen en sport gevorderd niveau",
+			"prefix": "3111"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"uuid": "01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"@type": "Niveau",
+			"title": "ob vmbo gl",
+			"description": "onderbouw vmbo gemengde leerweg",
+			"prefix": "3103"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"uuid": "2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"@type": "Niveau",
+			"title": "ob vmbo kb",
+			"description": "onderbouw vmbo kaderberoeps leerweg",
+			"prefix": "3102"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"uuid": "c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"@type": "Niveau",
+			"title": "ob vmbo tl",
+			"description": "onderbouw vmbo theoretische leerweg ",
+			"prefix": "3104"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
+			"uuid": "b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
+			"@type": "Niveau",
+			"title": "ob vmbo vervolg",
+			"description": "onderbouw vmbo bewegen en sport vervolgniveau",
+			"prefix": "3110"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"uuid": "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"@type": "Niveau",
+			"title": "ob vo",
+			"description": "Onderbouw voortgezet onderwijs",
+			"prefix": "4100"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"uuid": "b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"@type": "Niveau",
+			"title": "ob vwo",
+			"description": "onderbouw vwo: leerjaar 1, leerjaar 2, leerjaar 3",
+			"prefix": "4150"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a1928e1b-3780-4307-8e12-e01b0830ec18",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1928e1b-3780-4307-8e12-e01b0830ec18",
+			"uuid": "a1928e1b-3780-4307-8e12-e01b0830ec18",
+			"@type": "Niveau",
+			"title": "ob vwo basis",
+			"description": "Onderbouw vwo bewegen en sport basisniveau",
+			"prefix": "4113"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/51f66470-1156-4dc6-ba29-f92b08a67ce9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51f66470-1156-4dc6-ba29-f92b08a67ce9",
+			"uuid": "51f66470-1156-4dc6-ba29-f92b08a67ce9",
+			"@type": "Niveau",
+			"title": "ob vwo gevorderd",
+			"description": "Onderbouw vwo bewegen en sport gevorderd niveau",
+			"prefix": "4116"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d70a7c4-3184-460b-b1a0-b6d7dae24bb1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d70a7c4-3184-460b-b1a0-b6d7dae24bb1",
+			"uuid": "0d70a7c4-3184-460b-b1a0-b6d7dae24bb1",
+			"@type": "Niveau",
+			"title": "ob vwo vervolg",
+			"description": "Onderbouw vwo bewegen en sport vervolgniveau",
+			"prefix": "4114"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+			"uuid": "512e4729-03a4-43a2-95ba-758071d1b725",
+			"@type": "Niveau",
+			"title": "po",
+			"description": "primair onderwijs",
+			"prefix": "1000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/677c431e-7ac6-438f-8204-aea78aef7025",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/677c431e-7ac6-438f-8204-aea78aef7025",
+			"uuid": "677c431e-7ac6-438f-8204-aea78aef7025",
+			"@type": "Niveau",
+			"title": "pre A1",
+			"description": "europees referentiekader pre A1 moderne vreemde talen",
+			"prefix": "1002"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
+			"uuid": "d6f1bbf7-c1a6-4431-bcbd-f33126d851ef",
+			"@type": "Niveau",
+			"title": "pro",
+			"description": "praktijkonderwijs",
+			"prefix": "9000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"uuid": "e7f1c08f-08fb-48ab-be8e-c131b1bce54a",
+			"@type": "Niveau",
+			"title": "so",
+			"description": "speciaal onderwijs",
+			"prefix": "0000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"uuid": "f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"@type": "Niveau",
+			"title": "so nl/ml",
+			"description": "speciaal onderwijs normaal lerend/moeilijk lerend",
+			"prefix": "0002"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"uuid": "edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+			"@type": "Niveau",
+			"title": "so zml/mb",
+			"description": "speciaal onderwijs zeer moeilijk lerend/meervoudig beperkt",
+			"prefix": "0001"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
+			"uuid": "c7942bb1-bf4f-409f-bc98-9a0b02f175dc",
+			"@type": "Niveau",
+			"title": "vmbo",
+			"description": "voorbereidend middelbaar beroepsonderwijs",
+			"prefix": "3000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8da0ce4d-daab-40ea-93f7-bb6e8e1a31c3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8da0ce4d-daab-40ea-93f7-bb6e8e1a31c3",
+			"uuid": "8da0ce4d-daab-40ea-93f7-bb6e8e1a31c3",
+			"@type": "Niveau",
+			"title": "vmbo bb, 1",
+			"description": "vmbo basisberoepsgerichte leerweg, leerjaar 1",
+			"prefix": "3001"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3a49d130-5ce7-465d-80c9-5fcd2bd70c05",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a49d130-5ce7-465d-80c9-5fcd2bd70c05",
+			"uuid": "3a49d130-5ce7-465d-80c9-5fcd2bd70c05",
+			"@type": "Niveau",
+			"title": "vmbo bb, 2",
+			"description": "vmbo basisberoepsgerichte leerweg, leerjaar 2",
+			"prefix": "3002"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8550fb8a-20ac-489f-83eb-d7f4e8a2401f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8550fb8a-20ac-489f-83eb-d7f4e8a2401f",
+			"uuid": "8550fb8a-20ac-489f-83eb-d7f4e8a2401f",
+			"@type": "Niveau",
+			"title": "vmbo bb, 3",
+			"description": "vmbo basisberoepsgerichte leerweg, leerjaar 3",
+			"prefix": "3003"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/151c4de1-e462-468c-bf9a-8c7234c59d64",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/151c4de1-e462-468c-bf9a-8c7234c59d64",
+			"uuid": "151c4de1-e462-468c-bf9a-8c7234c59d64",
+			"@type": "Niveau",
+			"title": "vmbo bb, 4",
+			"description": "vmbo basisberoepsgerichte leerweg, leerjaar 4",
+			"prefix": "3004"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75a00adb-870c-4f05-be63-41411c48324a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75a00adb-870c-4f05-be63-41411c48324a",
+			"uuid": "75a00adb-870c-4f05-be63-41411c48324a",
+			"@type": "Niveau",
+			"title": "vmbo gl, 1",
+			"description": "vmbo gemengde leerweg, leerjaar 1",
+			"prefix": "3005"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d46380e-9d6b-4c62-a1a6-5f7c06e1f79d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d46380e-9d6b-4c62-a1a6-5f7c06e1f79d",
+			"uuid": "8d46380e-9d6b-4c62-a1a6-5f7c06e1f79d",
+			"@type": "Niveau",
+			"title": "vmbo gl, 2",
+			"description": "vmbo gemengde leerweg, leerjaar 2",
+			"prefix": "3006"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/49af771b-6d9e-4d8f-bcaf-ac9cc9ee753e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49af771b-6d9e-4d8f-bcaf-ac9cc9ee753e",
+			"uuid": "49af771b-6d9e-4d8f-bcaf-ac9cc9ee753e",
+			"@type": "Niveau",
+			"title": "vmbo gl, 3",
+			"description": "vmbo gemengde leerweg, leerjaar 3",
+			"prefix": "3007"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ee1eada7-7866-45e6-b1d8-b7062a8fe08a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ee1eada7-7866-45e6-b1d8-b7062a8fe08a",
+			"uuid": "ee1eada7-7866-45e6-b1d8-b7062a8fe08a",
+			"@type": "Niveau",
+			"title": "vmbo gl, 4",
+			"description": "vmbo gemengde leerweg, leerjaar 4",
+			"prefix": "3008"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/12e85a55-b3ae-4e7f-a2a0-d645f4c573bf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/12e85a55-b3ae-4e7f-a2a0-d645f4c573bf",
+			"uuid": "12e85a55-b3ae-4e7f-a2a0-d645f4c573bf",
+			"@type": "Niveau",
+			"title": "vmbo kb, 1",
+			"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 1",
+			"prefix": "3009"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/30ce6ff5-d654-4a97-a6d4-9c8936f87ca6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/30ce6ff5-d654-4a97-a6d4-9c8936f87ca6",
+			"uuid": "30ce6ff5-d654-4a97-a6d4-9c8936f87ca6",
+			"@type": "Niveau",
+			"title": "vmbo kb, 2",
+			"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 2",
+			"prefix": "3010"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f61c889e-4731-4321-802d-c7e86081499c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f61c889e-4731-4321-802d-c7e86081499c",
+			"uuid": "f61c889e-4731-4321-802d-c7e86081499c",
+			"@type": "Niveau",
+			"title": "vmbo kb, 3",
+			"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 3",
+			"prefix": "3011"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e72dacdd-968b-40ac-ad2c-8bd14c24e89f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e72dacdd-968b-40ac-ad2c-8bd14c24e89f",
+			"uuid": "e72dacdd-968b-40ac-ad2c-8bd14c24e89f",
+			"@type": "Niveau",
+			"title": "vmbo kb, 4",
+			"description": "vmbo kaderberoepsgerichte leerweg,  leerjaar 4",
+			"prefix": "3012"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/54edd410-2315-4eb3-a573-0e1cd59184fd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/54edd410-2315-4eb3-a573-0e1cd59184fd",
+			"uuid": "54edd410-2315-4eb3-a573-0e1cd59184fd",
+			"@type": "Niveau",
+			"title": "vmbo tl, 1",
+			"description": "vmbo theoretische leerweg, leerjaar 1",
+			"prefix": "3013"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/90a5a228-e8de-473d-84cc-a915bf6107dd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90a5a228-e8de-473d-84cc-a915bf6107dd",
+			"uuid": "90a5a228-e8de-473d-84cc-a915bf6107dd",
+			"@type": "Niveau",
+			"title": "vmbo tl, 2",
+			"description": "vmbo theoretische leerweg, leerjaar 2",
+			"prefix": "3014"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e51e6137-05d4-45ca-aed0-6e91551257d4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e51e6137-05d4-45ca-aed0-6e91551257d4",
+			"uuid": "e51e6137-05d4-45ca-aed0-6e91551257d4",
+			"@type": "Niveau",
+			"title": "vmbo tl, 3",
+			"description": "vmbo theoretische leerweg, leerjaar 3",
+			"prefix": "3015"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/84f30df0-f194-435e-98c8-c4559756ec24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/84f30df0-f194-435e-98c8-c4559756ec24",
+			"uuid": "84f30df0-f194-435e-98c8-c4559756ec24",
+			"@type": "Niveau",
+			"title": "vmbo tl, 4",
+			"description": "vmbo theoretische leerweg, leerjaar 4",
+			"prefix": "3016"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2a1401e9-c223-493b-9b86-78f6993b1a8d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a1401e9-c223-493b-9b86-78f6993b1a8d",
+			"uuid": "2a1401e9-c223-493b-9b86-78f6993b1a8d",
+			"@type": "Niveau",
+			"title": "vo",
+			"description": "voortgezet onderwijs",
+			"prefix": "2000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6219cc2d-2545-4893-84a0-30395794f2f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6219cc2d-2545-4893-84a0-30395794f2f4",
+			"uuid": "6219cc2d-2545-4893-84a0-30395794f2f4",
+			"@type": "Niveau",
+			"title": "volwasseneneducatie niveau 1",
+			"description": "volwasseneneducatie, niveau 1",
+			"prefix": "6000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e0a398b0-838b-409e-807a-f0f587dfd7c7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0a398b0-838b-409e-807a-f0f587dfd7c7",
+			"uuid": "e0a398b0-838b-409e-807a-f0f587dfd7c7",
+			"@type": "Niveau",
+			"title": "volwasseneneducatie niveau 2",
+			"description": "volwasseneneducatie, niveau 2",
+			"prefix": "6000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de5e9d28-7c80-4167-8d34-74520a55c27d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de5e9d28-7c80-4167-8d34-74520a55c27d",
+			"uuid": "de5e9d28-7c80-4167-8d34-74520a55c27d",
+			"@type": "Niveau",
+			"title": "volwasseneneducatie niveau 3",
+			"description": "volwasseneneducatie, niveau 3",
+			"prefix": "6000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/655a4e1f-c9cf-464b-868e-f8aa2c813b89",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/655a4e1f-c9cf-464b-868e-f8aa2c813b89",
+			"uuid": "655a4e1f-c9cf-464b-868e-f8aa2c813b89",
+			"@type": "Niveau",
+			"title": "volwasseneneducatie niveau 4",
+			"description": "volwasseneneducatie, niveau 4",
+			"prefix": "6000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"uuid": "dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"@type": "Niveau",
+			"title": "vso",
+			"description": "voortgezet speciaal onderwijs",
+			"prefix": "1550"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+			"uuid": "bdc4744f-79df-4795-8795-2fee50c7416a",
+			"@type": "Niveau",
+			"title": "vso am",
+			"description": "voortgezet speciaal onderwijs arbeidsmarkt",
+			"prefix": "1552"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"uuid": "d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"@type": "Niveau",
+			"title": "vso db",
+			"description": "voortgezet speciaal onderwijs dagbesteding",
+			"prefix": "1551"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+			"uuid": "35ca5594-679e-4c7b-a178-88322dce8971",
+			"@type": "Niveau",
+			"title": "vso vo",
+			"description": "voortgezet speciaal onderwijs vervolgonderwijs",
+			"prefix": "1553"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15d693b8-fbe1-4112-8135-4a20aba5101c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15d693b8-fbe1-4112-8135-4a20aba5101c",
+			"uuid": "15d693b8-fbe1-4112-8135-4a20aba5101c",
+			"@type": "Niveau",
+			"title": "vve",
+			"description": "voor- en vroegschoolse educatie",
+			"prefix": "6000"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ad9872e5-edc4-4a62-9ee7-ba7daceba2e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ad9872e5-edc4-4a62-9ee7-ba7daceba2e0",
+			"uuid": "ad9872e5-edc4-4a62-9ee7-ba7daceba2e0",
+			"@type": "Niveau",
+			"title": "vwo",
+			"description": "voorbereidend wetenschappelijk onderwijs",
+			"prefix": "4500"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ac188375-0a1a-4984-ac80-14d04a086a19",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac188375-0a1a-4984-ac80-14d04a086a19",
+			"uuid": "ac188375-0a1a-4984-ac80-14d04a086a19",
+			"@type": "Niveau",
+			"title": "vwo, 1",
+			"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  1",
+			"prefix": "4501"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

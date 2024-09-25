@@ -1,0 +1,982 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/f1717656-c9ce-4930-bb2f-2dfb531c5de2",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1717656-c9ce-4930-bb2f-2dfb531c5de2",
+	"uuid": "f1717656-c9ce-4930-bb2f-2dfb531c5de2",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+	"@type": "InhCluster",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ab392e9-26b8-4840-a29f-cd38c2d5ad99",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ab392e9-26b8-4840-a29f-cd38c2d5ad99",
+			"uuid": "5ab392e9-26b8-4840-a29f-cd38c2d5ad99",
+			"prefix": "ko/dr/4/01/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/68dd31ad-550e-4365-9b4f-1405790514dc",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/68dd31ad-550e-4365-9b4f-1405790514dc",
+					"uuid": "68dd31ad-550e-4365-9b4f-1405790514dc",
+					"title": "verbeelden van eigen ervaringen uit het dagelijkse leven in dramatische spelvormen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.1.055",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61738d11-a0c6-42d8-bb4c-08b4f594c916",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61738d11-a0c6-42d8-bb4c-08b4f594c916",
+			"uuid": "61738d11-a0c6-42d8-bb4c-08b4f594c916",
+			"prefix": "ko/dr/4/02/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b67f5902-6b2d-4f6b-9b6d-7e84f3574916",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b67f5902-6b2d-4f6b-9b6d-7e84f3574916",
+					"uuid": "b67f5902-6b2d-4f6b-9b6d-7e84f3574916",
+					"title": "spelen van eenvoudige dramaspel-situaties, rollen en verhalen met het accent op beweging",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.1.056",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/47144581-58c9-423b-b296-81c3312fc760",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/47144581-58c9-423b-b296-81c3312fc760",
+			"uuid": "47144581-58c9-423b-b296-81c3312fc760",
+			"prefix": "ko/dr/4/03/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/27bf8d01-dcf5-42f9-844e-3afa5b5f14ae",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/27bf8d01-dcf5-42f9-844e-3afa5b5f14ae",
+					"uuid": "27bf8d01-dcf5-42f9-844e-3afa5b5f14ae",
+					"title": "actief meespelen met dramatische werkvormen en technieken (bijv. vertelpantomime, teacher-in-role, spelen met materialen, tableau vivant en improvisatiespel)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.1.057",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4c94e71-4049-43b1-b7ee-39bb56cdf4a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4c94e71-4049-43b1-b7ee-39bb56cdf4a1",
+			"uuid": "a4c94e71-4049-43b1-b7ee-39bb56cdf4a1",
+			"prefix": "ko/dr/4/04/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c5f5dfb6-1e86-4017-9e07-6d6ed404da13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c5f5dfb6-1e86-4017-9e07-6d6ed404da13",
+					"uuid": "c5f5dfb6-1e86-4017-9e07-6d6ed404da13",
+					"title": "spelen van dramaspel met meer nadruk op fysieke aspecten dan op talige aspecten",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.1.058",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69ed2aae-b0e8-4357-8ac8-ca9c02da1bca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69ed2aae-b0e8-4357-8ac8-ca9c02da1bca",
+			"uuid": "69ed2aae-b0e8-4357-8ac8-ca9c02da1bca",
+			"prefix": "ko/dr/4/05/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/010542fd-905e-43a6-995b-42d757a4145a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/010542fd-905e-43a6-995b-42d757a4145a",
+					"uuid": "010542fd-905e-43a6-995b-42d757a4145a",
+					"title": "ervaren dat dramaspel een bijzondere vorm van samenwerking is",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.1.059",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/65482864-887b-4d6a-aa2b-1afb988f045d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/65482864-887b-4d6a-aa2b-1afb988f045d",
+			"uuid": "65482864-887b-4d6a-aa2b-1afb988f045d",
+			"prefix": "ko/dr/4/06/fase1",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ee250b7a-159a-462a-ac3c-860686ce788b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ee250b7a-159a-462a-ac3c-860686ce788b",
+					"uuid": "ee250b7a-159a-462a-ac3c-860686ce788b",
+					"title": "gebruikmaken van attributen, decorelementen, poppen, kleding en schmink",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.1.060",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/41b4ae86-b05f-4b03-a690-46f6faf4bd88",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41b4ae86-b05f-4b03-a690-46f6faf4bd88",
+			"uuid": "41b4ae86-b05f-4b03-a690-46f6faf4bd88",
+			"prefix": "ko/dr/4/01/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0dda11d6-af1d-4b8a-b7c8-6f67cb924a88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0dda11d6-af1d-4b8a-b7c8-6f67cb924a88",
+					"uuid": "0dda11d6-af1d-4b8a-b7c8-6f67cb924a88",
+					"title": "vormgeven in dramatisch spel van situaties uit de directe leefwereld, uit verhalen en uit de media",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.061",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c74d7c9d-2b93-4f80-9f81-ad92b802c44e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c74d7c9d-2b93-4f80-9f81-ad92b802c44e",
+			"uuid": "c74d7c9d-2b93-4f80-9f81-ad92b802c44e",
+			"prefix": "ko/dr/4/02/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1becb2e2-c603-4789-8ea8-446cb2f8a8bc",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1becb2e2-c603-4789-8ea8-446cb2f8a8bc",
+					"uuid": "1becb2e2-c603-4789-8ea8-446cb2f8a8bc",
+					"title": "verzinnen van oplossingen tijdens het uitvoeren van een dramaspel door te improviseren",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.062",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/49059378-79bc-4d0a-ac74-3b24d9406d42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49059378-79bc-4d0a-ac74-3b24d9406d42",
+			"uuid": "49059378-79bc-4d0a-ac74-3b24d9406d42",
+			"prefix": "ko/dr/4/03/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/580dc97c-0ad1-4945-99ad-34b5cbbed495",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/580dc97c-0ad1-4945-99ad-34b5cbbed495",
+					"uuid": "580dc97c-0ad1-4945-99ad-34b5cbbed495",
+					"title": "bewust hanteren van de elementen (wie-wat-waar-wanneer) in eigen dramaspel",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.063",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0317bbe7-dbaa-4bc8-bee4-e11053e83d4e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0317bbe7-dbaa-4bc8-bee4-e11053e83d4e",
+			"uuid": "0317bbe7-dbaa-4bc8-bee4-e11053e83d4e",
+			"prefix": "ko/dr/4/04/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dce2d84e-ea96-49ae-8165-3800966a3ae5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dce2d84e-ea96-49ae-8165-3800966a3ae5",
+					"uuid": "dce2d84e-ea96-49ae-8165-3800966a3ae5",
+					"title": "uitbeelden van de uiterlijke kenmerken van een rol door houding, gebaren, stem en taal",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.064",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/304c7843-a501-4fdf-8f4c-58bb2c7183f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/304c7843-a501-4fdf-8f4c-58bb2c7183f2",
+			"uuid": "304c7843-a501-4fdf-8f4c-58bb2c7183f2",
+			"prefix": "ko/dr/4/05/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/41e482c5-b77b-4efb-a498-9b4c5f1c2898",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41e482c5-b77b-4efb-a498-9b4c5f1c2898",
+					"uuid": "41e482c5-b77b-4efb-a498-9b4c5f1c2898",
+					"title": "voorbereiden en spelen van een scène met een duidelijke opbouw van begin-midden-eind binnen een gegeven kader",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.065",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/34daad53-2c2b-4337-942b-a5ae634f2228",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34daad53-2c2b-4337-942b-a5ae634f2228",
+			"uuid": "34daad53-2c2b-4337-942b-a5ae634f2228",
+			"prefix": "ko/dr/4/06/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/da60d2b9-385f-43bd-8396-8205cd15d45e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da60d2b9-385f-43bd-8396-8205cd15d45e",
+					"uuid": "da60d2b9-385f-43bd-8396-8205cd15d45e",
+					"title": "uitvoeren van dramaspel-opdrachten en actief meespelen met dramatische werkvormen en speltechnieken (bijv. (vertel)pantomime, spelen met materialen, teacher-in-role, tableau vivant, improvisatiespel, afspreekspel, spiegelsspel en dialoogspel)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.066",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/066af385-7ebb-4c12-8d30-e991babf395e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/066af385-7ebb-4c12-8d30-e991babf395e",
+			"uuid": "066af385-7ebb-4c12-8d30-e991babf395e",
+			"prefix": "ko/dr/4/07/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/615b88eb-8f64-47f2-aa03-4c8cad6c0728",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/615b88eb-8f64-47f2-aa03-4c8cad6c0728",
+					"uuid": "615b88eb-8f64-47f2-aa03-4c8cad6c0728",
+					"title": "onderscheid maken tussen speelruimte en publieksruimte",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.067",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/359222d5-bb78-4cd6-8cd7-cfc5e9dbdee7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/359222d5-bb78-4cd6-8cd7-cfc5e9dbdee7",
+			"uuid": "359222d5-bb78-4cd6-8cd7-cfc5e9dbdee7",
+			"prefix": "ko/dr/4/08/fase2",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2cbe43b2-55bc-45b0-8c5d-d2a4c81f1af0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2cbe43b2-55bc-45b0-8c5d-d2a4c81f1af0",
+					"uuid": "2cbe43b2-55bc-45b0-8c5d-d2a4c81f1af0",
+					"title": "geven van een uitvoering (alleen of met een groepje)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.2.068",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a792b571-695b-4922-98c5-5fbf2f87500a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a792b571-695b-4922-98c5-5fbf2f87500a",
+			"uuid": "a792b571-695b-4922-98c5-5fbf2f87500a",
+			"prefix": "ko/dr/4/01/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ac36a302-5dd2-41dc-b20e-e0c711fa2c13",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac36a302-5dd2-41dc-b20e-e0c711fa2c13",
+					"uuid": "ac36a302-5dd2-41dc-b20e-e0c711fa2c13",
+					"title": "vormgeven in dramatisch spel van situaties uit de directe leefwereld, uit verhalen en uit de media",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.061",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f926adc9-a40b-4911-b78b-b123e374a743",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f926adc9-a40b-4911-b78b-b123e374a743",
+			"uuid": "f926adc9-a40b-4911-b78b-b123e374a743",
+			"prefix": "ko/dr/4/02/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7f3f4c6b-27e5-4feb-8097-9d00bf038834",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f3f4c6b-27e5-4feb-8097-9d00bf038834",
+					"uuid": "7f3f4c6b-27e5-4feb-8097-9d00bf038834",
+					"title": "zelfstandig verzinnen van oplossingen tijdens het uitvoeren van een spel door te improviseren",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.062",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6d4586d6-805e-48d5-8cb3-dae520e28420",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d4586d6-805e-48d5-8cb3-dae520e28420",
+			"uuid": "6d4586d6-805e-48d5-8cb3-dae520e28420",
+			"prefix": "ko/dr/4/03/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c62906d7-23df-4e72-b48f-633f04cf6bcf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c62906d7-23df-4e72-b48f-633f04cf6bcf",
+					"uuid": "c62906d7-23df-4e72-b48f-633f04cf6bcf",
+					"title": "bewust vormgeven van de dramaspel-elementen (wie-wat-waar-wanneer-waarom) in spel",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.063",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2f03c152-7711-4fc9-b371-f342fc306df5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f03c152-7711-4fc9-b371-f342fc306df5",
+			"uuid": "2f03c152-7711-4fc9-b371-f342fc306df5",
+			"prefix": "ko/dr/4/04/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c392d091-14dc-4954-9b8a-8ac8bb8c93c1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c392d091-14dc-4954-9b8a-8ac8bb8c93c1",
+					"uuid": "c392d091-14dc-4954-9b8a-8ac8bb8c93c1",
+					"title": "betekenis en zeggingskracht geven aan het eigen dramaspel door een duidelijke inzet van technieken en stijlen, vaste tekst en gespeelde emoties",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.064",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/09a858b3-09f9-4fc2-be12-e04eae4030db",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/09a858b3-09f9-4fc2-be12-e04eae4030db",
+			"uuid": "09a858b3-09f9-4fc2-be12-e04eae4030db",
+			"prefix": "ko/dr/4/05/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6186be39-5a46-48d5-bc5f-e872067abba4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6186be39-5a46-48d5-bc5f-e872067abba4",
+					"uuid": "6186be39-5a46-48d5-bc5f-e872067abba4",
+					"title": "uitvoeren van dramaspel-opdrachten en actief meespelen met dramatische werkvormen (bijv. tableau vivant, afspreekspel, dialoogspel, toneelspel, tekstspel, inspring- en improvisatiespel, voordrachtspel)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.065",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7852176-776c-4296-a7cd-3473b0ceebbd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7852176-776c-4296-a7cd-3473b0ceebbd",
+			"uuid": "c7852176-776c-4296-a7cd-3473b0ceebbd",
+			"prefix": "ko/dr/4/06/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3fb688c9-7bc0-4c50-8e10-78de086fbb0a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3fb688c9-7bc0-4c50-8e10-78de086fbb0a",
+					"uuid": "3fb688c9-7bc0-4c50-8e10-78de086fbb0a",
+					"title": "bewust toepassen van een theatrale vormgeving in een scène of toneelstuk (bijv. in de vorm van decor, kostuums)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.066",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1261e347-a30b-492b-800e-7f2cd454ec6d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1261e347-a30b-492b-800e-7f2cd454ec6d",
+			"uuid": "1261e347-a30b-492b-800e-7f2cd454ec6d",
+			"prefix": "ko/dr/4/07/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b853db08-b909-42de-b9c6-96aa46347757",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b853db08-b909-42de-b9c6-96aa46347757",
+					"uuid": "b853db08-b909-42de-b9c6-96aa46347757",
+					"title": "een dialoog schrijven en een voorstelling maken voor publiek die gebaseerd is op een zelfgemaakt of bestaand verhaal",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.067",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3d11890-e9f2-4c89-b66b-70a2cb4eb84e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3d11890-e9f2-4c89-b66b-70a2cb4eb84e",
+			"uuid": "a3d11890-e9f2-4c89-b66b-70a2cb4eb84e",
+			"prefix": "ko/dr/4/08/fase3",
+			"ce_se": "",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/878a45be-0221-4568-a422-22a4df5e9a0f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/878a45be-0221-4568-a422-22a4df5e9a0f",
+					"uuid": "878a45be-0221-4568-a422-22a4df5e9a0f",
+					"title": "spelen met een duidelijke expressie, (verbaal en non-verbaal)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": "ko.3.068",
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"uuid": "c4e8c51c-144b-4a76-bff5-09337c03ab63",
+					"title": "De leerlingen leren beelden, taal, muziek, spel en beweging te gebruiken om er gevoelens en ervaringen mee uit te drukken en om er mee te communiceren.",
+					"description": "Uitdrukken en communiceren",
+					"kerndoelLabel": "Uitdrukken en communiceren",
+					"prefix": "PO Kerndoel 54"
+				}
+			],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"title": "fase 1",
+			"prefix": "1200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0a3d23df-1758-439b-b219-cd2854cc639b/inh_luster/f1717656-c9ce-4930-bb2f-2dfb531c5de2"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"title": "fase 2",
+			"prefix": "1202-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5edad2fa-2cf0-4701-93d9-97edbe06ac02/inh_luster/f1717656-c9ce-4930-bb2f-2dfb531c5de2"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"title": "fase 3",
+			"prefix": "1204-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fc0fa444-07f6-4744-b7a7-6f9aadeeff42/inh_luster/f1717656-c9ce-4930-bb2f-2dfb531c5de2"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "ko/dr/4",
+	"title": "Spelen van drama",
+	"InhSubcluster": []
+}

@@ -1,0 +1,806 @@
+{
+	"count": 921,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4ab7ab70-563a-45d2-9ef4-6cd13be4262c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ab7ab70-563a-45d2-9ef4-6cd13be4262c",
+			"uuid": "4ab7ab70-563a-45d2-9ef4-6cd13be4262c",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb062294-a70d-4dfa-8766-94577d0cd5b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb062294-a70d-4dfa-8766-94577d0cd5b0",
+			"uuid": "fb062294-a70d-4dfa-8766-94577d0cd5b0",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "A.",
+			"title": "Domein A Vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4522dcc9-354a-4399-bcc6-1d3fb42ec4e9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4522dcc9-354a-4399-bcc6-1d3fb42ec4e9",
+			"uuid": "4522dcc9-354a-4399-bcc6-1d3fb42ec4e9",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "B.",
+			"title": "Domein B Kansrekening en statistiek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7e56f435-4e0e-4bb3-8fc3-c7e500150fae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7e56f435-4e0e-4bb3-8fc3-c7e500150fae",
+			"uuid": "7e56f435-4e0e-4bb3-8fc3-c7e500150fae",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "C.",
+			"title": "Domein C Dynamische systemen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1e6f0af2-f51a-4e43-9147-2136ca8fc42f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1e6f0af2-f51a-4e43-9147-2136ca8fc42f",
+			"uuid": "1e6f0af2-f51a-4e43-9147-2136ca8fc42f",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "D.",
+			"title": "Domein D Meetkunde"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/02a5ca1d-fd29-4c80-b59c-7c454ab153ac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02a5ca1d-fd29-4c80-b59c-7c454ab153ac",
+			"uuid": "02a5ca1d-fd29-4c80-b59c-7c454ab153ac",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "E.",
+			"title": "Domein E Complexe getallen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cfc70d3c-a6e3-4f1f-aa97-d976c3dc0b24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfc70d3c-a6e3-4f1f-aa97-d976c3dc0b24",
+			"uuid": "cfc70d3c-a6e3-4f1f-aa97-d976c3dc0b24",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "F.",
+			"title": "Domein F Wiskunde in wetenschap"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6b5ba15f-73da-4da2-a097-bd2d92421227",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b5ba15f-73da-4da2-a097-bd2d92421227",
+			"uuid": "6b5ba15f-73da-4da2-a097-bd2d92421227",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "G.",
+			"title": "Domein G Keuzeonderwerpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b3a7cecd-9077-411d-b31e-2fc223715a0f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3a7cecd-9077-411d-b31e-2fc223715a0f",
+			"uuid": "b3a7cecd-9077-411d-b31e-2fc223715a0f",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op domein A en:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91c61706-10d2-4c16-9eed-52faf522ea97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91c61706-10d2-4c16-9eed-52faf522ea97",
+			"uuid": "91c61706-10d2-4c16-9eed-52faf522ea97",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "de domeinen B, C, D, E, F en G;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0c873eab-f541-4a9b-8957-6a9b33558f05",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c873eab-f541-4a9b-8957-6a9b33558f05",
+			"uuid": "0c873eab-f541-4a9b-8957-6a9b33558f05",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein G: andere vakonderdelen, die per kandidaat kunnen verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f107e23c-a05d-44d8-a86a-27b3f84d029e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f107e23c-a05d-44d8-a86a-27b3f84d029e",
+			"uuid": "f107e23c-a05d-44d8-a86a-27b3f84d029e",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1ff36dd-36f3-4b16-9343-a30ed8200b90",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1ff36dd-36f3-4b16-9343-a30ed8200b90",
+			"uuid": "f1ff36dd-36f3-4b16-9343-a30ed8200b90",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/79bc90fd-4d95-4a81-8d2b-6000a143dfb2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79bc90fd-4d95-4a81-8d2b-6000a143dfb2",
+			"uuid": "79bc90fd-4d95-4a81-8d2b-6000a143dfb2",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "A.",
+			"title": "Domein A Vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69633df1-bfca-473d-a2c7-af09dc37fc84",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69633df1-bfca-473d-a2c7-af09dc37fc84",
+			"uuid": "69633df1-bfca-473d-a2c7-af09dc37fc84",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "B.",
+			"title": "Domein B Statistiek en kansrekening"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6badcbf6-ce69-4cd0-8a6a-844edd0751da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6badcbf6-ce69-4cd0-8a6a-844edd0751da",
+			"uuid": "6badcbf6-ce69-4cd0-8a6a-844edd0751da",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "C.",
+			"title": "Domein C Ruimtemeetkunde"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df5d02bc-fc58-4288-972e-6338bf760efe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df5d02bc-fc58-4288-972e-6338bf760efe",
+			"uuid": "df5d02bc-fc58-4288-972e-6338bf760efe",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "D.",
+			"title": "Domein D Wiskunde in technologie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3851dff1-a89a-4840-808d-1684a336b2fa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3851dff1-a89a-4840-808d-1684a336b2fa",
+			"uuid": "3851dff1-a89a-4840-808d-1684a336b2fa",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "E.",
+			"title": "Domein E Keuzeonderwerpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b6b8d7c3-0b0b-46e1-953b-353778b93ac7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6b8d7c3-0b0b-46e1-953b-353778b93ac7",
+			"uuid": "b6b8d7c3-0b0b-46e1-953b-353778b93ac7",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op domein A en:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f0c9434-859e-4300-9121-616247c511e2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f0c9434-859e-4300-9121-616247c511e2",
+			"uuid": "1f0c9434-859e-4300-9121-616247c511e2",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "de domeinen B, C, D en E;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ee5750fb-4089-4fc6-8f61-c682de87a6ae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ee5750fb-4089-4fc6-8f61-c682de87a6ae",
+			"uuid": "ee5750fb-4089-4fc6-8f61-c682de87a6ae",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein E: andere vakonderdelen, die per kandidaat kunnen verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/446a9487-0950-4051-902b-0b3eae130a23",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/446a9487-0950-4051-902b-0b3eae130a23",
+			"uuid": "446a9487-0950-4051-902b-0b3eae130a23",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc9c4d4f-0556-47e1-8bfb-2edfa139b880",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc9c4d4f-0556-47e1-8bfb-2edfa139b880",
+			"uuid": "bc9c4d4f-0556-47e1-8bfb-2edfa139b880",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "A.",
+			"title": "Domein A Vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43eb94c3-491e-4f11-8b09-e05e385c0eb5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43eb94c3-491e-4f11-8b09-e05e385c0eb5",
+			"uuid": "43eb94c3-491e-4f11-8b09-e05e385c0eb5",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "B.",
+			"title": "Domein B Algebra en tellen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b14f5490-6c1e-41f8-af7b-3ff6ed1c8435",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b14f5490-6c1e-41f8-af7b-3ff6ed1c8435",
+			"uuid": "b14f5490-6c1e-41f8-af7b-3ff6ed1c8435",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "C.",
+			"title": "Domein C Verbanden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85e1fecb-c4dd-49b1-8b5b-ebb2e17c3868",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85e1fecb-c4dd-49b1-8b5b-ebb2e17c3868",
+			"uuid": "85e1fecb-c4dd-49b1-8b5b-ebb2e17c3868",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "D.",
+			"title": "Domein D  Veranderingen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9503994-6485-4e72-af28-433869b2203a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9503994-6485-4e72-af28-433869b2203a",
+			"uuid": "f9503994-6485-4e72-af28-433869b2203a",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "E.",
+			"title": "Domein E Statistiek en kansrekening"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/603843a4-7f71-4233-8d6a-b547064f32a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/603843a4-7f71-4233-8d6a-b547064f32a1",
+			"uuid": "603843a4-7f71-4233-8d6a-b547064f32a1",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "F.",
+			"title": "Domein F Logisch redeneren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/efd805dd-bab7-40a2-af46-d2bd66d3420e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/efd805dd-bab7-40a2-af46-d2bd66d3420e",
+			"uuid": "efd805dd-bab7-40a2-af46-d2bd66d3420e",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "G.",
+			"title": "Domein G Vorm en ruimte"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5790437e-a0db-4ffd-b960-d7844383ceb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5790437e-a0db-4ffd-b960-d7844383ceb6",
+			"uuid": "5790437e-a0db-4ffd-b960-d7844383ceb6",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "H.",
+			"title": "Domein H Keuzeonderwerpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eeef7647-a606-4675-bb29-0d336eec5c6a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eeef7647-a606-4675-bb29-0d336eec5c6a",
+			"uuid": "eeef7647-a606-4675-bb29-0d336eec5c6a",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het centraal examen heeft betrekking op de domeinen B, C, D, F en G in combinatie met de vaardigheden uit domein A."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2e47ec65-57e6-4da5-9377-d34ff86bcbf7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e47ec65-57e6-4da5-9377-d34ff86bcbf7",
+			"uuid": "2e47ec65-57e6-4da5-9377-d34ff86bcbf7",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c89c7e9-0906-4054-a451-6a8f72c3164a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c89c7e9-0906-4054-a451-6a8f72c3164a",
+			"uuid": "3c89c7e9-0906-4054-a451-6a8f72c3164a",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c8204c6-f450-4c78-bff4-3e623b65e90c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c8204c6-f450-4c78-bff4-3e623b65e90c",
+			"uuid": "3c8204c6-f450-4c78-bff4-3e623b65e90c",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op domein A en de domeinen E en H:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c4a6f36-30e8-4744-ad7d-a5ba6c9a029e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c4a6f36-30e8-4744-ad7d-a5ba6c9a029e",
+			"uuid": "3c4a6f36-30e8-4744-ad7d-a5ba6c9a029e",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "de domeinen E en H;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a1f53e2d-d7ba-4b80-b129-20f18801ba82",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1f53e2d-d7ba-4b80-b129-20f18801ba82",
+			"uuid": "a1f53e2d-d7ba-4b80-b129-20f18801ba82",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop\r\nhet centraal examen betrekking heeft;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/72816689-7132-499a-ab75-0e47b578b748",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72816689-7132-499a-ab75-0e47b578b748",
+			"uuid": "72816689-7132-499a-ab75-0e47b578b748",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/af9de033-c353-48ca-8e81-184e3311824a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/af9de033-c353-48ca-8e81-184e3311824a",
+			"uuid": "af9de033-c353-48ca-8e81-184e3311824a",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "A.",
+			"title": "Domein A Vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a7bbb830-2a21-44f4-b675-227563c89db1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a7bbb830-2a21-44f4-b675-227563c89db1",
+			"uuid": "a7bbb830-2a21-44f4-b675-227563c89db1",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "B.",
+			"title": "Domein B Formules, functies en grafieken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/208815db-6ad1-45ba-9edb-1d419f6bbf19",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/208815db-6ad1-45ba-9edb-1d419f6bbf19",
+			"uuid": "208815db-6ad1-45ba-9edb-1d419f6bbf19",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "C.",
+			"title": "Domein C Differentiaal- en integraalrekening"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b4755d7f-ce5c-4365-ad2d-145b1fb7817d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b4755d7f-ce5c-4365-ad2d-145b1fb7817d",
+			"uuid": "b4755d7f-ce5c-4365-ad2d-145b1fb7817d",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "D.",
+			"title": "Domein D Goniometrische functies"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa6aa833-5a14-4fd5-aae6-128ca27e22bd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa6aa833-5a14-4fd5-aae6-128ca27e22bd",
+			"uuid": "aa6aa833-5a14-4fd5-aae6-128ca27e22bd",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "E.",
+			"title": "Domein E Meetkunde met coördinaten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c3b2c4fe-64a5-4aac-b24d-6f1f2b00095e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c3b2c4fe-64a5-4aac-b24d-6f1f2b00095e",
+			"uuid": "c3b2c4fe-64a5-4aac-b24d-6f1f2b00095e",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "F.",
+			"title": "Domein F Keuzeonderwerpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/65a31a99-e3ec-471e-830c-fda7c3e0abcd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/65a31a99-e3ec-471e-830c-fda7c3e0abcd",
+			"uuid": "65a31a99-e3ec-471e-830c-fda7c3e0abcd",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het centraal examen heeft betrekking op de domeinen B, C, D en E in combinatie met de vaardigheden uit domein A."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/13fd35dd-0ae4-4559-97c5-2c9ec31df9e6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13fd35dd-0ae4-4559-97c5-2c9ec31df9e6",
+			"uuid": "13fd35dd-0ae4-4559-97c5-2c9ec31df9e6",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d6af05bc-ff04-4dc7-a7af-c8d3b6ad0137",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d6af05bc-ff04-4dc7-a7af-c8d3b6ad0137",
+			"uuid": "d6af05bc-ff04-4dc7-a7af-c8d3b6ad0137",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8f2094f8-cec4-45cc-8f53-6c09b62f0e84",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f2094f8-cec4-45cc-8f53-6c09b62f0e84",
+			"uuid": "8f2094f8-cec4-45cc-8f53-6c09b62f0e84",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op domein A en:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/03944f68-fe99-4446-9738-de43b77087b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03944f68-fe99-4446-9738-de43b77087b0",
+			"uuid": "03944f68-fe99-4446-9738-de43b77087b0",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "subdomein E1;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/acf1940a-ebda-447c-abfc-80618a9f7737",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/acf1940a-ebda-447c-abfc-80618a9f7737",
+			"uuid": "acf1940a-ebda-447c-abfc-80618a9f7737",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "domein F;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ab0d8645-54db-44e2-93af-66c36df90031",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab0d8645-54db-44e2-93af-66c36df90031",
+			"uuid": "ab0d8645-54db-44e2-93af-66c36df90031",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop\r\nhet centraal examen betrekking heeft;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/42e337e9-d6f8-42a0-a6cb-b06c42e9669e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/42e337e9-d6f8-42a0-a6cb-b06c42e9669e",
+			"uuid": "42e337e9-d6f8-42a0-a6cb-b06c42e9669e",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/66346767-c8b7-4e9c-a80e-f442f791dcc3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/66346767-c8b7-4e9c-a80e-f442f791dcc3",
+			"uuid": "66346767-c8b7-4e9c-a80e-f442f791dcc3",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7a9cf8b9-e0fe-4540-a73e-42891edb0916",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7a9cf8b9-e0fe-4540-a73e-42891edb0916",
+			"uuid": "7a9cf8b9-e0fe-4540-a73e-42891edb0916",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "A.",
+			"title": "Domein A Vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/135a9956-7460-4350-8521-505ade3577ac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/135a9956-7460-4350-8521-505ade3577ac",
+			"uuid": "135a9956-7460-4350-8521-505ade3577ac",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "B.",
+			"title": "Domein B Functies, grafieken en vergelijkingen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cf8cf744-f1d5-4fe6-a0b4-af83dd677407",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf8cf744-f1d5-4fe6-a0b4-af83dd677407",
+			"uuid": "cf8cf744-f1d5-4fe6-a0b4-af83dd677407",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "C.",
+			"title": "Domein C Meetkundige berekeningen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7a700598-c900-4c9c-9719-1e932711ea22",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7a700598-c900-4c9c-9719-1e932711ea22",
+			"uuid": "7a700598-c900-4c9c-9719-1e932711ea22",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "D.",
+			"title": "Domein D Toegepaste analyse"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e68d23cf-d762-4901-baf5-cbf73e59d593",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e68d23cf-d762-4901-baf5-cbf73e59d593",
+			"uuid": "e68d23cf-d762-4901-baf5-cbf73e59d593",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het centraal examen heeft betrekking op de domeinen B, C en D in combinatie met de vaardigheden uit domein A."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d98da1ef-8a73-4adb-afd7-7605747de7fa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d98da1ef-8a73-4adb-afd7-7605747de7fa",
+			"uuid": "d98da1ef-8a73-4adb-afd7-7605747de7fa",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/835fbce2-d2c4-4d00-aad3-1fa73c2a9ad3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/835fbce2-d2c4-4d00-aad3-1fa73c2a9ad3",
+			"uuid": "835fbce2-d2c4-4d00-aad3-1fa73c2a9ad3",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/97665fca-a012-476a-a7be-3a33a7a52352",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/97665fca-a012-476a-a7be-3a33a7a52352",
+			"uuid": "97665fca-a012-476a-a7be-3a33a7a52352",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op domein A en:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f44d1f13-e3e3-4f66-8d12-a3321d05f7b1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f44d1f13-e3e3-4f66-8d12-a3321d05f7b1",
+			"uuid": "f44d1f13-e3e3-4f66-8d12-a3321d05f7b1",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "domein D;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10c2ae10-2af8-4a3e-aa8d-d87a813575f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10c2ae10-2af8-4a3e-aa8d-d87a813575f4",
+			"uuid": "10c2ae10-2af8-4a3e-aa8d-d87a813575f4",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cae383d5-35a0-458f-8ba9-3aabe6db42c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cae383d5-35a0-458f-8ba9-3aabe6db42c6",
+			"uuid": "cae383d5-35a0-458f-8ba9-3aabe6db42c6",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da5478d8-04e6-4797-8484-99f6f4e425a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da5478d8-04e6-4797-8484-99f6f4e425a1",
+			"uuid": "da5478d8-04e6-4797-8484-99f6f4e425a1",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2989880-0a4f-4435-9abe-9db1b802ca73",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2989880-0a4f-4435-9abe-9db1b802ca73",
+			"uuid": "e2989880-0a4f-4435-9abe-9db1b802ca73",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "A.",
+			"title": "Domein A Vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e7982ad-1481-47a9-bcdc-d2cdcd755ad2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e7982ad-1481-47a9-bcdc-d2cdcd755ad2",
+			"uuid": "9e7982ad-1481-47a9-bcdc-d2cdcd755ad2",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "B.",
+			"title": "Domein B Algebra en tellen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69b0da3d-9b6c-4d7e-939d-c78760a551a9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69b0da3d-9b6c-4d7e-939d-c78760a551a9",
+			"uuid": "69b0da3d-9b6c-4d7e-939d-c78760a551a9",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "C.",
+			"title": "Domein C Verbanden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d4e5a02d-4968-451e-bc79-1e6a53ee2d99",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4e5a02d-4968-451e-bc79-1e6a53ee2d99",
+			"uuid": "d4e5a02d-4968-451e-bc79-1e6a53ee2d99",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "D.",
+			"title": "Domein D Verandering"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/35676597-5878-445f-8534-c2d71939217b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35676597-5878-445f-8534-c2d71939217b",
+			"uuid": "35676597-5878-445f-8534-c2d71939217b",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "E.",
+			"title": "Domein E Statistiek en kansrekening"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ba63ef7e-46b4-41cc-9636-7e8606941af6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ba63ef7e-46b4-41cc-9636-7e8606941af6",
+			"uuid": "ba63ef7e-46b4-41cc-9636-7e8606941af6",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "F.",
+			"title": "Domein F Keuzeonderwerpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/911407db-4d9d-4bd2-9d15-3abb5dd32330",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/911407db-4d9d-4bd2-9d15-3abb5dd32330",
+			"uuid": "911407db-4d9d-4bd2-9d15-3abb5dd32330",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het centraal examen heeft betrekking op domeinen B, C en D in combinatie met de vaardigheden uit domein A."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cd6fc72b-15e4-467e-b122-8268db2607bd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cd6fc72b-15e4-467e-b122-8268db2607bd",
+			"uuid": "cd6fc72b-15e4-467e-b122-8268db2607bd",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1c913b09-0d1e-40c5-9c7f-1a3b25659660",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c913b09-0d1e-40c5-9c7f-1a3b25659660",
+			"uuid": "1c913b09-0d1e-40c5-9c7f-1a3b25659660",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6846001e-a7f1-410d-a360-0b181fd99934",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6846001e-a7f1-410d-a360-0b181fd99934",
+			"uuid": "6846001e-a7f1-410d-a360-0b181fd99934",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op domein A en:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/95e4d3ff-32b2-4f25-8568-864d24f7f302",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95e4d3ff-32b2-4f25-8568-864d24f7f302",
+			"uuid": "95e4d3ff-32b2-4f25-8568-864d24f7f302",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "de domeinen E en F;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ae8daf2-bfc4-4f27-9b36-a66c31c95453",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ae8daf2-bfc4-4f27-9b36-a66c31c95453",
+			"uuid": "3ae8daf2-bfc4-4f27-9b36-a66c31c95453",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89a6f5bb-c3d3-4bbc-9cd6-3f549e499c36",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89a6f5bb-c3d3-4bbc-9cd6-3f549e499c36",
+			"uuid": "89a6f5bb-c3d3-4bbc-9cd6-3f549e499c36",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c869bfb0-d24d-4a20-8de0-1e2a6448dfad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c869bfb0-d24d-4a20-8de0-1e2a6448dfad",
+			"uuid": "c869bfb0-d24d-4a20-8de0-1e2a6448dfad",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/17dce749-2613-4770-b592-21b664723e09",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17dce749-2613-4770-b592-21b664723e09",
+			"uuid": "17dce749-2613-4770-b592-21b664723e09",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "A.",
+			"title": "Domein A Vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/93ba9074-65de-49b1-bc92-3805c2d8aa75",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93ba9074-65de-49b1-bc92-3805c2d8aa75",
+			"uuid": "93ba9074-65de-49b1-bc92-3805c2d8aa75",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "B.",
+			"title": "Domein B Algebra en tellen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ade7a052-ce40-4bc1-bb83-1a40b258b804",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ade7a052-ce40-4bc1-bb83-1a40b258b804",
+			"uuid": "ade7a052-ce40-4bc1-bb83-1a40b258b804",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "C.",
+			"title": "Domein C Verbanden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e8d97589-ee40-4cbb-88d7-80c739dce221",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e8d97589-ee40-4cbb-88d7-80c739dce221",
+			"uuid": "e8d97589-ee40-4cbb-88d7-80c739dce221",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "D.",
+			"title": "Domein D Verandering"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/335986fa-6232-47d2-91f7-1e31bd6dd3ac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/335986fa-6232-47d2-91f7-1e31bd6dd3ac",
+			"uuid": "335986fa-6232-47d2-91f7-1e31bd6dd3ac",
+			"@type": "ExamenprogrammaBody",
+			"prefix": "E.",
+			"title": "Domein E Statistiek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1d7f5651-6f45-4503-bcee-c5069b8a1a5b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d7f5651-6f45-4503-bcee-c5069b8a1a5b",
+			"uuid": "1d7f5651-6f45-4503-bcee-c5069b8a1a5b",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het centraal examen heeft betrekking op domein C en de subdomeinen B1, B2, E1, E2, E3 en E4 in\r\ncombinatie met de vaardigheden uit domein A."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92cbf17c-5dcb-485d-98b2-40e5576c4cf7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92cbf17c-5dcb-485d-98b2-40e5576c4cf7",
+			"uuid": "92cbf17c-5dcb-485d-98b2-40e5576c4cf7",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61b5cd14-4294-4f93-9514-bd3d9a3012b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61b5cd14-4294-4f93-9514-bd3d9a3012b6",
+			"uuid": "61b5cd14-4294-4f93-9514-bd3d9a3012b6",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5c7b032f-e5b2-4fc0-83ec-afa6d435fac0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5c7b032f-e5b2-4fc0-83ec-afa6d435fac0",
+			"uuid": "5c7b032f-e5b2-4fc0-83ec-afa6d435fac0",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op domein A en:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8705d37d-9e0d-4a9a-97c7-e82249999360",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8705d37d-9e0d-4a9a-97c7-e82249999360",
+			"uuid": "8705d37d-9e0d-4a9a-97c7-e82249999360",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "domein D en de subdomeinen B3 en E5;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/031966ac-bc99-4957-81f2-3c35ca465e30",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/031966ac-bc99-4957-81f2-3c35ca465e30",
+			"uuid": "031966ac-bc99-4957-81f2-3c35ca465e30",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4b4d070-abb0-420c-bc5e-84fb57f2feb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4b4d070-abb0-420c-bc5e-84fb57f2feb6",
+			"uuid": "f4b4d070-abb0-420c-bc5e-84fb57f2feb6",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9c4401c-057b-460e-a299-b655baf7e8de",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9c4401c-057b-460e-a299-b655baf7e8de",
+			"uuid": "a9c4401c-057b-460e-a299-b655baf7e8de",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Domein A Vaktheorie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8952e63d-8ec3-4067-88f2-d7a256e15b4e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8952e63d-8ec3-4067-88f2-d7a256e15b4e",
+			"uuid": "8952e63d-8ec3-4067-88f2-d7a256e15b4e",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Domein B Praktijk"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1fa98631-678f-432c-81dc-2a4fc8a60f79",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1fa98631-678f-432c-81dc-2a4fc8a60f79",
+			"uuid": "1fa98631-678f-432c-81dc-2a4fc8a60f79",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Domein C Oriëntatie op studie en beroep."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/75ee3197-f1e2-4955-a04a-9ecb63b82989",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/75ee3197-f1e2-4955-a04a-9ecb63b82989",
+			"uuid": "75ee3197-f1e2-4955-a04a-9ecb63b82989",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f16f86c5-be10-4280-9a9e-42c047e1b248",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f16f86c5-be10-4280-9a9e-42c047e1b248",
+			"uuid": "f16f86c5-be10-4280-9a9e-42c047e1b248",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het theoretische gedeelte heeft betrekking op domein A."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f55db8d8-1c56-413a-b36a-a7961da5497f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f55db8d8-1c56-413a-b36a-a7961da5497f",
+			"uuid": "f55db8d8-1c56-413a-b36a-a7961da5497f",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da0e3d79-63eb-4279-990a-717a4e7b6a72",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da0e3d79-63eb-4279-990a-717a4e7b6a72",
+			"uuid": "da0e3d79-63eb-4279-990a-717a4e7b6a72",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3a259bf2-fdde-48d8-b2dc-ed00f4f01675",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a259bf2-fdde-48d8-b2dc-ed00f4f01675",
+			"uuid": "3a259bf2-fdde-48d8-b2dc-ed00f4f01675",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cd5eb977-351e-4417-9a14-ae374a0aa099",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cd5eb977-351e-4417-9a14-ae374a0aa099",
+			"uuid": "cd5eb977-351e-4417-9a14-ae374a0aa099",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/32741344-10b3-4b47-9749-23ff92d108f0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/32741344-10b3-4b47-9749-23ff92d108f0",
+			"uuid": "32741344-10b3-4b47-9749-23ff92d108f0",
+			"@type": "ExamenprogrammaBody",
+			"prefix": null,
+			"title": "Domein A Vaktheorie"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

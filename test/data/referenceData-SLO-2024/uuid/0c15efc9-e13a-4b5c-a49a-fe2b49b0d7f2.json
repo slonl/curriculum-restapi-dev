@@ -1,0 +1,355 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+	"uuid": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Examenprogramma",
+	"ExamenprogrammaKop1": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/177dee42-5a35-436c-8060-70084aba4958",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/177dee42-5a35-436c-8060-70084aba4958",
+			"uuid": "177dee42-5a35-436c-8060-70084aba4958",
+			"prefix": null,
+			"title": "Leeswijzer",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e15fbf14-357a-466f-b6cd-474225e59f24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e15fbf14-357a-466f-b6cd-474225e59f24",
+			"uuid": "e15fbf14-357a-466f-b6cd-474225e59f24",
+			"prefix": "ML2/K/1",
+			"title": "Oriëntatie op leren en werken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
+			"uuid": "6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
+			"prefix": "ML2/K/2",
+			"title": "Basisvaardigheden",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e98f2bd8-d68c-4029-b7fc-b875d3e722a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e98f2bd8-d68c-4029-b7fc-b875d3e722a2",
+			"uuid": "e98f2bd8-d68c-4029-b7fc-b875d3e722a2",
+			"prefix": "ML2/K/3",
+			"title": "Leervaardigheden in het vak maatschappijkunde",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/20d675ea-efb9-40f9-b8cd-a0003918de37",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/20d675ea-efb9-40f9-b8cd-a0003918de37",
+			"uuid": "20d675ea-efb9-40f9-b8cd-a0003918de37",
+			"prefix": "ML2/K/4",
+			"title": "Politiek en beleid",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc3fc8d8-603c-4be0-be5f-a0d6b48899a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc3fc8d8-603c-4be0-be5f-a0d6b48899a4",
+			"uuid": "fc3fc8d8-603c-4be0-be5f-a0d6b48899a4",
+			"prefix": "ML2/K/5",
+			"title": "Mens en werk",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/73efa9b7-d925-4435-ad41-57c9e5fa09c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73efa9b7-d925-4435-ad41-57c9e5fa09c1",
+			"uuid": "73efa9b7-d925-4435-ad41-57c9e5fa09c1",
+			"prefix": "ML2/K/6",
+			"title": "De multiculturele samenleving",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4b4a7da-8cf4-4ddb-9181-5e1419c94f3b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4b4a7da-8cf4-4ddb-9181-5e1419c94f3b",
+			"uuid": "a4b4a7da-8cf4-4ddb-9181-5e1419c94f3b",
+			"prefix": "ML2/K/7",
+			"title": "Massamedia",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cfe1c804-2761-4441-a6f4-4b443109be53",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfe1c804-2761-4441-a6f4-4b443109be53",
+			"uuid": "cfe1c804-2761-4441-a6f4-4b443109be53",
+			"prefix": "ML2/K/8",
+			"title": "Criminaliteit en rechtsstaat",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/481e2d36-2efb-40c0-b61a-466c281e1377",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/481e2d36-2efb-40c0-b61a-466c281e1377",
+			"uuid": "481e2d36-2efb-40c0-b61a-466c281e1377",
+			"prefix": "ML2/V/1",
+			"title": "Analyse maatschappelijk vraagstuk",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/956262c7-d4cf-4aa3-b1b1-1952af9cfe3b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/956262c7-d4cf-4aa3-b1b1-1952af9cfe3b",
+			"uuid": "956262c7-d4cf-4aa3-b1b1-1952af9cfe3b",
+			"prefix": "ML2/V/2",
+			"title": "Verwerven, verwerken en verstrekken van informatie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b1ba90d-36cc-4153-b176-d101292cb89a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b1ba90d-36cc-4153-b176-d101292cb89a",
+			"uuid": "7b1ba90d-36cc-4153-b176-d101292cb89a",
+			"prefix": "ML2/V/3",
+			"title": "Vaardigheden in samenhang",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"uuid": "36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"prefix": "PREAMBULE",
+			"title": "Preambule:\r\nDe zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c649e661-8aea-4fc0-87ee-fb545188709c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c649e661-8aea-4fc0-87ee-fb545188709c",
+			"uuid": "c649e661-8aea-4fc0-87ee-fb545188709c",
+			"title": "Maatschappijkunde",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"uuid": "8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5"
+		}
+	],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/80b6b0d7-d7a1-4e98-aa58-f65ae693c331",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/80b6b0d7-d7a1-4e98-aa58-f65ae693c331",
+			"uuid": "80b6b0d7-d7a1-4e98-aa58-f65ae693c331",
+			"title": "Syllabus Maatschappijkunde vmbo bb",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f057179-f0b6-47a8-ba77-ef0c6d67ad12",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f057179-f0b6-47a8-ba77-ef0c6d67ad12",
+			"uuid": "0f057179-f0b6-47a8-ba77-ef0c6d67ad12",
+			"title": "Syllabus Maatschappijkunde vmbo kb",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/021a91b1-2d3d-410f-a138-34eef9798f1d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/021a91b1-2d3d-410f-a138-34eef9798f1d",
+			"uuid": "021a91b1-2d3d-410f-a138-34eef9798f1d",
+			"title": "Syllabus Maatschappijkunde vmbo gt",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/79355899-cec0-4d10-8dfb-6c0fd1f66877",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79355899-cec0-4d10-8dfb-6c0fd1f66877",
+			"uuid": "79355899-cec0-4d10-8dfb-6c0fd1f66877",
+			"title": "Syllabus Maatschappijkunde vmbo bb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3e813ac-11c7-41e9-be10-833af8bf122f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3e813ac-11c7-41e9-be10-833af8bf122f",
+			"uuid": "a3e813ac-11c7-41e9-be10-833af8bf122f",
+			"title": "Syllabus Maatschappijkunde vmbo kb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b8211e2e-e821-45a6-a395-9a39af875f48",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b8211e2e-e821-45a6-a395-9a39af875f48",
+			"uuid": "b8211e2e-e821-45a6-a395-9a39af875f48",
+			"title": "Syllabus Maatschappijkunde vmbo gl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5f06fd5e-f9f8-45fe-a238-22d19f1e3b60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5f06fd5e-f9f8-45fe-a238-22d19f1e3b60",
+			"uuid": "5f06fd5e-f9f8-45fe-a238-22d19f1e3b60",
+			"title": "Syllabus Maatschappijkunde vmbo tl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/585cf650-25e1-43ae-a9c9-ac6a2c617952",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/585cf650-25e1-43ae-a9c9-ac6a2c617952",
+			"uuid": "585cf650-25e1-43ae-a9c9-ac6a2c617952",
+			"title": "Syllabus Maatschappijkunde vmbo bb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2a60438b-8e3b-42e3-9179-8dc0728cfc1a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a60438b-8e3b-42e3-9179-8dc0728cfc1a",
+			"uuid": "2a60438b-8e3b-42e3-9179-8dc0728cfc1a",
+			"title": "Syllabus Maatschappijkunde vmbo kb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bec2832c-7b0e-44c3-a0e7-205f4cc9b83a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bec2832c-7b0e-44c3-a0e7-205f4cc9b83a",
+			"uuid": "bec2832c-7b0e-44c3-a0e7-205f4cc9b83a",
+			"title": "Syllabus Maatschappijkunde vmbo gl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/51d12b5c-a9f9-4ff6-b84d-eb16501d0e48",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51d12b5c-a9f9-4ff6-b84d-eb16501d0e48",
+			"uuid": "51d12b5c-a9f9-4ff6-b84d-eb16501d0e48",
+			"title": "Syllabus Maatschappijkunde vmbo tl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10cd33ee-253c-47fc-87c8-739abe6b194e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10cd33ee-253c-47fc-87c8-739abe6b194e",
+			"uuid": "10cd33ee-253c-47fc-87c8-739abe6b194e",
+			"title": "Syllabus Maatschappijkunde vmbo bb",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a6ea2195-104c-48de-b84e-e689857fe85e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6ea2195-104c-48de-b84e-e689857fe85e",
+			"uuid": "a6ea2195-104c-48de-b84e-e689857fe85e",
+			"title": "Syllabus Maatschappijkunde vmbo kb",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0346c151-4dde-4bb6-9037-eff8b59939c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0346c151-4dde-4bb6-9037-eff8b59939c6",
+			"uuid": "0346c151-4dde-4bb6-9037-eff8b59939c6",
+			"title": "Syllabus Maatschappijkunde vmbo gt",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a363c713-9f8a-44ec-9c53-1a31cdd636bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a363c713-9f8a-44ec-9c53-1a31cdd636bb",
+			"uuid": "a363c713-9f8a-44ec-9c53-1a31cdd636bb",
+			"title": "Syllabus Maatschappijkunde vmbo bb 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+			"uuid": "6dfeea1e-3803-4fca-8f83-21734f8dbe1e",
+			"title": "Syllabus Maatschappijkunde vmbo gl 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f73e48b4-8395-4623-af2c-c4c04f8631c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f73e48b4-8395-4623-af2c-c4c04f8631c4",
+			"uuid": "f73e48b4-8395-4623-af2c-c4c04f8631c4",
+			"title": "Syllabus Maatschappijkunde vmbo kb 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+			"uuid": "be845bd3-f4e0-4992-a42f-7cb3fe6b6dde",
+			"title": "Syllabus Maatschappijkunde vmbo tl 2024",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d65670b6-8c1d-4c66-990b-802bec9e502f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d65670b6-8c1d-4c66-990b-802bec9e502f",
+			"uuid": "d65670b6-8c1d-4c66-990b-802bec9e502f",
+			"title": "Syllabus Maatschappijkunde vmbo bb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dee6b382-9a5a-4a5f-bd10-7fac84588224",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dee6b382-9a5a-4a5f-bd10-7fac84588224",
+			"uuid": "dee6b382-9a5a-4a5f-bd10-7fac84588224",
+			"title": "Syllabus Maatschappijkunde vmbo kb 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/17b169bf-2ba0-426f-b38b-13ff4da71d68",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17b169bf-2ba0-426f-b38b-13ff4da71d68",
+			"uuid": "17b169bf-2ba0-426f-b38b-13ff4da71d68",
+			"title": "Syllabus Maatschappijkunde vmbo gl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+			"uuid": "d938a613-a244-4ff4-8d4a-de821c3bd3c5",
+			"title": "Syllabus Maatschappijkunde vmbo tl 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c9ae335-eb54-4beb-a737-54d0f2781646",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c9ae335-eb54-4beb-a737-54d0f2781646",
+			"uuid": "2c9ae335-eb54-4beb-a737-54d0f2781646",
+			"title": "Syllabus Maatschappijkunde vmbo bb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f67f0110-4a60-42bb-bee5-af444e623ade",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f67f0110-4a60-42bb-bee5-af444e623ade",
+			"uuid": "f67f0110-4a60-42bb-bee5-af444e623ade",
+			"title": "Syllabus Maatschappijkunde vmbo kb 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+			"uuid": "ecaff6d8-fa66-47bd-a1b4-16886ce23e5a",
+			"title": "Syllabus Maatschappijkunde vmbo gl 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5cd94d43-0702-491d-8670-464f57924d47",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5cd94d43-0702-491d-8670-464f57924d47",
+			"uuid": "5cd94d43-0702-491d-8670-464f57924d47",
+			"title": "Syllabus Maatschappijkunde vmbo tl 2023",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17f035f8-84cd-4b75-88fd-6a638d943e9c",
+			"uuid": "17f035f8-84cd-4b75-88fd-6a638d943e9c",
+			"title": "Examenprogramma Maatschappijkunde vmbo"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "MK/vmbo",
+	"title": "Examenprogramma Maatschappijkunde vmbo"
+}

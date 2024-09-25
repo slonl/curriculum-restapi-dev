@@ -1,0 +1,806 @@
+{
+	"count": 3312,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e6937403-e3c4-41ba-afaf-ec3f7052be9d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e6937403-e3c4-41ba-afaf-ec3f7052be9d",
+			"uuid": "e6937403-e3c4-41ba-afaf-ec3f7052be9d",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "1.",
+			"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen commerciële en niet- commerciële organisaties de economische dimensie vanuit het perspectief van het management verklaren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ac5a7fd7-9b32-4bce-9705-c0139e1c7a5e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac5a7fd7-9b32-4bce-9705-c0139e1c7a5e",
+			"uuid": "ac5a7fd7-9b32-4bce-9705-c0139e1c7a5e",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "10.",
+			"title": "De kandidaat kan verklaren wat het belang van marketing is voor niet-commerciële organisaties en welke principes daarbij van belang zijn."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1f3c8d7-1ac3-4d7d-885d-28880d0e9a0f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1f3c8d7-1ac3-4d7d-885d-28880d0e9a0f",
+			"uuid": "f1f3c8d7-1ac3-4d7d-885d-28880d0e9a0f",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "10.",
+			"title": "De kandidaat kan de mogelijke marketingdoelstellingen herkennen en de relatie beschrijven tussen de marketingdoelstellingen, de doelstelling van de organisatie en de belangen van de consument."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0663fba7-e8a6-4417-a09f-72daa8e92eae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0663fba7-e8a6-4417-a09f-72daa8e92eae",
+			"uuid": "0663fba7-e8a6-4417-a09f-72daa8e92eae",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "11.",
+			"title": "De kandidaat kan de mogelijke marketingdoelstellingen en de marketinginstrumenten herkennen en de relatie verklaren tussen de marketingdoelstellingen en de doelstelling van de organisatie."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b48a6740-3a7d-4495-9279-c5b7a6dc2b53",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b48a6740-3a7d-4495-9279-c5b7a6dc2b53",
+			"uuid": "b48a6740-3a7d-4495-9279-c5b7a6dc2b53",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "11.",
+			"title": "De kandidaat kan verklaren wat het belang van marketing is voor commerciële organisaties, beschrijven hoe een commerciële organisatie informatie kan verzamelen voor de vaststelling van het marketingbeleid en voor de evaluatie van de ingezette instrumenten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ea2f34b7-3c18-4438-a881-5da4619cbe8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea2f34b7-3c18-4438-a881-5da4619cbe8b",
+			"uuid": "ea2f34b7-3c18-4438-a881-5da4619cbe8b",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "11.",
+			"title": "De kandidaat kan de kostenconsequenties berekenen van het inzetten van marketinginstrumenten op basis van verstrekte gegevens."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9369ccd1-b10e-47af-bdb7-c3c191e115ce",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9369ccd1-b10e-47af-bdb7-c3c191e115ce",
+			"uuid": "9369ccd1-b10e-47af-bdb7-c3c191e115ce",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "12.",
+			"title": "De kandidaat kan op basis van algemene modellen een overzicht van inkomsten en uitgaven herleiden tot een staat van baten en lasten (en vice versa)."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cb17596c-2ccb-4138-930b-e3017937089d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb17596c-2ccb-4138-930b-e3017937089d",
+			"uuid": "cb17596c-2ccb-4138-930b-e3017937089d",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "13.",
+			"title": "De kandidaat kan op basis van algemene modellen de verkoopprijs berekenen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c4530fd1-9064-4370-a34c-0115b5aa67d6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4530fd1-9064-4370-a34c-0115b5aa67d6",
+			"uuid": "c4530fd1-9064-4370-a34c-0115b5aa67d6",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "13.",
+			"title": "De kandidaat kan de uitgaven en ontvangsten herleiden tot kosten en opbrengsten, een liquiditeitsbegroting en de voorcalculatorische en de nacalculatorische resultatenrekening opstellen en de samenhang verklaren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6b5def13-64d9-44a6-8243-28fd0abddb7f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b5def13-64d9-44a6-8243-28fd0abddb7f",
+			"uuid": "6b5def13-64d9-44a6-8243-28fd0abddb7f",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "13.",
+			"title": "De kandidaat kan berekeningen uitvoeren die gericht zijn op de herleiding of vaststelling van data van een algemeen model voor de interne verslaggeving."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/33eb83ac-fe8c-4f9e-a05d-ab3608b0f3c7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/33eb83ac-fe8c-4f9e-a05d-ab3608b0f3c7",
+			"uuid": "33eb83ac-fe8c-4f9e-a05d-ab3608b0f3c7",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "14.",
+			"title": "De kandidaat kan verklaren welke informatie van belang is voor een organisatie om haar bedrijfsvoering zo goed mogelijk uit te voeren en hoe met behulp van ICT de kwaliteit van de informatievoorziening verbeterd kan worden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc907dfd-d3c9-4f71-9021-4093f76864eb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc907dfd-d3c9-4f71-9021-4093f76864eb",
+			"uuid": "bc907dfd-d3c9-4f71-9021-4093f76864eb",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "15.",
+			"title": "De kandidaat kan eenvoudige toepassingen van bestaande computerprogramma’s aanwenden ten behoeve van de informatievoorziening van organisaties."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/52da0842-b494-497b-af3f-e52e9508909d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/52da0842-b494-497b-af3f-e52e9508909d",
+			"uuid": "52da0842-b494-497b-af3f-e52e9508909d",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "16.",
+			"title": "De kandidaat kan de begroting en de jaarrekening van commerciële en niet-commerciële organisaties verklaren, zoals deze worden voorgelegd aan medezeggenschapsraden, ondernemingsraden en leden- of aandeelhoudersvergaderingen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f067b21-201f-4023-9a16-4f1098712b66",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f067b21-201f-4023-9a16-4f1098712b66",
+			"uuid": "1f067b21-201f-4023-9a16-4f1098712b66",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "16.",
+			"title": "De kandidaat kan een balans en de resultatenrekening voor het externe verslag opstellen en uit potentiële data de relevante grootheden kiezen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2e6fd89c-b9db-4eb6-b44f-6521db811e15",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e6fd89c-b9db-4eb6-b44f-6521db811e15",
+			"uuid": "2e6fd89c-b9db-4eb6-b44f-6521db811e15",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "2.",
+			"title": "De kandidaat kan economische werkwijzen toepassen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01f3e781-040f-4101-bd61-91e7f5ce8992",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01f3e781-040f-4101-bd61-91e7f5ce8992",
+			"uuid": "01f3e781-040f-4101-bd61-91e7f5ce8992",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "2.",
+			"title": "De kandidaat kan economische begrippen hanteren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/44c698dd-6cf9-45ef-af3c-d1e0d1feaaea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44c698dd-6cf9-45ef-af3c-d1e0d1feaaea",
+			"uuid": "44c698dd-6cf9-45ef-af3c-d1e0d1feaaea",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "2.",
+			"title": "De kandidaat kan economische grootheden hanteren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/786d5341-3f98-442b-9b2c-5a2093aac6c7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/786d5341-3f98-442b-9b2c-5a2093aac6c7",
+			"uuid": "786d5341-3f98-442b-9b2c-5a2093aac6c7",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "3.",
+			"title": "De kandidaat kan economische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fe577961-0d3c-4613-90c5-09d298d3bfe9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe577961-0d3c-4613-90c5-09d298d3bfe9",
+			"uuid": "fe577961-0d3c-4613-90c5-09d298d3bfe9",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "4.",
+			"title": "De kandidaat kan verschillende typen (onderzoeks)vragen herkennen en zelfstandig (onderzoeks)vragen formuleren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1d67c056-f27d-4adc-8ab4-b32a90b8ee17",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d67c056-f27d-4adc-8ab4-b32a90b8ee17",
+			"uuid": "1d67c056-f27d-4adc-8ab4-b32a90b8ee17",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "4.",
+			"title": "De kanidaat kan in relatie tot een gegeven of zelf geformuleerde (onderzoeks)vraag informatie verwerven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bcea2938-8a8b-4746-938b-f16855268d24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bcea2938-8a8b-4746-938b-f16855268d24",
+			"uuid": "bcea2938-8a8b-4746-938b-f16855268d24",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "4.",
+			"title": "De kandidaat kan informatie vanuit een gegeven of zelf geformuleerde (onderzoeks)vraag selecteren en ordenen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ce0ba4da-0473-4bcc-9dc8-44f70d441015",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ce0ba4da-0473-4bcc-9dc8-44f70d441015",
+			"uuid": "ce0ba4da-0473-4bcc-9dc8-44f70d441015",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "4.",
+			"title": "De kandidaat kan verbale, grafische, tabellarische en wiskundige/rekenkundige gegevens vertalen, mede met gebruikmaking van ICT."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5b047852-7dfd-4320-9e90-07cace15ac49",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b047852-7dfd-4320-9e90-07cace15ac49",
+			"uuid": "5b047852-7dfd-4320-9e90-07cace15ac49",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "4.",
+			"title": "De kandidaat kan de resultaten van een leeractiviteit overdragen aan anderen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92004dea-c6b0-4ed9-8b5d-fc6a89928b2a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92004dea-c6b0-4ed9-8b5d-fc6a89928b2a",
+			"uuid": "92004dea-c6b0-4ed9-8b5d-fc6a89928b2a",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "5.",
+			"title": "De kandidaat kan verschillende typen organisaties identificeren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ce362c83-08a8-4f80-9bef-c3711289318c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ce362c83-08a8-4f80-9bef-c3711289318c",
+			"uuid": "ce362c83-08a8-4f80-9bef-c3711289318c",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "5.",
+			"title": "De kandidaat kan modellen hanteren die op deze typen organisaties betrekking hebben."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9970177c-6b7d-44b6-ad66-61e929298e2b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9970177c-6b7d-44b6-ad66-61e929298e2b",
+			"uuid": "9970177c-6b7d-44b6-ad66-61e929298e2b",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "5.",
+			"title": "De kandidaat kan met behulp van deze modellen vraagstukken binnen deze organisaties stapsgewijs oplossen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85553b06-83a3-4194-a7af-27d7aba88d68",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85553b06-83a3-4194-a7af-27d7aba88d68",
+			"uuid": "85553b06-83a3-4194-a7af-27d7aba88d68",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "6.",
+			"title": "De kandidaat kan beschrijven en verklaren op welke manier(en) de functies binnen commerciële en niet-commerciële organisaties dienen samen te hangen om tot goede beslissingen te komen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f82eb5a-1f54-49fc-8e0d-781d754ff634",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f82eb5a-1f54-49fc-8e0d-781d754ff634",
+			"uuid": "0f82eb5a-1f54-49fc-8e0d-781d754ff634",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "7.",
+			"title": "De kandidaat kan analyseren en verklaren waarom een organisatie bij het selecteren van personeel grote waarde hecht aan de economische voor- en nadelen die de organisatie heeft van nieuwe personeelsleden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/93dd877d-bc77-4359-abd4-a9f1f2c19997",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93dd877d-bc77-4359-abd4-a9f1f2c19997",
+			"uuid": "93dd877d-bc77-4359-abd4-a9f1f2c19997",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "7.",
+			"title": "De kandidaat kan verklaren waarom de overheid via wetgeving of andere maatregelen tracht de positie van bepaalde sociale groeperingen op de arbeidsmarkt te beïnvloeden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/51c40ec7-52ac-4c9c-97bd-475e9d2f52df",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51c40ec7-52ac-4c9c-97bd-475e9d2f52df",
+			"uuid": "51c40ec7-52ac-4c9c-97bd-475e9d2f52df",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "8.",
+			"title": "De kandidaat kan de verschillende rechtsvormen beschrijven die commerciële en niet-commerciële organisaties kunnen kiezen, en verklaren waarom de organisatie voor een bepaalde rechtsvorm kiezen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e574486a-adcd-449e-9218-912e366cef2b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e574486a-adcd-449e-9218-912e366cef2b",
+			"uuid": "e574486a-adcd-449e-9218-912e366cef2b",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "9.",
+			"title": "De kandidaat kan de werking van de vermogensmarkt beschrijven vanuit het perspectief van particulieren, commerciële organisaties en niet-commerciële organisaties."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5dd4f4f2-0080-4938-a9c4-0cb324770356",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5dd4f4f2-0080-4938-a9c4-0cb324770356",
+			"uuid": "5dd4f4f2-0080-4938-a9c4-0cb324770356",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "9.",
+			"title": "De kandidaat kan verklaren welke mogelijkheden, beperkingen en redenen er zijn voor particulieren, commerciële organisaties en niet-commerciële organisaties voor het aantrekken van vermogen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa469cfc-9ee7-4608-bdf0-58a45fa5c575",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa469cfc-9ee7-4608-bdf0-58a45fa5c575",
+			"uuid": "aa469cfc-9ee7-4608-bdf0-58a45fa5c575",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "9.",
+			"title": "De kandiaat kan de keuze voor het aantrekken van het vermogen cijfermatig ondersteunen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/565296a7-c003-4031-bf93-6473d635bc25",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/565296a7-c003-4031-bf93-6473d635bc25",
+			"uuid": "565296a7-c003-4031-bf93-6473d635bc25",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinA/A2/2a",
+			"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren op basis van een geografische onderzoeksvraag en een gestructureerd plan van aanpak."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dd1bcdaf-1773-46a9-826f-f3180ca323b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd1bcdaf-1773-46a9-826f-f3180ca323b6",
+			"uuid": "dd1bcdaf-1773-46a9-826f-f3180ca323b6",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinA/A2/2b",
+			"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren met gebruikmaking van de geografische werkwijzen en primaire data."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b51a9ef7-ca8c-4586-8041-96a015fa90de",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b51a9ef7-ca8c-4586-8041-96a015fa90de",
+			"uuid": "b51a9ef7-ca8c-4586-8041-96a015fa90de",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinA/A2/2c",
+			"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren zo mogelijk aansluitend op onderdelen van het examenprogramma, met name de domeinen B, C en E."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ae9ecd4a-b790-4873-9719-09c40885eecc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ae9ecd4a-b790-4873-9719-09c40885eecc",
+			"uuid": "ae9ecd4a-b790-4873-9719-09c40885eecc",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinB/B1/3a",
+			"title": "De kandidaat kan de situatie in een nader door de school te kiezen gebied waar één of meer rijke landen en één of meer arme landen aan elkaar grenzen, beschrijven en analyseren. Het betreft economische, demografische en sociaal-culturele gebiedskenmerken en de relaties daartussen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ae73724c-f79c-457e-b531-630f69aec7f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ae73724c-f79c-457e-b531-630f69aec7f4",
+			"uuid": "ae73724c-f79c-457e-b531-630f69aec7f4",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinB/B1/3b",
+			"title": "De kandidaat kan de situatie in een nader door de school te kiezen gebied waar één of meer rijke landen en één of meer arme landen aan elkaar grenzen, beschrijven en analyseren. Het betreft de (grensoverschrijdende) relaties tussen beide soorten landen en de gunstige en ongunstige effecten daarvan."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26ceb01f-de8e-44ab-94fb-ed2ff2cd3eb5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26ceb01f-de8e-44ab-94fb-ed2ff2cd3eb5",
+			"uuid": "26ceb01f-de8e-44ab-94fb-ed2ff2cd3eb5",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinB/B3/5a",
+			"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondialisering uitwerkt in een lokale context. Hij betrekt hierbij sociaal- en fysisch-geografische aspecten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/544aff5d-8c95-431e-bd0b-dfc818ceed59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544aff5d-8c95-431e-bd0b-dfc818ceed59",
+			"uuid": "544aff5d-8c95-431e-bd0b-dfc818ceed59",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinB/B3/5b",
+			"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondialisering uitwerkt in een lokale context. Hij betrekt hierbij actoren in de lokale context."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01153d25-9be1-4825-a4e2-6d2f66cd0958",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01153d25-9be1-4825-a4e2-6d2f66cd0958",
+			"uuid": "01153d25-9be1-4825-a4e2-6d2f66cd0958",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinC/C1/6a",
+			"title": "De kandidaat kan voor een nader door de school te kiezen fysischgeografische regio spreidingspatronen van natuurlijke en landschappelijke verschijnselen beschrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2dac07a9-7b21-4f2e-ae72-7d24f886d83a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2dac07a9-7b21-4f2e-ae72-7d24f886d83a",
+			"uuid": "2dac07a9-7b21-4f2e-ae72-7d24f886d83a",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinC/C1/6b",
+			"title": "De kandidaat kan voor een nader door de school te kiezen fysischgeografische regio relaties leggen tussen natuurlijke processen en landschappelijke verschijnselen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e7a43e1-6e42-4ad9-b8b8-3bfbedfa7311",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e7a43e1-6e42-4ad9-b8b8-3bfbedfa7311",
+			"uuid": "4e7a43e1-6e42-4ad9-b8b8-3bfbedfa7311",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinC/C3/8a",
+			"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondiale natuurruimtelijke processen uitwerken in een lokale context. Hij betrekt hierbij fysisch- en sociaal-geografische aspecten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/40c5295b-fe34-4e61-b423-5d9a068818c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/40c5295b-fe34-4e61-b423-5d9a068818c6",
+			"uuid": "40c5295b-fe34-4e61-b423-5d9a068818c6",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinC/C3/8b",
+			"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondiale natuurruimtelijke processen uitwerken in een lokale context. Hij betreft hierbij actoren in de lokale context."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/812e3b69-d941-4ccc-9479-e00acc12d71a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/812e3b69-d941-4ccc-9479-e00acc12d71a",
+			"uuid": "812e3b69-d941-4ccc-9479-e00acc12d71a",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinD/D1/9b",
+			"title": "De kandidaat kan actuele vraagstukken in het in subdomein D1 bedoelde ontwikkelingsland beschrijven en analyseren. Het betreft vraagstukken van landdegradatie en milieuverontreiniging."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+			"uuid": "0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinD/D2/10a",
+			"title": "De kandidaat kan actuele vraagstukken in het in subdomein D1 bedoelde ontwikkelingsland beschrijven en analyseren. Het betreft conflicten in het betreffende ontwikkelingsland die verband houden met de etnische en culturele diversiteit in het land."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/baa82feb-2446-4f6b-9158-0ce2cb4c4917",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/baa82feb-2446-4f6b-9158-0ce2cb4c4917",
+			"uuid": "baa82feb-2446-4f6b-9158-0ce2cb4c4917",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/H/DomeinE/E1/11b",
+			"title": "De kandidaat kan lokale en regionale ruimtelijke vraagstukken beschrijven en analyseren en zich daarover een beargumenteerde mening vormen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e3f47279-2c93-4775-ac79-fc99ddfc6c11",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e3f47279-2c93-4775-ac79-fc99ddfc6c11",
+			"uuid": "e3f47279-2c93-4775-ac79-fc99ddfc6c11",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/7/15",
+			"title": "De kandidaat kan regionale verschillen in welvaart in een buiten-Europese macroregio en een contrasterende macroregio elders in de wereld beschrijven en verklaren en de situatie in beide gebieden vergelijken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5f5d7db-b647-4bce-ab36-3c64cbc84463",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5f5d7db-b647-4bce-ab36-3c64cbc84463",
+			"uuid": "b5f5d7db-b647-4bce-ab36-3c64cbc84463",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/8/16",
+			"title": "De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in de eigen regio beschrijven en verklaren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/35c01a1f-1ad2-48da-98fa-8ba88d76c639",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35c01a1f-1ad2-48da-98fa-8ba88d76c639",
+			"uuid": "35c01a1f-1ad2-48da-98fa-8ba88d76c639",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/8/17",
+			"title": "De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in Nederland beschrijven en verklaren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d84f39b5-25fc-438c-a6a2-bae2149ba9f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d84f39b5-25fc-438c-a6a2-bae2149ba9f4",
+			"uuid": "d84f39b5-25fc-438c-a6a2-bae2149ba9f4",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/8/17",
+			"title": "De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in Nederland en een contrasterende regio elders in Europa beschrijven en verklaren en de situatie in beide gebieden vergelijken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6",
+			"uuid": "c9ce0bba-e9ae-4f72-b85c-a92408a7f4c6",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/8/18",
+			"title": "De kandidaat kan de bevolkingsontwikkeling en het ruimtegebruik in een buiten-Europese macroregio beschrijven en verklaren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/07d750f9-a5e4-40e0-af7e-990a1120b10c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/07d750f9-a5e4-40e0-af7e-990a1120b10c",
+			"uuid": "07d750f9-a5e4-40e0-af7e-990a1120b10c",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/9/19",
+			"title": "De kandidaat kan verschillende soorten grenzen in de eigen regio beschrijven en verklaren en verbanden leggen met identiteit."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/65779e93-8e05-4129-b2b2-d68d6533343f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/65779e93-8e05-4129-b2b2-d68d6533343f",
+			"uuid": "65779e93-8e05-4129-b2b2-d68d6533343f",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/9/20",
+			"title": "De kandidaat kan verschillen in regionale identiteit en de manier waarmee men daarmee omgaat in Nederland  beschrijven en verklaren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7857c819-ac72-4906-8b7d-259ab17138b7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7857c819-ac72-4906-8b7d-259ab17138b7",
+			"uuid": "7857c819-ac72-4906-8b7d-259ab17138b7",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/9/20",
+			"title": "De kandidaat kan verschillen in regionale identiteit en de manier waarmee men daarmee omgaat in Nederland  en een contrasterende regio elders in Europa, beschrijven en verklaren en de situatie in beide gebieden vergelijken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/287a4e9e-841d-49e9-8f76-bb7144ea0ad2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/287a4e9e-841d-49e9-8f76-bb7144ea0ad2",
+			"uuid": "287a4e9e-841d-49e9-8f76-bb7144ea0ad2",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/K/9/21",
+			"title": "De kandidaat kan territoriale conflicten in een buiten-Europese macroregio en verklaren en verbanden leggen met grondstoffen en culturele verschillen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/34618247-e404-4f12-9965-4a49b8c3e9e4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34618247-e404-4f12-9965-4a49b8c3e9e4",
+			"uuid": "34618247-e404-4f12-9965-4a49b8c3e9e4",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/1/22",
+			"title": "De kandidaat kan het voorkomen van extreme weersomstandigheden in een buiten-Europese macroregio beschrijven en verklaren en maatregelen om de gevolgen hiervan te beperken beschrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01345efc-ce37-4f81-a8c7-370adbbc0509",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01345efc-ce37-4f81-a8c7-370adbbc0509",
+			"uuid": "01345efc-ce37-4f81-a8c7-370adbbc0509",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/2/23",
+			"title": "De kandidaat kan de verhouding tussen de verschillende gebruikte bronnen van energie in een buiten-Europese macroregio beschrijven en de voor- en nadelen van die energiebronnen beschrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c0d13c6-9474-4568-84d5-edf052993c72",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c0d13c6-9474-4568-84d5-edf052993c72",
+			"uuid": "3c0d13c6-9474-4568-84d5-edf052993c72",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/3/24",
+			"title": "De kandidaat kan de waterhuishouding in een buiten-Europese macroregio beschrijven en maatregelen ter verbetering beschrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9266ebf-c7c9-4e24-8921-709665d859ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9266ebf-c7c9-4e24-8921-709665d859ad",
+			"uuid": "f9266ebf-c7c9-4e24-8921-709665d859ad",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/4/25",
+			"title": "De kandidaat kan de vicieuze cirkel tussen armoede, honger en gezondheid in een buiten-Europese macroregio beschrijven en verklaren en maatregelen ter verbetering van de situatie beschrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0198c336-b31b-48cb-9df7-18f9b412473c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0198c336-b31b-48cb-9df7-18f9b412473c",
+			"uuid": "0198c336-b31b-48cb-9df7-18f9b412473c",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/5/26",
+			"title": "De kandidaat kan de ruimtelijke ontwikkelingen van megasteden in een buiten-Europese macroregio beschrijven en verklaren en maatregelen ter verbetering van de ruimtelijke kwaliteit beschrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9c0721b6-9a22-4fb4-baa7-4bb4d7c74078",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c0721b6-9a22-4fb4-baa7-4bb4d7c74078",
+			"uuid": "9c0721b6-9a22-4fb4-baa7-4bb4d7c74078",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/6/27",
+			"title": "De kandidaat kan verschillende regionale tegenstellingen in een buiten-Europese macroregio beschrijven en maatregelen ter verbetering van de situatie beschrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e477e0da-99d4-4120-a8f0-0ac116cfeb88",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e477e0da-99d4-4120-a8f0-0ac116cfeb88",
+			"uuid": "e477e0da-99d4-4120-a8f0-0ac116cfeb88",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/7/28",
+			"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86de189a-8a43-4ca7-98e9-0fb453c784ba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86de189a-8a43-4ca7-98e9-0fb453c784ba",
+			"uuid": "86de189a-8a43-4ca7-98e9-0fb453c784ba",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "AK/V/8/29",
+			"title": "De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9ba33f47-c9b5-4eeb-8762-558274ea3bb3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ba33f47-c9b5-4eeb-8762-558274ea3bb3",
+			"uuid": "9ba33f47-c9b5-4eeb-8762-558274ea3bb3",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinB/2",
+			"title": "De kandidaat kan in contexten analyseren dat beperkte middelen en ongelimiteerde behoeften dwingen tot het maken van keuzes."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/38152c78-8d78-46ec-af54-3621abd4ddef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38152c78-8d78-46ec-af54-3621abd4ddef",
+			"uuid": "38152c78-8d78-46ec-af54-3621abd4ddef",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinC/3a",
+			"title": "De kandidaat kan in contexten analyseren dat het ruilproces de basis vormt voor een optimale inzet van middelen en een optimale benutting van comparatieve voordelen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/622d849b-7d36-42de-a872-8753da42902f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/622d849b-7d36-42de-a872-8753da42902f",
+			"uuid": "622d849b-7d36-42de-a872-8753da42902f",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinC/3b",
+			"title": "Voorts kan de kandidaat analyseren dat ruil arbeidsdeling mogelijk maakt en op welke manier geld het ruilproces soepeler laat verlopen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/27da1419-7ee6-4e5e-ad78-15f07b790852",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/27da1419-7ee6-4e5e-ad78-15f07b790852",
+			"uuid": "27da1419-7ee6-4e5e-ad78-15f07b790852",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinI/9b",
+			"title": "Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/02ae4d13-a7fd-4dd3-b750-a2c479a328a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02ae4d13-a7fd-4dd3-b750-a2c479a328a2",
+			"uuid": "02ae4d13-a7fd-4dd3-b750-a2c479a328a2",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinJ/10a",
+			"title": "De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/939f1c3a-bbd4-4553-8551-26de786508e9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/939f1c3a-bbd4-4553-8551-26de786508e9",
+			"uuid": "939f1c3a-bbd4-4553-8551-26de786508e9",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinJ/10b",
+			"title": "De kandidaat kan analyseren welke grenzen aan de verklaringskracht van theoretische concepten gesteld kunnen worden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e996e469-b360-4de4-abf6-43ef13127671",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e996e469-b360-4de4-abf6-43ef13127671",
+			"uuid": "e996e469-b360-4de4-abf6-43ef13127671",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinK/11a",
+			"title": "De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs analyseren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/637892ce-63d8-4857-977d-1958ca7f5ece",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/637892ce-63d8-4857-977d-1958ca7f5ece",
+			"uuid": "637892ce-63d8-4857-977d-1958ca7f5ece",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "EC/V/DomeinK/11b",
+			"title": "De kandidaat kiest ten minste twee keuzeonderwerpen om deze analyse uit te voeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7e8932ba-1aa7-4392-96bc-7563b681582a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7e8932ba-1aa7-4392-96bc-7563b681582a",
+			"uuid": "7e8932ba-1aa7-4392-96bc-7563b681582a",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinA/1c",
+			"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/036517fa-4862-4f53-a23f-db587d4f98b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/036517fa-4862-4f53-a23f-db587d4f98b5",
+			"uuid": "036517fa-4862-4f53-a23f-db587d4f98b5",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinA/1e",
+			"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fdc426b0-e9f3-47b9-abc4-861cc7a206c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdc426b0-e9f3-47b9-abc4-861cc7a206c6",
+			"uuid": "fdc426b0-e9f3-47b9-abc4-861cc7a206c6",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinB/B1/2a",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: de hoofdgedachte van de tekst of tekstgedeelten verwoorden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f70823a1-8f9e-4420-aae1-bf746948bc60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f70823a1-8f9e-4420-aae1-bf746948bc60",
+			"uuid": "f70823a1-8f9e-4420-aae1-bf746948bc60",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinB/B1/2b",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: opvattingen en gevoelens van de spreker benoemen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/62e62125-c5db-40a7-90dc-77ca6d44805b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62e62125-c5db-40a7-90dc-77ca6d44805b",
+			"uuid": "62e62125-c5db-40a7-90dc-77ca6d44805b",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinB/B1/2c",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: standpunten en argumenten herkennen en onderscheiden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3009e209-7a92-446f-8017-ad8683832b28",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3009e209-7a92-446f-8017-ad8683832b28",
+			"uuid": "3009e209-7a92-446f-8017-ad8683832b28",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinB/B1/2d",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: het beoogde publiek en het spreekdoel benoemen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ba854551-2523-48ea-b173-08032811f77d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ba854551-2523-48ea-b173-08032811f77d",
+			"uuid": "ba854551-2523-48ea-b173-08032811f77d",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinB/B2/3",
+			"title": "De kandidaat kan verworven informatie adequaat in het Fries presenteren met het oog op doel en publiek en daarbij standpunten en argumenten verwoorden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e191a6a3-1305-4bc3-bd76-0d3e7e035f42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e191a6a3-1305-4bc3-bd76-0d3e7e035f42",
+			"uuid": "e191a6a3-1305-4bc3-bd76-0d3e7e035f42",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinB/B3/4a",
+			"title": "De kandidaat kan in een gesprek in het Fries adequaat: informatie vragen of verstrekken met het oog op doel, publiek en gespreksvorm."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/708970c4-d35e-40ef-ad44-135dc4a552f0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/708970c4-d35e-40ef-ad44-135dc4a552f0",
+			"uuid": "708970c4-d35e-40ef-ad44-135dc4a552f0",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinB/B3/4b",
+			"title": "De kandidaat kan in een gesprek in het Fries adequaat: reageren op bijdragen van luisteraars of gespreksdeelnemers."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6bbc2355-4a79-4c8b-950f-7b7475b90145",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6bbc2355-4a79-4c8b-950f-7b7475b90145",
+			"uuid": "6bbc2355-4a79-4c8b-950f-7b7475b90145",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinC/5a",
+			"title": "De kandidaat kan adequaat in het Fries schriftelijke informatie vragen en verstrekken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3befc8ac-17ae-4ae2-87e9-6dad58c61263",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3befc8ac-17ae-4ae2-87e9-6dad58c61263",
+			"uuid": "3befc8ac-17ae-4ae2-87e9-6dad58c61263",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinC/5b",
+			"title": "De kandidaat kan adequaat in het Fries verworven informatie schriftelijk presenteren, rekening houdend met doel en publiek en daarbij standpunten en argumenten verwoorden of uitdrukking geven aan gevoelens."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4d7363c-cb55-4dba-b740-20bde36d45f6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4d7363c-cb55-4dba-b740-20bde36d45f6",
+			"uuid": "e4d7363c-cb55-4dba-b740-20bde36d45f6",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinC/5c",
+			"title": "De kandidaat kan adequaat in het Fries een verslag schrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dc865f14-05e8-465b-8d6e-ef49241ccf00",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dc865f14-05e8-465b-8d6e-ef49241ccf00",
+			"uuid": "dc865f14-05e8-465b-8d6e-ef49241ccf00",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/H/DomeinD/D1/6",
+			"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. De werken zijn oorspronkelijk geschreven in de Friese taal. Minimumaantal 6 waarvan minimaal 3 voor 1945."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8f23030d-deae-4292-af77-032898efda76",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f23030d-deae-4292-af77-032898efda76",
+			"uuid": "8f23030d-deae-4292-af77-032898efda76",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinA/1c",
+			"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dc4d27a5-bf22-4aa9-925c-de65fc9a0fb2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dc4d27a5-bf22-4aa9-925c-de65fc9a0fb2",
+			"uuid": "dc4d27a5-bf22-4aa9-925c-de65fc9a0fb2",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinA/1e",
+			"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43db27de-69ff-4566-b1bf-9c401ccf85a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43db27de-69ff-4566-b1bf-9c401ccf85a8",
+			"uuid": "43db27de-69ff-4566-b1bf-9c401ccf85a8",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinB/B1/2a",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: de hoofdgedachte van de tekst of tekstgedeelten verwoorden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da545d85-b169-46f5-9b62-db7d999638c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da545d85-b169-46f5-9b62-db7d999638c4",
+			"uuid": "da545d85-b169-46f5-9b62-db7d999638c4",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinB/B1/2b",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: opvattingen en gevoelens van de spreker benoemen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/371470a2-99fe-452a-b759-56734452f87b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/371470a2-99fe-452a-b759-56734452f87b",
+			"uuid": "371470a2-99fe-452a-b759-56734452f87b",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinB/B1/2c",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: standpunten en argumenten herkennen en onderscheiden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fe55c2f7-696e-46b8-86aa-522c39794a08",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe55c2f7-696e-46b8-86aa-522c39794a08",
+			"uuid": "fe55c2f7-696e-46b8-86aa-522c39794a08",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinB/B1/2d",
+			"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: het beoogde publiek en het spreekdoel benoemen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9196777-d9d9-4276-83c5-9ac09b6217fb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9196777-d9d9-4276-83c5-9ac09b6217fb",
+			"uuid": "a9196777-d9d9-4276-83c5-9ac09b6217fb",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinB/B2/3",
+			"title": "De kandidaat kan verworven informatie adequaat in het Fries presenteren met het oog op doel en publiek en daarbij standpunten en argumenten verwoorden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/30c3bc67-5b90-4ddd-827b-ca7b91ca8592",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/30c3bc67-5b90-4ddd-827b-ca7b91ca8592",
+			"uuid": "30c3bc67-5b90-4ddd-827b-ca7b91ca8592",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinB/B3/4a",
+			"title": "De kandidaat kan in een gesprek in het Fries adequaat: informatie vragen of verstrekken met het oog op doel, publiek en gespreksvorm."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e0d71cac-ffd5-4ec1-82c4-7d4c434bb72c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0d71cac-ffd5-4ec1-82c4-7d4c434bb72c",
+			"uuid": "e0d71cac-ffd5-4ec1-82c4-7d4c434bb72c",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinB/B3/4b",
+			"title": "De kandidaat kan in een gesprek in het Fries adequaat: reageren op bijdragen van luisteraars of gespreksdeelnemers."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f700295-cf68-42fd-85a7-8eaac31542b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f700295-cf68-42fd-85a7-8eaac31542b6",
+			"uuid": "0f700295-cf68-42fd-85a7-8eaac31542b6",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinC/5a",
+			"title": "De kandidaat kan adequaat in het Fries schriftelijke informatie vragen en verstrekken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f90769e0-add6-4e00-83e0-75c113ca34c8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f90769e0-add6-4e00-83e0-75c113ca34c8",
+			"uuid": "f90769e0-add6-4e00-83e0-75c113ca34c8",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinC/5b",
+			"title": "De kandidaat kan adequaat in het Fries verworven informatie schriftelijk presenteren, rekening houdend met doel en publiek en daarbij standpunten en argumenten verwoorden of uitdrukking geven aan gevoelens."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5c9a0d27-aaca-4fba-b922-b6c1d8b59397",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5c9a0d27-aaca-4fba-b922-b6c1d8b59397",
+			"uuid": "5c9a0d27-aaca-4fba-b922-b6c1d8b59397",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinC/5c",
+			"title": "De kandidaat kan adequaat in het Fries een verslag schrijven."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c51fb23a-d406-488c-94e6-b5dc6a12af65",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c51fb23a-d406-488c-94e6-b5dc6a12af65",
+			"uuid": "c51fb23a-d406-488c-94e6-b5dc6a12af65",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinD/D1/6",
+			"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. De werken zijn oorspronkelijk geschreven in de Friese taal. Minimumaantal 9 waarvan minimaal 3 voor 1945."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/05318a68-00d2-4f1c-969d-e9ff4c54f6c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05318a68-00d2-4f1c-969d-e9ff4c54f6c5",
+			"uuid": "05318a68-00d2-4f1c-969d-e9ff4c54f6c5",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinD/D2/7",
+			"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren bij de interpretatie van literaire teksten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0ce12652-2469-43be-ace8-d39a941539ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ce12652-2469-43be-ace8-d39a941539ee",
+			"uuid": "0ce12652-2469-43be-ace8-d39a941539ee",
+			"@type": "ExamenprogrammaEindterm",
+			"prefix": "FR/V/DomeinD/D3/8",
+			"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de Friese literatuurgeschiedenis en de gelezen literaire werken plaatsen in historisch perspectief."
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

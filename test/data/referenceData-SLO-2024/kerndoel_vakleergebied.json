@@ -1,0 +1,188 @@
+{
+	"count": 55,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4f66e180-be7e-448e-891b-698a71a3e9bc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4f66e180-be7e-448e-891b-698a71a3e9bc",
+			"uuid": "4f66e180-be7e-448e-891b-698a71a3e9bc",
+			"@type": "KerndoelVakleergebied",
+			"title": "Aardrijkskunde"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43f3e359-2778-458d-b688-1057f71416ab",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43f3e359-2778-458d-b688-1057f71416ab",
+			"uuid": "43f3e359-2778-458d-b688-1057f71416ab",
+			"@type": "KerndoelVakleergebied",
+			"title": "Bewegen en sport"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a77a3196-fae2-47ee-9a0d-54d5b42158e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a77a3196-fae2-47ee-9a0d-54d5b42158e1",
+			"uuid": "a77a3196-fae2-47ee-9a0d-54d5b42158e1",
+			"@type": "KerndoelVakleergebied",
+			"title": "Bewegingsonderwijs"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d0b6c2f0-834b-4465-87e2-96f685bf9251",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d0b6c2f0-834b-4465-87e2-96f685bf9251",
+			"uuid": "d0b6c2f0-834b-4465-87e2-96f685bf9251",
+			"@type": "KerndoelVakleergebied",
+			"title": "Biologie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+			"uuid": "fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+			"@type": "KerndoelVakleergebied",
+			"title": "Culturele oriëntatie en creatieve expressie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9938156-9298-4d76-a7ee-a673178af70e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9938156-9298-4d76-a7ee-a673178af70e",
+			"uuid": "f9938156-9298-4d76-a7ee-a673178af70e",
+			"@type": "KerndoelVakleergebied",
+			"title": "Economie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c0770de9-6234-48e6-879d-bb4af7eff0a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c0770de9-6234-48e6-879d-bb4af7eff0a7",
+			"uuid": "c0770de9-6234-48e6-879d-bb4af7eff0a7",
+			"@type": "KerndoelVakleergebied",
+			"title": "Engels"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6db136e4-b9ad-4695-9d23-a2225a744b7e",
+			"uuid": "6db136e4-b9ad-4695-9d23-a2225a744b7e",
+			"@type": "KerndoelVakleergebied",
+			"title": "Fries"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dc52b358-54f9-464e-80c6-83562b35588d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dc52b358-54f9-464e-80c6-83562b35588d",
+			"uuid": "dc52b358-54f9-464e-80c6-83562b35588d",
+			"@type": "KerndoelVakleergebied",
+			"title": "Geschiedenis"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/32e14739-46ce-464f-a904-d7816939ab3c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/32e14739-46ce-464f-a904-d7816939ab3c",
+			"uuid": "32e14739-46ce-464f-a904-d7816939ab3c",
+			"@type": "KerndoelVakleergebied",
+			"title": "Kunst en cultuur"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+			"uuid": "f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
+			"@type": "KerndoelVakleergebied",
+			"title": "Kunstzinnige oriëntatie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+			"uuid": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+			"@type": "KerndoelVakleergebied",
+			"title": "Leergebied overstijgende vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/16026593-20f7-44de-9832-158bf7763dac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/16026593-20f7-44de-9832-158bf7763dac",
+			"uuid": "16026593-20f7-44de-9832-158bf7763dac",
+			"@type": "KerndoelVakleergebied",
+			"title": "Mens en maatschappij"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c155e2a9-3142-4392-b125-73e83bd0d9cd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c155e2a9-3142-4392-b125-73e83bd0d9cd",
+			"uuid": "c155e2a9-3142-4392-b125-73e83bd0d9cd",
+			"@type": "KerndoelVakleergebied",
+			"title": "Mens en natuur"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/77ef2933-c9b9-4d6b-94ad-2c9753173347",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/77ef2933-c9b9-4d6b-94ad-2c9753173347",
+			"uuid": "77ef2933-c9b9-4d6b-94ad-2c9753173347",
+			"@type": "KerndoelVakleergebied",
+			"title": "Mens, natuur en techniek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3e47e5ba-07bb-4c22-b68e-71c311eb7c69",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3e47e5ba-07bb-4c22-b68e-71c311eb7c69",
+			"uuid": "3e47e5ba-07bb-4c22-b68e-71c311eb7c69",
+			"@type": "KerndoelVakleergebied",
+			"title": "Natuur- en scheikunde I"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5a55acd6-f1e6-4601-93db-0b3e4998d31b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5a55acd6-f1e6-4601-93db-0b3e4998d31b",
+			"uuid": "5a55acd6-f1e6-4601-93db-0b3e4998d31b",
+			"@type": "KerndoelVakleergebied",
+			"title": "Natuurkunde"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+			"uuid": "d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+			"@type": "KerndoelVakleergebied",
+			"title": "Nederlands"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+			"uuid": "a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+			"@type": "KerndoelVakleergebied",
+			"title": "Nederlandse gebarentaal"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b11db01-d97d-4370-ad85-3a0f7f082339",
+			"uuid": "3b11db01-d97d-4370-ad85-3a0f7f082339",
+			"@type": "KerndoelVakleergebied",
+			"title": "Oriëntatie op jezelf en de wereld"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+			"uuid": "96552012-d8f9-44e8-bce2-609d5ac42849",
+			"@type": "KerndoelVakleergebied",
+			"title": "Rekenen en wiskunde"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aac61729-e10c-4110-9f0e-9776ca169903",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aac61729-e10c-4110-9f0e-9776ca169903",
+			"uuid": "aac61729-e10c-4110-9f0e-9776ca169903",
+			"@type": "KerndoelVakleergebied",
+			"title": "Scheikunde"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/08cb1ff1-aebc-45a5-8023-c3d4bc235caf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/08cb1ff1-aebc-45a5-8023-c3d4bc235caf",
+			"uuid": "08cb1ff1-aebc-45a5-8023-c3d4bc235caf",
+			"@type": "KerndoelVakleergebied",
+			"title": "Techniek"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53eb92a2-852f-4304-8c2b-6cb459a69fdd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53eb92a2-852f-4304-8c2b-6cb459a69fdd",
+			"uuid": "53eb92a2-852f-4304-8c2b-6cb459a69fdd",
+			"@type": "KerndoelVakleergebied",
+			"title": "Vervolgonderwijs; Arbeidsmarkt; Dagbesteding"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8358bc7-bc26-4174-87c0-77c6629869c8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8358bc7-bc26-4174-87c0-77c6629869c8",
+			"uuid": "f8358bc7-bc26-4174-87c0-77c6629869c8",
+			"@type": "KerndoelVakleergebied",
+			"title": "Voorbereiding op arbeid"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1edf2193-645b-43c9-b43c-4454bfeece38",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1edf2193-645b-43c9-b43c-4454bfeece38",
+			"uuid": "1edf2193-645b-43c9-b43c-4454bfeece38",
+			"@type": "KerndoelVakleergebied",
+			"title": "Voorbereiding op dagbesteding"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

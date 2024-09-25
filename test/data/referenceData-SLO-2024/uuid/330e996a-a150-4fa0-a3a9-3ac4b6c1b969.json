@@ -1,0 +1,71 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/330e996a-a150-4fa0-a3a9-3ac4b6c1b969",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/330e996a-a150-4fa0-a3a9-3ac4b6c1b969",
+	"uuid": "330e996a-a150-4fa0-a3a9-3ac4b6c1b969",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKerndeel",
+	"ExamenprogrammaBgKern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e487dfc-1257-4121-88c2-42a82df71aca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e487dfc-1257-4121-88c2-42a82df71aca",
+			"uuid": "9e487dfc-1257-4121-88c2-42a82df71aca",
+			"prefix": "PK/ZW",
+			"title": "Kern Zorg en welzijn",
+			"deprecated": true,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a363d4e3-9296-468e-ad5f-7faf6c1c7518",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a363d4e3-9296-468e-ad5f-7faf6c1c7518",
+					"uuid": "a363d4e3-9296-468e-ad5f-7faf6c1c7518",
+					"title": "Zorg en welzijn",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+					"uuid": "7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+					"title": "Zorg en welzijn",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+					"uuid": "da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+					"title": "Zorg en welzijn",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"ExamenprogrammaBgGlobaleEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5bc6790-81ca-4af3-9ee1-0abc035ea157",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5bc6790-81ca-4af3-9ee1-0abc035ea157",
+			"uuid": "b5bc6790-81ca-4af3-9ee1-0abc035ea157",
+			"prefix": "PK/ZW/c-1",
+			"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’:",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3aeccbdc-a04c-40f5-8ecb-e40cf77921c0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3aeccbdc-a04c-40f5-8ecb-e40cf77921c0",
+			"uuid": "3aeccbdc-a04c-40f5-8ecb-e40cf77921c0",
+			"prefix": "PK/ZW/c-2",
+			"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2ad03f57-e56c-43d8-a84c-a444ead9464e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ad03f57-e56c-43d8-a84c-a444ead9464e",
+			"uuid": "2ad03f57-e56c-43d8-a84c-a444ead9464e",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "PK/ZW/c",
+	"title": "Loopbaanoriëntatie en -ontwikkeling"
+}

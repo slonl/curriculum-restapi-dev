@@ -1,0 +1,46 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/13f08f75-1c7c-402e-a7de-149082a9e5af",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13f08f75-1c7c-402e-a7de-149082a9e5af",
+	"uuid": "13f08f75-1c7c-402e-a7de-149082a9e5af",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "Kerndoel",
+	"KerndoelDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+			"uuid": "a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+			"title": "Taalbeschouwing, waaronder strategieën",
+			"deprecated": null,
+			"KerndoelVakleergebied": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"uuid": "a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+					"title": "Nederlandse gebarentaal",
+					"deprecated": null
+				}
+			]
+		}
+	],
+	"Doelniveau": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"uuid": "f9b25c20-9017-425b-8d3c-360ab6b5c222",
+			"title": "so nl/ml",
+			"prefix": "0002",
+			"description": "speciaal onderwijs normaal lerend/moeilijk lerend",
+			"type": "Opleiding",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "De leerlingen leren welke verschillende vormen van communicatie bestaan tussen dove mensen onderling en tussen dove mensen en horende mensen.",
+	"description": "Communicatievormen",
+	"kerndoelLabel": "Communicatievormen",
+	"prefix": "SO nl/ml Kerndoel LS 25"
+}

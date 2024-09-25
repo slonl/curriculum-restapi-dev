@@ -1,0 +1,806 @@
+{
+	"count": 156,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9ab70bec-8869-449e-bf4a-4406e4f5710f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ab70bec-8869-449e-bf4a-4406e4f5710f",
+			"uuid": "9ab70bec-8869-449e-bf4a-4406e4f5710f",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/01/KT",
+			"title": "Constructieve aansluitingen met verschillende materialen maken / aansluitingen tussen materialen afwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a553fcf4-fe29-429b-aa2b-d07d42aabcc6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a553fcf4-fe29-429b-aa2b-d07d42aabcc6",
+			"uuid": "a553fcf4-fe29-429b-aa2b-d07d42aabcc6",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/02/KT",
+			"title": "Constructieve oplossingen in halfsteens muren maken / metselwerk uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7a1ed16-a8dc-45a4-a156-2734e02cdd6a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7a1ed16-a8dc-45a4-a156-2734e02cdd6a",
+			"uuid": "c7a1ed16-a8dc-45a4-a156-2734e02cdd6a",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/03/KT",
+			"title": "Houtachtige ondergronden schilderen en afwerken / steenachtige ondergronden schilderen en afwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8af1591-6cc7-4724-b6e4-532fa708fd90",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8af1591-6cc7-4724-b6e4-532fa708fd90",
+			"uuid": "a8af1591-6cc7-4724-b6e4-532fa708fd90",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/04/KT",
+			"title": "Eenvoudige kasten en opbergsystemen ontwerpen en maken / betimmeringen en stands ontwerpen en aanbrengen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/94e9dcde-7578-4bcb-bfe8-00c8d71e46db",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94e9dcde-7578-4bcb-bfe8-00c8d71e46db",
+			"uuid": "94e9dcde-7578-4bcb-bfe8-00c8d71e46db",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/05/KT",
+			"title": "Bouwkundige onderhouds- en renovatiewerkzaamheden voorbereiden / bouwkundige onderhouds- en renovatiewerkzaamheden uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0fcda184-921d-4936-9495-ae40fae9819c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0fcda184-921d-4936-9495-ae40fae9819c",
+			"uuid": "0fcda184-921d-4936-9495-ae40fae9819c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/06/KT",
+			"title": "De werkzaamheden voorbereiden voor het maken van kozijnen en ramen en het afhangen en sluitbaar maken van ramen en deuren / houten kozijnen en ramen maken / ramen en deuren afhangen en sluitbaar maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b280e3bf-2804-4249-a49a-91d808d53594",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b280e3bf-2804-4249-a49a-91d808d53594",
+			"uuid": "b280e3bf-2804-4249-a49a-91d808d53594",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/07/KT",
+			"title": "Werkzaamheden voorbereiden voor het aanbrengen van daken en kapconstructies / constructies maken voor platte daken en de dakrand afwerken / constructies maken voor hellende daken, afdichten en afwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26dc450f-020e-4329-945f-0d40ba94f57e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26dc450f-020e-4329-945f-0d40ba94f57e",
+			"uuid": "26dc450f-020e-4329-945f-0d40ba94f57e",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/08/KT",
+			"title": "Ondergronden van vloeren beoordelen en de behandeling van deze vloeren voorbereiden / ondergronden van vloeren repareren en voorbehandelen / vloerafwerking aanbrengen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/28dee87f-2b11-4484-b79e-830ed8c37ddf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/28dee87f-2b11-4484-b79e-830ed8c37ddf",
+			"uuid": "28dee87f-2b11-4484-b79e-830ed8c37ddf",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/09/KT",
+			"title": "De principes, kenmerken en eigenschappen van bouwmethoden in Nederland beschrijven en in een historische ontwikkeling plaatsen / de kenmerken van bouwstijlen en bouwkunst vanuit de oudheid tot heden herkennen, benoemen en verwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/701cfaa6-6cea-4fd2-9cfd-d4634da5c6a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/701cfaa6-6cea-4fd2-9cfd-d4634da5c6a4",
+			"uuid": "701cfaa6-6cea-4fd2-9cfd-d4634da5c6a4",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/10/KT",
+			"title": "Bijzondere metsel- en lijmwerken voorbereiden / bijzondere metsel- en lijmwerken tekenen en berekenen / bijzondere metsel- en lijmwerken uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e41ffddd-769d-4b45-8549-8302d0ec44f9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e41ffddd-769d-4b45-8549-8302d0ec44f9",
+			"uuid": "e41ffddd-769d-4b45-8549-8302d0ec44f9",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/11/KT",
+			"title": "Aanbrengen en afwerken van gipsplaten op regels / een metal-stud scheidingswand met kozijn monteren, afwerken en demonteren / een bestaande scheidingswand van een wandsysteem met profielen en beplating en of beglazing monteren en demonteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0bfbec55-dea2-4b15-be0a-203d196a55e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0bfbec55-dea2-4b15-be0a-203d196a55e0",
+			"uuid": "0bfbec55-dea2-4b15-be0a-203d196a55e0",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/12/KT",
+			"title": "Een dunpleister aanbrengen / aanbrengen gipspleister op metselwerk en afwerken met sierpleister / aanbrengen sierpleister met figuur en stucstop op dunpleister / aanbrengen van behang"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9afd34ff-10bc-4273-ad99-75f3647a35b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9afd34ff-10bc-4273-ad99-75f3647a35b5",
+			"uuid": "9afd34ff-10bc-4273-ad99-75f3647a35b5",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/13/KT",
+			"title": "Schilderen van kunststof / schilderen van metaal / spuiten van metaal / toepassen van decoratieve verfspuittechnieken op metaal"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/94e1ade1-d918-4f8d-adc5-eee0be324589",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94e1ade1-d918-4f8d-adc5-eee0be324589",
+			"uuid": "94e1ade1-d918-4f8d-adc5-eee0be324589",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/14/KT",
+			"title": "Houtachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / steenachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / metaalachtige en kunststoffen ondergronden beoordelen, voorbehandelen, repareren en afwerken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/564bfed7-90bf-4aac-8d9c-2ad2050a9ef6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/564bfed7-90bf-4aac-8d9c-2ad2050a9ef6",
+			"uuid": "564bfed7-90bf-4aac-8d9c-2ad2050a9ef6",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/15/KT",
+			"title": "Glas snijden en verwerken / enkelglas plaatsen / dubbelglas plaatsen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4d42ac02-447c-438f-8cd1-a3e435a34207",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d42ac02-447c-438f-8cd1-a3e435a34207",
+			"uuid": "4d42ac02-447c-438f-8cd1-a3e435a34207",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/16/KT",
+			"title": "De werkzaamheden voor het maken van meubels voorbereiden / meubels maken van hout en plaatmateriaal"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/04fd9e32-0d3e-4347-8004-ee82a0df0c53",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/04fd9e32-0d3e-4347-8004-ee82a0df0c53",
+			"uuid": "04fd9e32-0d3e-4347-8004-ee82a0df0c53",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/17/KT",
+			"title": "Uitzetwerk voor bestrating en infrastructuur verrichten / grondwerk verrichten / assisteren bij het aanleggen van de ondergrondse infrastructuur"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7e9e9e35-45d2-4209-9a88-feabe6159722",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7e9e9e35-45d2-4209-9a88-feabe6159722",
+			"uuid": "7e9e9e35-45d2-4209-9a88-feabe6159722",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/18/KT",
+			"title": "Machinaal grondwerk verrichten / bestratingen maken / assisteren bij het uitvoeren van weg- en waterbouwkundige werken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/30e0dfe9-01d2-4041-8357-707b5376c5cd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/30e0dfe9-01d2-4041-8357-707b5376c5cd",
+			"uuid": "30e0dfe9-01d2-4041-8357-707b5376c5cd",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/19/KT",
+			"title": "Een interieur ontwerpen / interieurelementen in samenhang met een interieur ontwerpen en maken / interieurelementen en een interieur decoreren en presenteren / een tekst en logo opmaken in een softwareprogramma, plotten en monteren / een digitaal bestand opmaken, printen en monteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/660ef0e4-d749-48c0-98a5-04c83f645417",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/660ef0e4-d749-48c0-98a5-04c83f645417",
+			"uuid": "660ef0e4-d749-48c0-98a5-04c83f645417",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/20/taak",
+			"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt  en het maken van een maquette voor een \"Duurzame comfortwoning\""
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/34af4d71-6f76-4701-b96f-16ec168eace6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34af4d71-6f76-4701-b96f-16ec168eace6",
+			"uuid": "34af4d71-6f76-4701-b96f-16ec168eace6",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/21/taak",
+			"title": "Voorbehandelen van de ondergrond en veilig werken, uitvoeren van eenvoudig wandtegelwerk, uitvoeren van eenvoudig vloertegelwerk en uitvoeren van diverse snijwerk."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c878f15a-7a65-4095-8ebe-d9e8da52db10",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c878f15a-7a65-4095-8ebe-d9e8da52db10",
+			"uuid": "c878f15a-7a65-4095-8ebe-d9e8da52db10",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/22/taak",
+			"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en bouwkundige oplossingen hiervoor presenteren/ Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige woning en hiervan een maquette maken/ Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c7e81a9-9479-4005-9bad-bb01d0c779ec",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c7e81a9-9479-4005-9bad-bb01d0c779ec",
+			"uuid": "2c7e81a9-9479-4005-9bad-bb01d0c779ec",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/23/taak",
+			"title": "De principes, kenmerken en eigenschappen van circulair en duurzaam bouwen herkennen, benoemen, omschrijven en controleren/ Een product/interieurelement ontwerpen en maken door gebruik te maken van circulaire materialen/ Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bb03e82d-20da-4f1a-a864-4803c23ec578",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bb03e82d-20da-4f1a-a864-4803c23ec578",
+			"uuid": "bb03e82d-20da-4f1a-a864-4803c23ec578",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/BWI/24/taak",
+			"title": "Oriëntatie op het beroep van meubelstoffeerder/ Werkzaamheden voorbereiden voor het stofferen van meubels/ Meubels demonteren/ Vul- en bekledingsmaterialen op maat maken en aanbrengen/ Gestoffeerde meubels afwerken en opleveren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d18c275-55fe-4ec3-9550-9e57aba8032c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d18c275-55fe-4ec3-9550-9e57aba8032c",
+			"uuid": "8d18c275-55fe-4ec3-9550-9e57aba8032c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/01/KT",
+			"title": "In opdracht een digitaal, educatief spel bedenken / het spel maken / het spel demonstreren en presenteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ab334ec6-654a-43e3-ada8-09b7dbb943c8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab334ec6-654a-43e3-ada8-09b7dbb943c8",
+			"uuid": "ab334ec6-654a-43e3-ada8-09b7dbb943c8",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/02/KT",
+			"title": "Oriëntatie op moderne technische toepassingen / eenvoudige schakelingen bouwen / een eenvoudig geprogrammeerde handeling door een robot laten uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2f221dde-c5eb-4bab-b9fb-784a772abcb0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f221dde-c5eb-4bab-b9fb-784a772abcb0",
+			"uuid": "2f221dde-c5eb-4bab-b9fb-784a772abcb0",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/03/KT",
+			"title": "Op basis van onderzoek praktische maatregelen treffen ter bevordering van het milieu / een beheerplan maken ter bevordering van de biodiversiteit"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ac6d899d-ed89-4723-b84e-deb88ae08e93",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac6d899d-ed89-4723-b84e-deb88ae08e93",
+			"uuid": "ac6d899d-ed89-4723-b84e-deb88ae08e93",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/04/KT",
+			"title": "Een plantaardig voedingsmiddel produceren en verkopen / verantwoorde voeding kiezen en verwerken / voor een bepaalde doelgroep een bewegingsactiviteit in de open lucht organiseren en uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e24c9b6b-3ba2-4555-8b39-86462fc94586",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e24c9b6b-3ba2-4555-8b39-86462fc94586",
+			"uuid": "e24c9b6b-3ba2-4555-8b39-86462fc94586",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/05/KT",
+			"title": "In groepsverband een voorstelling met dans, muziek of drama (of een combinatie hiervan) bedenken en uitwerken / produceren en organiseren / realiseren / evalueren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3e0bc6f-775b-44f1-9d46-099e3550ea29",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3e0bc6f-775b-44f1-9d46-099e3550ea29",
+			"uuid": "f3e0bc6f-775b-44f1-9d46-099e3550ea29",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/06/KT",
+			"title": "Op actieve wijze, alert en duidelijk zichtbaar activiteiten ten behoeve van veiligheid in gesimuleerde praktijksituaties uitvoeren / fysieke en conditionele oefeningen uitvoeren / rapporteren van incidenten in een gesimuleerde omgeving / zorgdragen voor toezicht van een klein evenement in de eigen schoolomgeving / risicovolle situaties voorkomen  / regelend optreden in de school of op het eigen schoolplein"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c76207e-e149-4a6b-b553-23a203e55ae2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c76207e-e149-4a6b-b553-23a203e55ae2",
+			"uuid": "3c76207e-e149-4a6b-b553-23a203e55ae2",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/07/KT",
+			"title": "Duurzaam consumeren in de persoonlijke leefomgeving / afvalstromen herkennen en benoemen / producten recyclen en verkopen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83db302b-95f4-445a-af2a-df46f015ace4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83db302b-95f4-445a-af2a-df46f015ace4",
+			"uuid": "83db302b-95f4-445a-af2a-df46f015ace4",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/08",
+			"title": "Dans-, acteer- en zangactiviteiten organiseren en begeleiden."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9d2fbbd1-42ed-4934-936b-004cbe4d49a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9d2fbbd1-42ed-4934-936b-004cbe4d49a7",
+			"uuid": "9d2fbbd1-42ed-4934-936b-004cbe4d49a7",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/09",
+			"title": "Zowel individueel als in groepsverband dansen, zingen en acteren, omgaan met reacties en een portfolio opbouwen en presenteren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f25e73c3-3ea8-477e-b2d0-c9c477bdbb01",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f25e73c3-3ea8-477e-b2d0-c9c477bdbb01",
+			"uuid": "f25e73c3-3ea8-477e-b2d0-c9c477bdbb01",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/10",
+			"title": "Het zowel individueel als in groepsverband aanleren en toepassen van de technische vaardigheden binnen diverse dansstijlen, het uitvoeren van choreografieën en het opbouwen van een artistiek portfolio"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/41e99ac6-071f-495d-9479-fb11f6c593b7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41e99ac6-071f-495d-9479-fb11f6c593b7",
+			"uuid": "41e99ac6-071f-495d-9479-fb11f6c593b7",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/11",
+			"title": "individueel en in groepsverband instuderen en uitvoeren van repertoire in spel en zang, de eigen stem trainen en ontwikkelen en een portfolio opbouwen en presenteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5702d4f-3394-45e9-a43b-3c348f91b11a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5702d4f-3394-45e9-a43b-3c348f91b11a",
+			"uuid": "b5702d4f-3394-45e9-a43b-3c348f91b11a",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/DP/12",
+			"title": "Informatie verzamelen en verstrekken over podiumkunsten en een artistiek product creëren en presenteren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5dbc643e-0f4b-4547-9786-1e05986a6d05",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5dbc643e-0f4b-4547-9786-1e05986a6d05",
+			"uuid": "5dbc643e-0f4b-4547-9786-1e05986a6d05",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/01/KT",
+			"title": "Het beoordelen en verbeteren van een bestaande retail-/bedrijfsformule, rekening houdend met doelgroep / assortiment / marktpositie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/713022e0-f9ea-4e5c-99b8-5e0cfc49012e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/713022e0-f9ea-4e5c-99b8-5e0cfc49012e",
+			"uuid": "713022e0-f9ea-4e5c-99b8-5e0cfc49012e",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/02/KT",
+			"title": "Back- en frontoffice werkzaamheden in een meer complexe context uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d12945aa-8bc9-408b-9088-79d9302434d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d12945aa-8bc9-408b-9088-79d9302434d5",
+			"uuid": "d12945aa-8bc9-408b-9088-79d9302434d5",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/03/KT",
+			"title": "Logistieke werkzaamheden uitvoeren (veelal in een fysieke omgeving) ten aanzien van ontvangst, opslag, verzamelen en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen / organisatie en planning van de distributie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5e9a802b-a666-4583-b855-31f22899f333",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5e9a802b-a666-4583-b855-31f22899f333",
+			"uuid": "5e9a802b-a666-4583-b855-31f22899f333",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/04/KT",
+			"title": "Financieel- en administratief beheer van (handels)ondernemingen ondersteunen / de sub-administratie van een (handels)onderneming ondersteunen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/69070301-309f-4a00-920f-2f2a55369c90",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/69070301-309f-4a00-920f-2f2a55369c90",
+			"uuid": "69070301-309f-4a00-920f-2f2a55369c90",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/05/KT",
+			"title": "Het ontwikkelen en uitvoeren van een eenvoudig ondernemingsplan / jezelf als ondernemer beschrijven / een marketingplan maken / een (eenvoudig) financieel plan maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3a55fc19-fc11-44aa-a3cb-1158d9088019",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a55fc19-fc11-44aa-a3cb-1158d9088019",
+			"uuid": "3a55fc19-fc11-44aa-a3cb-1158d9088019",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/06/KT",
+			"title": "Een eigen webshop bedenken, ontwikkelen en onderhouden, rekening houdend met doelgroep, assortiment en marktpositie / via internet en sociale media goederen of diensten verkopen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f18b8afb-8e6e-4332-90ba-21f16174e41a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f18b8afb-8e6e-4332-90ba-21f16174e41a",
+			"uuid": "f18b8afb-8e6e-4332-90ba-21f16174e41a",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/07/KT",
+			"title": "Presentatie- en stylingtechnieken uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e12911ff-7d42-4ad0-b369-74b2ab401769",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e12911ff-7d42-4ad0-b369-74b2ab401769",
+			"uuid": "e12911ff-7d42-4ad0-b369-74b2ab401769",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/08/KT",
+			"title": "Werkzaamheden binnen mode en design uitvoeren ten aanzien van ontwerpen / productietechnieken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6ca2cffc-f6fb-48b5-9d58-6b27d84469fe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6ca2cffc-f6fb-48b5-9d58-6b27d84469fe",
+			"uuid": "6ca2cffc-f6fb-48b5-9d58-6b27d84469fe",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/09",
+			"title": "Modetechnische vaardigheden toepassen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c49ec1fc-bdc2-4960-894b-b8d488c4d600",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c49ec1fc-bdc2-4960-894b-b8d488c4d600",
+			"uuid": "c49ec1fc-bdc2-4960-894b-b8d488c4d600",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/10",
+			"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/94d465bf-196e-43eb-8b54-99318c30889c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94d465bf-196e-43eb-8b54-99318c30889c",
+			"uuid": "94d465bf-196e-43eb-8b54-99318c30889c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/EO/11",
+			"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen en  kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/823bfa17-972b-4a62-ae9a-196bf5d3d31c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/823bfa17-972b-4a62-ae9a-196bf5d3d31c",
+			"uuid": "823bfa17-972b-4a62-ae9a-196bf5d3d31c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/01/KT",
+			"title": "Brandstofmotoren herkennen, benoemen en onderhouden / getrokken en aangedreven land- en tuinbouwmachines herkennen, benoemen en onderhouden / elektrische circuits voor verlichting op landbouwvoertuigen tekenen, realiseren en repareren / overbrengingen voor aangedreven land- en tuinbouwmachines herkennen, benoemen en toepassen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/16835e02-a21e-46fe-bb23-fedb2523e044",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/16835e02-a21e-46fe-bb23-fedb2523e044",
+			"uuid": "16835e02-a21e-46fe-bb23-fedb2523e044",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/02/KT",
+			"title": "Oriëntatie op ontwerpen en aanleggen van tuinen / tuinen ontwerpen en aanleggen / werkzaamheden opleveren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b73de447-96e2-4132-8af4-127670aaaa72",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b73de447-96e2-4132-8af4-127670aaaa72",
+			"uuid": "b73de447-96e2-4132-8af4-127670aaaa72",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/03/KT",
+			"title": "Een onderhoudsplan voor een tuin of deel van een landschap opstellen / plaatsen van en technisch onderhoud uitvoeren aan recreatieve voorzieningen / gangbare planten herkennen en benoemen / seizoensgebonden onderhoud verrichten in tuin of landschap"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ccaffc02-e1ec-4103-be43-642c1a3385c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ccaffc02-e1ec-4103-be43-642c1a3385c2",
+			"uuid": "ccaffc02-e1ec-4103-be43-642c1a3385c2",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/04/KT",
+			"title": "Bloemwerk maken / winkelproducten inpakken / symboliek gebruiken in een bloemarrangement / in opdracht een bloemstuk maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c3ec60c6-4d61-4967-af99-0325476d3cfe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c3ec60c6-4d61-4967-af99-0325476d3cfe",
+			"uuid": "c3ec60c6-4d61-4967-af99-0325476d3cfe",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/05/KT",
+			"title": "Vormgeven / technieken gebruiken en combineren bij de vormgeving van een plantaardig product / een plantaardig product vormgeven en de vormgevingsprincipes toepassen / een plantaardig product vormgeven vanuit een kunsthistorisch perspectief / een stijlkamer ontwerpen en sfeer geven aan een interieur"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+			"uuid": "0a72ec3b-d612-4396-92b5-e5f249c2ac01",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/06/KT",
+			"title": "Het teeltmedium gereed maken voor een teelt en onderhouden / met plantmateriaal omgaan / plantmateriaal zaaien, planten en poten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/21d732b8-9a04-4ce7-a95a-2836b4ca8ac7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21d732b8-9a04-4ce7-a95a-2836b4ca8ac7",
+			"uuid": "21d732b8-9a04-4ce7-a95a-2836b4ca8ac7",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/07/KT",
+			"title": "Teelt optimaliseren / gewassen oogsten / producten verwerken, bewaren en de kwaliteit beoordelen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b3a04b49-80f4-41ac-b634-aabf762f61b3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3a04b49-80f4-41ac-b634-aabf762f61b3",
+			"uuid": "b3a04b49-80f4-41ac-b634-aabf762f61b3",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/08/KT",
+			"title": "Diersoorten en rassen herkennen en benoemen / huisvesting van dieren met betrekking tot dierenwelzijn beoordelen / dagelijkse en periodieke verzorgingswerkzaamheden uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ceaef26-34ee-402d-b6d0-ca2340df200d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ceaef26-34ee-402d-b6d0-ca2340df200d",
+			"uuid": "7ceaef26-34ee-402d-b6d0-ca2340df200d",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/09/KT",
+			"title": "op basis van de voedingsbehoefte van dieren en de samenstelling van het voer een voeradvies opstellen / gezondheidscontrole uitvoeren en hygiënisch werken / het dier in verschillende levensfasen en productiecycli verzorgen / omgaan met dieren en hun gebruiksdoel(en) herkennen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6779b0d7-fb7e-48a7-8382-84ccc3612810",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6779b0d7-fb7e-48a7-8382-84ccc3612810",
+			"uuid": "6779b0d7-fb7e-48a7-8382-84ccc3612810",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/10/KT",
+			"title": "Herkomst en kwaliteit van water als bron van voeding verklaren / afvalwater herkennen en onderzoeken / waterkwantiteit beheren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/002371a4-3dd3-4ecc-b89c-adab7d72d89a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/002371a4-3dd3-4ecc-b89c-adab7d72d89a",
+			"uuid": "002371a4-3dd3-4ecc-b89c-adab7d72d89a",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/11/KT",
+			"title": "Ontwikkelingen in de levensmiddelenbranche en de voedingsmiddelenindustrie beschrijven en hier op eenvoudige wijze op inspelen / grondstoffen verwerken en bereiden tot een kwalitatief goed halffabricaat of eindproduct / een voedingsadvies geven / de kwaliteit en voedselveiligheid van voedingsmiddelen beoordelen en bewaken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/155f17dd-e4eb-44d3-bba1-05bc9be014b9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/155f17dd-e4eb-44d3-bba1-05bc9be014b9",
+			"uuid": "155f17dd-e4eb-44d3-bba1-05bc9be014b9",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/12/KT",
+			"title": "Oriëntatie op zorgboerderijen / in een zorgboerderij planten en dieren verzorgen, hygiënisch werken en daarbij een individu en groep instrueren, motiveren en helpen / toezien op welzijn van dieren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a813199-3cc4-4ec8-9e8a-738f24a02912",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a813199-3cc4-4ec8-9e8a-738f24a02912",
+			"uuid": "0a813199-3cc4-4ec8-9e8a-738f24a02912",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/13/KT",
+			"title": "In de context van een agrarisch bedrijf - argumenten noemen voor agrarisch natuurbeheer - aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna rekening houdend met wet- en regelgeving -  aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) - kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten - aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/29b022be-b615-4844-a64e-12e91ca97b23",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29b022be-b615-4844-a64e-12e91ca97b23",
+			"uuid": "29b022be-b615-4844-a64e-12e91ca97b23",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/14/KT",
+			"title": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/48a9d6b3-b38a-4b46-8b4b-f875ba7fa376",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48a9d6b3-b38a-4b46-8b4b-f875ba7fa376",
+			"uuid": "48a9d6b3-b38a-4b46-8b4b-f875ba7fa376",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/15/KT",
+			"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\nHerkennen en benoemen van functies van viskwekerijen\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7dab6d62-4982-4cd2-9563-b25aa4aec7da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7dab6d62-4982-4cd2-9563-b25aa4aec7da",
+			"uuid": "7dab6d62-4982-4cd2-9563-b25aa4aec7da",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/GR/16/KT",
+			"title": "Bijdragen aan het opzetten van duurzame melkveehouderij / diergezondheid en welzijn van melkvee waarnemen en bevorderen / weidegang inplannen en uitvoeren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/761c857c-7420-4c79-948b-2d3c94c6ccb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/761c857c-7420-4c79-948b-2d3c94c6ccb6",
+			"uuid": "761c857c-7420-4c79-948b-2d3c94c6ccb6",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/01/KT",
+			"title": "In een meer complexe praktijkomgeving (mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen) service en advies verlenen aan diverse typen gasten, omgaan met gedifferentieerde vragen en de bijbehorende serveertechnieken uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/95d8b60c-b701-48a4-af08-63f43c446e7d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95d8b60c-b701-48a4-af08-63f43c446e7d",
+			"uuid": "95d8b60c-b701-48a4-af08-63f43c446e7d",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/02/KT",
+			"title": "Een bijdrage leveren aan het beheren en vervaardigen van brood- en banketspecialiteiten, gekenmerkt door een complexer productieproces"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e54d77c-0f05-4db1-b186-927f62f3f8a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e54d77c-0f05-4db1-b186-927f62f3f8a2",
+			"uuid": "9e54d77c-0f05-4db1-b186-927f62f3f8a2",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/03/KT",
+			"title": "Een bijdrage leveren aan het beheren van horecaproducten en gerechten bereiden en doorgeven in een meer complexe situatie (in relatief kortere tijd gerechten bereiden waarvoor meerdere en andere technieken dan in), zoals minimaal een vier gangenmenu"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d469b353-6f65-457c-ab77-50ee10d3a408",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d469b353-6f65-457c-ab77-50ee10d3a408",
+			"uuid": "d469b353-6f65-457c-ab77-50ee10d3a408",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/04/KT",
+			"title": "Mede organiseren van en assisteren bij een evenement"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e610e1a-6320-4416-a542-768a12e13b7c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e610e1a-6320-4416-a542-768a12e13b7c",
+			"uuid": "9e610e1a-6320-4416-a542-768a12e13b7c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/05/KT",
+			"title": "Het beheren en vervaardigen van patisserieproducten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/87ad4895-46f7-46ae-9b5d-f9d54a3e81e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/87ad4895-46f7-46ae-9b5d-f9d54a3e81e0",
+			"uuid": "87ad4895-46f7-46ae-9b5d-f9d54a3e81e0",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/06/KT",
+			"title": "Een bijdrage leveren aan het beheren van horecaproducten voor en maaltijden uit bijzondere keukens bereiden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1e21bce-d88f-4d22-80bb-663f844d73ac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1e21bce-d88f-4d22-80bb-663f844d73ac",
+			"uuid": "f1e21bce-d88f-4d22-80bb-663f844d73ac",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/07/KT",
+			"title": "Een bijdrage leveren aan het beheren van traiteur- en cateringproducten en assisteren bij het werken in de traiteur- en cateringbranche"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc35ebfa-20b4-4e07-846b-e3c71a2d5392",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc35ebfa-20b4-4e07-846b-e3c71a2d5392",
+			"uuid": "fc35ebfa-20b4-4e07-846b-e3c71a2d5392",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/08/KT",
+			"title": "De voorkomende facilitaire werkzaamheden in en rondom het gastenverblijf en de accommodatie voorbereiden en uitvoere"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/37c049b6-fd76-45f2-8086-dcd9541b7d97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/37c049b6-fd76-45f2-8086-dcd9541b7d97",
+			"uuid": "37c049b6-fd76-45f2-8086-dcd9541b7d97",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/HBR/09/KT",
+			"title": "Het uitwerken van een receptuur volgens een aangeleverd ontwerp en het vervaardigen van siervakproducten voor een opdrachtgever in een meer complexe situatie: : in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere\r\nen andere technieken dan in het patisserie worden toegepast en gecombineerd."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dbf2f24-b72d-4f9a-aeb2-65a6bbcc00bd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dbf2f24-b72d-4f9a-aeb2-65a6bbcc00bd",
+			"uuid": "6dbf2f24-b72d-4f9a-aeb2-65a6bbcc00bd",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/01/KT",
+			"title": "Een ontstekingssysteem testen / een brandstofsysteem controleren, testen en onderdelen vervangen / distributie en klepbediening controleren, afstellen en vervangen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a77d4fb0-d504-4352-877a-bd937f13fe1a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a77d4fb0-d504-4352-877a-bd937f13fe1a",
+			"uuid": "a77d4fb0-d504-4352-877a-bd937f13fe1a",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/02/KT",
+			"title": "Een aandrijfsysteem controleren, vervangen en afstellen / een remsysteem controleren, metingen uitvoeren, componenten testen, vervangen, ontluchten en afstellen / een stuursysteem controleren, componenten vervangen en afstellen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/51a5e41c-e248-4018-8f72-0f24b602ff82",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51a5e41c-e248-4018-8f72-0f24b602ff82",
+			"uuid": "51a5e41c-e248-4018-8f72-0f24b602ff82",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/03/KT",
+			"title": "Een laadsysteem controleren, meten, componenten vervangen en testen / een startsysteem controleren, meten, componenten vervangen en testen / een gloeistartsysteem controleren, meten, componenten vervangen en testen / een motor managementsysteem aansluiten, meten en testen / de werking van een datanetwerk van een voertuig demonstreren en verklaren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/518bae72-8aed-445b-92c5-8ef527546531",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/518bae72-8aed-445b-92c5-8ef527546531",
+			"uuid": "518bae72-8aed-445b-92c5-8ef527546531",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/04/KT",
+			"title": "Bedrijfswagens en getrokken materieel benoemen / een aandrijflijn van bedrijfswagens controleren en componenten vervangen / componenten van een luchtdrukremsysteem aansluiten en testen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c45a613d-7176-4505-b4df-1cffbd670f5e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c45a613d-7176-4505-b4df-1cffbd670f5e",
+			"uuid": "c45a613d-7176-4505-b4df-1cffbd670f5e",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/05/KT",
+			"title": "Een fiets afleveringsklaar maken / het elektrisch systeem van een fiets testen, controleren, meten en repareren / het aandrijf- en veersysteem van een fiets vervangen, controleren en afstellen / remsysteem van een fiets controleren, meten, vervangen en afstellen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0e2d3a8c-1cdf-4f3a-b34c-1960214b819e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0e2d3a8c-1cdf-4f3a-b34c-1960214b819e",
+			"uuid": "0e2d3a8c-1cdf-4f3a-b34c-1960214b819e",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/06/KT",
+			"title": "Een gemotoriseerde tweewieler controleren, meten en afleveringsklaar maken / elektrische systemen van een gemotoriseerde tweewieler testen en repareren / aandrijf- en veersystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen / remsystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc9d6953-eff9-404d-af7e-75bd1793f25f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc9d6953-eff9-404d-af7e-75bd1793f25f",
+			"uuid": "bc9d6953-eff9-404d-af7e-75bd1793f25f",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/07/KT",
+			"title": "Onderdelen aan een carrosserie monteren / een laadbak maken / een lichtbak met achterlichtunits maken en aansluiten / een trekhaak monteren en aansluiten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a1c76af5-607e-4952-8f98-c3fc13e0cb24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1c76af5-607e-4952-8f98-c3fc13e0cb24",
+			"uuid": "a1c76af5-607e-4952-8f98-c3fc13e0cb24",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/08/KT",
+			"title": "Schadeherstelwerkzaamheden voorbereiden / eenvoudige schade herstellen / te spuiten carrosseriedelen voorbewerken / een voertuig afleveringsklaar maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e0a278d8-71e2-4b34-adb2-934603d25633",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0a278d8-71e2-4b34-adb2-934603d25633",
+			"uuid": "e0a278d8-71e2-4b34-adb2-934603d25633",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/09/KT",
+			"title": "De werking van verbrandingsmotoren verklaren / brandstofsystemen controleren en repareren / interne en externe koelsystemen controleren / de werking van beveiligingssystemen verklaren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d07b21ee-28fb-4556-ba65-2f49b4d237b3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d07b21ee-28fb-4556-ba65-2f49b4d237b3",
+			"uuid": "d07b21ee-28fb-4556-ba65-2f49b4d237b3",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/10/KT",
+			"title": "Een rit voorbereiden / een rit afhandelen en de vrachtauto in rijbare staat terugbrengen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/09625d48-f9af-4f90-9607-50a97b1511bd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/09625d48-f9af-4f90-9607-50a97b1511bd",
+			"uuid": "09625d48-f9af-4f90-9607-50a97b1511bd",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/11/KT",
+			"title": "Mobiele werktuigen herkennen / een hydraulisch systeem controleren en aansluiten / machineonderhoud uitvoeren / pneumatische en elektrische systemen controleren en testen / hijsen en tillen met werktuigen en de risico’s bij hijsen, tillen en dragen herkennen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/76901cc6-1526-4472-bf04-357d9dd018cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76901cc6-1526-4472-bf04-357d9dd018cc",
+			"uuid": "76901cc6-1526-4472-bf04-357d9dd018cc",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/12/KT",
+			"title": "Goederen ontvangen en deze inslaan en daarna opslaan / voorraadbeheer uitvoeren / goederen verzamelen en deze verzendklaar maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7c5d66ff-b33b-4643-8e5e-499bcf77953f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c5d66ff-b33b-4643-8e5e-499bcf77953f",
+			"uuid": "7c5d66ff-b33b-4643-8e5e-499bcf77953f",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MET/13/Taak",
+			"title": "Hybride en elektrische aandrijfsystemen herkennen en benoemen. Veilig werken aan hybride en elektrische voertuigen. Laden van hybride en elektrische voertuigen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/204ccada-d830-4db6-ad2b-c62a0037f7c8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/204ccada-d830-4db6-ad2b-c62a0037f7c8",
+			"uuid": "204ccada-d830-4db6-ad2b-c62a0037f7c8",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/01/KT",
+			"title": "Voorkomende handelingen aan boord uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df1b786e-8d47-4b91-8edf-5f51984a05a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df1b786e-8d47-4b91-8edf-5f51984a05a7",
+			"uuid": "df1b786e-8d47-4b91-8edf-5f51984a05a7",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/02/KT",
+			"title": "De scheepsleiding helpen bij de voorbereiding, stuwage en controle van de lading"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/57ab5a95-8c4a-462a-becc-8367c37ad0fe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/57ab5a95-8c4a-462a-becc-8367c37ad0fe",
+			"uuid": "57ab5a95-8c4a-462a-becc-8367c37ad0fe",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/03/KT",
+			"title": "De schipper assisteren bij het manouvrerenen besturen van een schip"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b18856ba-8704-464e-acc0-3182d6c9cc55",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b18856ba-8704-464e-acc0-3182d6c9cc55",
+			"uuid": "b18856ba-8704-464e-acc0-3182d6c9cc55",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/04/KT",
+			"title": "De samenstelling en de functionaliteit van een schip kennen en installaties aan boord gebruiken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0ff77da2-bd8b-47e8-9a74-97b41b72b08c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ff77da2-bd8b-47e8-9a74-97b41b72b08c",
+			"uuid": "0ff77da2-bd8b-47e8-9a74-97b41b72b08c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/05/KT",
+			"title": "Werken met zeekaarten en nautische boekwerken / nautische instrumenten / getijden en meteorologie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1dc4223-aad6-474d-8587-9336b58ddf1e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1dc4223-aad6-474d-8587-9336b58ddf1e",
+			"uuid": "f1dc4223-aad6-474d-8587-9336b58ddf1e",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/06/KT",
+			"title": "Uitleggen en beschrijven van dienstverlenende bedrijven in de logistieke keten, vooral gericht op de activiteiten in en om de Nederlandse havens"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d7f2a62-8a41-40a7-9951-61b2474ef074",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d7f2a62-8a41-40a7-9951-61b2474ef074",
+			"uuid": "0d7f2a62-8a41-40a7-9951-61b2474ef074",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/07/KT",
+			"title": "Activiteiten die te maken hebben met de op- en overslag en distributie van producten en goederen in de haven herkennen, noemen en uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1814eb3b-9bd7-4869-9f52-5e51009cc51c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1814eb3b-9bd7-4869-9f52-5e51009cc51c",
+			"uuid": "1814eb3b-9bd7-4869-9f52-5e51009cc51c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/08/KT",
+			"title": "Werkzaamheden van diverse gespecialiseerde op- en overslagbedrijven (stuwadoorsbedrijven) beschrijven en uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/07e7f4c2-3c6d-494f-a69d-23b7ec974ffb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/07e7f4c2-3c6d-494f-a69d-23b7ec974ffb",
+			"uuid": "07e7f4c2-3c6d-494f-a69d-23b7ec974ffb",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/09/KT",
+			"title": "Inzicht hebben in de informatieverwerking en documentatie met betrekking tot lading / uitvoeren van voorbereidende- en aansluitende werkzaamheden die te maken hebben met deze informatie en documentatie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/186458e8-3266-4c28-8c36-a55549761363",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/186458e8-3266-4c28-8c36-a55549761363",
+			"uuid": "186458e8-3266-4c28-8c36-a55549761363",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/10/KT",
+			"title": "Positie en relaties van de expediteur in de logistieke keten herkennen en noemen / basisvaardigheden en werkzaamheden van de expediteur in de logistieke keten uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f1a90fe-1014-48be-9feb-e0ab36af3f6b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f1a90fe-1014-48be-9feb-e0ab36af3f6b",
+			"uuid": "1f1a90fe-1014-48be-9feb-e0ab36af3f6b",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/11/KT",
+			"title": "Positie, relaties en werkzaamheden van de cargadoor in de logistieke keten noemen en herkennen / basisvaardigheden en werkzaamheden van de cargadoor uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b24dd3df-f9e7-4494-8c79-d777e45d5def",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b24dd3df-f9e7-4494-8c79-d777e45d5def",
+			"uuid": "b24dd3df-f9e7-4494-8c79-d777e45d5def",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/12/KT",
+			"title": "Materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing in maritieme constructies / reparaties met het juiste gereedschap uitvoeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50d8916f-eefb-4b8b-8a80-878a968dd605",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d8916f-eefb-4b8b-8a80-878a968dd605",
+			"uuid": "50d8916f-eefb-4b8b-8a80-878a968dd605",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/13/KT",
+			"title": "Een maritiem ontwerpvraagstuk analyseren, beschrijven, schetsen, uitvoeren, testen en evalueren / plaat- en profielmaterialen aan de hand van een werktekening met elkaar verbinden / een ontwerp produceren door handmatige en machinale bewerkingen uit te voeren aan metalen en kunststoffen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/39729d72-41a9-423c-8346-8028cae8c3c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/39729d72-41a9-423c-8346-8028cae8c3c1",
+			"uuid": "39729d72-41a9-423c-8346-8028cae8c3c1",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/14/KT",
+			"title": "Maritiem technische systemen verklaren / mechanische installaties monteren, bedienen en klein onderhoud uitvoeren / een mechanisch proces bewaken, storingen signaleren en verhelpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61228b52-77df-4fa4-9fea-8c53d6d9a396",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61228b52-77df-4fa4-9fea-8c53d6d9a396",
+			"uuid": "61228b52-77df-4fa4-9fea-8c53d6d9a396",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MT/15/KT",
+			"title": "Een maritieme constructie voorbehandelen, afwerken en decoreren / een waterlijn uitzetten op een maritieme constructie / door het wegnemen van oorzaken corrosie van een maritieme constructie voorkomen"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

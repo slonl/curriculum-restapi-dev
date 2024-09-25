@@ -1,0 +1,44 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fe12f70f-d4b5-4a7f-b689-8bb6faa3ee8e",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe12f70f-d4b5-4a7f-b689-8bb6faa3ee8e",
+	"uuid": "fe12f70f-d4b5-4a7f-b689-8bb6faa3ee8e",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaVakleergebied",
+	"Examenprogramma": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"uuid": "10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+			"title": "Examenprogramma Kunst (muziek) havo",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"uuid": "a3682854-71af-4d4b-9543-be7b8bd62f75",
+			"title": "Examenprogramma Kunst (muziek) vwo",
+			"deprecated": null
+		}
+	],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dce3bb1f-6e36-42d1-85b3-a9aa44c2daa8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dce3bb1f-6e36-42d1-85b3-a9aa44c2daa8",
+			"uuid": "dce3bb1f-6e36-42d1-85b3-a9aa44c2daa8",
+			"title": "Kunst (muziek)",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b89256f2-ccb0-4a0f-a870-dea8d63d40d4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b89256f2-ccb0-4a0f-a870-dea8d63d40d4",
+			"uuid": "b89256f2-ccb0-4a0f-a870-dea8d63d40d4",
+			"title": "Kunst (muziek)"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Kunst (muziek)"
+}
