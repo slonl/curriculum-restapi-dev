@@ -10,7 +10,6 @@ let rootURL = "http://localhost:4500/";
 //let remoteData = "https://opendata.slo.nl/curriculum/api-dev/v1/"
 
 let discardKeyArray = ['deprecated', 'replacedBy' ,'schema', '@references', '@isPartOf', '@context', '$ref', 'prefix', '@context']; //['@context', '@references', '$ref', 'replacedBy', 'replaces', 'deprecated', '@isPartOf','ce_se', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy']; //['Examenprogramma', 'ExamenprogrammaBgProfiel', 'erk_categorie_id', 'ExamenprogrammaDomein', 'LdkVakkern', 'type', 'RefOnderwerp','erk_candobeschrijving_id', 'erk_schaal_id', 'erk_taalactiviteit_id','isempty', 'unreleased', 'niveau_id', 'erk_voorbeeld_id', 'NiveauIndex', 'RefDomein', 'RefSubdomein', 'RefVakleergebied', 'erk_lesidee_id', '@context', '@id', 'sloID', 'error', '@type', 'deprecated' , '@ref', 'ce_se', 'Doel', 'description', 'bron', 'reference', 'prefix', 'count', '@isPartOf', '@references', 'page', 'schema', 'replaces', '@type', 'replacedBy', 'Niveau', 'SyllabusSpecifiekeEindterm', 'Syllabus', 'Vakleergebied'];
-//let discardKeyArray = ['@references','schema', '@context','deprecated', 'replacedBy', 'unreleased', 'page', 'root'];
 
 let APIcallsSLO = JSON.parse(fs.readFileSync("test/data/REST_API_TEST_URLs.json"));
 
@@ -60,14 +59,24 @@ function removeURLSFromObject(subject) {
     return subject;
 }
 
+function replaceUndefined(subject){
+  Object.keys(subject).forEach(key => {
+    if(subject[key] == undefined ){
+      subject[key] = ""; // see doelniveau.json where the graphql version has "undefined" and the new version has "".
+    }  else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
+      replaceUndefined(subject[key])
+    }
+  })
+  return subject;
+}
+
+
 function removeKeysFromObject(subject, discardKeyArray) {
   Object.keys(subject).forEach(key => {
     if (discardKeyArray.includes(key)) {
       delete subject[key];
-      //console.log("deleting key: " + key);
     } else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
       removeKeysFromObject(subject[key], discardKeyArray)
-      //console.log("Moving deeper: " + removingKeysCounter++);
     }
   })
   return subject;
@@ -76,9 +85,7 @@ function removeKeysFromObject(subject, discardKeyArray) {
 // @TODO : WARNING: This is a temporary fix for known issues, made to pass tests, needs to be comented out for FULL tests!
 function removeMISCFromObject(subject) {
   Object.keys(subject).forEach(key => {
-    if (subject[key] === null ){
-      subject[key] = [];
-    }  else if (key == "count" || key == "page" || key == "root"){
+    if (key == "count" || key == "page" || key == "root"){
       subject[key] = "key removed for testing purposes";
     }  else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
       removeMISCFromObject(subject[key])
@@ -87,44 +94,61 @@ function removeMISCFromObject(subject) {
   return subject;
 }
 
-function onlySelectKeys(subject){
-    //console.log("SUBJECT WAS:", subject)
-    subject = from(subject.data).orderBy({title: asc}).select({ '@id': _ , title: _})
-    //console.log("SUBJECT IS:", subject)
+function replaceNull(subject) {
+  Object.keys(subject).forEach(key => {
+    if (subject[key] == null ){
+      subject[key] = [];
+    }  else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
+      replaceNull(subject[key])
+    }
+  })
+  return subject;
+}
+
+function orderSelectedKeys(subject){
+    subject = from(subject.data).orderBy({'@id': asc}).select({ '@id': _ , title: _})
     return subject
 }
 
-//check with tap
 tap.test("API calls", async t => {
 
   for (let call of APIcallsSLO){
     
     //get the data
     let APICallData= JSON.parse(fs.readFileSync("test/data" + referenceDataFolder + "/" +  call + ".json"));
-    let found = await getData(rootURL + call + "/");
+    let found = await getData(rootURL + call + "/" + "?pageSize=100&page=0");
     let wanted = APICallData;
     
     // remove unwanted keys and replace differing URLS
-    // if(typeof found === 'object' && found != null){
+    //if(typeof found === 'object' && found != null){
     //     found = removeKeysFromObject(found, discardKeyArray);
     //     found = removeURLSFromObject(found);
-    //     found = removeMISCFromObject(found);
-    // }
+    //     found = removeMISCFromObject(found);    
+    //}
 
-    // if(typeof wanted === 'object' && wanted != null){
+    //if(typeof wanted === 'object' && wanted != null){
     //     wanted = removeKeysFromObject(wanted, discardKeyArray);
     //     wanted = removeURLSFromObject(wanted);
     //     wanted = removeMISCFromObject(wanted);
-    // }
+    //}
 
-    //console.log("FOUND WAS: ", found)
-    found = onlySelectKeys(found);
-    wanted = onlySelectKeys(wanted);
-    //console.log("FOUND IS: ", found)
-        
-    // tap tests in async mode: no t.end() needed.
-    t.match(found, wanted, ("matching: " + call ));
-    t.equal(found.length, wanted.length);
+    found = orderSelectedKeys(found);
+    wanted = orderSelectedKeys(wanted);
+
+    // found = replaceUndefined(found);
+    // wanted = replaceUndefined(wanted);
+
+    //found = replaceNull(found)
+    //wanted = replaceNull(wanted)
+
+    t.match(found, wanted, ("Call results don't match in: " + call ));
+
+    if(found != null && wanted != null){
+      t.equal(found.length, wanted.length, ("Found different amount of items in: " + call ));
+    }
+    else {
+      t.fail("Found a NULL item in: " + call )
+    }
   }
 })
 
