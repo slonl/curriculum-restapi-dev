@@ -5,12 +5,12 @@ let RootURL = "https://opendata.slo.nl/curriculum/2024/api/v1/" //"http://localh
 let dummyData = { "data-missing" : "getReferenceData.mjs could not retrieve data" }; // used when the returned JSON is incorrect/missing/empty
 
 // the reference data is fetched from a set of URLS defined in REST_API_URLs.json.
-let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/REST_API_URLs.json"));
+let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/test/data/REST_API_ALL_URLs.json"));
 
-let referenceDataFolder = "/referenceData";
+let referenceDataFolder = "/test/data/referenceData";
 
 //Folders are created: as the calls are built to use the array from REST_API_URLS.json and save the files according to the paths from the call.
-let createFolders = ["/referenceData","/referenceData/uuid"];
+let createFolders = ["/test/data/referenceData","/test/data/referenceData/uuid"];
 
 for(let folder in createFolders){
   try {
@@ -41,7 +41,7 @@ async function getData(url = "", data = {}) {
 }
 
 async function getReferenceData(call){
-  let data = await getData(RootURL + call + "/");
+  let data = await getData(RootURL + call + "/" + "?perPage=1000");
   JSON.stringify(data);
   console.log("busy with " + call);
   fs.writeFileSync((process.cwd() + referenceDataFolder + "/" + call + ".json"), JSON.stringify(data, null, "\t")); 

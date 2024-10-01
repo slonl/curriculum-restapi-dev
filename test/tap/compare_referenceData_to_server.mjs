@@ -106,7 +106,7 @@ function replaceNull(subject) {
 }
 
 function orderSelectedKeys(subject){
-    subject = from(subject.data).orderBy({'@id': asc}).select({ '@id': _ , title: _})
+    subject = from(subject.data).orderBy({'@id': asc}).select({ '@id': _ , '@type': _, title: _})
     return subject
 }
 
@@ -116,7 +116,7 @@ tap.test("API calls", async t => {
     
     //get the data
     let APICallData= JSON.parse(fs.readFileSync("test/data" + referenceDataFolder + "/" +  call + ".json"));
-    let found = await getData(rootURL + call + "/" + "?pageSize=100&page=0");
+    let found = await getData(rootURL + call + "/" + "?pageSize=1000&page=0");
     let wanted = APICallData;
     
     // remove unwanted keys and replace differing URLS

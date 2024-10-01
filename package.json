@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "getTestData": "node test/data/getTestData.mjs",
+    "getReferenceData":"node test/data/getReferenceData.mjs", 
+    "compareData": "tap test/tap/compare_referenceData_to_server.mjs "
+  },
+  "devDependencies": {
+    "tap": "^19.2.5"
+  },
+  "dependencies": {
+    "@muze-nl/jaqt": "^0.9.2",
+    "chromedriver": "^126.0.4",
+    "selenium-webdriver": "^4.22.0"
+  }
+}

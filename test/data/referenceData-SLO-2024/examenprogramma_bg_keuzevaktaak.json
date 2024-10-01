@@ -800,6 +800,414 @@
 			"@type": "ExamenprogrammaBgKeuzevaktaak",
 			"prefix": "K/MT/15/KT",
 			"title": "Een maritieme constructie voorbehandelen, afwerken en decoreren / een waterlijn uitzetten op een maritieme constructie / door het wegnemen van oorzaken corrosie van een maritieme constructie voorkomen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dbcb68e8-0439-497a-a509-ac2d18ba0954",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dbcb68e8-0439-497a-a509-ac2d18ba0954",
+			"uuid": "dbcb68e8-0439-497a-a509-ac2d18ba0954",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/01/KT",
+			"title": "3D concept voor een opdrachtgever ontwikkelen / een 3D product passend bij de opdracht vormgeven en maken / zijn werk presenteren en promoten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/23d77747-843d-43f5-8fc7-fb6ad49cc182",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23d77747-843d-43f5-8fc7-fb6ad49cc182",
+			"uuid": "23d77747-843d-43f5-8fc7-fb6ad49cc182",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/02/KT",
+			"title": "Met verschillende ontwerpstrategieën voor een mediaproductie een idee ontwikkelen en visualiseren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9263d06-3560-4191-9877-a2d687e4a5d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9263d06-3560-4191-9877-a2d687e4a5d0",
+			"uuid": "a9263d06-3560-4191-9877-a2d687e4a5d0",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/03/KT",
+			"title": "Een netwerk volgens gegeven eisen ontwerpen en realiseren / het werk documenteren en registreren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e9213c8a-7665-46a7-8605-cb3b9882addc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e9213c8a-7665-46a7-8605-cb3b9882addc",
+			"uuid": "e9213c8a-7665-46a7-8605-cb3b9882addc",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/04/KT",
+			"title": "Een eenvoudig printmedia-product ontwerpen, vervaardigen en opleveren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a241e0e5-9729-47b4-ab0b-8f346ef44efd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a241e0e5-9729-47b4-ab0b-8f346ef44efd",
+			"uuid": "a241e0e5-9729-47b4-ab0b-8f346ef44efd",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/05/KT",
+			"title": "Een personage bedenken en uitwerken met zelfgekozen materiaal in een modelsheet en walkcycle / een plastische weergave maken van een zelfbedachte omgeving op een 2D medium / een mediaproduct in de stijl van een bepaalde of gekozen kunststroming vormgeven, maken en presenteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/161ed4c1-5ee2-4c2b-8c36-6a269f37c289",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/161ed4c1-5ee2-4c2b-8c36-6a269f37c289",
+			"uuid": "161ed4c1-5ee2-4c2b-8c36-6a269f37c289",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/06/KT",
+			"title": "Een game bedenken, ontwerpen en maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/41f9d68f-d672-4710-8189-ff034f60b83d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41f9d68f-d672-4710-8189-ff034f60b83d",
+			"uuid": "41f9d68f-d672-4710-8189-ff034f60b83d",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/07/KT",
+			"title": "Een fotografie concept voor de opdrachtgever ontwikkelen / fotografische beelden realiseren en bewerken / fotografie apparatuur en materiaal onderhouden en beheren / het werk presenteren en promoten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4d06769e-304c-430c-a6d3-a4fc61fba993",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d06769e-304c-430c-a6d3-a4fc61fba993",
+			"uuid": "4d06769e-304c-430c-a6d3-a4fc61fba993",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/08/KT",
+			"title": "Belichting installeren, aansluiten en bedienen / een geluidsinstallatie installeren, aansluiten en bedienen / een decor ontwerpen en (op schaal) bouwen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5bc617b-1ac9-4ba0-ada8-6558242d93cb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5bc617b-1ac9-4ba0-ada8-6558242d93cb",
+			"uuid": "d5bc617b-1ac9-4ba0-ada8-6558242d93cb",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/09/KT",
+			"title": "Een applicatie ontwerpen, realiseren en testen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/52b7459e-42e8-4f91-9ced-a9e4c6afbe02",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/52b7459e-42e8-4f91-9ced-a9e4c6afbe02",
+			"uuid": "52b7459e-42e8-4f91-9ced-a9e4c6afbe02",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/10/KT",
+			"title": "Digitale informatie en gegevens beveiligen en daarvoor procedures en processen toepassen, rekening houdend met de privacy van gebruikers en gevoeligheid van informatie en gegevens"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d51e72a2-26ea-4b6c-b310-5a9e76c99ac0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d51e72a2-26ea-4b6c-b310-5a9e76c99ac0",
+			"uuid": "d51e72a2-26ea-4b6c-b310-5a9e76c99ac0",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/11/KT",
+			"title": "Een eenvoudig sign product ontwerpen, vervaardigen en opleveren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3a2cc35c-f7b7-4ca4-8bde-7483334caf33",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a2cc35c-f7b7-4ca4-8bde-7483334caf33",
+			"uuid": "3a2cc35c-f7b7-4ca4-8bde-7483334caf33",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/12/KT",
+			"title": "Een bepaald media product vormgeven passend bij een specifieke doelgroep"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c1e1b5c7-19cf-4034-a9d7-49476d33a5c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1e1b5c7-19cf-4034-a9d7-49476d33a5c5",
+			"uuid": "c1e1b5c7-19cf-4034-a9d7-49476d33a5c5",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/MVI/13/taak",
+			"title": "Een maatschappelijk probleem analyseren en beschrijven. Oplossingen bedenken en uitwerken door middel van een creatief proces en daarbij het gebruik maken van moderne technieken beargumenteren. Een (deels) werkend prototype maken. Een prototype testen, evalueren en verbeteren en het eindresultaat vastleggen en presenteren."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ef4266b6-919b-4f1f-bda6-bb557fc1eb28",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef4266b6-919b-4f1f-bda6-bb557fc1eb28",
+			"uuid": "ef4266b6-919b-4f1f-bda6-bb557fc1eb28",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/01/KT",
+			"title": "Werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materialen bewerken en vervormen / verbinden van onderdelen en/deelproducten / meten en controleren van vervaardigde producten en afronden van uitgevoerde werkzaamheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/60a11f0a-d987-4cf7-af70-f196ec06cd14",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60a11f0a-d987-4cf7-af70-f196ec06cd14",
+			"uuid": "60a11f0a-d987-4cf7-af70-f196ec06cd14",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/02/KT",
+			"title": "De werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materiaal voorbereiden en lasnaden aanbrengen / plan van aanpak opstellen / onderdelen en deelproducten met elkaar verbinden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c06fef96-2e36-4496-8a46-9708e1611b0d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c06fef96-2e36-4496-8a46-9708e1611b0d",
+			"uuid": "c06fef96-2e36-4496-8a46-9708e1611b0d",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/03/KT",
+			"title": "Een verwarmings- en gasinstallatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van verwarmings- en gasinstallaties lezen en interpreteren / leidingsystemen voor een verwarmings- en gasinstallatie aanleggen / een verwarmings- en gasinstallatie afmonteren en testen / metingen met infraroodcamera maken en verwerken in een plan ten behoeve van energiebesparende oplossingen / weersafhankelijke regeling op CV-ketel installeren en regelen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61390b75-5862-401e-96ae-dec76df5d271",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61390b75-5862-401e-96ae-dec76df5d271",
+			"uuid": "61390b75-5862-401e-96ae-dec76df5d271",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/04/KT",
+			"title": "Productieprocessen, technische systemen en bronnen verklaren / een installatieproces monteren, bedienen en regelen / een proces bewaken, storingen signaleren en verhelpen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e903e066-e189-4099-8b93-76a8e2993ae2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e903e066-e189-4099-8b93-76a8e2993ae2",
+			"uuid": "e903e066-e189-4099-8b93-76a8e2993ae2",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/05/KT",
+			"title": "Met behulp van ICT-toepassingen opbrengstberekeningen maken voor pv- panelen / met behulp van een bouwtekening pv-panelen intekenen op een bestaand dak / met behulp van een bestaande bouwtekening pv-panelen monteren / opbrengstmetingen doen aan een windmolen / een warmtepomp plaatsen in een verwarmingsinstallatie / een zonneboiler plaatsen en installeren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92197c49-82b5-4613-909d-f8dd70345ffe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92197c49-82b5-4613-909d-f8dd70345ffe",
+			"uuid": "92197c49-82b5-4613-909d-f8dd70345ffe",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/06/KT",
+			"title": "Werktuigkundig onderhoud uitvoeren aan machines en apparaten / elektrotechnisch onderhoud uitvoeren aan machines en apparaten / onderhoud uitvoeren aan een leidingsysteem / onderdelen vervaardigen ten behoeve van onderhoud / machines en apparaten installeren / lagers demonteren en monteren / uitgevoerde werkzaamheden gebruiksklaar opleveren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/52ee1ff3-2892-4a89-b2ec-a9561288cee7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/52ee1ff3-2892-4a89-b2ec-a9561288cee7",
+			"uuid": "52ee1ff3-2892-4a89-b2ec-a9561288cee7",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/07/KT",
+			"title": "Tekeningen en schema's van utiliteitinstallaties lezen en een werkvoorbereiding maken / leidingsystemen voor een utiliteitinstallatie aanleggen, schakelmateriaal en onderdelen monteren en aansluiten / onderdelen en utiliteitsinstallaties monteren, aansluiten en in bedrijf stellen aan de hand van een werktekening"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/57c29a13-369f-4933-864b-9c7163e95f4f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/57c29a13-369f-4933-864b-9c7163e95f4f",
+			"uuid": "57c29a13-369f-4933-864b-9c7163e95f4f",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/08/KT",
+			"title": "Informatie verzamelen en werkzaamheden voorbereiden / lasnaden van lasverbindingen voorbereiden / materialen verbinden aan de hand van een werktekening volgens de gestelde eisen / vervaardigde producten opmeten en controleren en de uitgevoerde werkzaamheden afronden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3a9d1c4-c529-43d5-97b1-4fb1887fa677",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3a9d1c4-c529-43d5-97b1-4fb1887fa677",
+			"uuid": "d3a9d1c4-c529-43d5-97b1-4fb1887fa677",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/09/KT",
+			"title": "Informatie verzamelen en werkzaamheden voorbereiden / een CNC machine gebruiksklaar maken / een machine productieklaar maken en bedienen / materialen met een CNC machine bewerken / vervaardigde producten meten en controleren en uitgevoerde werkzaamheden afronden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/456e1a4d-0b21-4810-9452-26835826e9ed",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/456e1a4d-0b21-4810-9452-26835826e9ed",
+			"uuid": "456e1a4d-0b21-4810-9452-26835826e9ed",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/10/KT",
+			"title": "Een drinkwater- en sanitaire installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van drinkwater- en sanitaire installaties lezen en interpreteren / leidingsystemen voor een drinkwater- en sanitaire installatie aanleggen / een drinkwater- en sanitaire installatie afmonteren / een warmtewisselaar toepassen in een sanitaire installatie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d92ca623-f0d0-4306-a141-e51129ed869f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d92ca623-f0d0-4306-a141-e51129ed869f",
+			"uuid": "d92ca623-f0d0-4306-a141-e51129ed869f",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/11/KT",
+			"title": "Voor het vervaardigen van een dakgoot en dakrandafwerkingen uitslagen maken en overnemen op een zinken plaat / verschillende soorten zinken dakgoten maken / een dakrandafwerking van zink maken"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/63a94e64-2b81-4ae0-a390-56e367fa462f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63a94e64-2b81-4ae0-a390-56e367fa462f",
+			"uuid": "63a94e64-2b81-4ae0-a390-56e367fa462f",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/12/KT",
+			"title": "Met behulp van 2D en 3D CAD software een ontwerp van een draai- en freesproduct maken en de uitvoering voorbereiden / een ontworpen draai- en freesproduct produceren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/03868e17-4086-4e35-9f94-85a1d0b0e3b5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03868e17-4086-4e35-9f94-85a1d0b0e3b5",
+			"uuid": "03868e17-4086-4e35-9f94-85a1d0b0e3b5",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/13/KT",
+			"title": "Een elektrische installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van een elektrische installatie lezen en interpreteren / een elektrische installatie aanleggen en monteren / een elektrische installatie schakelen met domotica"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c685a8ae-bc6d-42b7-b203-9cd61adb1b5d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c685a8ae-bc6d-42b7-b203-9cd61adb1b5d",
+			"uuid": "c685a8ae-bc6d-42b7-b203-9cd61adb1b5d",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/14/KT",
+			"title": "In een practicum een domotica installatie opbouwen aan de hand van een schema en opstellingstekening / door middel van domotica een automatische besturing realiseren en testen / een automatische besturing met domotica componenten demonstreren en presenteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15ac5435-168d-409d-921b-6e7accb39b27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15ac5435-168d-409d-921b-6e7accb39b27",
+			"uuid": "15ac5435-168d-409d-921b-6e7accb39b27",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/15/KT",
+			"title": "Een elektriciteitsaansluiting maken van buiten tot in een meterkast / data-aansluitingen maken van buiten tot in een meterkast / een aardgasaansluiting maken van buiten tot aan een gasmeter in een meterkast / een drinkwateraansluiting maken vanuit buiten tot aan een watermeter in een meterkast / een lantaarnpaal aansluiten op een elektriciteitsnet"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aab48ee0-78e3-4cd7-9ab7-98ff9d016b30",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aab48ee0-78e3-4cd7-9ab7-98ff9d016b30",
+			"uuid": "aab48ee0-78e3-4cd7-9ab7-98ff9d016b30",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/16/KT",
+			"title": "Tekeningen en schema's van koude technische installaties lezen, meetgegevens vastleggen en interpreteren / bewerkingen uitvoeren aan verschillende soorten materialen ten behoeve van een koude technische installatie / onderdelen ten behoeve van een koude technische installatie samenstellen, monteren en installeren, aan de hand van een werktekening / een airco-unit plaatsen en inregelen"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a2e76872-d5d6-41d6-858d-cc9ff6e229a6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a2e76872-d5d6-41d6-858d-cc9ff6e229a6",
+			"uuid": "a2e76872-d5d6-41d6-858d-cc9ff6e229a6",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/17/KT",
+			"title": "Lichtbehoefte bepalen voor een werkruimteverlichting in een woning en kantoor aanpassen en energiezuiniger maken / een intercomsysteem aanleggen in een woning en kantoor / een intercomsysteem met video aanleggen in een woning en kantoor"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3b9dfee-b68f-4267-98a3-9705fd472e9c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3b9dfee-b68f-4267-98a3-9705fd472e9c",
+			"uuid": "f3b9dfee-b68f-4267-98a3-9705fd472e9c",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/18/KT",
+			"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid/ In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications)/ Een eenvoudige cloud-infrastructuur opbouwen (IAAS)"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/21eff436-e42f-4b35-810e-d123c3149877",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21eff436-e42f-4b35-810e-d123c3149877",
+			"uuid": "21eff436-e42f-4b35-810e-d123c3149877",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/19/KT",
+			"title": "Programmeren van de lasrobot zelf/ Lassen met de lasrobot/ Programmeren van de robot op de pc/ Eindwerkstuk ontwerpen, programmeren en aflassen op de lasrobot."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f28af2b8-9baa-4d9a-8b94-dd076eee34aa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f28af2b8-9baa-4d9a-8b94-dd076eee34aa",
+			"uuid": "f28af2b8-9baa-4d9a-8b94-dd076eee34aa",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/20/KT",
+			"title": "Met behulp van een aangeleverd 3D part een werktekening maken en 2D, werkstukken produceren door middel van verspanende bewerkingen/ werkvoorbereiding met daarin de bewerkingsstappen uitvoeren/ machines instellen en voorbereiden/ verspanende gereedschappen selecteren en instellen/ machineonderdelen produceren door middel van verspanen/ verschillende machineonderdelen assembleren tot een compleet product"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7f21881e-d214-4781-9628-599487a02b56",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f21881e-d214-4781-9628-599487a02b56",
+			"uuid": "7f21881e-d214-4781-9628-599487a02b56",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/21/KT",
+			"title": "Toepassen van slimme technologie door het aannemen en uitvoeren van een klantopdracht voor de ontwikkeling van een slimme technologische oplossing voor een technisch probleem. Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e",
+			"uuid": "ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/22/KT",
+			"title": "Het vliegen met een drone in een beroepssituatie."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2185f625-4b84-41da-a5ea-678d23cabf46",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2185f625-4b84-41da-a5ea-678d23cabf46",
+			"uuid": "2185f625-4b84-41da-a5ea-678d23cabf46",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/23/KT",
+			"title": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa7db8db-2d39-4c1b-9391-35695f79cadd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa7db8db-2d39-4c1b-9391-35695f79cadd",
+			"uuid": "aa7db8db-2d39-4c1b-9391-35695f79cadd",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/24/KT",
+			"title": "Het elementaire introductie van het vak goudsmeden en kennismaken met diverse basistechnieken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a",
+			"uuid": "b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/PIE/25/KT",
+			"title": "Water opvangen en opslaan, water drinkbaar maken, vuil water schoonmaken, water rondpompen en besturen, een energieneutraal circulair watersysteem bouwen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6c3516f0-7835-49be-a252-76cf1b35a557",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c3516f0-7835-49be-a252-76cf1b35a557",
+			"uuid": "6c3516f0-7835-49be-a252-76cf1b35a557",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/01/KT",
+			"title": "Eenvoudige hand, haar- en gezichtsbehandelingen uitvoeren bij een klant in een kapsalon of schoonheidssalon"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/db962e1f-4fc9-45ec-923f-44c410d57a84",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/db962e1f-4fc9-45ec-923f-44c410d57a84",
+			"uuid": "db962e1f-4fc9-45ec-923f-44c410d57a84",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/02/KT",
+			"title": "Haarbehandelingen uitvoeren bij een klant in een kapsalon"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/544e3b71-c3f6-418c-9b4a-06f55e709c3b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544e3b71-c3f6-418c-9b4a-06f55e709c3b",
+			"uuid": "544e3b71-c3f6-418c-9b4a-06f55e709c3b",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/03/KT",
+			"title": "Gezichts- en lichaamsbehandeling uitvoeren bij een klant in een schoonheidssalon"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43816b51-ee4e-485f-80bc-0b3cddf3f0d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43816b51-ee4e-485f-80bc-0b3cddf3f0d7",
+			"uuid": "43816b51-ee4e-485f-80bc-0b3cddf3f0d7",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/04/KT",
+			"title": "Hand- en voetbehandelingen uitvoeren bij een klant in een salon"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/84193507-9948-4b36-8646-a754b233cbc1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/84193507-9948-4b36-8646-a754b233cbc1",
+			"uuid": "84193507-9948-4b36-8646-a754b233cbc1",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/05/KT",
+			"title": "Een bijdrage leveren aan de opvoeding en ontwikkeling van kinderen en jongeren en hierover rapporteren"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1a4cf852-4f99-46eb-b11c-559f7a7097e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1a4cf852-4f99-46eb-b11c-559f7a7097e1",
+			"uuid": "1a4cf852-4f99-46eb-b11c-559f7a7097e1",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/06/KT",
+			"title": "Ondersteunen bij wonen en huishouden in een thuissituatie"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2401e8af-f06c-4d42-b36d-19605650274b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2401e8af-f06c-4d42-b36d-19605650274b",
+			"uuid": "2401e8af-f06c-4d42-b36d-19605650274b",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/07/KT",
+			"title": "Ondersteunende handelingen verrichten in de gezondheidszorg, gegevens verzamelen en gezondheidsadviezen geven"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4e9cdd35-e361-4866-ae03-d3ad038c18a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4e9cdd35-e361-4866-ae03-d3ad038c18a7",
+			"uuid": "4e9cdd35-e361-4866-ae03-d3ad038c18a7",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/08/KT",
+			"title": "Volwassenen en ouderen ondersteunen bij de algemene dagelijkse activiteiten en begeleiden bij de keuze voor een passende dagbesteding, de activiteit organiseren en de klant begeleiden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10ecfcd1-948d-4f53-80b2-6a95ad4279b1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10ecfcd1-948d-4f53-80b2-6a95ad4279b1",
+			"uuid": "10ecfcd1-948d-4f53-80b2-6a95ad4279b1",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/09/KT",
+			"title": "eenvoudige dienstverlenende activiteiten verrichten"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bb67e3a0-2df7-47b5-ad18-0c381ef3a307",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bb67e3a0-2df7-47b5-ad18-0c381ef3a307",
+			"uuid": "bb67e3a0-2df7-47b5-ad18-0c381ef3a307",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/10/KT",
+			"title": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
+			"uuid": "dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/11/KT",
+			"title": "Eenvoudige regelende taken verrichten bij sport en bewegen."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
+			"uuid": "0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/12/KT",
+			"title": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken."
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1c6edaf-f198-4710-a0a0-32cf2bd16c4a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1c6edaf-f198-4710-a0a0-32cf2bd16c4a",
+			"uuid": "f1c6edaf-f198-4710-a0a0-32cf2bd16c4a",
+			"@type": "ExamenprogrammaBgKeuzevaktaak",
+			"prefix": "K/ZW/13/KT",
+			"title": "Technologische hulpmiddelen benoemen en klanten ondersteunen en motiveren bij het gebruik en de keuze van technologische hulpmiddelen"
 		}
 	],
 	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"

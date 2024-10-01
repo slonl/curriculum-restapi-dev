@@ -900,6 +900,51 @@
 			"title": "vwo, 1",
 			"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  1",
 			"prefix": "4501"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/17da6976-2f1b-4214-a471-168f469d7e04",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/17da6976-2f1b-4214-a471-168f469d7e04",
+			"uuid": "17da6976-2f1b-4214-a471-168f469d7e04",
+			"@type": "Niveau",
+			"title": "vwo, 2",
+			"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  2",
+			"prefix": "4502"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b924d4ad-65a1-41dc-b704-c7786eb4aec0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b924d4ad-65a1-41dc-b704-c7786eb4aec0",
+			"uuid": "b924d4ad-65a1-41dc-b704-c7786eb4aec0",
+			"@type": "Niveau",
+			"title": "vwo, 3",
+			"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  3",
+			"prefix": "4503"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e2026706-0829-4a4c-b726-9409b6f407e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2026706-0829-4a4c-b726-9409b6f407e1",
+			"uuid": "e2026706-0829-4a4c-b726-9409b6f407e1",
+			"@type": "Niveau",
+			"title": "vwo, 4",
+			"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  4",
+			"prefix": "4504"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f2513775-3d54-423b-803b-15e06a8c89a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f2513775-3d54-423b-803b-15e06a8c89a8",
+			"uuid": "f2513775-3d54-423b-803b-15e06a8c89a8",
+			"@type": "Niveau",
+			"title": "vwo, 5",
+			"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  5",
+			"prefix": "4505"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/85d15c83-e2b4-4359-8475-a355591aaa1a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/85d15c83-e2b4-4359-8475-a355591aaa1a",
+			"uuid": "85d15c83-e2b4-4359-8475-a355591aaa1a",
+			"@type": "Niveau",
+			"title": "vwo, 6",
+			"description": "Voorbereidend wetenschappelijk onderwijs, leerjaar  6",
+			"prefix": "4506"
 		}
 	],
 	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"

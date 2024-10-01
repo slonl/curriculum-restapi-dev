@@ -800,6 +800,62 @@
 			"@type": "Examenprogramma",
 			"prefix": "WI/A/havo",
 			"title": "Examenprogramma Wiskunde A havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c992ebf3-7b35-4525-8f79-3218a1e6501c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c992ebf3-7b35-4525-8f79-3218a1e6501c",
+			"uuid": "c992ebf3-7b35-4525-8f79-3218a1e6501c",
+			"@type": "Examenprogramma",
+			"prefix": "WI/A/vwo",
+			"title": "Examenprogramma Wiskunde A vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6a1a0a97-cab1-416d-af69-2c617ce49ad4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6a1a0a97-cab1-416d-af69-2c617ce49ad4",
+			"uuid": "6a1a0a97-cab1-416d-af69-2c617ce49ad4",
+			"@type": "Examenprogramma",
+			"prefix": "WI/B/havo",
+			"title": "Examenprogramma Wiskunde B havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2501ecb4-7754-4323-920a-1e6732a91552",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2501ecb4-7754-4323-920a-1e6732a91552",
+			"uuid": "2501ecb4-7754-4323-920a-1e6732a91552",
+			"@type": "Examenprogramma",
+			"prefix": "WI/B/vwo",
+			"title": "Examenprogramma Wiskunde B vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/100ad83f-9d23-46ed-bcb4-e0107ea6cf4a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/100ad83f-9d23-46ed-bcb4-e0107ea6cf4a",
+			"uuid": "100ad83f-9d23-46ed-bcb4-e0107ea6cf4a",
+			"@type": "Examenprogramma",
+			"prefix": "WI/C/vwo",
+			"title": "Examenprogramma Wiskunde C vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3315f017-4613-401a-abc0-96f7207b6543",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3315f017-4613-401a-abc0-96f7207b6543",
+			"uuid": "3315f017-4613-401a-abc0-96f7207b6543",
+			"@type": "Examenprogramma",
+			"prefix": "WI/D/havo",
+			"title": "Examenprogramma Wiskunde D havo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d8c88680-be2f-467c-b50b-076f6144b444",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8c88680-be2f-467c-b50b-076f6144b444",
+			"uuid": "d8c88680-be2f-467c-b50b-076f6144b444",
+			"@type": "Examenprogramma",
+			"prefix": "WI/D/vwo",
+			"title": "Examenprogramma Wiskunde D vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4922f8be-f5db-4648-8fe0-f88b4845da68",
+			"uuid": "4922f8be-f5db-4648-8fe0-f88b4845da68",
+			"@type": "Examenprogramma",
+			"prefix": "WI/vmbo",
+			"title": "Examenprogramma Wiskunde vmbo"
 		}
 	],
 	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
