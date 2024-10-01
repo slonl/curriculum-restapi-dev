@@ -184,22 +184,22 @@
     }, {
       "id": "faee5a96-4894-43d8-9fdd-286bf8c93378",
       "comment": "Click Opslaan",
-      "command": "//click",
+      "command": "click",
       "target": "css=.ds-button-primary:nth-child(1)",
       "targets": [],
       "value": ""
     }, {
       "id": "69192502-f8ca-453b-8a20-0094b4da805a",
       "comment": "go back to main page",
-      "command": "",
-      "target": "",
+      "command": "open",
+      "target": "http://localhost:4500",
       "targets": [],
       "value": ""
     }, {
       "id": "2b685f4f-7b88-41b7-a206-82e2cbdcccb8",
       "comment": "delete cookies / settings",
-      "command": "",
-      "target": "",
+      "command": "executeScript",
+      "target": "delete localStorage[\"changeHistory\"]",
       "targets": [],
       "value": ""
     }, {
@@ -209,6 +209,94 @@
       "target": "",
       "targets": [],
       "value": ""
+    }, {
+      "id": "08bb9bec-12ca-4748-9053-5a4dcb4a7cd0",
+      "comment": "Check if Basis context is available",
+      "command": "assertText",
+      "target": "linkText=Basis",
+      "targets": [
+        ["linkText=Basis", "linkText"],
+        ["css=.slo-highlight-box:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Basis')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'curriculum-basis/')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Basis')]", "xpath:innerText"]
+      ],
+      "value": "Basis"
+    }, {
+      "id": "ec6721ca-9d39-4bda-a58e-a50e621c4ca8",
+      "comment": "Click on Basis",
+      "command": "click",
+      "target": "linkText=Basis",
+      "targets": [
+        ["linkText=Basis", "linkText"],
+        ["css=.slo-highlight-box:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Basis')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'curriculum-basis/')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'Basis')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "973f8517-50b9-4ac3-a59c-25ce4efefb7d",
+      "comment": "Click on Doelniveau",
+      "command": "click",
+      "target": "linkText=Doelniveau",
+      "targets": [
+        ["linkText=Doelniveau", "linkText"],
+        ["css=.slo-highlight-box:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Doelniveau')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'doelniveau/')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Doelniveau')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ff4bc2ac-b247-48b2-9e8d-a68d431e7105",
+      "comment": "Click on 4th item",
+      "command": "click",
+      "target": "css=li:nth-child(4) > .slo-relatie",
+      "targets": [
+        ["css=li:nth-child(4) > .slo-relatie", "css:finder"],
+        ["xpath=//a[@href='http://localhost:4500/uuid/38653c61-90dc-4f6f-9566-46b389439a0a']", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2624840d-0eb7-40b4-9666-9dafa34b3745",
+      "comment": "Click on documentweergave",
+      "command": "click",
+      "target": "css=.ds-button[data-simply-value=\"document\"][data-simply-command=\"switchView\"]",
+      "targets": [
+        ["css=.ds-button-naked:nth-child(3) use", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "91a2adbf-e13a-4fd3-9dbd-f63d5f72bbd6",
+      "comment": "Click on an item on the page to set focus",
+      "command": "clickAt",
+      "target": "id=/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66",
+      "targets": [
+        ["id=/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "id"],
+        ["css=#\\/uuid\\/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "css:finder"],
+        ["xpath=//li[@id='/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66']", "xpath:attributes"],
+        ["xpath=//div[@id='slo-document']/section/div[4]/section[2]/div[4]/section/div[4]/section/ul[3]/li[8]", "xpath:idRelative"],
+        ["xpath=//ul[3]/li[8]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "91e061b2-5b64-4e8b-bada-9b740dc59d5b",
+      "comment": "check same text",
+      "command": "assertText",
+      "target": "xpath=//li[@id='/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66']/span[2]",
+      "targets": [
+        ["id=/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "id"],
+        ["css=#\\/uuid\\/e7f5c798-e1db-471d-a20d-b493ae7f9c66", "css:finder"],
+        ["xpath=//li[@id='/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66']", "xpath:attributes"],
+        ["xpath=//div[@id='slo-document']/section/div[4]/section[2]/div[4]/section/div[4]/section/ul[3]/li[8]", "xpath:idRelative"],
+        ["xpath=//ul[3]/li[8]", "xpath:position"]
+      ],
+      "value": "Test A2 CRUD document weergave."
     }, {
       "id": "d841dcf7-b410-4dbb-a6db-e0da10085a92",
       "comment": "check if the changes are in the relevant field",
@@ -254,7 +342,7 @@
       "value": ""
     }, {
       "id": "a5a36ee0-cfc6-4876-9ca7-375b63528b55",
-      "comment": "",
+      "comment": "delete local cach",
       "command": "executeScript",
       "target": "delete localStorage[\"changeHistory\"]",
       "targets": [],
@@ -342,6 +430,20 @@
       "targets": [],
       "value": ""
     }, {
+      "id": "0babc64b-6652-4cf8-a9a2-49674aed3f35",
+      "comment": "Fetch the page URL",
+      "command": "executeScript",
+      "target": "return window.location.href",
+      "targets": [],
+      "value": "pageurl"
+    }, {
+      "id": "15ccf0e4-fa1e-411c-aea1-8c86d35c65f6",
+      "comment": "check if the page URL is the right one",
+      "command": "assert",
+      "target": "pageurl",
+      "targets": [],
+      "value": "http://localhost:4500/uuid/e7f5c798-e1db-471d-a20d-b493ae7f9c66"
+    }, {
       "id": "5e7a57aa-0ee4-4b47-b941-63b3d744c834",
       "comment": "Check if box appears",
       "command": "verifyText",
@@ -416,7 +518,7 @@
         ["xpath=//dialog[@id='commitChanges']/div/form/label/textarea", "xpath:idRelative"],
         ["xpath=//textarea", "xpath:position"]
       ],
-      "value": "SLO TEST GOVERT"
+      "value": "NIEUWE SLO TEST GOVERT"
     }, {
       "id": "73dc0a19-d484-41a8-9310-416cad88d20f",
       "comment": "Click Opslaan",
