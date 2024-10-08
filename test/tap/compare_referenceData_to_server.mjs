@@ -52,7 +52,7 @@ function removeURLSFromObject(subject) {
         subject[key] = subject[key].replace("https://opendata.slo.nl/curriculum/", "rootURL/");
         subject[key] = subject[key].replace("http://localhost:4500/", "rootURL/");
         subject[key] = subject[key].replace("https://localhost:4500/", "rootURL/");
-      }  else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
+      }  else if ((typeof subject[key] === 'object' || Array.isArray(subject[key])) && subject[key] !== null) {
         removeURLSFromObject(subject[key])
       }
     })
@@ -63,7 +63,7 @@ function replaceUndefined(subject){
   Object.keys(subject).forEach(key => {
     if(subject[key] == undefined ){
       subject[key] = ""; // see doelniveau.json where the graphql version has "undefined" and the new version has "".
-    }  else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
+    }  else if ((typeof subject[key] === 'object' || Array.isArray(subject[key])) && subject[key] !== null) {
       replaceUndefined(subject[key])
     }
   })
@@ -75,7 +75,7 @@ function removeKeysFromObject(subject, discardKeyArray) {
   Object.keys(subject).forEach(key => {
     if (discardKeyArray.includes(key)) {
       delete subject[key];
-    } else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
+    } else if ((typeof subject[key] === 'object' || Array.isArray(subject[key])) && subject[key] !== null) {
       removeKeysFromObject(subject[key], discardKeyArray)
     }
   })
@@ -87,7 +87,7 @@ function removeMISCFromObject(subject) {
   Object.keys(subject).forEach(key => {
     if (key == "count" || key == "page" || key == "root"){
       subject[key] = "key removed for testing purposes";
-    }  else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
+    }  else if ((typeof subject[key] === 'object' || Array.isArray(subject[key])) && subject[key] !== null) {
       removeMISCFromObject(subject[key])
     }
   })
@@ -98,7 +98,7 @@ function replaceNull(subject) {
   Object.keys(subject).forEach(key => {
     if (subject[key] == null ){
       subject[key] = [];
-    }  else if ((typeof subject[key] === 'object' || typeof subject[key] === 'array') && subject[key] !== null) {
+    }  else if ((typeof subject[key] === 'object' || Array.isArray(subject[key])) && subject[key] !== null) {
       replaceNull(subject[key])
     }
   })
@@ -106,9 +106,45 @@ function replaceNull(subject) {
 }
 
 function orderSelectedKeys(subject){
-    subject = from(subject.data).orderBy({'@id': asc}).select({ '@id': _ , '@type': _, title: _})
+    subject = from(subject.data).orderBy({'@id': asc}).select({ '@id': _ , '@references': _, uuid: _,'@type': _, prefix: _,title: _, deprecated:_, Vakleergebied: _ })
     return subject
 }
+
+function updateSelectedKeys(subject){
+  
+  Object.keys(subject).forEach(key => {
+    if (subject[key] === null || subject[key] === "undefined") {
+      subject[key] = "";
+    }
+
+    if (subject[key] == "DoelNiveau" || subject[key] == "Doelniveau"){
+      subject[key] = "Doelniveau";
+    }
+
+    if ((typeof subject[key] === 'object' || Array.isArray(subject[key])) && subject[key] !== null) {
+      updateSelectedKeys(subject[key])
+    }
+  })
+  return subject;
+}
+
+
+
+// function warns of known errors where the new data should be correct.
+
+let DoelniveauFailed = false;
+function keyWarningsDoelniveau(subject){
+  Object.keys(subject).forEach(key => {
+    if (subject[key] == "DoelNiveau"){
+      DoelniveauFailed = true;
+    } else if ((typeof subject[key] === 'object' || Array.isArray(subject[key])) && subject[key] !== null) {
+      DoelniveauFailed = keyWarningsDoelniveau(subject[key]);
+    }
+  })
+  return DoelniveauFailed;
+}
+
+
 
 tap.test("API calls", async t => {
 
@@ -119,28 +155,24 @@ tap.test("API calls", async t => {
     let found = await getData(rootURL + call + "/" + "?pageSize=1000&page=0");
     let wanted = APICallData;
     
-    // remove unwanted keys and replace differing URLS
-    //if(typeof found === 'object' && found != null){
-    //     found = removeKeysFromObject(found, discardKeyArray);
-    //     found = removeURLSFromObject(found);
-    //     found = removeMISCFromObject(found);    
-    //}
+    found = removeURLSFromObject(found);
+    wanted = removeURLSFromObject(wanted);
 
-    //if(typeof wanted === 'object' && wanted != null){
-    //     wanted = removeKeysFromObject(wanted, discardKeyArray);
-    //     wanted = removeURLSFromObject(wanted);
-    //     wanted = removeMISCFromObject(wanted);
-    //}
 
+  //checking if known issues with new data being correct don't resurface
+    if(keyWarningsDoelniveau(found)){
+      t.fail("Found DoelNiveau, should be Doelniveau: " + call);
+    };
+
+    // remove differences where the new data is known to be correct
+    found = updateSelectedKeys(found); 
+    wanted = updateSelectedKeys(wanted); 
+
+    // order the data for comparison
     found = orderSelectedKeys(found);
     wanted = orderSelectedKeys(wanted);
 
-    // found = replaceUndefined(found);
-    // wanted = replaceUndefined(wanted);
-
-    //found = replaceNull(found)
-    //wanted = replaceNull(wanted)
-
+    // check if the data matches
     t.match(found, wanted, ("Call results don't match in: " + call ));
 
     if(found != null && wanted != null){
