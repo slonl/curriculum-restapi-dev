@@ -8,8 +8,7 @@ import Chrome from 'selenium-webdriver/chrome.js';
   let driver;
   
   try {
-
-       const screen = {
+    const screen = {
       width: 640,
       height: 480
     };
@@ -18,7 +17,6 @@ import Chrome from 'selenium-webdriver/chrome.js';
         .forBrowser(Browser.CHROME)
         .setChromeOptions(new Chrome.Options().addArguments('--headless').windowSize(screen))
         .build();
-
 
     await driver.get('http://localhost:4500');
 
