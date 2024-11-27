@@ -1,0 +1,50 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fd1f1e06-1486-4764-a443-c2f09b2683d9",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fd1f1e06-1486-4764-a443-c2f09b2683d9",
+	"uuid": "fd1f1e06-1486-4764-a443-c2f09b2683d9",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkTaalactiviteit",
+	"ErkSchaal": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+			"uuid": "af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+			"title": "Koppelen aan eerdere kennis",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7e36039-a22b-4493-9463-3640568c7ff8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7e36039-a22b-4493-9463-3640568c7ff8",
+			"uuid": "c7e36039-a22b-4493-9463-3640568c7ff8",
+			"title": "Taal aanpassen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/39345624-d45d-43bf-9881-f4370daaf18e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/39345624-d45d-43bf-9881-f4370daaf18e",
+			"uuid": "39345624-d45d-43bf-9881-f4370daaf18e",
+			"title": "Gecompliceerde informatie opsplitsen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43c6393f-a27c-4499-8bbd-13439c68d994",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43c6393f-a27c-4499-8bbd-13439c68d994",
+			"uuid": "43c6393f-a27c-4499-8bbd-13439c68d994",
+			"title": "Tekst met hoge informatiedichtheid toelichten",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/be0692e3-3ac9-4274-8c4e-0791ddb16c0b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be0692e3-3ac9-4274-8c4e-0791ddb16c0b",
+			"uuid": "be0692e3-3ac9-4274-8c4e-0791ddb16c0b",
+			"title": "Tekst stroomlijnen",
+			"deprecated": null
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "Mediation - strategieën"
+}

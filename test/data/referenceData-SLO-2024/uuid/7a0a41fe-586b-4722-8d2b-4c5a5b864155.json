@@ -1,0 +1,38 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/7a0a41fe-586b-4722-8d2b-4c5a5b864155",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7a0a41fe-586b-4722-8d2b-4c5a5b864155",
+	"uuid": "7a0a41fe-586b-4722-8d2b-4c5a5b864155",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkGebied",
+	"ErkCategorie": [],
+	"ErkTaalactiviteit": [],
+	"ErkSchaal": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/56b546a4-2e91-4666-b608-1bd95cd20191",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56b546a4-2e91-4666-b608-1bd95cd20191",
+			"uuid": "56b546a4-2e91-4666-b608-1bd95cd20191",
+			"title": "Voortbouwen op pluricultureel repertoire",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"uuid": "2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+			"title": "Meertalig begrip",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d39d33ff-4b79-4a91-81f3-62ae431c351e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d39d33ff-4b79-4a91-81f3-62ae431c351e",
+			"uuid": "d39d33ff-4b79-4a91-81f3-62ae431c351e",
+			"title": "Voortbouwen op meertalig repertoire",
+			"deprecated": null
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "Meertalige en pluriculturele competenties"
+}

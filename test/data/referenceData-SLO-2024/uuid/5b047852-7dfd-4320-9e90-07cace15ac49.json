@@ -1,0 +1,63 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/5b047852-7dfd-4320-9e90-07cace15ac49",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b047852-7dfd-4320-9e90-07cace15ac49",
+	"uuid": "5b047852-7dfd-4320-9e90-07cace15ac49",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaEindterm",
+	"ExamenprogrammaSubdomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/18edc847-ec43-44bb-8482-77c9d7d02768",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/18edc847-ec43-44bb-8482-77c9d7d02768",
+			"uuid": "18edc847-ec43-44bb-8482-77c9d7d02768",
+			"prefix": "MO/H/DomeinA/A4",
+			"title": "Subdomein A4: Informatievaardigheden",
+			"deprecated": null,
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64a61086-b2a2-4db1-8754-4d4159ae0579",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64a61086-b2a2-4db1-8754-4d4159ae0579",
+					"uuid": "64a61086-b2a2-4db1-8754-4d4159ae0579",
+					"title": "Domein A: Vaardigheden",
+					"deprecated": null,
+					"Examenprogramma": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/d530a659-8e56-4a8a-8d9c-81eaa7727ca4",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d530a659-8e56-4a8a-8d9c-81eaa7727ca4",
+							"uuid": "d530a659-8e56-4a8a-8d9c-81eaa7727ca4",
+							"title": "Examenprogramma Management en organisatie havo",
+							"deprecated": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/0685a60b-5833-4da0-8643-a54c206686ae",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0685a60b-5833-4da0-8643-a54c206686ae",
+							"uuid": "0685a60b-5833-4da0-8643-a54c206686ae",
+							"title": "Examenprogramma management en organisatie havo",
+							"deprecated": true
+						}
+					]
+				}
+			]
+		}
+	],
+	"ExamenprogrammaDomein": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"uuid": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		}
+	],
+	"SyllabusSpecifiekeEindterm": [],
+	"SyllabusToelichting": [],
+	"SyllabusVakbegrip": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "4.",
+	"title": "De kandidaat kan de resultaten van een leeractiviteit overdragen aan anderen.",
+	"ce_se": "CE; SE"
+}

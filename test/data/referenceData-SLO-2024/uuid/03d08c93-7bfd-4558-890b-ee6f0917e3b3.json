@@ -1,0 +1,13 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/03d08c93-7bfd-4558-890b-ee6f0917e3b3",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03d08c93-7bfd-4558-890b-ee6f0917e3b3",
+	"uuid": "03d08c93-7bfd-4558-890b-ee6f0917e3b3",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkVoorbeeld",
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": null,
+	"title": "Ideeën van een correspondentiepartner over vriendschap, relaties, werk, het milieu (DL)."
+}

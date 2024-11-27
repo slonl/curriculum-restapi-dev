@@ -1,0 +1,75 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fe7101ce-5399-43df-bac5-e9d53a614712",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe7101ce-5399-43df-bac5-e9d53a614712",
+	"uuid": "fe7101ce-5399-43df-bac5-e9d53a614712",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKeuzevak",
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+			"uuid": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+			"prefix": "MET",
+			"title": "Mobiliteit en Transport",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43c567e5-d5a9-480e-b03c-3c377215ecf6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43c567e5-d5a9-480e-b03c-3c377215ecf6",
+			"uuid": "43c567e5-d5a9-480e-b03c-3c377215ecf6",
+			"prefix": "MT",
+			"title": "Mobiliteit en transport",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/28fc4f1d-ada3-4d58-ae39-37e3c308511a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/28fc4f1d-ada3-4d58-ae39-37e3c308511a",
+			"uuid": "28fc4f1d-ada3-4d58-ae39-37e3c308511a",
+			"prefix": "MET",
+			"title": "Mobiliteit en Transport",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgDeeltaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b48a2da6-6ec0-454e-a559-bd6fdbb7be5e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b48a2da6-6ec0-454e-a559-bd6fdbb7be5e",
+			"uuid": "b48a2da6-6ec0-454e-a559-bd6fdbb7be5e",
+			"prefix": "K/MET/02/01",
+			"title": "Een aandrijfsysteem controleren, componenten vervangen en afstellen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d86b4e0-8e63-4592-a00d-63c39d7c38d9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d86b4e0-8e63-4592-a00d-63c39d7c38d9",
+			"uuid": "0d86b4e0-8e63-4592-a00d-63c39d7c38d9",
+			"prefix": "K/MET/02/02",
+			"title": "Een remsysteem testen, controleren, metingen uitvoeren, componenten vervangen, testen, ontluchten en afstellen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b3853c66-2e46-47a7-8f84-9362eb7a246a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3853c66-2e46-47a7-8f84-9362eb7a246a",
+			"uuid": "b3853c66-2e46-47a7-8f84-9362eb7a246a",
+			"prefix": "K/MET/02/03",
+			"title": "Een stuursysteem controleren, componenten vervangen en afstellen",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaBgKeuzevaktaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a77d4fb0-d504-4352-877a-bd937f13fe1a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a77d4fb0-d504-4352-877a-bd937f13fe1a",
+			"uuid": "a77d4fb0-d504-4352-877a-bd937f13fe1a",
+			"prefix": "K/MET/02/KT",
+			"title": "Een aandrijfsysteem controleren, vervangen en afstellen / een remsysteem controleren, metingen uitvoeren, componenten testen, vervangen, ontluchten en afstellen / een stuursysteem controleren, componenten vervangen en afstellen",
+			"deprecated": null
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/MET/02",
+	"title": "Aandrijf en remsysteem"
+}

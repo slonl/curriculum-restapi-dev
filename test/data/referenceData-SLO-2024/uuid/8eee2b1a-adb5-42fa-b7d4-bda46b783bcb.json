@@ -1,0 +1,37 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/8eee2b1a-adb5-42fa-b7d4-bda46b783bcb",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8eee2b1a-adb5-42fa-b7d4-bda46b783bcb",
+	"uuid": "8eee2b1a-adb5-42fa-b7d4-bda46b783bcb",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaVakleergebied",
+	"Examenprogramma": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e21918e9-207a-48d6-b3c5-490426ee7675",
+			"uuid": "e21918e9-207a-48d6-b3c5-490426ee7675",
+			"title": "Examenprogramma Kunstvakken incl. CKV vmbo",
+			"deprecated": null
+		}
+	],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/29a8bd9f-2963-4070-84d8-c06075ca0ae1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29a8bd9f-2963-4070-84d8-c06075ca0ae1",
+			"uuid": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
+			"title": "Kunstvakken incl. CKV",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0be557c4-ea18-43a4-800b-a2fb7e6e0f49",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0be557c4-ea18-43a4-800b-a2fb7e6e0f49",
+			"uuid": "0be557c4-ea18-43a4-800b-a2fb7e6e0f49",
+			"title": "Kunstvakken: Culturele Kunstzinnige Vorming"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Kunstvakken incl. CKV"
+}

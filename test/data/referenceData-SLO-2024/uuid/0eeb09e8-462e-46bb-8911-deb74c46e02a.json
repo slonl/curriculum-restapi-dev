@@ -1,0 +1,65 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0eeb09e8-462e-46bb-8911-deb74c46e02a",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0eeb09e8-462e-46bb-8911-deb74c46e02a",
+	"uuid": "0eeb09e8-462e-46bb-8911-deb74c46e02a",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgDeeltaak",
+	"ExamenprogrammaBgGlobaleEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6a571128-69de-4e36-b511-87e459e9117e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6a571128-69de-4e36-b511-87e459e9117e",
+			"uuid": "6a571128-69de-4e36-b511-87e459e9117e",
+			"prefix": "K/BWI/24/5.1",
+			"title": "De kandidaat kan het meubel afwerken met afwerkmateriaal.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8ee82ce-7334-4d89-b2a0-911e589b953b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8ee82ce-7334-4d89-b2a0-911e589b953b",
+			"uuid": "a8ee82ce-7334-4d89-b2a0-911e589b953b",
+			"prefix": "K/BWI/24/5.2",
+			"title": "De kandidaat kan het werk controleren, het meubel schoonmaken en opleveren.",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaBgModule": [],
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
+			"uuid": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
+			"prefix": "K/BWI/24",
+			"title": "Meubelstofferen voor het vmbo",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"uuid": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1890251e-08f8-4520-a495-f28607eb0b6e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1890251e-08f8-4520-a495-f28607eb0b6e",
+					"uuid": "1890251e-08f8-4520-a495-f28607eb0b6e",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+					"uuid": "a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/BWI/24/5",
+	"title": "Gestoffeerde meubels afwerken en opleveren."
+}

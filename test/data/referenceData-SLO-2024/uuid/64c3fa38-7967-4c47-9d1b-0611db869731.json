@@ -1,0 +1,67 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/64c3fa38-7967-4c47-9d1b-0611db869731",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64c3fa38-7967-4c47-9d1b-0611db869731",
+	"uuid": "64c3fa38-7967-4c47-9d1b-0611db869731",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefSubdomein",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/38d3bc09-c8f0-44de-959f-a53d85eeeea1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38d3bc09-c8f0-44de-959f-a53d85eeeea1",
+			"uuid": "38d3bc09-c8f0-44de-959f-a53d85eeeea1",
+			"prefix": "RKT3.4-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b12eeb38-d76f-4761-8a01-6bfced3459eb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b12eeb38-d76f-4761-8a01-6bfced3459eb",
+					"uuid": "b12eeb38-d76f-4761-8a01-6bfced3459eb",
+					"title": "Kan eigen ideeën, ervaringen, gebeurtenissen en fantasieën opschrijven in een verhaal, in een informatieve tekst of in een gedicht.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+			"uuid": "3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+			"prefix": "RKT3",
+			"title": "Schrijven",
+			"deprecated": null
+		}
+	],
+	"RefOnderwerp": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_ubdomein/64c3fa38-7967-4c47-9d1b-0611db869731"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKT3.4",
+	"title": "Vrij schrijven"
+}

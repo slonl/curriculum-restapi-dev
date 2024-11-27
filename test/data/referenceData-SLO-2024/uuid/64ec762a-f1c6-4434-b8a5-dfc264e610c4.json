@@ -1,0 +1,123 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/64ec762a-f1c6-4434-b8a5-dfc264e610c4",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64ec762a-f1c6-4434-b8a5-dfc264e610c4",
+	"uuid": "64ec762a-f1c6-4434-b8a5-dfc264e610c4",
+	"@type": "LdkVakinhoud",
+	"LdkVaksubkern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/23a0138c-4162-4fca-9a9a-a04be43a4bf3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/23a0138c-4162-4fca-9a9a-a04be43a4bf3",
+			"uuid": "23a0138c-4162-4fca-9a9a-a04be43a4bf3",
+			"title": "Slavenarbeid op plantages en de opkomst van het abolitionisme.",
+			"prefix": "gs/7/2",
+			"deprecated": null,
+			"LdkVakkern": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8aad6054-cdad-4fcf-b596-ce777bf2344b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8aad6054-cdad-4fcf-b596-ce777bf2344b",
+					"uuid": "8aad6054-cdad-4fcf-b596-ce777bf2344b",
+					"title": "Pruiken en revoluties (1700 - 1800)",
+					"prefix": "gs/7",
+					"deprecated": null,
+					"LdkVakleergebied": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/c1a28b2e-a1fa-454f-af11-9f20b297e17c",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1a28b2e-a1fa-454f-af11-9f20b297e17c",
+							"uuid": "c1a28b2e-a1fa-454f-af11-9f20b297e17c",
+							"title": "Geschiedenis",
+							"deprecated": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/a79c3e65-a531-451f-9b8a-77d82100b81c",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a79c3e65-a531-451f-9b8a-77d82100b81c",
+							"uuid": "a79c3e65-a531-451f-9b8a-77d82100b81c",
+							"title": "Geschiedenis",
+							"deprecated": true
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/325755c6-01d6-43be-85b3-2639f402fee8",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/325755c6-01d6-43be-85b3-2639f402fee8",
+							"uuid": "325755c6-01d6-43be-85b3-2639f402fee8",
+							"title": "Geschiedenis",
+							"deprecated": true
+						}
+					]
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/99f5add1-993a-4d18-bd7f-3b172040011f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/99f5add1-993a-4d18-bd7f-3b172040011f",
+					"uuid": "99f5add1-993a-4d18-bd7f-3b172040011f",
+					"title": "Pruiken en revoluties (1700 - 1800)",
+					"prefix": "gs/7",
+					"deprecated": true,
+					"LdkVakleergebied": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/edb2383a-618c-467e-bccd-b0bab8b10218",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edb2383a-618c-467e-bccd-b0bab8b10218",
+							"uuid": "edb2383a-618c-467e-bccd-b0bab8b10218",
+							"title": "Geschiedenis",
+							"deprecated": true
+						}
+					]
+				}
+			]
+		}
+	],
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8388856b-fa27-4c96-8973-e5592731b583",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8388856b-fa27-4c96-8973-e5592731b583",
+			"uuid": "8388856b-fa27-4c96-8973-e5592731b583",
+			"prefix": "gs/7/2/2/1/po",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5c0665c-9e33-4857-a405-41f9c2bd044f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5c0665c-9e33-4857-a405-41f9c2bd044f",
+					"uuid": "b5c0665c-9e33-4857-a405-41f9c2bd044f",
+					"title": "Je licht motieven toe voor de afschaffing van slavernij en slavenhandel.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9ddeb1f8-b00c-45ef-9bd0-bd5aec8dcbc4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ddeb1f8-b00c-45ef-9bd0-bd5aec8dcbc4",
+					"uuid": "9ddeb1f8-b00c-45ef-9bd0-bd5aec8dcbc4",
+					"title": "Abolitionisme",
+					"ce_se": null
+				}
+			]
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+			"title": "po",
+			"prefix": "1000-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/512e4729-03a4-43a2-95ba-758071d1b725/ldk_vakinhoud/64ec762a-f1c6-4434-b8a5-dfc264e610c4"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Abolitionisme",
+	"prefix": "gs/7/2/2"
+}

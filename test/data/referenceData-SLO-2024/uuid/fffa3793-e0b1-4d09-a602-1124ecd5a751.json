@@ -1,0 +1,389 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fffa3793-e0b1-4d09-a602-1124ecd5a751",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fffa3793-e0b1-4d09-a602-1124ecd5a751",
+	"uuid": "fffa3793-e0b1-4d09-a602-1124ecd5a751",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefOnderwerp",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d71552bc-2f9b-4d98-a735-47d7d88dcaa3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d71552bc-2f9b-4d98-a735-47d7d88dcaa3",
+			"uuid": "d71552bc-2f9b-4d98-a735-47d7d88dcaa3",
+			"prefix": "RKR_1.A.1a-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6c44dce5-6625-4218-ba75-006097561d33",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c44dce5-6625-4218-ba75-006097561d33",
+					"uuid": "6c44dce5-6625-4218-ba75-006097561d33",
+					"title": "5 is gelijk aan (evenveel als) 2 en 3",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c6a8e6a-8f35-4c0e-be19-4f9b8fea6ad2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c6a8e6a-8f35-4c0e-be19-4f9b8fea6ad2",
+			"uuid": "3c6a8e6a-8f35-4c0e-be19-4f9b8fea6ad2",
+			"prefix": "RKR_1.A.1b-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/06fb25d0-a8e6-4bb7-8a9a-6b4259edcb59",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/06fb25d0-a8e6-4bb7-8a9a-6b4259edcb59",
+					"uuid": "06fb25d0-a8e6-4bb7-8a9a-6b4259edcb59",
+					"title": "de relaties groter/kleiner dan",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1e4748c6-f01f-48ec-aed5-09dd156ce33b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1e4748c6-f01f-48ec-aed5-09dd156ce33b",
+			"uuid": "1e4748c6-f01f-48ec-aed5-09dd156ce33b",
+			"prefix": "RKR_1.A.1c-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5f6d1cb4-cef7-4d0a-8011-af1e20375284",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5f6d1cb4-cef7-4d0a-8011-af1e20375284",
+					"uuid": "5f6d1cb4-cef7-4d0a-8011-af1e20375284",
+					"title": "0,45 is vijfenveertig honderdsten",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9761112d-74c3-4cac-881f-db250f6ef98e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9761112d-74c3-4cac-881f-db250f6ef98e",
+			"uuid": "9761112d-74c3-4cac-881f-db250f6ef98e",
+			"prefix": "RKR_1.A.1d-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/37ad1e01-e4fc-48f7-826e-6cd7e2074dd1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/37ad1e01-e4fc-48f7-826e-6cd7e2074dd1",
+					"uuid": "37ad1e01-e4fc-48f7-826e-6cd7e2074dd1",
+					"title": "breuknotatie met horizontale streep",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b43f5e71-4b59-4e5a-958a-8a018318621a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b43f5e71-4b59-4e5a-958a-8a018318621a",
+			"uuid": "b43f5e71-4b59-4e5a-958a-8a018318621a",
+			"prefix": "RKR_1.A.1a-1S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8c6a7840-e594-47e3-864d-dc60f97dbd7f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c6a7840-e594-47e3-864d-dc60f97dbd7f",
+					"uuid": "8c6a7840-e594-47e3-864d-dc60f97dbd7f",
+					"title": "breuknotatie herkennen ook als 3/4",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/548adf31-2544-4b39-8fff-40cfea887a83",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/548adf31-2544-4b39-8fff-40cfea887a83",
+			"uuid": "548adf31-2544-4b39-8fff-40cfea887a83",
+			"prefix": "RKR_1.A.1a-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/56e35eb4-66c2-4ef8-9eef-f6c3668d1f88",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56e35eb4-66c2-4ef8-9eef-f6c3668d1f88",
+					"uuid": "56e35eb4-66c2-4ef8-9eef-f6c3668d1f88",
+					"title": "schrijfwijze negatieve getallen: -3oC, -150 m",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a62b219f-08ab-4298-99ec-f84b9885d81f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a62b219f-08ab-4298-99ec-f84b9885d81f",
+			"uuid": "a62b219f-08ab-4298-99ec-f84b9885d81f",
+			"prefix": "RKR_1.A.1b-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/61881f7b-be59-412c-a269-2ae6d0d639a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61881f7b-be59-412c-a269-2ae6d0d639a2",
+					"uuid": "61881f7b-be59-412c-a269-2ae6d0d639a2",
+					"title": "symbolen zoals < en > gebruiken",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4a921f71-2503-47fc-8d3a-eaabe1fe7d27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4a921f71-2503-47fc-8d3a-eaabe1fe7d27",
+			"uuid": "4a921f71-2503-47fc-8d3a-eaabe1fe7d27",
+			"prefix": "RKR_1.A.1c-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/93d3ee8d-1267-4fa6-ac32-771d54ebb411",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/93d3ee8d-1267-4fa6-ac32-771d54ebb411",
+					"uuid": "93d3ee8d-1267-4fa6-ac32-771d54ebb411",
+					"title": "gebruik van wortelteken, machten",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4007ca2c-3749-4190-a84a-c9881b011595",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4007ca2c-3749-4190-a84a-c9881b011595",
+			"uuid": "4007ca2c-3749-4190-a84a-c9881b011595",
+			"prefix": "RKR_1.A.1a-2S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/df256be3-06bd-4171-b6b4-b3a905a2e1da",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df256be3-06bd-4171-b6b4-b3a905a2e1da",
+					"uuid": "df256be3-06bd-4171-b6b4-b3a905a2e1da",
+					"title": "verschillende schrijfwijzen van getallen met elkaar vergelijken",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+					"title": "2S",
+					"prefix": "3201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fadc20aa-082e-4e80-8a83-830c4006f236"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f19f03e5-6877-42c4-a677-39b23bb4b8da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f19f03e5-6877-42c4-a677-39b23bb4b8da",
+			"uuid": "f19f03e5-6877-42c4-a677-39b23bb4b8da",
+			"prefix": "RKR_1.A.1a-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/02022e72-9fc1-4067-9b01-8df8a371624e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/02022e72-9fc1-4067-9b01-8df8a371624e",
+					"uuid": "02022e72-9fc1-4067-9b01-8df8a371624e",
+					"title": "uitspraak, schrijfwijze en betekenis van negatieve getallen (ook op de rekenmachne) zoals ze voorkomen in situaties met bijvoorbeeld temperatuur, schuld en tekort en hoogte",
+					"description": "Voorbeelden: \r\n- het vriest 8 graden kan ook worden weergegeven als: het is -8˚C en uitgesproken als ‘min 8’ of ‘8 graden onder 0’\r\n-tekorten en schulden kunnen weergeven met een minteken\r\n-in een tabel de betekenis van positieve (overschotten) en negatieve verschillen (tekorten) aflezen en interpreteren\r\n-op de rekenmachine bijvoorbeeld -5,23 /- 7,81 correct intypen",
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefSubdomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/897ef51d-f217-422b-88ef-cd3084e1e909",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/897ef51d-f217-422b-88ef-cd3084e1e909",
+			"uuid": "897ef51d-f217-422b-88ef-cd3084e1e909",
+			"prefix": "RKR_1.A",
+			"title": "Notatie taal en betekenis",
+			"deprecated": null
+		}
+	],
+	"RefDeelonderwerp": [],
+	"RefTekstkenmerk": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_nderwerp/fffa3793-e0b1-4d09-a602-1124ecd5a751"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+			"title": "1S",
+			"prefix": "1002-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/86d05d5a-8dfa-422b-820c-50019985426d/ref_nderwerp/fffa3793-e0b1-4d09-a602-1124ecd5a751"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_nderwerp/fffa3793-e0b1-4d09-a602-1124ecd5a751"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+			"title": "2S",
+			"prefix": "3201-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fadc20aa-082e-4e80-8a83-830c4006f236/ref_nderwerp/fffa3793-e0b1-4d09-a602-1124ecd5a751"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_nderwerp/fffa3793-e0b1-4d09-a602-1124ecd5a751"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKR_1.A.1",
+	"title": "Paraat hebben"
+}

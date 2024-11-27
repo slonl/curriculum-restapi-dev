@@ -1,0 +1,26 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+	"uuid": "ff42d4d6-acf8-4a2e-9163-3550a7dd96ad",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkCandobeschrijving",
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+			"uuid": "50fd5672-94d8-4445-b988-bb198f5515f4",
+			"title": "C1",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/50fd5672-94d8-4445-b988-bb198f5515f4"
+		}
+	],
+	"ErkVoorbeeld": [],
+	"ErkLesidee": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "",
+	"title": "Maakt incidenteel kleine vergissingen, maar geen echte fouten in woordkeuze.",
+	"isempty": null
+}

@@ -1,0 +1,29 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/05a808e1-1b89-4011-a967-bd2484b58df7",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05a808e1-1b89-4011-a967-bd2484b58df7",
+	"uuid": "05a808e1-1b89-4011-a967-bd2484b58df7",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkTaalactiviteit",
+	"ErkSchaal": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4310f8f2-049f-4387-a979-6fe10c0c7d60",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4310f8f2-049f-4387-a979-6fe10c0c7d60",
+			"uuid": "4310f8f2-049f-4387-a979-6fe10c0c7d60",
+			"title": "Online conversatie en discussie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/20572757-2806-414c-bd0b-f6e5ee2bab5e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/20572757-2806-414c-bd0b-f6e5ee2bab5e",
+			"uuid": "20572757-2806-414c-bd0b-f6e5ee2bab5e",
+			"title": "Doelgerichte online transacties en samenwerking",
+			"deprecated": null
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "Online interactie"
+}

@@ -1,0 +1,276 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+	"uuid": "fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "KerndoelVakleergebied",
+	"Kerndoel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2bc84641-d7e9-43c8-a850-ab884b8ee58f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2bc84641-d7e9-43c8-a850-ab884b8ee58f",
+			"uuid": "2bc84641-d7e9-43c8-a850-ab884b8ee58f",
+			"title": "De leerling oriënteert zich op het sociaal-culturele aanbod in zijn omgeving, leert een voor hem passende keuze te maken uit dit aanbod en leert actief deel te nemen aan culturele activiteiten.",
+			"prefix": "VSO Kerndoel AM 59",
+			"kerndoelLabel": "Oriënteren op kunst beleven en participeren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/11daa22f-87cf-4977-a658-577b6d108897",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/11daa22f-87cf-4977-a658-577b6d108897",
+			"uuid": "11daa22f-87cf-4977-a658-577b6d108897",
+			"title": "De leerling leert zich creatief en kunstzinnig te uiten, passend bij de eigen talenten, voorkeuren en mogelijkheden.",
+			"prefix": "VSO Kerndoel AM 60",
+			"kerndoelLabel": "Produceren van creatief en kunstzinnig werk",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
+			"uuid": "00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
+			"title": "De leerling leert eigen creatief of kunstzinnig werk, alleen of met een groep, aan derden te presenteren.",
+			"prefix": "VSO Kerndoel AM 61",
+			"kerndoelLabel": "Eigen kunstzinnig werk presenteren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/97c1063a-fc68-40da-ba5a-514ef1181b56",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/97c1063a-fc68-40da-ba5a-514ef1181b56",
+			"uuid": "97c1063a-fc68-40da-ba5a-514ef1181b56",
+			"title": "De leerling leert te vertellen en na te denken over eigen creatief of kunstzinnig werk en over het werk van anderen.",
+			"prefix": "VSO Kerndoel AM 62",
+			"kerndoelLabel": "Reflecteren op kunstzinnig werk",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
+			"uuid": "f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
+			"title": "De leerling maakt kennis met het (sociaal-)culturele aanbod in zijn omgeving door actief deel te nemen aan culturele activiteiten.",
+			"prefix": "VSO Kerndoel DB 41",
+			"kerndoelLabel": "Oriënteren op kunst beleven en participeren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5fb087e-5be7-407b-8be8-4d0bd1e51361",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5fb087e-5be7-407b-8be8-4d0bd1e51361",
+			"uuid": "e5fb087e-5be7-407b-8be8-4d0bd1e51361",
+			"title": "De leerling leert vaardigheden waarmee hij zich creatief en kunstzinnig wil en kan uiten, passend bij de eigen mogelijkheden, talenten en voorkeuren.",
+			"prefix": "VSO Kerndoel DB 42",
+			"kerndoelLabel": "Produceren van creatief en kunstzinnig werk",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3133af89-0809-4ea8-bc89-bc5dc871e6f0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3133af89-0809-4ea8-bc89-bc5dc871e6f0",
+			"uuid": "3133af89-0809-4ea8-bc89-bc5dc871e6f0",
+			"title": "De leerling leert eigen kunstzinnig werk, alleen of binnen een groep, aan anderen (medeleerlingen, ouders) te presenteren.",
+			"prefix": "VSO Kerndoel DB 43",
+			"kerndoelLabel": "Eigen kunstzinnig werk presenteren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a75649e7-7c87-4e8c-9319-76b149ee9266",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a75649e7-7c87-4e8c-9319-76b149ee9266",
+			"uuid": "a75649e7-7c87-4e8c-9319-76b149ee9266",
+			"title": "De leerling leert te communiceren over eigen kunstzinnig werk en dat van anderen.",
+			"prefix": "VSO Kerndoel DB 44",
+			"kerndoelLabel": "Communiceren over eigen kunstzinnig werk",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/30b3a944-4b2a-4316-9eb5-506291270aa7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/30b3a944-4b2a-4316-9eb5-506291270aa7",
+			"uuid": "30b3a944-4b2a-4316-9eb5-506291270aa7",
+			"title": "De leerling leert door het gebruik van elementaire vaardigheden de zeggingskracht van verschillende kunstzinnige disciplines te onderzoeken en toe te passen om eigen gevoelens uit te drukken, ervaringen vast te leggen, verbeelding vorm te geven en communicatie te bewerkstelligen.",
+			"prefix": "VO Kerndoel 48",
+			"kerndoelLabel": "Produceren van kunst",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/03961779-f1c6-4071-ae98-13446e8c4a59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03961779-f1c6-4071-ae98-13446e8c4a59",
+			"uuid": "03961779-f1c6-4071-ae98-13446e8c4a59",
+			"title": "De leerling leert eigen kunstzinnig werk, alleen of als deelnemer in een groep, aan derden te presenteren.",
+			"prefix": "VO Kerndoel 49",
+			"kerndoelLabel": "Eigen kunstzinnig werk presenteren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5306bffd-4e3f-46b0-a9cf-6012f1e739b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5306bffd-4e3f-46b0-a9cf-6012f1e739b6",
+			"uuid": "5306bffd-4e3f-46b0-a9cf-6012f1e739b6",
+			"title": "De leerling leert, op grond van enige achtergrondkennis, te kijken naar beeldende kunst, te luisteren naar muziek en te kijken en luisteren naar theater-, dans- en filmvoorstellingen.",
+			"prefix": "VO Kerndoel 50",
+			"kerndoelLabel": "Leren kijken en luisteren naar kunst",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6d41186f-bcad-4697-8b98-cee942446864",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d41186f-bcad-4697-8b98-cee942446864",
+			"uuid": "6d41186f-bcad-4697-8b98-cee942446864",
+			"title": "De leerling leert, met behulp van visuele of auditieve middelen, verslag te doen van deelname aan kunstzinnige activiteiten (als toeschouwer en als deelnemer).",
+			"prefix": "VO Kerndoel 51",
+			"kerndoelLabel": "Verslag doen van ervaringen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/349ddcb7-7bf8-4fb4-abf0-ce24159502aa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/349ddcb7-7bf8-4fb4-abf0-ce24159502aa",
+			"uuid": "349ddcb7-7bf8-4fb4-abf0-ce24159502aa",
+			"title": "De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder kunstenaars.",
+			"prefix": "VO Kerndoel 52",
+			"kerndoelLabel": "Reflecteren op kunstzinnig werk",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		}
+	],
+	"KerndoelDomein": [],
+	"KerndoelUitstroomprofiel": [],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e",
+			"uuid": "7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e",
+			"title": "Culturele oriëntatie en creatieve expressie",
+			"deprecated": null
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Culturele oriëntatie en creatieve expressie"
+}

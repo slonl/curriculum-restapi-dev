@@ -1,0 +1,249 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/43a0abda-98a7-40a5-a9fb-8512cdeee6e2",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43a0abda-98a7-40a5-a9fb-8512cdeee6e2",
+	"uuid": "43a0abda-98a7-40a5-a9fb-8512cdeee6e2",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefDeelonderwerp",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c68929f8-71b2-4732-957e-d2e0119a26da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c68929f8-71b2-4732-957e-d2e0119a26da",
+			"uuid": "c68929f8-71b2-4732-957e-d2e0119a26da",
+			"prefix": "RKT1.1.1a-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/faa0b5ab-d7ad-43ec-9409-10cd6d666117",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/faa0b5ab-d7ad-43ec-9409-10cd6d666117",
+					"uuid": "faa0b5ab-d7ad-43ec-9409-10cd6d666117",
+					"title": "Kan een kort gesprek beginnen, gaande houden en beëindigen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eeb7b4cd-3f80-4608-b12f-227daefc5022",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eeb7b4cd-3f80-4608-b12f-227daefc5022",
+			"uuid": "eeb7b4cd-3f80-4608-b12f-227daefc5022",
+			"prefix": "RKT1.1.1a1-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/788a17e6-491a-46d5-86f9-da90b107889d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/788a17e6-491a-46d5-86f9-da90b107889d",
+					"uuid": "788a17e6-491a-46d5-86f9-da90b107889d",
+					"title": "Kan de juiste frase gebruiken om aan het woord te komen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/652be8ed-1900-42c3-a3d5-369f5b69f3f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/652be8ed-1900-42c3-a3d5-369f5b69f3f1",
+			"uuid": "652be8ed-1900-42c3-a3d5-369f5b69f3f1",
+			"prefix": "RKT1.1.1a2-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/79108931-c87c-44c8-9b17-7634bcb869a2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79108931-c87c-44c8-9b17-7634bcb869a2",
+					"uuid": "79108931-c87c-44c8-9b17-7634bcb869a2",
+					"title": "Kan een reactie uitstellen totdat hij de bijdrage van de ander geïnterpreteerd en beoordeeld heeft.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a844a33a-6168-4bfb-b812-36fd061f8785",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a844a33a-6168-4bfb-b812-36fd061f8785",
+			"uuid": "a844a33a-6168-4bfb-b812-36fd061f8785",
+			"prefix": "RKT1.1.1a1-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3839400a-ea86-4add-ae54-77a06cbf5acb",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3839400a-ea86-4add-ae54-77a06cbf5acb",
+					"uuid": "3839400a-ea86-4add-ae54-77a06cbf5acb",
+					"title": "Kan op doeltreffende wijze de beurt nemen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e2bcecf-f9b7-47b6-8ea5-79be5a808625",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e2bcecf-f9b7-47b6-8ea5-79be5a808625",
+			"uuid": "6e2bcecf-f9b7-47b6-8ea5-79be5a808625",
+			"prefix": "RKT1.1.1a2-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/185305e7-49d6-4208-8527-124ddf6bfe01",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/185305e7-49d6-4208-8527-124ddf6bfe01",
+					"uuid": "185305e7-49d6-4208-8527-124ddf6bfe01",
+					"title": "Kan standaardzinnen gebruiken (bijvoorbeeld: ‘Dat is een moeilijk te beantwoorden vraag’) om tijd te winnen en de beurt te behouden.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/55235531-838a-4855-bd53-a3da4012a0af",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/55235531-838a-4855-bd53-a3da4012a0af",
+			"uuid": "55235531-838a-4855-bd53-a3da4012a0af",
+			"prefix": "RKT1.1.1a-4F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e85a3c6e-6aab-4ada-bf6c-62cb9afef05c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e85a3c6e-6aab-4ada-bf6c-62cb9afef05c",
+					"uuid": "e85a3c6e-6aab-4ada-bf6c-62cb9afef05c",
+					"title": "Kan een passende frase kiezen om eigen opmerkingen op de juiste wijze aan te kondigen en de beurt te krijgen, of om tijd te winnen en de beurt te houden tijdens het nadenken.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+					"title": "4F",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefOnderwerp": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c4c0c38a-f005-4786-a006-05c5dd1724a6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c4c0c38a-f005-4786-a006-05c5dd1724a6",
+			"uuid": "c4c0c38a-f005-4786-a006-05c5dd1724a6",
+			"prefix": "RKT1.1.1",
+			"title": "Deelnemen aan discussies en overleg",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_eelonderwerp/43a0abda-98a7-40a5-a9fb-8512cdeee6e2"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_eelonderwerp/43a0abda-98a7-40a5-a9fb-8512cdeee6e2"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_eelonderwerp/43a0abda-98a7-40a5-a9fb-8512cdeee6e2"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"title": "4F",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ec6d733-a3b2-46db-9d42-72b4be4f7750/ref_eelonderwerp/43a0abda-98a7-40a5-a9fb-8512cdeee6e2"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKT1.1.1a",
+	"title": "Beurten nemen en bijdragen aan samenhang"
+}

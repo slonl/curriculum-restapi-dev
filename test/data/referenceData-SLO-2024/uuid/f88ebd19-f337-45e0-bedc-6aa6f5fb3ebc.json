@@ -1,0 +1,30 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+	"uuid": "f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkCategorie",
+	"ErkTaalactiviteit": [],
+	"ErkSchaal": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/404c023a-b8c1-405a-8b09-a3e565a5650d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/404c023a-b8c1-405a-8b09-a3e565a5650d",
+			"uuid": "404c023a-b8c1-405a-8b09-a3e565a5650d",
+			"title": "Sociolinguïstisch adequaat taalgebruik",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1c45d329-3404-4d0b-9cf0-378a58719cd6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c45d329-3404-4d0b-9cf0-378a58719cd6",
+			"uuid": "1c45d329-3404-4d0b-9cf0-378a58719cd6",
+			"title": "Sociolinguïstisch"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": null,
+	"title": "Sociolinguïstisch"
+}

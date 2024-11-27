@@ -1,0 +1,106 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+	"uuid": "6b0d4908-b7d7-45b6-b385-16a448e4dbcd",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+	"@type": "InhVakleergebied",
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/682218a8-0e89-4d4c-938c-36629a474e7c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/682218a8-0e89-4d4c-938c-36629a474e7c",
+			"uuid": "682218a8-0e89-4d4c-938c-36629a474e7c",
+			"title": "Oriëntatie op jezelf en de wereld",
+			"deprecated": null
+		}
+	],
+	"Doelniveau": [],
+	"InhInhoudslijn": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/88381db4-d911-45d2-a243-2958873eec98",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/88381db4-d911-45d2-a243-2958873eec98",
+			"uuid": "88381db4-d911-45d2-a243-2958873eec98",
+			"prefix": "OJW/ja",
+			"title": "Inhoudslijn Jezelf en de ander",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
+			"uuid": "48ce8b01-76c4-4482-b1c9-e161f3c2f7ea",
+			"prefix": "OJW/ds",
+			"title": "Inhoudslijn De samenleving",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0ee152e0-e7b3-42e9-8667-057060391ab2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ee152e0-e7b3-42e9-8667-057060391ab2",
+			"uuid": "0ee152e0-e7b3-42e9-8667-057060391ab2",
+			"prefix": "OJW/nattech",
+			"title": "Inhoudslijn Verschijnselen uit natuurkunde en techniek",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1a8424e5-c5fa-4808-91ae-8c81d04b4452",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1a8424e5-c5fa-4808-91ae-8c81d04b4452",
+			"uuid": "1a8424e5-c5fa-4808-91ae-8c81d04b4452",
+			"prefix": "OJW/rojh",
+			"title": "Inhoudslijn De ruimte om je heen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dd2a06a4-41a7-434d-9735-f98cc0bdd95f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd2a06a4-41a7-434d-9735-f98cc0bdd95f",
+			"uuid": "dd2a06a4-41a7-434d-9735-f98cc0bdd95f",
+			"prefix": "OJW/pdm",
+			"title": "Inhoudslijn Planten, dieren en de mens",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6811dcc6-3520-4fab-9fa8-ffb1c750a901",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6811dcc6-3520-4fab-9fa8-ffb1c750a901",
+			"uuid": "6811dcc6-3520-4fab-9fa8-ffb1c750a901",
+			"prefix": "OJW/tijd",
+			"title": "Inhoudslijn Tijd",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0c1d1325-91f5-4700-b6fc-5f537364f00c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c1d1325-91f5-4700-b6fc-5f537364f00c",
+			"uuid": "0c1d1325-91f5-4700-b6fc-5f537364f00c",
+			"title": "Orientatie op jezelf en de wereld"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caca37da-720b-4b3e-983c-d3fc58604e4a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caca37da-720b-4b3e-983c-d3fc58604e4a",
+			"uuid": "caca37da-720b-4b3e-983c-d3fc58604e4a",
+			"title": "Orientatie op jezelf en de wereld"
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"title": "fase 1",
+			"prefix": "1200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0a3d23df-1758-439b-b219-cd2854cc639b/inh_akleergebied/6b0d4908-b7d7-45b6-b385-16a448e4dbcd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"title": "fase 2",
+			"prefix": "1202-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5edad2fa-2cf0-4701-93d9-97edbe06ac02/inh_akleergebied/6b0d4908-b7d7-45b6-b385-16a448e4dbcd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"title": "fase 3",
+			"prefix": "1204-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fc0fa444-07f6-4744-b7a7-6f9aadeeff42/inh_akleergebied/6b0d4908-b7d7-45b6-b385-16a448e4dbcd"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "OJW",
+	"title": "Orientatie op jezelf en de wereld"
+}

@@ -1,0 +1,152 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/ff2d8e71-16ca-49e0-8333-b1fbc20479c4",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff2d8e71-16ca-49e0-8333-b1fbc20479c4",
+	"uuid": "ff2d8e71-16ca-49e0-8333-b1fbc20479c4",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgDeeltaak",
+	"ExamenprogrammaBgGlobaleEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b3307dec-1b99-47c1-b6f3-ce457c36bd08",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b3307dec-1b99-47c1-b6f3-ce457c36bd08",
+			"uuid": "b3307dec-1b99-47c1-b6f3-ce457c36bd08",
+			"prefix": "K/BWI/04/02-01",
+			"title": "De kandidaat kan werktekeningen lezen en interpreteren",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7fa93d63-132a-4d59-8430-62f69e5776e7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7fa93d63-132a-4d59-8430-62f69e5776e7",
+			"uuid": "7fa93d63-132a-4d59-8430-62f69e5776e7",
+			"prefix": "K/BWI/04/02-02",
+			"title": "De kandidaat kan een 2D-CAD werktekening maken volgens de Amerikaanse projectiemethode en een schets maken in isometrische projectie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e0be717-d88d-4dfd-8812-9303a0dd5c5d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e0be717-d88d-4dfd-8812-9303a0dd5c5d",
+			"uuid": "9e0be717-d88d-4dfd-8812-9303a0dd5c5d",
+			"prefix": "K/BWI/04/02-03",
+			"title": "De kandidaat kan aan de hand van een werktekening een materiaalstaat en werkplanning maken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aafa63cd-936d-4da4-8f25-52e6968a9589",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aafa63cd-936d-4da4-8f25-52e6968a9589",
+			"uuid": "aafa63cd-936d-4da4-8f25-52e6968a9589",
+			"prefix": "K/BWI/04/02-04",
+			"title": "De kandidaat kan een calculatie en offerte maken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/48ad981f-775b-43ea-9961-59f186d061c0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48ad981f-775b-43ea-9961-59f186d061c0",
+			"uuid": "48ad981f-775b-43ea-9961-59f186d061c0",
+			"prefix": "K/BWI/04/02-05",
+			"title": "De kandidaat kan grondhout en rachels verdelen en aanbrengen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/670b6a7f-f1e7-4fb3-8a1e-abbf1ef554c0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/670b6a7f-f1e7-4fb3-8a1e-abbf1ef554c0",
+			"uuid": "670b6a7f-f1e7-4fb3-8a1e-abbf1ef554c0",
+			"prefix": "K/BWI/04/02-06",
+			"title": "De kandidaat kan lambriseringen aanbrengen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/38e02cbd-1dfa-4816-8e86-1bf083de5c83",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38e02cbd-1dfa-4816-8e86-1bf083de5c83",
+			"uuid": "38e02cbd-1dfa-4816-8e86-1bf083de5c83",
+			"prefix": "K/BWI/04/02-07",
+			"title": "De kandidaat kan plaatmateriaal en afwerking toepassen voor stands",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/60d5d6a2-423f-4ed7-bc5c-3831fc43ed78",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60d5d6a2-423f-4ed7-bc5c-3831fc43ed78",
+			"uuid": "60d5d6a2-423f-4ed7-bc5c-3831fc43ed78",
+			"prefix": "K/BWI/04/02-08",
+			"title": "De kandidaat kan sparingen maken voor wandcontactdozen en schakelmateriaal",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/058b2c16-8366-4d07-b63b-5459888ccbd4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/058b2c16-8366-4d07-b63b-5459888ccbd4",
+			"uuid": "058b2c16-8366-4d07-b63b-5459888ccbd4",
+			"prefix": "K/BWI/04/02-09",
+			"title": "De kandidaat kan plafondconstructies tegen een balklaag aanbrengen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3b87b621-7159-46cd-bf02-53675b0da33b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3b87b621-7159-46cd-bf02-53675b0da33b",
+			"uuid": "3b87b621-7159-46cd-bf02-53675b0da33b",
+			"prefix": "K/BWI/04/02-10",
+			"title": "De kandidaat kan de onderkant van de balklaag uitrachelen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/42a33c2b-b59e-4b8c-96d7-c82336332545",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/42a33c2b-b59e-4b8c-96d7-c82336332545",
+			"uuid": "42a33c2b-b59e-4b8c-96d7-c82336332545",
+			"prefix": "K/BWI/04/02-11",
+			"title": "De kandidaat kan een verlaagd plafond aanbrengen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d9e6a15b-d7a2-497b-afb8-ab489a8d7c27",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d9e6a15b-d7a2-497b-afb8-ab489a8d7c27",
+			"uuid": "d9e6a15b-d7a2-497b-afb8-ab489a8d7c27",
+			"prefix": "K/BWI/04/02-12",
+			"title": "De kandidaat kan plinten en lijstwerk aanbrengen",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaBgModule": [],
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/70deaa23-af6c-4aeb-a625-a86e0a1d2a79",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/70deaa23-af6c-4aeb-a625-a86e0a1d2a79",
+			"uuid": "70deaa23-af6c-4aeb-a625-a86e0a1d2a79",
+			"prefix": "K/BWI/04",
+			"title": "Interieurbouw, stands en betimmeringen",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"uuid": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+					"uuid": "746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1890251e-08f8-4520-a495-f28607eb0b6e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1890251e-08f8-4520-a495-f28607eb0b6e",
+					"uuid": "1890251e-08f8-4520-a495-f28607eb0b6e",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+					"uuid": "a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/BWI/04/02",
+	"title": "Volgens werktekeningen betimmeringen en stands ontwerpen en aanbrengen in een ruimte"
+}

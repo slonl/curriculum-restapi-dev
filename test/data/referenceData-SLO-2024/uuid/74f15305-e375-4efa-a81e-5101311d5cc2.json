@@ -1,0 +1,64 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/74f15305-e375-4efa-a81e-5101311d5cc2",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/74f15305-e375-4efa-a81e-5101311d5cc2",
+	"uuid": "74f15305-e375-4efa-a81e-5101311d5cc2",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKern",
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/05b2246b-6271-41e8-b932-8fd7f899f8a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05b2246b-6271-41e8-b932-8fd7f899f8a0",
+			"uuid": "05b2246b-6271-41e8-b932-8fd7f899f8a0",
+			"prefix": "DP",
+			"title": "Dienstverlening en producten",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/726919bf-610b-4860-9952-a3b2c7bd20df",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/726919bf-610b-4860-9952-a3b2c7bd20df",
+			"uuid": "726919bf-610b-4860-9952-a3b2c7bd20df",
+			"prefix": "DP",
+			"title": "Dienstverlening en producten",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgKerndeel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/344925be-3f94-4d2c-8d83-680ea68645ac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/344925be-3f94-4d2c-8d83-680ea68645ac",
+			"uuid": "344925be-3f94-4d2c-8d83-680ea68645ac",
+			"prefix": "PK/DP/a",
+			"title": "Competenties",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e0664128-ef21-4667-ae4b-861ede654029",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e0664128-ef21-4667-ae4b-861ede654029",
+			"uuid": "e0664128-ef21-4667-ae4b-861ede654029",
+			"prefix": "PK/DP/b",
+			"title": "Professionele kennis en vaardigheden",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/49f727fd-6789-4468-9e2b-3e3dde4b9e66",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/49f727fd-6789-4468-9e2b-3e3dde4b9e66",
+			"uuid": "49f727fd-6789-4468-9e2b-3e3dde4b9e66",
+			"prefix": "PK/DP/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9f208fc0-ae31-4205-a71c-f9650f3421a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9f208fc0-ae31-4205-a71c-f9650f3421a0",
+			"uuid": "9f208fc0-ae31-4205-a71c-f9650f3421a0",
+			"title": "Kern Dienstverlening en producten"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "PK/DP",
+	"title": "Kern Dienstverlening en producten"
+}

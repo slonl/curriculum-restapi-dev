@@ -1,0 +1,193 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/8357a3fd-d988-4b02-abd7-dcad8632c6be",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8357a3fd-d988-4b02-abd7-dcad8632c6be",
+	"uuid": "8357a3fd-d988-4b02-abd7-dcad8632c6be",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefSubdomein",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3fac25b0-e610-4096-a74c-ef55c89c97a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3fac25b0-e610-4096-a74c-ef55c89c97a7",
+			"uuid": "3fac25b0-e610-4096-a74c-ef55c89c97a7",
+			"prefix": "RKT1.3-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/659ef2e6-1b6c-4608-ba1d-58537af0fa66",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/659ef2e6-1b6c-4608-ba1d-58537af0fa66",
+					"uuid": "659ef2e6-1b6c-4608-ba1d-58537af0fa66",
+					"title": "Kan in eenvoudige bewoordingen een beschrijving geven, informatie geven, verslag uitbrengen, uitleg en instructie geven in alledaagse situaties in en buiten school.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Algemeen doel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/34d672e8-c424-482d-9c69-912b9c5e4448",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34d672e8-c424-482d-9c69-912b9c5e4448",
+			"uuid": "34d672e8-c424-482d-9c69-912b9c5e4448",
+			"prefix": "RKT1.3-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2eefbaa2-85c3-4806-b560-dcbe8db2b4fe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2eefbaa2-85c3-4806-b560-dcbe8db2b4fe",
+					"uuid": "2eefbaa2-85c3-4806-b560-dcbe8db2b4fe",
+					"title": "Kan redelijk vloeiend en helder ervaringen, gebeurtenissen, meningen, verwachtingen gevoelens onder woorden brengen over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Algemeen doel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0c8aa165-faf1-4bd0-9bbb-ca7889b9846c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c8aa165-faf1-4bd0-9bbb-ca7889b9846c",
+			"uuid": "0c8aa165-faf1-4bd0-9bbb-ca7889b9846c",
+			"prefix": "RKT1.3-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ae5b7897-a4ca-453b-9c90-dcc2faba42fe",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ae5b7897-a4ca-453b-9c90-dcc2faba42fe",
+					"uuid": "ae5b7897-a4ca-453b-9c90-dcc2faba42fe",
+					"title": "Kan monologen en presentaties houden over onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard waarin ideeën worden uitgewerkt en voorzien van relevante voorbeelden.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Algemeen doel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9ea90fdb-aa01-4562-b4cb-d903c1e48101",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ea90fdb-aa01-4562-b4cb-d903c1e48101",
+			"uuid": "9ea90fdb-aa01-4562-b4cb-d903c1e48101",
+			"prefix": "RKT1.3-4F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8ae7eb49-193c-46bb-901f-ed1ae3950050",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ae7eb49-193c-46bb-901f-ed1ae3950050",
+					"uuid": "8ae7eb49-193c-46bb-901f-ed1ae3950050",
+					"title": "Kan duidelijke, gedetailleerde monologen en presentaties houden over tal van onderwerpen uit de (beroeps)opleiding en van maatschappelijke aard. Kan daarbij subthema’s integreren, specifieke standpunten ontwikkelen en het geheel afronden met een passende conclusie.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Algemeen doel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+					"title": "4F",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7c80091e-7993-49a4-b12a-7382cc5c9940",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7c80091e-7993-49a4-b12a-7382cc5c9940",
+			"uuid": "7c80091e-7993-49a4-b12a-7382cc5c9940",
+			"prefix": "RKT1",
+			"title": "Mondelinge taalvaardigheid",
+			"deprecated": null
+		}
+	],
+	"RefOnderwerp": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17",
+			"uuid": "3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17",
+			"prefix": "RKT1.3.1",
+			"title": "Een monoloog houden",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_ubdomein/8357a3fd-d988-4b02-abd7-dcad8632c6be"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_ubdomein/8357a3fd-d988-4b02-abd7-dcad8632c6be"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_ubdomein/8357a3fd-d988-4b02-abd7-dcad8632c6be"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"title": "4F",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ec6d733-a3b2-46db-9d42-72b4be4f7750/ref_ubdomein/8357a3fd-d988-4b02-abd7-dcad8632c6be"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKT1.3",
+	"title": "Spreken"
+}

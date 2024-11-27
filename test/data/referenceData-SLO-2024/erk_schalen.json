@@ -1,0 +1,936 @@
+{
+	"count": 5,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4861407-d923-4c72-a47f-c9c6c2331c98",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4861407-d923-4c72-a47f-c9c6c2331c98",
+			"uuid": "f4861407-d923-4c72-a47f-c9c6c2331c98",
+			"@type": "ErkGebied",
+			"prefix": "",
+			"title": "Taalactiviteiten",
+			"ErkCategorie": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3a61dd77-be62-4d61-971e-df99402aa69d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3a61dd77-be62-4d61-971e-df99402aa69d",
+					"uuid": "3a61dd77-be62-4d61-971e-df99402aa69d",
+					"prefix": "",
+					"title": "Receptief",
+					"ErkTaalactiviteit": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/68303ea2-5938-4975-823c-bcd67950e59f",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/68303ea2-5938-4975-823c-bcd67950e59f",
+							"uuid": "68303ea2-5938-4975-823c-bcd67950e59f",
+							"prefix": null,
+							"title": "Receptieve strategieën",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+									"uuid": "bd84c917-4e9c-40af-a1f4-79c81b1de7ea",
+									"prefix": "",
+									"title": "Aanwijzingen identificeren en interpretaties afleiden",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/afae608c-357b-4715-b43d-564bb20ec8a6",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/afae608c-357b-4715-b43d-564bb20ec8a6",
+							"uuid": "afae608c-357b-4715-b43d-564bb20ec8a6",
+							"prefix": "",
+							"title": "Luisteren (en kijken)",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+									"uuid": "6b7ef9da-3d67-45e7-9aec-6a70c8e7ab73",
+									"prefix": "",
+									"title": "Luisteren algemeen",
+									"algemeen": "true"
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/8a050ffb-4f9b-4533-b9ca-e679cd10e72e",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a050ffb-4f9b-4533-b9ca-e679cd10e72e",
+									"uuid": "8a050ffb-4f9b-4533-b9ca-e679cd10e72e",
+									"prefix": "",
+									"title": "Gesprek tussen andere mensen begrijpen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/7b6ce918-952b-4ee7-931e-2ab5b4cec3b9",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b6ce918-952b-4ee7-931e-2ab5b4cec3b9",
+									"uuid": "7b6ce918-952b-4ee7-931e-2ab5b4cec3b9",
+									"prefix": "",
+									"title": "Begrijpen als lid van een aanwezig publiek",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/c1024d20-7719-4758-9214-77a009232d73",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1024d20-7719-4758-9214-77a009232d73",
+									"uuid": "c1024d20-7719-4758-9214-77a009232d73",
+									"prefix": "",
+									"title": "Mededelingen en instructies begrijpen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/df5e1e91-7948-4290-8b62-2c22e3e539c7",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df5e1e91-7948-4290-8b62-2c22e3e539c7",
+									"uuid": "df5e1e91-7948-4290-8b62-2c22e3e539c7",
+									"prefix": "",
+									"title": "Gesproken media begrijpen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/a903a7d3-e335-4aff-badd-733d5873da98",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a903a7d3-e335-4aff-badd-733d5873da98",
+									"uuid": "a903a7d3-e335-4aff-badd-733d5873da98",
+									"prefix": "",
+									"title": "Naar tv, film en video kijken",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/f988a967-98bf-4121-94cb-fed287afc1cd",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f988a967-98bf-4121-94cb-fed287afc1cd",
+							"uuid": "f988a967-98bf-4121-94cb-fed287afc1cd",
+							"prefix": "",
+							"title": "Lezen",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/34c9a621-408a-4ed3-a74c-73138b8fb165",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34c9a621-408a-4ed3-a74c-73138b8fb165",
+									"uuid": "34c9a621-408a-4ed3-a74c-73138b8fb165",
+									"prefix": "",
+									"title": "Lezen algemeen",
+									"algemeen": "true"
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/422129cb-4739-49bc-a174-64275fe10134",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/422129cb-4739-49bc-a174-64275fe10134",
+									"uuid": "422129cb-4739-49bc-a174-64275fe10134",
+									"prefix": null,
+									"title": "Lezen als vrijetijdsbesteding",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/9e6ea45c-0abd-4d95-a679-6767ff369066",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e6ea45c-0abd-4d95-a679-6767ff369066",
+									"uuid": "9e6ea45c-0abd-4d95-a679-6767ff369066",
+									"prefix": "",
+									"title": "Correspondentie lezen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/f1d2351d-e784-4aff-a605-365afe3dfed5",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d2351d-e784-4aff-a605-365afe3dfed5",
+									"uuid": "f1d2351d-e784-4aff-a605-365afe3dfed5",
+									"prefix": "",
+									"title": "Oriënterend lezen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/94c30107-47d0-4131-9296-e504487d1a7b",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/94c30107-47d0-4131-9296-e504487d1a7b",
+									"uuid": "94c30107-47d0-4131-9296-e504487d1a7b",
+									"prefix": "",
+									"title": "Lezen ter informatie/argumentatie",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/ebe2b28a-7837-4dab-ab6d-af9c28e56419",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebe2b28a-7837-4dab-ab6d-af9c28e56419",
+									"uuid": "ebe2b28a-7837-4dab-ab6d-af9c28e56419",
+									"prefix": "",
+									"title": "Instructies lezen",
+									"algemeen": null
+								}
+							]
+						}
+					],
+					"ErkSchaal": []
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ab4f195f-a85b-4b1c-9802-970d1d303d32",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab4f195f-a85b-4b1c-9802-970d1d303d32",
+					"uuid": "ab4f195f-a85b-4b1c-9802-970d1d303d32",
+					"prefix": null,
+					"title": "Interactie",
+					"ErkTaalactiviteit": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/05a808e1-1b89-4011-a967-bd2484b58df7",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05a808e1-1b89-4011-a967-bd2484b58df7",
+							"uuid": "05a808e1-1b89-4011-a967-bd2484b58df7",
+							"prefix": null,
+							"title": "Online interactie",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/4310f8f2-049f-4387-a979-6fe10c0c7d60",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4310f8f2-049f-4387-a979-6fe10c0c7d60",
+									"uuid": "4310f8f2-049f-4387-a979-6fe10c0c7d60",
+									"prefix": null,
+									"title": "Online conversatie en discussie",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/20572757-2806-414c-bd0b-f6e5ee2bab5e",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/20572757-2806-414c-bd0b-f6e5ee2bab5e",
+									"uuid": "20572757-2806-414c-bd0b-f6e5ee2bab5e",
+									"prefix": null,
+									"title": "Doelgerichte online transacties en samenwerking",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/faa17847-ec74-4f9f-8b0f-791d1211a20b",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/faa17847-ec74-4f9f-8b0f-791d1211a20b",
+							"uuid": "faa17847-ec74-4f9f-8b0f-791d1211a20b",
+							"prefix": null,
+							"title": "Interactieve strategieën",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+									"uuid": "a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+									"prefix": "",
+									"title": "De beurt nemen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/9e2640f9-d6ff-422f-a735-976577f2ec3e",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e2640f9-d6ff-422f-a735-976577f2ec3e",
+									"uuid": "9e2640f9-d6ff-422f-a735-976577f2ec3e",
+									"prefix": null,
+									"title": "Samenwerken",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/5c6520f8-39cd-40e8-8b88-0d7554ec85b7",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5c6520f8-39cd-40e8-8b88-0d7554ec85b7",
+									"uuid": "5c6520f8-39cd-40e8-8b88-0d7554ec85b7",
+									"prefix": null,
+									"title": "Vragen om opheldering",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/bf2db3ca-e388-4ef3-8dd7-cc8865f427ea",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bf2db3ca-e388-4ef3-8dd7-cc8865f427ea",
+							"uuid": "bf2db3ca-e388-4ef3-8dd7-cc8865f427ea",
+							"prefix": "",
+							"title": "Gesprekken voeren",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+									"uuid": "a512cbf4-9be1-4afb-bd08-ea113b2eaff7",
+									"prefix": null,
+									"title": "Mondelinge interactie algemeen",
+									"algemeen": "true"
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
+									"uuid": "f3cd3e9f-d4c1-447c-99b6-ecafe851bc27",
+									"prefix": "",
+									"title": "Informatie-uitwisseling",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/42e321ef-5254-478f-a219-3e513a967926",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/42e321ef-5254-478f-a219-3e513a967926",
+									"uuid": "42e321ef-5254-478f-a219-3e513a967926",
+									"prefix": "",
+									"title": "Een gesprekspartner begrijpen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/84c0e01a-b06d-4ae0-abc8-9f0e19bed1d1",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/84c0e01a-b06d-4ae0-abc8-9f0e19bed1d1",
+									"uuid": "84c0e01a-b06d-4ae0-abc8-9f0e19bed1d1",
+									"prefix": "",
+									"title": "Conversatie",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/2248310b-a8f4-43e2-9134-0bfe57eb3ea2",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2248310b-a8f4-43e2-9134-0bfe57eb3ea2",
+									"uuid": "2248310b-a8f4-43e2-9134-0bfe57eb3ea2",
+									"prefix": "",
+									"title": "Informele discussie",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/9ad3c66b-c24f-4550-a395-9e6ab092ae74",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ad3c66b-c24f-4550-a395-9e6ab092ae74",
+									"uuid": "9ad3c66b-c24f-4550-a395-9e6ab092ae74",
+									"prefix": "",
+									"title": "Formele discussie",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/5799b433-cf4a-446a-87d0-758dc5396f3c",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5799b433-cf4a-446a-87d0-758dc5396f3c",
+									"uuid": "5799b433-cf4a-446a-87d0-758dc5396f3c",
+									"prefix": "",
+									"title": "Doelgerichte samenwerking",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/46da4dbb-119f-4e60-b123-f8489eb6a973",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46da4dbb-119f-4e60-b123-f8489eb6a973",
+									"uuid": "46da4dbb-119f-4e60-b123-f8489eb6a973",
+									"prefix": "",
+									"title": "Goederen en diensten verkrijgen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/ea517e75-3591-41c7-9cd9-f3aa6eec3493",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea517e75-3591-41c7-9cd9-f3aa6eec3493",
+									"uuid": "ea517e75-3591-41c7-9cd9-f3aa6eec3493",
+									"prefix": "",
+									"title": "Interviewen en geïnterviewd worden",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc",
+									"uuid": "dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc",
+									"prefix": "",
+									"title": "Gebruik van telecommunicatie",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+							"uuid": "51b9fb3a-e63d-4e5d-9d24-e2996e9de40b",
+							"prefix": null,
+							"title": "Schriftelijke interactie",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/4d3158af-be89-467f-8009-64703e7e2f10",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d3158af-be89-467f-8009-64703e7e2f10",
+									"uuid": "4d3158af-be89-467f-8009-64703e7e2f10",
+									"prefix": null,
+									"title": "Schriftelijke interactie algemeen",
+									"algemeen": "true"
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/cf9b8ada-1bda-4ebf-a82d-8334fb8f309e",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cf9b8ada-1bda-4ebf-a82d-8334fb8f309e",
+									"uuid": "cf9b8ada-1bda-4ebf-a82d-8334fb8f309e",
+									"prefix": "",
+									"title": "Correspondentie",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+									"uuid": "7fe65e39-cdb0-4914-894c-ab1f4b6a8e3e",
+									"prefix": "",
+									"title": "Notities, berichten en formulieren",
+									"algemeen": null
+								}
+							]
+						}
+					],
+					"ErkSchaal": []
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/048b0f45-ab63-4d82-9dc0-6301de707379",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/048b0f45-ab63-4d82-9dc0-6301de707379",
+					"uuid": "048b0f45-ab63-4d82-9dc0-6301de707379",
+					"prefix": null,
+					"title": "Mediation",
+					"ErkTaalactiviteit": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/64f88ea3-3b84-4819-ab5f-696f672ea945",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64f88ea3-3b84-4819-ab5f-696f672ea945",
+							"uuid": "64f88ea3-3b84-4819-ab5f-696f672ea945",
+							"prefix": null,
+							"title": "Mediation van teksten: literaire competentie",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/59de7906-e16b-4fb3-9887-6c19a7d6bef9",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/59de7906-e16b-4fb3-9887-6c19a7d6bef9",
+									"uuid": "59de7906-e16b-4fb3-9887-6c19a7d6bef9",
+									"prefix": "",
+									"title": "Uitdrukken van een persoonlijke reactie op creatieve teksten (waaronder literaire)\n",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/4653ae86-aea9-4a1f-b228-8ea08a529afa",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4653ae86-aea9-4a1f-b228-8ea08a529afa",
+									"uuid": "4653ae86-aea9-4a1f-b228-8ea08a529afa",
+									"prefix": "",
+									"title": "Analyse en kritische waardering van creatieve teksten (waaronder literaire)",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/fd1f1e06-1486-4764-a443-c2f09b2683d9",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fd1f1e06-1486-4764-a443-c2f09b2683d9",
+							"uuid": "fd1f1e06-1486-4764-a443-c2f09b2683d9",
+							"prefix": null,
+							"title": "Mediation - strategieën",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+									"uuid": "af5d9bfe-ebe7-47d2-b5aa-e1566bda4c51",
+									"prefix": null,
+									"title": "Koppelen aan eerdere kennis",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/c7e36039-a22b-4493-9463-3640568c7ff8",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7e36039-a22b-4493-9463-3640568c7ff8",
+									"uuid": "c7e36039-a22b-4493-9463-3640568c7ff8",
+									"prefix": null,
+									"title": "Taal aanpassen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/39345624-d45d-43bf-9881-f4370daaf18e",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/39345624-d45d-43bf-9881-f4370daaf18e",
+									"uuid": "39345624-d45d-43bf-9881-f4370daaf18e",
+									"prefix": null,
+									"title": "Gecompliceerde informatie opsplitsen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/43c6393f-a27c-4499-8bbd-13439c68d994",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43c6393f-a27c-4499-8bbd-13439c68d994",
+									"uuid": "43c6393f-a27c-4499-8bbd-13439c68d994",
+									"prefix": null,
+									"title": "Tekst met hoge informatiedichtheid toelichten",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/be0692e3-3ac9-4274-8c4e-0791ddb16c0b",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/be0692e3-3ac9-4274-8c4e-0791ddb16c0b",
+									"uuid": "be0692e3-3ac9-4274-8c4e-0791ddb16c0b",
+									"prefix": null,
+									"title": "Tekst stroomlijnen",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/8c8cab3b-1836-4004-b00d-6f9cb2b79d1d",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8c8cab3b-1836-4004-b00d-6f9cb2b79d1d",
+							"uuid": "8c8cab3b-1836-4004-b00d-6f9cb2b79d1d",
+							"prefix": "",
+							"title": "Mediation van teksten",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/1c11e637-5eaf-45f3-8410-44a6a75c1006",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c11e637-5eaf-45f3-8410-44a6a75c1006",
+									"uuid": "1c11e637-5eaf-45f3-8410-44a6a75c1006",
+									"prefix": "",
+									"title": "Specifieke informatie doorgeven in gesproken taal",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/3c802231-529e-4d76-9aab-40eae8225fe8",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c802231-529e-4d76-9aab-40eae8225fe8",
+									"uuid": "3c802231-529e-4d76-9aab-40eae8225fe8",
+									"prefix": "",
+									"title": "Specifieke informatie doorgeven in geschreven taal",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/288b6f87-8d9e-4c03-b887-d7781510db71",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/288b6f87-8d9e-4c03-b887-d7781510db71",
+									"uuid": "288b6f87-8d9e-4c03-b887-d7781510db71",
+									"prefix": "",
+									"title": "Mondeling gegevens uitleggen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/5ec53958-4390-49c0-b4bc-35e24e631d85",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec53958-4390-49c0-b4bc-35e24e631d85",
+									"uuid": "5ec53958-4390-49c0-b4bc-35e24e631d85",
+									"prefix": "",
+									"title": "Schriftelijk gegevens uitleggen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/97154fe6-5225-4793-bb6e-9d68910e78b3",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/97154fe6-5225-4793-bb6e-9d68910e78b3",
+									"uuid": "97154fe6-5225-4793-bb6e-9d68910e78b3",
+									"prefix": "",
+									"title": "Mondeling tekst verwerken",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+									"uuid": "e2b6da00-13a1-42c8-af8a-13ff4a5b5392",
+									"prefix": "",
+									"title": "Schriftelijk tekst verwerken",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/274c92c2-56cb-4cf3-8039-b791ee79f595",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/274c92c2-56cb-4cf3-8039-b791ee79f595",
+									"uuid": "274c92c2-56cb-4cf3-8039-b791ee79f595",
+									"prefix": null,
+									"title": "Aantekeningen maken",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/a14a5054-9279-4da8-b56e-64e64fec6e69",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a14a5054-9279-4da8-b56e-64e64fec6e69",
+									"uuid": "a14a5054-9279-4da8-b56e-64e64fec6e69",
+									"prefix": "",
+									"title": "Schriftelijk een geschreven tekst vertalen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/eb3a241a-afa5-4c42-8e33-89fc52ed29bb",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eb3a241a-afa5-4c42-8e33-89fc52ed29bb",
+									"uuid": "eb3a241a-afa5-4c42-8e33-89fc52ed29bb",
+									"prefix": "",
+									"title": "Mondeling een geschreven tekst vertalen",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/327b8d3b-604a-49b7-a3b3-892d0830218f",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/327b8d3b-604a-49b7-a3b3-892d0830218f",
+							"uuid": "327b8d3b-604a-49b7-a3b3-892d0830218f",
+							"prefix": null,
+							"title": "Mediation - algemeen",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/9c44be1e-9f4c-4ec7-824e-6bcd85df93ff",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c44be1e-9f4c-4ec7-824e-6bcd85df93ff",
+									"uuid": "9c44be1e-9f4c-4ec7-824e-6bcd85df93ff",
+									"prefix": "",
+									"title": "Mediation algemeen",
+									"algemeen": "true"
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/f79460fd-a90d-40ad-9950-e07d896d04f2",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f79460fd-a90d-40ad-9950-e07d896d04f2",
+							"uuid": "f79460fd-a90d-40ad-9950-e07d896d04f2",
+							"prefix": null,
+							"title": "Mediation van communicatie",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+									"uuid": "e4386ae9-5148-46db-a9e3-fba6ab3d08a8",
+									"prefix": null,
+									"title": "Interculturele ruimte mogelijk maken",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+									"uuid": "8071a4c5-bbf1-4f88-a55f-4f9f7f91f2a8",
+									"prefix": null,
+									"title": "Als intermediair optreden in informele situaties",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/19cbc7e0-7747-4f96-9737-6fecc6308414",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/19cbc7e0-7747-4f96-9737-6fecc6308414",
+									"uuid": "19cbc7e0-7747-4f96-9737-6fecc6308414",
+									"prefix": "",
+									"title": "Communicatie bevorderen in gevoelige situaties en bij onenigheid",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/3eee4dab-75e9-42f6-9719-32a38aef17dc",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3eee4dab-75e9-42f6-9719-32a38aef17dc",
+							"uuid": "3eee4dab-75e9-42f6-9719-32a38aef17dc",
+							"prefix": null,
+							"title": "Mediation van concepten",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/025616e1-cb16-4faf-875d-dfad8b846847",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/025616e1-cb16-4faf-875d-dfad8b846847",
+									"uuid": "025616e1-cb16-4faf-875d-dfad8b846847",
+									"prefix": null,
+									"title": "Samenwerken aan betekenisvorming",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/e39d1e09-4773-454f-84f7-b6c45a191926",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e39d1e09-4773-454f-84f7-b6c45a191926",
+									"uuid": "e39d1e09-4773-454f-84f7-b6c45a191926",
+									"prefix": null,
+									"title": "Interactie beheren",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/f86eb171-d684-4e6d-b403-f4e6dd343ae5",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f86eb171-d684-4e6d-b403-f4e6dd343ae5",
+									"uuid": "f86eb171-d684-4e6d-b403-f4e6dd343ae5",
+									"prefix": null,
+									"title": "Conceptuele dialoog aanmoedigen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/1a409f1c-2aaf-47e5-be44-2da7439a5e80",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1a409f1c-2aaf-47e5-be44-2da7439a5e80",
+									"uuid": "1a409f1c-2aaf-47e5-be44-2da7439a5e80",
+									"prefix": "",
+									"title": "Samenwerkende interactie tussen peers bevorderen",
+									"algemeen": null
+								}
+							]
+						}
+					],
+					"ErkSchaal": []
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9c04c2ee-e5dc-45a9-b869-b16731daedcf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9c04c2ee-e5dc-45a9-b869-b16731daedcf",
+					"uuid": "9c04c2ee-e5dc-45a9-b869-b16731daedcf",
+					"prefix": null,
+					"title": "Productief",
+					"ErkTaalactiviteit": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/882df096-63b5-4d04-8cb9-9f345c66851e",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/882df096-63b5-4d04-8cb9-9f345c66851e",
+							"uuid": "882df096-63b5-4d04-8cb9-9f345c66851e",
+							"prefix": null,
+							"title": "Productieve strategieën",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/b5fa8270-82cb-4caf-85af-771dae587ce5",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5fa8270-82cb-4caf-85af-771dae587ce5",
+									"uuid": "b5fa8270-82cb-4caf-85af-771dae587ce5",
+									"prefix": null,
+									"title": "Planning",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/7eedab9f-6032-4612-9192-eda528716123",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7eedab9f-6032-4612-9192-eda528716123",
+									"uuid": "7eedab9f-6032-4612-9192-eda528716123",
+									"prefix": null,
+									"title": "Compensatie",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/2f1fb645-9cae-46ff-ba74-6be7b7404c43",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f1fb645-9cae-46ff-ba74-6be7b7404c43",
+									"uuid": "2f1fb645-9cae-46ff-ba74-6be7b7404c43",
+									"prefix": null,
+									"title": "Monitoring en herstel",
+									"algemeen": null
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/33031416-48fb-49a1-aafa-b07467f0f245",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/33031416-48fb-49a1-aafa-b07467f0f245",
+							"uuid": "33031416-48fb-49a1-aafa-b07467f0f245",
+							"prefix": null,
+							"title": "Schrijven",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/df863aea-cbd5-4bcb-92f0-6c68bbb3f47e",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df863aea-cbd5-4bcb-92f0-6c68bbb3f47e",
+									"uuid": "df863aea-cbd5-4bcb-92f0-6c68bbb3f47e",
+									"prefix": null,
+									"title": "Creatief schrijven",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/194edda5-0ddd-483f-ad19-8d0ca77cef60",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/194edda5-0ddd-483f-ad19-8d0ca77cef60",
+									"uuid": "194edda5-0ddd-483f-ad19-8d0ca77cef60",
+									"prefix": "",
+									"title": "Verslagen en essays",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/1a3879b3-9b01-4217-b59d-1484fbbbbac6",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1a3879b3-9b01-4217-b59d-1484fbbbbac6",
+									"uuid": "1a3879b3-9b01-4217-b59d-1484fbbbbac6",
+									"prefix": "",
+									"title": "Schriftelijke productie algemeen",
+									"algemeen": "true"
+								}
+							]
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/2d06d563-d66a-445a-ba39-ee74866e49a8",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2d06d563-d66a-445a-ba39-ee74866e49a8",
+							"uuid": "2d06d563-d66a-445a-ba39-ee74866e49a8",
+							"prefix": null,
+							"title": "Spreken",
+							"ErkSchaal": [
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/f7c487bd-c63a-4877-8f0f-560d3a283267",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7c487bd-c63a-4877-8f0f-560d3a283267",
+									"uuid": "f7c487bd-c63a-4877-8f0f-560d3a283267",
+									"prefix": null,
+									"title": "Mondelinge productie algemeen",
+									"algemeen": "true"
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
+									"uuid": "9e9f5b26-13da-410f-886a-1e2dbb05b2ff",
+									"prefix": "",
+									"title": "Monoloog: ervaringen beschrijven",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
+									"uuid": "cdc8a132-9af3-4cc7-9be2-11b8f8f16c83",
+									"prefix": "",
+									"title": "Monoloog: informatie geven",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
+									"uuid": "d8b05f01-6979-4c4e-8be1-c1cae7e065f7",
+									"prefix": "",
+									"title": "Monoloog: een pleidooi houden (bijvoorbeeld in een debat)",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/9231a11a-ffc4-49d0-a03f-b63a879f1329",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9231a11a-ffc4-49d0-a03f-b63a879f1329",
+									"uuid": "9231a11a-ffc4-49d0-a03f-b63a879f1329",
+									"prefix": null,
+									"title": "Openbare mededelingen",
+									"algemeen": null
+								},
+								{
+									"@id": "https://opendata.slo.nl/curriculum/uuid/09a907d3-e6ed-459b-802d-f10db60fe6d7",
+									"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/09a907d3-e6ed-459b-802d-f10db60fe6d7",
+									"uuid": "09a907d3-e6ed-459b-802d-f10db60fe6d7",
+									"prefix": "",
+									"title": "Een publiek toespreken",
+									"algemeen": null
+								}
+							]
+						}
+					],
+					"ErkSchaal": []
+				}
+			],
+			"ErkTaalactiviteit": [],
+			"ErkSchaal": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d32bd37-b03d-4180-9bc4-7d825e593ffe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d32bd37-b03d-4180-9bc4-7d825e593ffe",
+			"uuid": "0d32bd37-b03d-4180-9bc4-7d825e593ffe",
+			"@type": "ErkGebied",
+			"prefix": null,
+			"title": "Taalcompetenties",
+			"ErkCategorie": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0dd846f2-6d6d-4d93-8c03-6edff22d5a00",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0dd846f2-6d6d-4d93-8c03-6edff22d5a00",
+					"uuid": "0dd846f2-6d6d-4d93-8c03-6edff22d5a00",
+					"prefix": "",
+					"title": "Pragmatisch",
+					"ErkTaalactiviteit": [],
+					"ErkSchaal": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/f8d91c39-870b-4976-a036-ed1ffb9da094",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8d91c39-870b-4976-a036-ed1ffb9da094",
+							"uuid": "f8d91c39-870b-4976-a036-ed1ffb9da094",
+							"prefix": null,
+							"title": "Flexibiliteit",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/2839c055-88c0-440f-8280-011bf8f1c6e8",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2839c055-88c0-440f-8280-011bf8f1c6e8",
+							"uuid": "2839c055-88c0-440f-8280-011bf8f1c6e8",
+							"prefix": null,
+							"title": "Thematische ontwikkeling",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/79bcff13-6725-4659-8ede-a82da82983c1",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79bcff13-6725-4659-8ede-a82da82983c1",
+							"uuid": "79bcff13-6725-4659-8ede-a82da82983c1",
+							"prefix": "",
+							"title": "Coherentie en cohesie",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+							"uuid": "582c9a5c-11c5-4e38-a9e8-a470d4f9d1bd",
+							"prefix": "",
+							"title": "Propositionele nauwkeurigheid",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/b40f3fa1-a82b-4949-a089-42785adb1b9c",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b40f3fa1-a82b-4949-a089-42785adb1b9c",
+							"uuid": "b40f3fa1-a82b-4949-a089-42785adb1b9c",
+							"prefix": null,
+							"title": "Vloeiendheid",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+							"uuid": "a9f73ec2-8d84-4f8f-b9e4-e6712291ff6f",
+							"prefix": "",
+							"title": "De beurt nemen",
+							"algemeen": null
+						}
+					]
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/7fa1edc7-5ab2-45db-a68c-60dd25e489ca",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7fa1edc7-5ab2-45db-a68c-60dd25e489ca",
+					"uuid": "7fa1edc7-5ab2-45db-a68c-60dd25e489ca",
+					"prefix": null,
+					"title": "Linguïstisch",
+					"ErkTaalactiviteit": [],
+					"ErkSchaal": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/efe99201-fc12-4060-9c21-8e8f643dc45d",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/efe99201-fc12-4060-9c21-8e8f643dc45d",
+							"uuid": "efe99201-fc12-4060-9c21-8e8f643dc45d",
+							"prefix": null,
+							"title": "Linguïstische competentie algemeen",
+							"algemeen": "true"
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/0e4d2901-3363-4db7-a767-ed0505565eb0",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0e4d2901-3363-4db7-a767-ed0505565eb0",
+							"uuid": "0e4d2901-3363-4db7-a767-ed0505565eb0",
+							"prefix": null,
+							"title": "Bereik van de woordenschat",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+							"uuid": "0c5eb3d2-7c6d-4878-95e7-2e20087c675c",
+							"prefix": null,
+							"title": "Beheersing van de woordenschat",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+							"uuid": "eae8fbf3-1d39-41c2-a47a-4e6392b486e8",
+							"prefix": null,
+							"title": "Grammaticale nauwkeurigheid",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/4f96f0c1-3ec2-4a3f-95a2-57d4fa4d0d16",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4f96f0c1-3ec2-4a3f-95a2-57d4fa4d0d16",
+							"uuid": "4f96f0c1-3ec2-4a3f-95a2-57d4fa4d0d16",
+							"prefix": null,
+							"title": "Prosodische kenmerken",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/4f30b1d8-0a71-403d-932d-5d4c1704d87a",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4f30b1d8-0a71-403d-932d-5d4c1704d87a",
+							"uuid": "4f30b1d8-0a71-403d-932d-5d4c1704d87a",
+							"prefix": null,
+							"title": "Orthografische beheersing",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/d722c753-4ccc-4dc7-a8ea-3418f11bbaf1",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d722c753-4ccc-4dc7-a8ea-3418f11bbaf1",
+							"uuid": "d722c753-4ccc-4dc7-a8ea-3418f11bbaf1",
+							"prefix": "",
+							"title": "Algemene fonologische beheersing",
+							"algemeen": null
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/34d80237-aba8-4a3b-9b4e-9bfe4c206f7e",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34d80237-aba8-4a3b-9b4e-9bfe4c206f7e",
+							"uuid": "34d80237-aba8-4a3b-9b4e-9bfe4c206f7e",
+							"prefix": "",
+							"title": "Klankarticulatie",
+							"algemeen": null
+						}
+					]
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1c45d329-3404-4d0b-9cf0-378a58719cd6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c45d329-3404-4d0b-9cf0-378a58719cd6",
+					"uuid": "1c45d329-3404-4d0b-9cf0-378a58719cd6",
+					"prefix": null,
+					"title": "Sociolinguïstisch",
+					"ErkTaalactiviteit": [],
+					"ErkSchaal": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/11432906-f443-49a3-bc7d-80695ead39f2",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/11432906-f443-49a3-bc7d-80695ead39f2",
+							"uuid": "11432906-f443-49a3-bc7d-80695ead39f2",
+							"prefix": "",
+							"title": "Sociolinguïstische passendheid",
+							"algemeen": null
+						}
+					]
+				}
+			],
+			"ErkTaalactiviteit": [],
+			"ErkSchaal": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7a0a41fe-586b-4722-8d2b-4c5a5b864155",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7a0a41fe-586b-4722-8d2b-4c5a5b864155",
+			"uuid": "7a0a41fe-586b-4722-8d2b-4c5a5b864155",
+			"@type": "ErkGebied",
+			"prefix": null,
+			"title": "Meertalige en pluriculturele competenties",
+			"ErkCategorie": [],
+			"ErkTaalactiviteit": [],
+			"ErkSchaal": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/56b546a4-2e91-4666-b608-1bd95cd20191",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56b546a4-2e91-4666-b608-1bd95cd20191",
+					"uuid": "56b546a4-2e91-4666-b608-1bd95cd20191",
+					"prefix": null,
+					"title": "Voortbouwen op pluricultureel repertoire",
+					"algemeen": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+					"uuid": "2c4d10cc-63f0-40a7-a9fe-8e7f8ec0c09f",
+					"prefix": null,
+					"title": "Meertalig begrip",
+					"algemeen": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d39d33ff-4b79-4a91-81f3-62ae431c351e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d39d33ff-4b79-4a91-81f3-62ae431c351e",
+					"uuid": "d39d33ff-4b79-4a91-81f3-62ae431c351e",
+					"prefix": null,
+					"title": "Voortbouwen op meertalig repertoire",
+					"algemeen": null
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

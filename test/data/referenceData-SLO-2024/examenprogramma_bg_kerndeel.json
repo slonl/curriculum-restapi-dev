@@ -1,0 +1,246 @@
+{
+	"count": 56,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b9e543bc-f9ae-434c-94dc-51fafe506fc9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b9e543bc-f9ae-434c-94dc-51fafe506fc9",
+			"uuid": "b9e543bc-f9ae-434c-94dc-51fafe506fc9",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/BWI/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/516d752e-2f3c-4c12-b4ab-ff443120fe3c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/516d752e-2f3c-4c12-b4ab-ff443120fe3c",
+			"uuid": "516d752e-2f3c-4c12-b4ab-ff443120fe3c",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/BWI/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/05470aff-f9aa-4617-865a-0f01ab31af0c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05470aff-f9aa-4617-865a-0f01ab31af0c",
+			"uuid": "05470aff-f9aa-4617-865a-0f01ab31af0c",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/BWI/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9cd0f2b6-1d76-4606-8112-ae90f4b7006c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9cd0f2b6-1d76-4606-8112-ae90f4b7006c",
+			"uuid": "9cd0f2b6-1d76-4606-8112-ae90f4b7006c",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/DP/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7bb24d93-06c2-4b7b-86c7-c4b21879bb4e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7bb24d93-06c2-4b7b-86c7-c4b21879bb4e",
+			"uuid": "7bb24d93-06c2-4b7b-86c7-c4b21879bb4e",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/DP/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a7364c45-24a3-4e79-90fe-88d23edb18e5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a7364c45-24a3-4e79-90fe-88d23edb18e5",
+			"uuid": "a7364c45-24a3-4e79-90fe-88d23edb18e5",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/DP/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/816d7ced-1b19-427e-8506-c4d1ecbffd59",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/816d7ced-1b19-427e-8506-c4d1ecbffd59",
+			"uuid": "816d7ced-1b19-427e-8506-c4d1ecbffd59",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/EO/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d3c61b72-f262-485c-8dab-e50dc81ad2ca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d3c61b72-f262-485c-8dab-e50dc81ad2ca",
+			"uuid": "d3c61b72-f262-485c-8dab-e50dc81ad2ca",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/EO/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b688825f-c286-4631-a08b-6e6c57d0f9fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b688825f-c286-4631-a08b-6e6c57d0f9fc",
+			"uuid": "b688825f-c286-4631-a08b-6e6c57d0f9fc",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/EO/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+			"uuid": "0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/GR/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50fae4fd-a122-4c93-92ef-d9c1bf3ed8be",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fae4fd-a122-4c93-92ef-d9c1bf3ed8be",
+			"uuid": "50fae4fd-a122-4c93-92ef-d9c1bf3ed8be",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/GR/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8b9bf84f-7562-4774-8642-85ae703b485f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b9bf84f-7562-4774-8642-85ae703b485f",
+			"uuid": "8b9bf84f-7562-4774-8642-85ae703b485f",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/GR/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8f1d029-349d-4652-88e2-cd1f75026777",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8f1d029-349d-4652-88e2-cd1f75026777",
+			"uuid": "f8f1d029-349d-4652-88e2-cd1f75026777",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/HBR/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df10b7d6-1bc7-4a78-994d-08309e25f9b9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df10b7d6-1bc7-4a78-994d-08309e25f9b9",
+			"uuid": "df10b7d6-1bc7-4a78-994d-08309e25f9b9",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/HBR/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8cf4b594-81b5-4845-85a2-2afd4c42921a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8cf4b594-81b5-4845-85a2-2afd4c42921a",
+			"uuid": "8cf4b594-81b5-4845-85a2-2afd4c42921a",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/HBR/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/70535e5c-ca18-475f-82c4-c04266241f2e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/70535e5c-ca18-475f-82c4-c04266241f2e",
+			"uuid": "70535e5c-ca18-475f-82c4-c04266241f2e",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MET/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5074cb0a-82a7-45b7-a826-a3b19b4b86e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5074cb0a-82a7-45b7-a826-a3b19b4b86e1",
+			"uuid": "5074cb0a-82a7-45b7-a826-a3b19b4b86e1",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MET/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c608f740-263a-4501-b0e2-3a20de098f4a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c608f740-263a-4501-b0e2-3a20de098f4a",
+			"uuid": "c608f740-263a-4501-b0e2-3a20de098f4a",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MET/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/18da26ae-19b7-4bfb-8191-205c8e2232a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/18da26ae-19b7-4bfb-8191-205c8e2232a1",
+			"uuid": "18da26ae-19b7-4bfb-8191-205c8e2232a1",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MT/a",
+			"title": "Competenties"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/42ade637-d82e-4630-bfc6-07bfe6337264",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/42ade637-d82e-4630-bfc6-07bfe6337264",
+			"uuid": "42ade637-d82e-4630-bfc6-07bfe6337264",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MT/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92c0770a-d08c-420e-b395-db1a56e25653",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92c0770a-d08c-420e-b395-db1a56e25653",
+			"uuid": "92c0770a-d08c-420e-b395-db1a56e25653",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MT/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c636928b-6e63-4865-8670-b2adde47d427",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c636928b-6e63-4865-8670-b2adde47d427",
+			"uuid": "c636928b-6e63-4865-8670-b2adde47d427",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MVI/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/818b6cc1-59c7-4531-ac6b-22ba641a6a55",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/818b6cc1-59c7-4531-ac6b-22ba641a6a55",
+			"uuid": "818b6cc1-59c7-4531-ac6b-22ba641a6a55",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MVI/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fbb44810-c974-4e47-81f2-95dbc1b1357c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fbb44810-c974-4e47-81f2-95dbc1b1357c",
+			"uuid": "fbb44810-c974-4e47-81f2-95dbc1b1357c",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/MVI/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/896652c6-b57a-4de5-a356-5d125baa72da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/896652c6-b57a-4de5-a356-5d125baa72da",
+			"uuid": "896652c6-b57a-4de5-a356-5d125baa72da",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/PIE/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/87e0feac-dcc2-435b-88b1-05b20f577027",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/87e0feac-dcc2-435b-88b1-05b20f577027",
+			"uuid": "87e0feac-dcc2-435b-88b1-05b20f577027",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/PIE/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fb58de9c-7ac7-4703-bd3b-a2bd911b3555",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fb58de9c-7ac7-4703-bd3b-a2bd911b3555",
+			"uuid": "fb58de9c-7ac7-4703-bd3b-a2bd911b3555",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/PIE/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9fde298d-0e53-4007-9782-fde16611ec55",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9fde298d-0e53-4007-9782-fde16611ec55",
+			"uuid": "9fde298d-0e53-4007-9782-fde16611ec55",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/ZW/a",
+			"title": "Algemene kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6c46c396-e3b9-4a4b-b389-1eff2831ad51",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c46c396-e3b9-4a4b-b389-1eff2831ad51",
+			"uuid": "6c46c396-e3b9-4a4b-b389-1eff2831ad51",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/ZW/b",
+			"title": "Professionele kennis en vaardigheden"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2ad03f57-e56c-43d8-a84c-a444ead9464e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ad03f57-e56c-43d8-a84c-a444ead9464e",
+			"uuid": "2ad03f57-e56c-43d8-a84c-a444ead9464e",
+			"@type": "ExamenprogrammaBgKerndeel",
+			"prefix": "PK/ZW/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

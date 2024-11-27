@@ -1,0 +1,299 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/63b18cb1-c535-46ac-8615-88fe3fba744d",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63b18cb1-c535-46ac-8615-88fe3fba744d",
+	"uuid": "63b18cb1-c535-46ac-8615-88fe3fba744d",
+	"@type": "LdkVakkern",
+	"LdkVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f28b1db3-3b27-44e6-9d0f-7a3db58df64b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f28b1db3-3b27-44e6-9d0f-7a3db58df64b",
+			"uuid": "f28b1db3-3b27-44e6-9d0f-7a3db58df64b",
+			"title": "Economie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45023834-da3d-4fa6-972c-7f998c55a0f9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45023834-da3d-4fa6-972c-7f998c55a0f9",
+			"uuid": "45023834-da3d-4fa6-972c-7f998c55a0f9",
+			"title": "Economie",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cfeb15d6-7223-4e47-9287-69d5bedf696a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfeb15d6-7223-4e47-9287-69d5bedf696a",
+			"uuid": "cfeb15d6-7223-4e47-9287-69d5bedf696a",
+			"title": "Economie",
+			"deprecated": true
+		}
+	],
+	"LdkVaksubkern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b222fbb0-c836-493b-a803-bd7ff602c03f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b222fbb0-c836-493b-a803-bd7ff602c03f",
+			"uuid": "b222fbb0-c836-493b-a803-bd7ff602c03f",
+			"title": "Groei, goede tijden, slechte tijden",
+			"prefix": "ec/15/1",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c315adf6-8e35-4b2d-beee-3ea4c9f605ed",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c315adf6-8e35-4b2d-beee-3ea4c9f605ed",
+			"uuid": "c315adf6-8e35-4b2d-beee-3ea4c9f605ed",
+			"title": "Internationale welvaartsverdeling/Welvaart",
+			"prefix": "ec/15/2",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/789b13bb-196f-488d-b4b4-b10cef8249d8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/789b13bb-196f-488d-b4b4-b10cef8249d8",
+			"uuid": "789b13bb-196f-488d-b4b4-b10cef8249d8",
+			"title": "Inkomen en welvaart, welvaart en groei",
+			"prefix": "ec/15/3",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				}
+			]
+		}
+	],
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d89bd14a-9dbb-401c-aed9-7ae14067dc5d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d89bd14a-9dbb-401c-aed9-7ae14067dc5d",
+			"uuid": "d89bd14a-9dbb-401c-aed9-7ae14067dc5d",
+			"prefix": "ec/15/bbvmbobb",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ac48d2e5-73dc-4091-aa5f-ada125584522",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ac48d2e5-73dc-4091-aa5f-ada125584522",
+					"uuid": "ac48d2e5-73dc-4091-aa5f-ada125584522",
+					"title": "De kandidaat heeft inzicht in Internationale economische betrekkingen zoals Nederland als open economie, de Europese Unie, ontwikkelingsproblematiek en kan dit inzicht toepassen in een gegeven casus.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/77df3407-7c5a-4364-a151-6793842edab5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/77df3407-7c5a-4364-a151-6793842edab5",
+			"uuid": "77df3407-7c5a-4364-a151-6793842edab5",
+			"prefix": "ec/15/bbvmbokb",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2a83b416-45cb-4a96-a11b-0a3030d3353e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a83b416-45cb-4a96-a11b-0a3030d3353e",
+					"uuid": "2a83b416-45cb-4a96-a11b-0a3030d3353e",
+					"title": "De kandidaat heeft inzicht in Internationale economische betrekkingen zoals Nederland als open economie, de Europese Unie, ontwikkelingsproblematiek en kan dit inzicht toepassen in een gegeven casus.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a6578bf5-4b1b-45e5-9362-ad591111a134",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6578bf5-4b1b-45e5-9362-ad591111a134",
+			"uuid": "a6578bf5-4b1b-45e5-9362-ad591111a134",
+			"prefix": "ec/15/bbvmbogl",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/11668c06-e803-44cc-b830-3ab67a0a8e47",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/11668c06-e803-44cc-b830-3ab67a0a8e47",
+					"uuid": "11668c06-e803-44cc-b830-3ab67a0a8e47",
+					"title": "De kandidaat heeft inzicht in Internationale economische betrekkingen zoals Nederland als open economie, de Europese Unie, ontwikkelingsproblematiek en kan dit inzicht toepassen in een gegeven casus.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f7f58c96-0458-4ea0-b70c-2e2d452483af",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7f58c96-0458-4ea0-b70c-2e2d452483af",
+			"uuid": "f7f58c96-0458-4ea0-b70c-2e2d452483af",
+			"prefix": "ec/15/bbvmbotl",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/59257f5d-e136-426a-a2fe-3306070188ef",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/59257f5d-e136-426a-a2fe-3306070188ef",
+					"uuid": "59257f5d-e136-426a-a2fe-3306070188ef",
+					"title": "De kandidaat heeft inzicht in Internationale economische betrekkingen zoals Nederland als open economie, de Europese Unie, ontwikkelingsproblematiek en kan dit inzicht toepassen in een gegeven casus.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Einddoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97/ldk_vakkern/63b18cb1-c535-46ac-8615-88fe3fba744d"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b/ldk_vakkern/63b18cb1-c535-46ac-8615-88fe3fba744d"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303/ldk_vakkern/63b18cb1-c535-46ac-8615-88fe3fba744d"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5/ldk_vakkern/63b18cb1-c535-46ac-8615-88fe3fba744d"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Internationale ontwikkelingen",
+	"prefix": "ec/15"
+}

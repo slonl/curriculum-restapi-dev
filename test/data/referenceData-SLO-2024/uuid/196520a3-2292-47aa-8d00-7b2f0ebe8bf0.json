@@ -1,0 +1,45 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+	"uuid": "196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "LdkVakbegrip",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b6e8190-6fa5-423d-9a43-de003b3b75a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b6e8190-6fa5-423d-9a43-de003b3b75a0",
+			"uuid": "7b6e8190-6fa5-423d-9a43-de003b3b75a0",
+			"prefix": "gs/5/8/2/bbhavo",
+			"ce_se": "CE",
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/44290005-b714-4490-8567-2a377ef58a18",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44290005-b714-4490-8567-2a377ef58a18",
+					"uuid": "44290005-b714-4490-8567-2a377ef58a18",
+					"title": "Je beschrijft het verloop van de opstand van de Nederlanden tegen Spanje, o.a. aan de hand van:\r\n* watergeuzen 1572\r\n* Pacificatie van Gent 1576\r\n* Unie van Utrecht 1579\r\n* Plakkaat van Verlatinge\r\n* Moord op Willem van Oranje 1584\r\n* Val van Antwerpen 1585\r\n* Erikenning soevereiniteit door Engeland en Frankrijk 1596\r\n* Vrede van Münster 1648",
+					"description": null,
+					"bron": "Einddoel",
+					"vakbegrippen": null,
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Kerndoel": [],
+			"LdkVakbegrip": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+					"uuid": "196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+					"title": "Bloedpakkaten, Collaterale Raden, Raad van Staten, De Geheime Raad, Raad van Financiën, Karel V, Filips II, Willem van Oranje, Alva, Beeldenstorm 1566, Raad van Beroerten,  watergeuzen 1572, Statenvergadering, soevereiniteit, huurlingenleger",
+					"ce_se": "CE"
+				}
+			]
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Bloedpakkaten, Collaterale Raden, Raad van Staten, De Geheime Raad, Raad van Financiën, Karel V, Filips II, Willem van Oranje, Alva, Beeldenstorm 1566, Raad van Beroerten,  watergeuzen 1572, Statenvergadering, soevereiniteit, huurlingenleger",
+	"ce_se": "CE"
+}

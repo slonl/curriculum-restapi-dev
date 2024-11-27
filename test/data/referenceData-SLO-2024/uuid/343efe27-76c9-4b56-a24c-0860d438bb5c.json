@@ -1,0 +1,543 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/343efe27-76c9-4b56-a24c-0860d438bb5c",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/343efe27-76c9-4b56-a24c-0860d438bb5c",
+	"uuid": "343efe27-76c9-4b56-a24c-0860d438bb5c",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+	"@type": "InhCluster",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5d1563dd-50e3-451d-b1b6-90d8289cd9d1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d1563dd-50e3-451d-b1b6-90d8289cd9d1",
+			"uuid": "5d1563dd-50e3-451d-b1b6-90d8289cd9d1",
+			"prefix": "DG/CT/AUT-1/fase1",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b0c69264-176a-4933-9a47-649a0aaec7ac",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b0c69264-176a-4933-9a47-649a0aaec7ac",
+					"uuid": "b0c69264-176a-4933-9a47-649a0aaec7ac",
+					"title": "herkennen van de herhaling van taken in verschillende situaties",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d4b47263-a1ba-45e2-aa59-7b341f4da059",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4b47263-a1ba-45e2-aa59-7b341f4da059",
+			"uuid": "d4b47263-a1ba-45e2-aa59-7b341f4da059",
+			"prefix": "DG/CT/AUT-2/fase1",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/58aae81a-1895-423a-a7a1-3df3cba7cd2c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/58aae81a-1895-423a-a7a1-3df3cba7cd2c",
+					"uuid": "58aae81a-1895-423a-a7a1-3df3cba7cd2c",
+					"title": "beseffen dat een computer een taak eindeloos kan herhalen (bijv. in oefeningen)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c09aab0d-5b05-40f9-8947-8110aacf413c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c09aab0d-5b05-40f9-8947-8110aacf413c",
+			"uuid": "c09aab0d-5b05-40f9-8947-8110aacf413c",
+			"prefix": "DG/CT/AUT-1/fase2",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fe838320-5f09-4da3-ba6c-43de3b3359e0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe838320-5f09-4da3-ba6c-43de3b3359e0",
+					"uuid": "fe838320-5f09-4da3-ba6c-43de3b3359e0",
+					"title": "herkennen van voorbeelden van terugkerende taken waarvoor een computer wordt ingezet",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1ebf81a3-0ecf-4218-bccc-23c55b8d0470",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ebf81a3-0ecf-4218-bccc-23c55b8d0470",
+			"uuid": "1ebf81a3-0ecf-4218-bccc-23c55b8d0470",
+			"prefix": "DG/CT/AUT-2/fase2",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4904c11a-41c8-48da-a12b-1770cdd4f4cc",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4904c11a-41c8-48da-a12b-1770cdd4f4cc",
+					"uuid": "4904c11a-41c8-48da-a12b-1770cdd4f4cc",
+					"title": "vergelijken van resultaten van handelingen die handmatig of door apparaten zijn uitgevoerd",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8181a675-4ee1-40a2-957d-dd1df06b7147",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8181a675-4ee1-40a2-957d-dd1df06b7147",
+			"uuid": "8181a675-4ee1-40a2-957d-dd1df06b7147",
+			"prefix": "DG/CT/AUT-3/fase2",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/13a53935-fe92-4786-9485-b079c531f21d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13a53935-fe92-4786-9485-b079c531f21d",
+					"uuid": "13a53935-fe92-4786-9485-b079c531f21d",
+					"title": "voorbeelden geven van geautomatiseerde systemen in het dagelijkse leven",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4c0f408-8062-4d0f-bb72-db5a5a041878",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4c0f408-8062-4d0f-bb72-db5a5a041878",
+			"uuid": "a4c0f408-8062-4d0f-bb72-db5a5a041878",
+			"prefix": "DG/CT/AUT-1/fase3",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/082f5ce0-325d-4d64-b717-5d3fce7d9dbc",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/082f5ce0-325d-4d64-b717-5d3fce7d9dbc",
+					"uuid": "082f5ce0-325d-4d64-b717-5d3fce7d9dbc",
+					"title": "analyseren van een taak en hier een repeterende deeltaak of deeltaken uithalen waarbij een computer behulpzaam kan zijn",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/72ede49b-774d-4e58-91ee-7b8be3d2cba2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/72ede49b-774d-4e58-91ee-7b8be3d2cba2",
+			"uuid": "72ede49b-774d-4e58-91ee-7b8be3d2cba2",
+			"prefix": "DG/CT/AUT-2/fase3",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/33644e9a-b9ff-41fa-9706-c40bbbb62fac",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/33644e9a-b9ff-41fa-9706-c40bbbb62fac",
+					"uuid": "33644e9a-b9ff-41fa-9706-c40bbbb62fac",
+					"title": "onderzoeken op welke manier (een onderdeel van) een computerprogramma  kan ondersteunen bij een telkens terugkerende taak of handeling",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8a05d5ec-0732-464d-a80d-0255b2ba8941",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a05d5ec-0732-464d-a80d-0255b2ba8941",
+			"uuid": "8a05d5ec-0732-464d-a80d-0255b2ba8941",
+			"prefix": "DG/CT/AUT-3/fase3",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/9a63dc6a-999d-440a-b167-18d8f163872a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9a63dc6a-999d-440a-b167-18d8f163872a",
+					"uuid": "9a63dc6a-999d-440a-b167-18d8f163872a",
+					"title": "benoemen van voor en nadelen van het geautomatiseerd uitvoeren van taken",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Aanbodsdoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4d6a5032-ed7d-4085-b9c0-af8b12e8d807",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d6a5032-ed7d-4085-b9c0-af8b12e8d807",
+			"uuid": "4d6a5032-ed7d-4085-b9c0-af8b12e8d807",
+			"prefix": "DG/CT/AUT-1/fase4",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ec79c104-e519-47dc-9336-9991998705ab",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ec79c104-e519-47dc-9336-9991998705ab",
+					"uuid": "ec79c104-e519-47dc-9336-9991998705ab",
+					"title": "De leerling kan door het opstellen van een serie van geordende stappen een probleem oplossen of een bepaald doel bereiken",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+					"title": "fase 4",
+					"prefix": "1206",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4f9305e-1b72-4f54-ad97-d69c3458a3d2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4f9305e-1b72-4f54-ad97-d69c3458a3d2",
+			"uuid": "a4f9305e-1b72-4f54-ad97-d69c3458a3d2",
+			"prefix": "DG/CT/AUT-2/fase4",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f2a40042-9c9e-43a7-a9c8-99f153bc037f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f2a40042-9c9e-43a7-a9c8-99f153bc037f",
+					"uuid": "f2a40042-9c9e-43a7-a9c8-99f153bc037f",
+					"title": "De leerling kan effectieve en efficiënte stappen zetten en bronnen gebruiken om tot een uiteindelijke oplossing te komen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+					"title": "fase 4",
+					"prefix": "1206",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1e065941-b8b1-414f-99b0-4e624a88d508",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1e065941-b8b1-414f-99b0-4e624a88d508",
+			"uuid": "1e065941-b8b1-414f-99b0-4e624a88d508",
+			"prefix": "DG/CT/AUT-3/fase4",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ed4f5c78-7487-42bd-8373-8e44be84afa6",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ed4f5c78-7487-42bd-8373-8e44be84afa6",
+					"uuid": "ed4f5c78-7487-42bd-8373-8e44be84afa6",
+					"title": "De leerling kan mogelijke oplossingen identificeren, analyseren en implementeren met als doel de meest effectieve en efficiënte oplossing te vinden",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+					"title": "fase 4",
+					"prefix": "1206",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2b141d7f-9765-46bc-9306-d0aa7d3b41a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2b141d7f-9765-46bc-9306-d0aa7d3b41a8",
+			"uuid": "2b141d7f-9765-46bc-9306-d0aa7d3b41a8",
+			"prefix": "DG/CT/AUT-4/fase4",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/34021ff8-1efa-4351-b83c-b6d5cb36e9e1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/34021ff8-1efa-4351-b83c-b6d5cb36e9e1",
+					"uuid": "34021ff8-1efa-4351-b83c-b6d5cb36e9e1",
+					"title": "De leerling kan repetitieve taken laten uitvoeren door computers",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+					"title": "fase 4",
+					"prefix": "1206",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1b6d298f-9056-416f-b3c6-e4990e24a1f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1b6d298f-9056-416f-b3c6-e4990e24a1f1",
+			"uuid": "1b6d298f-9056-416f-b3c6-e4990e24a1f1",
+			"prefix": "DG/CT/AUT-1/fase5",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f05d26cc-7832-4911-b47b-d90786e90fd5",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f05d26cc-7832-4911-b47b-d90786e90fd5",
+					"uuid": "f05d26cc-7832-4911-b47b-d90786e90fd5",
+					"title": "De leerling kan in een context mogelijkheden zien voor het inzetten van ICT",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0d10e2d9-c069-4bab-907e-03050936984e",
+					"title": "fase 5",
+					"prefix": "1208",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d10e2d9-c069-4bab-907e-03050936984e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c8087b0c-13e8-42f4-8991-fe5c57467283",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8087b0c-13e8-42f4-8991-fe5c57467283",
+			"uuid": "c8087b0c-13e8-42f4-8991-fe5c57467283",
+			"prefix": "DG/CT/AUT-2/fase5",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cb0c4ab7-b019-44ba-99de-b8017e149684",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb0c4ab7-b019-44ba-99de-b8017e149684",
+					"uuid": "cb0c4ab7-b019-44ba-99de-b8017e149684",
+					"title": "De leerling kan kan mogelijkheden en beperkingen van ICT inschatten",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0d10e2d9-c069-4bab-907e-03050936984e",
+					"title": "fase 5",
+					"prefix": "1208",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d10e2d9-c069-4bab-907e-03050936984e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e12823af-990b-40e0-8180-4b0f45460acd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e12823af-990b-40e0-8180-4b0f45460acd",
+			"uuid": "e12823af-990b-40e0-8180-4b0f45460acd",
+			"prefix": "DG/CT/AUT-3/fase5",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/cabd2960-b7eb-4a3f-8f9f-e1d8e7ba5294",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cabd2960-b7eb-4a3f-8f9f-e1d8e7ba5294",
+					"uuid": "cabd2960-b7eb-4a3f-8f9f-e1d8e7ba5294",
+					"title": "De leerling heeft inzicht in de plaats en mogelijkheden van ICT in diverse beroepssectoren",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0d10e2d9-c069-4bab-907e-03050936984e",
+					"title": "fase 5",
+					"prefix": "1208",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d10e2d9-c069-4bab-907e-03050936984e"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+			"title": "fase 1",
+			"prefix": "1200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0a3d23df-1758-439b-b219-cd2854cc639b/inh_luster/343efe27-76c9-4b56-a24c-0860d438bb5c"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+			"title": "fase 2",
+			"prefix": "1202-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5edad2fa-2cf0-4701-93d9-97edbe06ac02/inh_luster/343efe27-76c9-4b56-a24c-0860d438bb5c"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+			"title": "fase 3",
+			"prefix": "1204-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fc0fa444-07f6-4744-b7a7-6f9aadeeff42/inh_luster/343efe27-76c9-4b56-a24c-0860d438bb5c"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e",
+			"title": "fase 4",
+			"prefix": "1206-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f77f2837-0c13-42bb-bc5a-1f6286ccfa7e/inh_luster/343efe27-76c9-4b56-a24c-0860d438bb5c"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d10e2d9-c069-4bab-907e-03050936984e",
+			"title": "fase 5",
+			"prefix": "1208-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/0d10e2d9-c069-4bab-907e-03050936984e/inh_luster/343efe27-76c9-4b56-a24c-0860d438bb5c"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "DG/CT/AUT",
+	"title": "Automatisering   ​ ​",
+	"InhSubcluster": []
+}

@@ -1,0 +1,65 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fcdaa3d1-b190-45e7-a8da-b6e4c6efe276",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcdaa3d1-b190-45e7-a8da-b6e4c6efe276",
+	"uuid": "fcdaa3d1-b190-45e7-a8da-b6e4c6efe276",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgModuletaak",
+	"ExamenprogrammaBgModule": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fcb8f424-360e-4c65-915c-1edc2c457695",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcb8f424-360e-4c65-915c-1edc2c457695",
+			"uuid": "fcb8f424-360e-4c65-915c-1edc2c457695",
+			"prefix": "P/MVI/03",
+			"title": "ICT",
+			"deprecated": true,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a3569749-440e-4d1c-bd98-b328ec57a9a7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3569749-440e-4d1c-bd98-b328ec57a9a7",
+					"uuid": "a3569749-440e-4d1c-bd98-b328ec57a9a7",
+					"title": "Media, vormgeving en ict",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+					"uuid": "3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+					"title": "Media, vormgeving en ICT",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		}
+	],
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "P/MVI/03/MT",
+	"title": "Hardware onderdelen demonteren en monteren, aansluiten en onderdelen vervangen / software installeren en veelvoorkomende problemen oplossen / een ICT-infrastructuur installeren in een gebouw / eindgebruikers informeren en adviseren over ICT-producten en het gebruik ervan"
+}

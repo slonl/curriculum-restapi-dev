@@ -1,0 +1,60 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d",
+	"uuid": "3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusToelichting",
+	"ExamenprogrammaEindterm": [],
+	"ExamenprogrammaDomein": [],
+	"Syllabus": [],
+	"SyllabusSpecifiekeEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3edea53f-d3a3-41a3-aee7-6da3353a28e6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3edea53f-d3a3-41a3-aee7-6da3353a28e6",
+			"uuid": "3edea53f-d3a3-41a3-aee7-6da3353a28e6",
+			"title": "visies en standpunten politieke partijen en stromingen:",
+			"deprecated": null
+		}
+	],
+	"Tag": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3730ced6-7b1c-402e-8bf9-d61d2c970ca5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3730ced6-7b1c-402e-8bf9-d61d2c970ca5",
+			"uuid": "3730ced6-7b1c-402e-8bf9-d61d2c970ca5",
+			"title": "‘linkse’ partijen leggen meer de nadruk op de maatschappelijke oorzaken van criminaliteit, pleiten voor preventieve maatregelen, uitbreiding van taakstraffen en leggen meer de nadruk op bescherming van rechten van de burger, dit is een kenmerk van de rechtsstaat"
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97/syllabustoelichting/3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b/syllabustoelichting/3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303/syllabustoelichting/3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5/syllabustoelichting/3046e1c9-61eb-48d0-b3b0-fa1d0c04a79d"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "ML/2/K/8/14d.4.3/toel.2",
+	"title": "‘linkse’ partijen leggen meer de nadruk op de maatschappelijke oorzaken van criminaliteit, pleiten voor preventieve maatregelen, uitbreiding van taakstraffen en leggen meer de nadruk op bescherming van rechten van de burger, dit is een kenmerk van de rechtsstaat",
+	"ce_se": "CE"
+}

@@ -1,0 +1,110 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fcf9a359-2d4d-499e-ac04-420e8f84499e",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcf9a359-2d4d-499e-ac04-420e8f84499e",
+	"uuid": "fcf9a359-2d4d-499e-ac04-420e8f84499e",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaSubdomein",
+	"ExamenprogrammaEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cca673fd-0425-4464-81ed-5aa2f7110307",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cca673fd-0425-4464-81ed-5aa2f7110307",
+			"uuid": "cca673fd-0425-4464-81ed-5aa2f7110307",
+			"prefix": "ML/V/DomeinA/A1/1a",
+			"title": "De kandidaat kan voor een vraag bruikbaar bronnenmateriaal verwerven en er gegevens uit selecteren;",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ab23ed69-37a4-47c2-afc7-0e20b60c5ce1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ab23ed69-37a4-47c2-afc7-0e20b60c5ce1",
+			"uuid": "ab23ed69-37a4-47c2-afc7-0e20b60c5ce1",
+			"prefix": "ML/V/DomeinA/A1/1b",
+			"title": "De kandidaat kan (verworven) informatie verwerken o.a. met behulp van ICT en daaruit beredeneerde conclusies trekken;",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/871f87d5-0816-4a23-adaf-3a1385e6538e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/871f87d5-0816-4a23-adaf-3a1385e6538e",
+			"uuid": "871f87d5-0816-4a23-adaf-3a1385e6538e",
+			"prefix": "ML/V/DomeinA/A1/1c",
+			"title": "De kandidaat kan een stelling, zowel mondeling als schriftelijk, nuanceren, verdedigen en bestrijden en daarbij gebruikmaken van argumentatievaardigheden.",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				}
+			]
+		}
+	],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a2cf6058-799f-4d4f-9e8a-15f28c2f5957",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a2cf6058-799f-4d4f-9e8a-15f28c2f5957",
+			"uuid": "a2cf6058-799f-4d4f-9e8a-15f28c2f5957",
+			"prefix": "ML/V/DomeinA",
+			"title": "Domein A: Vaardigheden",
+			"deprecated": null,
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/eb346b1c-1553-4ffd-9f81-725db6522083",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eb346b1c-1553-4ffd-9f81-725db6522083",
+					"uuid": "eb346b1c-1553-4ffd-9f81-725db6522083",
+					"title": "Examenprogramma Maatschappijleer vwo",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
+			"uuid": "4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
+			"prefix": "ML/V/Domein A Vaardigheden",
+			"title": "Domein A: Vaardigheden",
+			"deprecated": true,
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/dd62ec2d-7037-4ff8-9539-c31da2028944",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd62ec2d-7037-4ff8-9539-c31da2028944",
+					"uuid": "dd62ec2d-7037-4ff8-9539-c31da2028944",
+					"title": "Examenprogramma maatschappijleer vwo",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Doelniveau": [],
+	"Tag": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb/examenprogrammasubdomein/fcf9a359-2d4d-499e-ac04-420e8f84499e"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "ML/V/DomeinA/A1",
+	"title": "Subdomein A1: Informatievaardigheden",
+	"ce_se": "SE"
+}

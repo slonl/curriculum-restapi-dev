@@ -1,0 +1,13 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+	"uuid": "00c26ce4-a34d-4b4b-bce1-4e51538e9e33",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkVoorbeeld",
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": null,
+	"title": "Via een zoekmachine zoals Google een duikschool of scooterverhuurbedrijf (DL)."
+}

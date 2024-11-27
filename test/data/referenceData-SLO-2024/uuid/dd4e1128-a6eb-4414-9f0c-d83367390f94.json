@@ -1,0 +1,25 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/dd4e1128-a6eb-4414-9f0c-d83367390f94",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd4e1128-a6eb-4414-9f0c-d83367390f94",
+	"uuid": "dd4e1128-a6eb-4414-9f0c-d83367390f94",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusVakbegrip",
+	"ExamenprogrammaEindterm": [],
+	"Syllabus": [],
+	"Tag": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5/syllabusvakbegrip/dd4e1128-a6eb-4414-9f0c-d83367390f94"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "vrijheid van vereniging en vergadering",
+	"ce_se": "CE"
+}

@@ -1,0 +1,70 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/73cef23f-df24-4015-8516-072a13dcd369",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73cef23f-df24-4015-8516-072a13dcd369",
+	"uuid": "73cef23f-df24-4015-8516-072a13dcd369",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Vakleergebied",
+	"ExamenprogrammaVakleergebied": [],
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+			"uuid": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+			"title": "Zorg en welzijn",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+			"uuid": "7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+			"title": "Zorg en welzijn",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+			"uuid": "da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+			"title": "Zorg en welzijn",
+			"deprecated": true
+		}
+	],
+	"LdkVakleergebied": [],
+	"KerndoelVakleergebied": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97/vakleergebied/73cef23f-df24-4015-8516-072a13dcd369"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b/vakleergebied/73cef23f-df24-4015-8516-072a13dcd369"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303/vakleergebied/73cef23f-df24-4015-8516-072a13dcd369"
+		}
+	],
+	"SyllabusVakleergebied": [],
+	"InhVakleergebied": [],
+	"RefVakleergebied": [],
+	"ErkVakleergebied": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "zw",
+	"title": "Zorg en Welzijn",
+	"description": ""
+}

@@ -1,0 +1,91 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+	"uuid": "a0af4ab4-5246-4078-b0d3-7d743bb2d111",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "KerndoelDomein",
+	"Kerndoel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e79198ce-df12-45c2-bf40-db070246ad0a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e79198ce-df12-45c2-bf40-db070246ad0a",
+			"uuid": "e79198ce-df12-45c2-bf40-db070246ad0a",
+			"title": "De leerlingen leren bij gebruik van de NGT strategieën herkennen, ‘verwoorden’, gebruiken en beoordelen.",
+			"prefix": "SO nl/ml Kerndoel LS 24",
+			"kerndoelLabel": "Strategieen herkennen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"uuid": "13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"title": "De leerlingen leren welke verschillende vormen van communicatie bestaan tussen dove mensen onderling en tussen dove mensen en horende mensen.",
+			"prefix": "SO nl/ml Kerndoel LS 25",
+			"kerndoelLabel": "Communicatievormen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"uuid": "10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"title": "De leerlingen leren een adequate gebarenlexicon en strategieën verwerven voor het begrijpen van voor hen onbekende gebaren.",
+			"prefix": "SO nl/ml Kerndoel LS 26",
+			"kerndoelLabel": "Gebarenlexicon",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/417ed529-bee9-486d-b49a-320acbe76267",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/417ed529-bee9-486d-b49a-320acbe76267",
+			"uuid": "417ed529-bee9-486d-b49a-320acbe76267",
+			"title": "De leerlingen leren taalkundige principes en regels van de gebarentaal zoals rolnemen, lokaliseren, basiselementen en de parameters.",
+			"prefix": "SO nl/ml Kerndoel LS 27",
+			"kerndoelLabel": "Taalkundige principes",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		}
+	],
+	"KerndoelVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+			"uuid": "a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
+			"title": "Nederlandse gebarentaal",
+			"deprecated": null
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Taalbeschouwing, waaronder strategieën"
+}

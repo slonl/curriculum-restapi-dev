@@ -1,0 +1,38 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/ff99c01f-9c97-4e76-b0e7-015491385a8a",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff99c01f-9c97-4e76-b0e7-015491385a8a",
+	"uuid": "ff99c01f-9c97-4e76-b0e7-015491385a8a",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Doelniveau",
+	"ExamenprogrammaEindterm": [],
+	"ExamenprogrammaSubdomein": [],
+	"ExamenprogrammaDomein": [],
+	"LdkVakleergebied": [],
+	"LdkVakkern": [],
+	"LdkVaksubkern": [],
+	"LdkVakinhoud": [],
+	"Kerndoel": [],
+	"LpibVakkern": [],
+	"LpibVaksubkern": [],
+	"LpibVakinhoud": [],
+	"Doel": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"uuid": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"description": "bovenbouw havo: leerjaar 4, leerjaar 5",
+			"prefix": "4600",
+			"type": "Sector",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		}
+	],
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "na/2/bbhavo",
+	"ce_se": null,
+	"LdkVakbegrip": []
+}

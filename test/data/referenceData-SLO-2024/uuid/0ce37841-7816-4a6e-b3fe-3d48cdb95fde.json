@@ -1,0 +1,79 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+	"uuid": "0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaEindterm",
+	"ExamenprogrammaSubdomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2f26d89e-6d9d-4e3f-a5a7-54d4bbe81e61",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2f26d89e-6d9d-4e3f-a5a7-54d4bbe81e61",
+			"uuid": "2f26d89e-6d9d-4e3f-a5a7-54d4bbe81e61",
+			"prefix": "AK/H/DomeinD/D2",
+			"title": "Subdomein D2: Actuele vraagstukken",
+			"deprecated": null,
+			"ExamenprogrammaDomein": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a33a366e-a931-410f-825e-4255c2e2c35a",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a33a366e-a931-410f-825e-4255c2e2c35a",
+					"uuid": "a33a366e-a931-410f-825e-4255c2e2c35a",
+					"title": "Domein D: Ontwikkelingsland",
+					"deprecated": null,
+					"Examenprogramma": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/eb1b9411-5a88-410e-b65a-aac635923c4d",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eb1b9411-5a88-410e-b65a-aac635923c4d",
+							"uuid": "eb1b9411-5a88-410e-b65a-aac635923c4d",
+							"title": "Examenprogramma Aardrijkskunde havo",
+							"deprecated": null
+						}
+					]
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d8890df-c35b-4ed2-9920-6bed6d7425b4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d8890df-c35b-4ed2-9920-6bed6d7425b4",
+					"uuid": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
+					"title": "Domein D: Ontwikkelingsland",
+					"deprecated": true,
+					"Examenprogramma": [
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/5effad33-ae66-4a1b-b610-d6a4f5542e0a",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5effad33-ae66-4a1b-b610-d6a4f5542e0a",
+							"uuid": "5effad33-ae66-4a1b-b610-d6a4f5542e0a",
+							"title": "Examenprogramma aardrijkskunde havo",
+							"deprecated": true
+						},
+						{
+							"@id": "https://opendata.slo.nl/curriculum/uuid/e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
+							"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
+							"uuid": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
+							"title": "Examenprogramma Aardrijkskunde havo",
+							"deprecated": true
+						}
+					]
+				}
+			]
+		}
+	],
+	"ExamenprogrammaDomein": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"uuid": "6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		}
+	],
+	"SyllabusSpecifiekeEindterm": [],
+	"SyllabusToelichting": [],
+	"SyllabusVakbegrip": [],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "AK/H/DomeinD/D2/10a",
+	"title": "De kandidaat kan actuele vraagstukken in het in subdomein D1 bedoelde ontwikkelingsland beschrijven en analyseren. Het betreft conflicten in het betreffende ontwikkelingsland die verband houden met de etnische en culturele diversiteit in het land.",
+	"ce_se": "SE"
+}

@@ -1,0 +1,50 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0a00656f-c279-4775-81f0-ff7a58066494",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a00656f-c279-4775-81f0-ff7a58066494",
+	"uuid": "0a00656f-c279-4775-81f0-ff7a58066494",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgGlobaleEindterm",
+	"ExamenprogrammaBgKerndeel": [],
+	"ExamenprogrammaBgDeeltaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d96c67cf-45cf-4695-9b1f-a98fa1af2dd2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d96c67cf-45cf-4695-9b1f-a98fa1af2dd2",
+			"uuid": "d96c67cf-45cf-4695-9b1f-a98fa1af2dd2",
+			"prefix": "K/BWI/04/01",
+			"title": "Eenvoudige kasten en opbergsystemen ontwerpen en maken",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/BWI/04/01-02",
+	"title": "De kandidaat kan een werktekening lezen en interpreteren"
+}

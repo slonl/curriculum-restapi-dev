@@ -1,0 +1,81 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/48a45b8b-84d1-4e4b-9d85-d9f135a5cfeb",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48a45b8b-84d1-4e4b-9d85-d9f135a5cfeb",
+	"uuid": "48a45b8b-84d1-4e4b-9d85-d9f135a5cfeb",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgDeeltaak",
+	"ExamenprogrammaBgGlobaleEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/15fdfb50-5d2c-4c85-92cc-7bae379c3fcf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15fdfb50-5d2c-4c85-92cc-7bae379c3fcf",
+			"uuid": "15fdfb50-5d2c-4c85-92cc-7bae379c3fcf",
+			"prefix": "K/DP/01/02-01",
+			"title": "De kandidaat kan de ideeën voorleggen aan de opdrachtgever en deze toelichten",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4fabfb51-8393-4d89-b62d-c5c8691f261c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4fabfb51-8393-4d89-b62d-c5c8691f261c",
+			"uuid": "4fabfb51-8393-4d89-b62d-c5c8691f261c",
+			"prefix": "K/DP/01/02-02",
+			"title": "De kandidaat kan de reactie van de opdrachtgever onder begeleiding verwerken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ea827670-5c0d-471b-8aa4-356e0a2f81d9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ea827670-5c0d-471b-8aa4-356e0a2f81d9",
+			"uuid": "ea827670-5c0d-471b-8aa4-356e0a2f81d9",
+			"prefix": "K/DP/01/02-03",
+			"title": "De kandidaat kan de reactie van een opdrachtgever verwerken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3992526b-2899-4279-936f-6913b347e7b2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3992526b-2899-4279-936f-6913b347e7b2",
+			"uuid": "3992526b-2899-4279-936f-6913b347e7b2",
+			"prefix": "K/DP/01/02-04",
+			"title": "De kandidaat kan een (fragment) van een spel maken",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaBgModule": [],
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/274e8845-1619-46f6-a5e6-37dc9173570a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/274e8845-1619-46f6-a5e6-37dc9173570a",
+			"uuid": "274e8845-1619-46f6-a5e6-37dc9173570a",
+			"prefix": "K/DP/01",
+			"title": "Digi-spel",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"uuid": "50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"title": "Dienstverlening en producten",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/05b2246b-6271-41e8-b932-8fd7f899f8a0",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05b2246b-6271-41e8-b932-8fd7f899f8a0",
+					"uuid": "05b2246b-6271-41e8-b932-8fd7f899f8a0",
+					"title": "Dienstverlening en producten",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/726919bf-610b-4860-9952-a3b2c7bd20df",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/726919bf-610b-4860-9952-a3b2c7bd20df",
+					"uuid": "726919bf-610b-4860-9952-a3b2c7bd20df",
+					"title": "Dienstverlening en producten",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "K/DP/01/02",
+	"title": "Het spel maken"
+}

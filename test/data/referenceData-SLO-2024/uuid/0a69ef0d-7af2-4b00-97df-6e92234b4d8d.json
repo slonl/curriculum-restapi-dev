@@ -1,0 +1,66 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0a69ef0d-7af2-4b00-97df-6e92234b4d8d",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a69ef0d-7af2-4b00-97df-6e92234b4d8d",
+	"uuid": "0a69ef0d-7af2-4b00-97df-6e92234b4d8d",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgModule",
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/05b2246b-6271-41e8-b932-8fd7f899f8a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/05b2246b-6271-41e8-b932-8fd7f899f8a0",
+			"uuid": "05b2246b-6271-41e8-b932-8fd7f899f8a0",
+			"prefix": "DP",
+			"title": "Dienstverlening en producten",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/726919bf-610b-4860-9952-a3b2c7bd20df",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/726919bf-610b-4860-9952-a3b2c7bd20df",
+			"uuid": "726919bf-610b-4860-9952-a3b2c7bd20df",
+			"prefix": "DP",
+			"title": "Dienstverlening en producten",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgDeeltaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e8c1966e-5051-4d3d-a07c-9603fa01816e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e8c1966e-5051-4d3d-a07c-9603fa01816e",
+			"uuid": "e8c1966e-5051-4d3d-a07c-9603fa01816e",
+			"prefix": "P/DP/03/02",
+			"title": "Een product maken",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e14cb970-203e-4d18-ac33-1fbefbac9efe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e14cb970-203e-4d18-ac33-1fbefbac9efe",
+			"uuid": "e14cb970-203e-4d18-ac33-1fbefbac9efe",
+			"prefix": "P/DP/03/01",
+			"title": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 2D en 3D",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgModuletaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/382d5ce4-6b20-4880-9d9b-190647a498c9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/382d5ce4-6b20-4880-9d9b-190647a498c9",
+			"uuid": "382d5ce4-6b20-4880-9d9b-190647a498c9",
+			"prefix": "P/DP/03/MT",
+			"title": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 2D en 3D / een product maken",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca73cbee-216d-45ac-a8c5-9d4b4b77c8a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca73cbee-216d-45ac-a8c5-9d4b4b77c8a2",
+			"uuid": "ca73cbee-216d-45ac-a8c5-9d4b4b77c8a2",
+			"title": "Een product maken en verbeteren"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "P/DP/03",
+	"title": "Een product maken en verbeteren"
+}

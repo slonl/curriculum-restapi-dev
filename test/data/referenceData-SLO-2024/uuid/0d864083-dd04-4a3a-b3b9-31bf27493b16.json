@@ -1,0 +1,38 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0d864083-dd04-4a3a-b3b9-31bf27493b16",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d864083-dd04-4a3a-b3b9-31bf27493b16",
+	"uuid": "0d864083-dd04-4a3a-b3b9-31bf27493b16",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Doelniveau",
+	"ExamenprogrammaEindterm": [],
+	"ExamenprogrammaSubdomein": [],
+	"ExamenprogrammaDomein": [],
+	"LdkVakleergebied": [],
+	"LdkVakkern": [],
+	"LdkVaksubkern": [],
+	"LdkVakinhoud": [],
+	"Kerndoel": [],
+	"LpibVakkern": [],
+	"LpibVaksubkern": [],
+	"LpibVakinhoud": [],
+	"Doel": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"uuid": "5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"title": "ob havo",
+			"description": "onderbouw havo: leerjaar 1, leerjaar 2, leerjaar 3",
+			"prefix": "4107",
+			"type": "Sector",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+		}
+	],
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "na/1/1/3/obhavo",
+	"ce_se": null,
+	"LdkVakbegrip": []
+}

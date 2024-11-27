@@ -1,0 +1,238 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fcdae226-0095-4eec-8584-96919df2b2d1",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcdae226-0095-4eec-8584-96919df2b2d1",
+	"uuid": "fcdae226-0095-4eec-8584-96919df2b2d1",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "KerndoelDomein",
+	"Kerndoel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
+			"uuid": "a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
+			"title": "De leerlingen leren bij de doelen onder 'mondeling taalonderwijs' en 'schriftelijk taalonderwijs' strategieën te herkennen, te verwoorden, te gebruiken en te beoordelen.",
+			"prefix": "PO Kerndoel 10",
+			"kerndoelLabel": "Strategieën hanteren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b7a5317-c622-423c-b337-b4c656d8d372",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b7a5317-c622-423c-b337-b4c656d8d372",
+			"uuid": "7b7a5317-c622-423c-b337-b4c656d8d372",
+			"title": "De leerlingen leren een aantal taalkundige principes en regels. Zij kunnen in een zin het onderwerp, het werkwoordelijk gezegde en delen van dat gezegde onderscheiden. De leerlingen kennen: regels voor het spellen van werkwoorden;",
+			"prefix": "PO Kerndoel 11",
+			"kerndoelLabel": "Principes en regels",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
+					"title": "fase 3",
+					"prefix": "1204",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8990498f-49bb-4e40-8121-0a74b18c7ae7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8990498f-49bb-4e40-8121-0a74b18c7ae7",
+			"uuid": "8990498f-49bb-4e40-8121-0a74b18c7ae7",
+			"title": "De leerlingen verwerven een adequate woordenschat en strategieën voor het begrijpen van voor hen onbekende woorden. Onder 'woordenschat' vallen ook begrippen die het leerlingen mogelijk maken over taal te denken en te spreken.",
+			"prefix": "PO Kerndoel 12",
+			"kerndoelLabel": "Woordenschat",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a3d23df-1758-439b-b219-cd2854cc639b",
+					"title": "fase 1",
+					"prefix": "1200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3d23df-1758-439b-b219-cd2854cc639b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02",
+					"title": "fase 2",
+					"prefix": "1202",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/043fbba8-9324-491e-9822-7a6d63214a5f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/043fbba8-9324-491e-9822-7a6d63214a5f",
+			"uuid": "043fbba8-9324-491e-9822-7a6d63214a5f",
+			"title": "De leerlingen leren bij de doelen onder ‘mondeling taalonderwijs’ en ‘schriftelijk taalonderwijs’ strategieën te herkennen, te verwoorden, te gebruiken en te beoordelen.",
+			"prefix": "SO nl/ml Kerndoel LS 17",
+			"kerndoelLabel": "Strategieen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f40d3dd3-0c93-4e76-bb6f-478a16639b89",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f40d3dd3-0c93-4e76-bb6f-478a16639b89",
+			"uuid": "f40d3dd3-0c93-4e76-bb6f-478a16639b89",
+			"title": "De leerlingen leren een aantal taalkundige principes en regels. Zij kunnen in een zin het onderwerp, het werkwoordelijk gezegde en delen van dat gezegde onderscheiden.",
+			"prefix": "SO nl/ml Kerndoel LS 18",
+			"kerndoelLabel": "Taalkundige principes",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a07c217e-02fa-4909-908f-8608801e52d7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a07c217e-02fa-4909-908f-8608801e52d7",
+			"uuid": "a07c217e-02fa-4909-908f-8608801e52d7",
+			"title": "De leerlingen kennen regels voor het spellen van werkwoorden.",
+			"prefix": "SO nl/ml Kerndoel LS 18.1",
+			"kerndoelLabel": "Spellen werkwoorden",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e22454b9-8bbb-4399-aaae-5e65d6841d7d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e22454b9-8bbb-4399-aaae-5e65d6841d7d",
+			"uuid": "e22454b9-8bbb-4399-aaae-5e65d6841d7d",
+			"title": "De leerlingen kennen regels voor het spellen van andere woorden dan werkwoorden.",
+			"prefix": "SO nl/ml Kerndoel LS 18.2",
+			"kerndoelLabel": "Spellen van niet werkwoorden",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/172f783f-937f-455d-af3d-6048b5874e8f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/172f783f-937f-455d-af3d-6048b5874e8f",
+			"uuid": "172f783f-937f-455d-af3d-6048b5874e8f",
+			"title": "De leerlingen kennen regels voor het gebruik van leestekens.",
+			"prefix": "SO nl/ml Kerndoel LS 18.3",
+			"kerndoelLabel": "Leestekens",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/45931ece-3f72-42a5-b808-a7819c1872be",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/45931ece-3f72-42a5-b808-a7819c1872be",
+			"uuid": "45931ece-3f72-42a5-b808-a7819c1872be",
+			"title": "De leerlingen verwerven een adequate woordenschat en strategieën voor het begrijpen van voor hen onbekende woorden. Onder ‘woordenschat’ vallen ook begrippen die het leerlingen mogelijk maken over taal te denken en te spreken.",
+			"prefix": "SO nl/ml Kerndoel LS 19",
+			"kerndoelLabel": "Woordenschat",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222",
+					"title": "so nl/ml",
+					"prefix": "0002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9b25c20-9017-425b-8d3c-360ab6b5c222"
+				}
+			]
+		}
+	],
+	"KerndoelVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+			"uuid": "d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+			"title": "Nederlands",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+			"uuid": "2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
+			"title": "Nederlands",
+			"deprecated": true
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/183cc03d-0441-4e29-bc99-7a63973b29bc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/183cc03d-0441-4e29-bc99-7a63973b29bc",
+			"uuid": "183cc03d-0441-4e29-bc99-7a63973b29bc",
+			"title": "Taalbeschouwing, waaronder strategieën"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Taalbeschouwing, waaronder strategieën"
+}

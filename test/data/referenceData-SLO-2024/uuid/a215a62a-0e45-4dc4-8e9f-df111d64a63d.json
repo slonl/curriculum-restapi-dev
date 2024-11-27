@@ -1,0 +1,74 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/a215a62a-0e45-4dc4-8e9f-df111d64a63d",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a215a62a-0e45-4dc4-8e9f-df111d64a63d",
+	"uuid": "a215a62a-0e45-4dc4-8e9f-df111d64a63d",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgModule",
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/43c567e5-d5a9-480e-b03c-3c377215ecf6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/43c567e5-d5a9-480e-b03c-3c377215ecf6",
+			"uuid": "43c567e5-d5a9-480e-b03c-3c377215ecf6",
+			"prefix": "MT",
+			"title": "Mobiliteit en transport",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/28fc4f1d-ada3-4d58-ae39-37e3c308511a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/28fc4f1d-ada3-4d58-ae39-37e3c308511a",
+			"uuid": "28fc4f1d-ada3-4d58-ae39-37e3c308511a",
+			"prefix": "MET",
+			"title": "Mobiliteit en Transport",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgDeeltaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7bdd4789-a742-4b65-957b-23f070be6076",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7bdd4789-a742-4b65-957b-23f070be6076",
+			"uuid": "7bdd4789-a742-4b65-957b-23f070be6076",
+			"prefix": "P/MET/01/01",
+			"title": "Motormechanische delen meten en testen",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e6e93c67-a2a6-4194-9818-0f1debb082de",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e6e93c67-a2a6-4194-9818-0f1debb082de",
+			"uuid": "e6e93c67-a2a6-4194-9818-0f1debb082de",
+			"prefix": "P/MET/01/02",
+			"title": "Werkzaamheden aan een smeersysteem uitvoeren",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92ff8cdf-5064-4c4f-be7b-9a158730cc1b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92ff8cdf-5064-4c4f-be7b-9a158730cc1b",
+			"uuid": "92ff8cdf-5064-4c4f-be7b-9a158730cc1b",
+			"prefix": "P/MET/01/03",
+			"title": "Werkzaamheden aan een koelsysteem uitvoeren",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgModuletaak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e82d0ef1-cc19-4925-835a-6ceee59198cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e82d0ef1-cc19-4925-835a-6ceee59198cc",
+			"uuid": "e82d0ef1-cc19-4925-835a-6ceee59198cc",
+			"prefix": "P/MET/01/MT",
+			"title": "Motormechanische delen meten en testen / werkzaamheden aan een smeersysteem uitvoeren / werkzaamheden aan een koelsysteem uitvoeren",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4f655dd-0caa-4738-90dc-80966e5556ae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4f655dd-0caa-4738-90dc-80966e5556ae",
+			"uuid": "e4f655dd-0caa-4738-90dc-80966e5556ae",
+			"title": "Motorconditie testen"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "P/MET/01",
+	"title": "Motorconditie testen"
+}

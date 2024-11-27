@@ -1,0 +1,65 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/8057a6f5-da25-4bc9-b1eb-77c4855ebe4f",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8057a6f5-da25-4bc9-b1eb-77c4855ebe4f",
+	"uuid": "8057a6f5-da25-4bc9-b1eb-77c4855ebe4f",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhoudslijnen/context.json",
+	"@type": "InhVakleergebied",
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5542232a-dafd-49e8-a7fa-fa918605f3ba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5542232a-dafd-49e8-a7fa-fa918605f3ba",
+			"uuid": "5542232a-dafd-49e8-a7fa-fa918605f3ba",
+			"title": "Digitale Geletterdheid",
+			"deprecated": true
+		}
+	],
+	"Doelniveau": [],
+	"InhInhoudslijn": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/744aeab1-8c33-4338-a0bd-9939416e5121",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/744aeab1-8c33-4338-a0bd-9939416e5121",
+			"uuid": "744aeab1-8c33-4338-a0bd-9939416e5121",
+			"prefix": "DG/ICT",
+			"title": "Inhoudslijn ICT Basisvaardigheden",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/804f19f2-8231-4d0d-9579-cf35c8c2c25c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/804f19f2-8231-4d0d-9579-cf35c8c2c25c",
+			"uuid": "804f19f2-8231-4d0d-9579-cf35c8c2c25c",
+			"prefix": "DG/INF",
+			"title": "Inhoudslijn Informatievaardigheden",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cb806f58-f342-463f-9a76-282abedc474a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cb806f58-f342-463f-9a76-282abedc474a",
+			"uuid": "cb806f58-f342-463f-9a76-282abedc474a",
+			"prefix": "DG/MEDIA",
+			"title": "Inhoudslijn Mediawijsheid",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebf0b877-e83c-484f-a14e-14680a1f33a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf0b877-e83c-484f-a14e-14680a1f33a2",
+			"uuid": "ebf0b877-e83c-484f-a14e-14680a1f33a2",
+			"prefix": "DG/CT",
+			"title": "Inhoudslijn Computational thinking",
+			"deprecated": null
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e5b7d369-f084-4c8c-9c8d-c13c8d2e6bcb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e5b7d369-f084-4c8c-9c8d-c13c8d2e6bcb",
+			"uuid": "e5b7d369-f084-4c8c-9c8d-c13c8d2e6bcb",
+			"title": "Digitale geletterdheid"
+		}
+	],
+	"Niveau": [],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "DG",
+	"title": "Digitale geletterdheid"
+}

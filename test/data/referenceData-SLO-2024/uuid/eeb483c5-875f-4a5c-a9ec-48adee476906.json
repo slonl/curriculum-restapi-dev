@@ -1,0 +1,35 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/eeb483c5-875f-4a5c-a9ec-48adee476906",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eeb483c5-875f-4a5c-a9ec-48adee476906",
+	"uuid": "eeb483c5-875f-4a5c-a9ec-48adee476906",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusToelichting",
+	"ExamenprogrammaEindterm": [],
+	"ExamenprogrammaDomein": [],
+	"Syllabus": [],
+	"SyllabusSpecifiekeEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1fc4607a-046a-4ce6-b72e-f5e730185a3f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1fc4607a-046a-4ce6-b72e-f5e730185a3f",
+			"uuid": "1fc4607a-046a-4ce6-b72e-f5e730185a3f",
+			"title": "Onderwerp: Cultuur van romantiek en realisme in de negentiende eeuw",
+			"deprecated": null
+		}
+	],
+	"Tag": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb/syllabustoelichting/eeb483c5-875f-4a5c-a9ec-48adee476906"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": null,
+	"title": "'Schoonheid' wordt een relatief en subjectief begrip; L’art pour l’art tegenover andere visies op kunst.",
+	"ce_se": null
+}

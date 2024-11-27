@@ -1,0 +1,527 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/604673ba-21fe-49c6-a180-b2f91e9bf0bd",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/604673ba-21fe-49c6-a180-b2f91e9bf0bd",
+	"uuid": "604673ba-21fe-49c6-a180-b2f91e9bf0bd",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefOnderwerp",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b514c44-0615-4d09-b9fc-545133a120c1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b514c44-0615-4d09-b9fc-545133a120c1",
+			"uuid": "4b514c44-0615-4d09-b9fc-545133a120c1",
+			"prefix": "RKR_4.B.1a-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4291f163-e6e7-4a40-ae2b-54f4ef852443",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4291f163-e6e7-4a40-ae2b-54f4ef852443",
+					"uuid": "4291f163-e6e7-4a40-ae2b-54f4ef852443",
+					"title": "eenvoudige tabel gebruiken om informatie uit een situatiebeschrijving te ordenen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e27b1a61-353a-4bba-9055-f853daf62f84",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e27b1a61-353a-4bba-9055-f853daf62f84",
+			"uuid": "e27b1a61-353a-4bba-9055-f853daf62f84",
+			"prefix": "RKR_4.B.1a-1S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/40005197-c145-4734-a130-22d3bc358e39",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/40005197-c145-4734-a130-22d3bc358e39",
+					"uuid": "40005197-c145-4734-a130-22d3bc358e39",
+					"title": "eenvoudige tabellen en diagrammen opstellen op basis van een beschrijving in woorden",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89a25593-d15e-447f-9429-852648275ffd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89a25593-d15e-447f-9429-852648275ffd",
+			"uuid": "89a25593-d15e-447f-9429-852648275ffd",
+			"prefix": "RKR_4.B.1b-1S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/372045f1-07c2-4fcb-ba2b-3d87d15a9824",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/372045f1-07c2-4fcb-ba2b-3d87d15a9824",
+					"uuid": "372045f1-07c2-4fcb-ba2b-3d87d15a9824",
+					"title": "globale grafiek tekenen op basis van een beschrijving in woorden, bijvoorbeeld: tijd-afstand-grafiek",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/441b9e79-6f65-4633-ad62-277c8141c18f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/441b9e79-6f65-4633-ad62-277c8141c18f",
+			"uuid": "441b9e79-6f65-4633-ad62-277c8141c18f",
+			"prefix": "RKR_4.B.1c-1S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/e036dad3-693b-4943-8bf6-fbd5771e80ad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e036dad3-693b-4943-8bf6-fbd5771e80ad",
+					"uuid": "e036dad3-693b-4943-8bf6-fbd5771e80ad",
+					"title": "eenvoudige patronen in rijen getallen en figuren herkennen en voortzetten: 1 – 3 – 5 – 7 - .......; 100 – 93 – 86 – 79 – .....",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1ea5ca7c-d1d6-479b-a8db-2933e93c6adc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ea5ca7c-d1d6-479b-a8db-2933e93c6adc",
+			"uuid": "1ea5ca7c-d1d6-479b-a8db-2933e93c6adc",
+			"prefix": "RKR_4.B.1d-1S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0906fd7c-bf2d-4b0e-ab1d-86e798597725",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0906fd7c-bf2d-4b0e-ab1d-86e798597725",
+					"uuid": "0906fd7c-bf2d-4b0e-ab1d-86e798597725",
+					"title": "stippatronen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+					"title": "1S",
+					"prefix": "1002",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86d05d5a-8dfa-422b-820c-50019985426d"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/82dc7aae-44f9-44d0-a8d8-070af98910f0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/82dc7aae-44f9-44d0-a8d8-070af98910f0",
+			"uuid": "82dc7aae-44f9-44d0-a8d8-070af98910f0",
+			"prefix": "RKR_4.B.1a-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/516c49ea-c970-46ab-a184-0b517045a542",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/516c49ea-c970-46ab-a184-0b517045a542",
+					"uuid": "516c49ea-c970-46ab-a184-0b517045a542",
+					"title": "grafiek tekenen bij informatie of tabel",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5b6c41be-bbba-4113-ad1b-677b6685ecdb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5b6c41be-bbba-4113-ad1b-677b6685ecdb",
+			"uuid": "5b6c41be-bbba-4113-ad1b-677b6685ecdb",
+			"prefix": "RKR_4.B.1b-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/03313392-5988-44fc-97a5-a2e562d39cd7",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03313392-5988-44fc-97a5-a2e562d39cd7",
+					"uuid": "03313392-5988-44fc-97a5-a2e562d39cd7",
+					"title": "regelmatigheden in een tabel beschrijven met woorden, grafieken en eenvoudige(woord)formules: door elk winkelwagentje dat aan de rij wordt toegevoegd, wordt die rij 40 cm langer",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b17b7378-ef24-4ad4-be60-36d332011a9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b17b7378-ef24-4ad4-be60-36d332011a9e",
+			"uuid": "b17b7378-ef24-4ad4-be60-36d332011a9e",
+			"prefix": "RKR_4.B.1a-2S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/73920d72-9b52-43e8-b0b0-59c282305f6b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73920d72-9b52-43e8-b0b0-59c282305f6b",
+					"uuid": "73920d72-9b52-43e8-b0b0-59c282305f6b",
+					"title": "vaststellen hoe een verandering in de voorstellingsvorm (grafiek, tabel,formule, beschrijving) doorwerkt in de andere vorm(en)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+					"title": "2S",
+					"prefix": "3201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fadc20aa-082e-4e80-8a83-830c4006f236"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26f705de-0755-49c3-b30c-3d647709681c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26f705de-0755-49c3-b30c-3d647709681c",
+			"uuid": "26f705de-0755-49c3-b30c-3d647709681c",
+			"prefix": "RKR_4.B.1b-2S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/aca242ff-163a-4c9f-b995-bbdc2e439fd4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aca242ff-163a-4c9f-b995-bbdc2e439fd4",
+					"uuid": "aca242ff-163a-4c9f-b995-bbdc2e439fd4",
+					"title": "een situatie beschrijven via een standaard verband (lineair, exponentieel)",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+					"title": "2S",
+					"prefix": "3201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fadc20aa-082e-4e80-8a83-830c4006f236"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b4f178a2-434a-449f-ac4c-840b0504d996",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b4f178a2-434a-449f-ac4c-840b0504d996",
+			"uuid": "b4f178a2-434a-449f-ac4c-840b0504d996",
+			"prefix": "RKR_4.B.1c-2S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4696492b-9973-4433-b3c5-fae1f3fb3a2b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4696492b-9973-4433-b3c5-fae1f3fb3a2b",
+					"uuid": "4696492b-9973-4433-b3c5-fae1f3fb3a2b",
+					"title": "bij een eenvoudig lineair verband(beschrijving of grafiek) een formule opstellen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+					"title": "2S",
+					"prefix": "3201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fadc20aa-082e-4e80-8a83-830c4006f236"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/95bfcd57-615e-4cf1-96fd-112d8cf6eb9a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95bfcd57-615e-4cf1-96fd-112d8cf6eb9a",
+			"uuid": "95bfcd57-615e-4cf1-96fd-112d8cf6eb9a",
+			"prefix": "RKR_4.B.1a-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/4d1672ec-7c2d-4479-a339-f82447ea017e",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d1672ec-7c2d-4479-a339-f82447ea017e",
+					"uuid": "4d1672ec-7c2d-4479-a339-f82447ea017e",
+					"title": "vuistregels en alledaagse formules (horend bij specifieke situaties) begrijpen en er eenvoudige berekeningen mee uitvoeren",
+					"description": "Voorbeelden: \r\n− BMI berekenen met de regel: gewicht gedeeld door kwadraat van je lengte\r\n− vuistregel voor trainingshartslag gebruiken\r\n− rekenen met vuistregel voor aantal radiatoren in relatie tot de inhoud van de woning\r\n− gebruik: tel het resultaat uit a op bij dat uit b en trek het eindbedrag van c eraf\r\n− lengte x breedte = oppervlakte",
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a7ca67e4-6b4e-464b-bd5a-ced1b0ebda42",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a7ca67e4-6b4e-464b-bd5a-ced1b0ebda42",
+			"uuid": "a7ca67e4-6b4e-464b-bd5a-ced1b0ebda42",
+			"prefix": "RKR_4.B.1a-3S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b18a1502-d134-4914-8a4b-b4d34e311b60",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b18a1502-d134-4914-8a4b-b4d34e311b60",
+					"uuid": "b18a1502-d134-4914-8a4b-b4d34e311b60",
+					"title": "bij een lineair verband (beschrijving of grafiek) een formule opstellen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+					"title": "3S",
+					"prefix": "4201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8ab0e47-634e-4734-afb8-bc04e52714c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8ab0e47-634e-4734-afb8-bc04e52714c2",
+			"uuid": "a8ab0e47-634e-4734-afb8-bc04e52714c2",
+			"prefix": "RKR_4.B.1b-3S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ded4f4dc-27cf-482f-ad31-4505801b7cea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ded4f4dc-27cf-482f-ad31-4505801b7cea",
+					"uuid": "ded4f4dc-27cf-482f-ad31-4505801b7cea",
+					"title": "exponentiële processen herkennen, met formules beschrijven en in grafieken tekenen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+					"title": "3S",
+					"prefix": "4201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b9ce689a-7836-4964-a798-bc8dfdfe2097",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b9ce689a-7836-4964-a798-bc8dfdfe2097",
+			"uuid": "b9ce689a-7836-4964-a798-bc8dfdfe2097",
+			"prefix": "RKR_4.B.1c-3S",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ff4faa10-a886-4cae-ad6a-9bc81a740e6b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff4faa10-a886-4cae-ad6a-9bc81a740e6b",
+					"uuid": "ff4faa10-a886-4cae-ad6a-9bc81a740e6b",
+					"title": "evenredige en omgekeerd evenredige verbanden herkennen en gebruiken met hun specifieke eigenschappen",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "Tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+					"title": "3S",
+					"prefix": "4201",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefSubdomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b6af6266-a675-4fe1-974e-8f4c4f75c4f5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6af6266-a675-4fe1-974e-8f4c4f75c4f5",
+			"uuid": "b6af6266-a675-4fe1-974e-8f4c4f75c4f5",
+			"prefix": "RKR_4.B",
+			"title": "Met elkaar in verband brengen",
+			"deprecated": null
+		}
+	],
+	"RefDeelonderwerp": [],
+	"RefTekstkenmerk": [],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_nderwerp/604673ba-21fe-49c6-a180-b2f91e9bf0bd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86d05d5a-8dfa-422b-820c-50019985426d",
+			"title": "1S",
+			"prefix": "1002-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/86d05d5a-8dfa-422b-820c-50019985426d/ref_nderwerp/604673ba-21fe-49c6-a180-b2f91e9bf0bd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_nderwerp/604673ba-21fe-49c6-a180-b2f91e9bf0bd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fadc20aa-082e-4e80-8a83-830c4006f236",
+			"title": "2S",
+			"prefix": "3201-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/fadc20aa-082e-4e80-8a83-830c4006f236/ref_nderwerp/604673ba-21fe-49c6-a180-b2f91e9bf0bd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_nderwerp/604673ba-21fe-49c6-a180-b2f91e9bf0bd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18",
+			"title": "3S",
+			"prefix": "4201-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/2be1fbb4-d46f-44f8-9aff-d2bbf5108a18/ref_nderwerp/604673ba-21fe-49c6-a180-b2f91e9bf0bd"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKR_4.B.1",
+	"title": "Paraat hebben"
+}

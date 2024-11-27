@@ -1,0 +1,582 @@
+{
+	"count": 115,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7b17b55c-350c-46c2-aca9-8440136c74cf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7b17b55c-350c-46c2-aca9-8440136c74cf",
+			"uuid": "7b17b55c-350c-46c2-aca9-8440136c74cf",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2737663a-fd21-40c0-993e-e3f4f7b8a725",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2737663a-fd21-40c0-993e-e3f4f7b8a725",
+			"uuid": "2737663a-fd21-40c0-993e-e3f4f7b8a725",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f41e5a95-e78c-4339-942e-a288e0968fa4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f41e5a95-e78c-4339-942e-a288e0968fa4",
+			"uuid": "f41e5a95-e78c-4339-942e-a288e0968fa4",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aa908fba-a6fd-40da-b158-5cf88236a23d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aa908fba-a6fd-40da-b158-5cf88236a23d",
+			"uuid": "aa908fba-a6fd-40da-b158-5cf88236a23d",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fdff321a-ba45-4ede-be34-9947fbf3d7e8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdff321a-ba45-4ede-be34-9947fbf3d7e8",
+			"uuid": "fdff321a-ba45-4ede-be34-9947fbf3d7e8",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ea3a1ef-bef5-4722-afae-adb196b77f96",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ea3a1ef-bef5-4722-afae-adb196b77f96",
+			"uuid": "3ea3a1ef-bef5-4722-afae-adb196b77f96",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de3bb7be-321c-4cb0-a2bf-e13020286480",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de3bb7be-321c-4cb0-a2bf-e13020286480",
+			"uuid": "de3bb7be-321c-4cb0-a2bf-e13020286480",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a32c0fb5-c737-45c0-9c5d-264ea4631ff2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a32c0fb5-c737-45c0-9c5d-264ea4631ff2",
+			"uuid": "a32c0fb5-c737-45c0-9c5d-264ea4631ff2",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4ad3b224-def8-41db-bd56-43a2c79f1de1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ad3b224-def8-41db-bd56-43a2c79f1de1",
+			"uuid": "4ad3b224-def8-41db-bd56-43a2c79f1de1",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca78bd6b-6391-4b2e-9d81-f1e8c580143d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca78bd6b-6391-4b2e-9d81-f1e8c580143d",
+			"uuid": "ca78bd6b-6391-4b2e-9d81-f1e8c580143d",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/21713a31-fd0b-41ad-9a37-09982af5f1c8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/21713a31-fd0b-41ad-9a37-09982af5f1c8",
+			"uuid": "21713a31-fd0b-41ad-9a37-09982af5f1c8",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/80fe0ff8-b046-473c-9d54-2b00b7549e95",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/80fe0ff8-b046-473c-9d54-2b00b7549e95",
+			"uuid": "80fe0ff8-b046-473c-9d54-2b00b7549e95",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d4a48e1c-dc4e-47aa-9e6e-b9966dd9ee1a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d4a48e1c-dc4e-47aa-9e6e-b9966dd9ee1a",
+			"uuid": "d4a48e1c-dc4e-47aa-9e6e-b9966dd9ee1a",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d9fb0b9c-1541-44ad-9643-7c94f41e1fbc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d9fb0b9c-1541-44ad-9643-7c94f41e1fbc",
+			"uuid": "d9fb0b9c-1541-44ad-9643-7c94f41e1fbc",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/daf2a47a-da45-43d0-903c-cce72de3bc36",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/daf2a47a-da45-43d0-903c-cce72de3bc36",
+			"uuid": "daf2a47a-da45-43d0-903c-cce72de3bc36",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/41009edc-1918-440f-b315-6163f75ebad0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41009edc-1918-440f-b315-6163f75ebad0",
+			"uuid": "41009edc-1918-440f-b315-6163f75ebad0",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7e5b7751-6fcd-435d-8cfc-f32ce8e42a6a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7e5b7751-6fcd-435d-8cfc-f32ce8e42a6a",
+			"uuid": "7e5b7751-6fcd-435d-8cfc-f32ce8e42a6a",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ec316d7a-4281-42c7-a2b0-0f6fcbbef479",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ec316d7a-4281-42c7-a2b0-0f6fcbbef479",
+			"uuid": "ec316d7a-4281-42c7-a2b0-0f6fcbbef479",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f2bbbd-b486-4761-877e-53f7f85cacf2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f2bbbd-b486-4761-877e-53f7f85cacf2",
+			"uuid": "d5f2bbbd-b486-4761-877e-53f7f85cacf2",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c1c6dd15-f72d-4931-89f9-69d85fbf99ce",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1c6dd15-f72d-4931-89f9-69d85fbf99ce",
+			"uuid": "c1c6dd15-f72d-4931-89f9-69d85fbf99ce",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/641300ef-539a-4d81-8340-1ab62360017b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/641300ef-539a-4d81-8340-1ab62360017b",
+			"uuid": "641300ef-539a-4d81-8340-1ab62360017b",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a78d9f51-c415-4f77-82ce-e8138840a71a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a78d9f51-c415-4f77-82ce-e8138840a71a",
+			"uuid": "a78d9f51-c415-4f77-82ce-e8138840a71a",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/07e54f85-4c3d-46cf-985d-9220da879129",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/07e54f85-4c3d-46cf-985d-9220da879129",
+			"uuid": "07e54f85-4c3d-46cf-985d-9220da879129",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c4d923d-5c5e-48d6-9bdd-42586d0fd8bc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c4d923d-5c5e-48d6-9bdd-42586d0fd8bc",
+			"uuid": "3c4d923d-5c5e-48d6-9bdd-42586d0fd8bc",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fa86f950-f4f6-4ce4-a5cc-0342a1c92e09",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa86f950-f4f6-4ce4-a5cc-0342a1c92e09",
+			"uuid": "fa86f950-f4f6-4ce4-a5cc-0342a1c92e09",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1783cc3e-6b57-43db-899e-9cc6682ea027",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1783cc3e-6b57-43db-899e-9cc6682ea027",
+			"uuid": "1783cc3e-6b57-43db-899e-9cc6682ea027",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c6914b5-1b96-450f-8a81-8a66b243676e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c6914b5-1b96-450f-8a81-8a66b243676e",
+			"uuid": "2c6914b5-1b96-450f-8a81-8a66b243676e",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca13889b-fb18-4c69-9993-a3ccc2a97a38",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca13889b-fb18-4c69-9993-a3ccc2a97a38",
+			"uuid": "ca13889b-fb18-4c69-9993-a3ccc2a97a38",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9dcf3b0d-9cd5-4b7b-897a-6ad3ce622ce5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9dcf3b0d-9cd5-4b7b-897a-6ad3ce622ce5",
+			"uuid": "9dcf3b0d-9cd5-4b7b-897a-6ad3ce622ce5",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/762f9323-dc69-4029-abfc-21d8429addb8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/762f9323-dc69-4029-abfc-21d8429addb8",
+			"uuid": "762f9323-dc69-4029-abfc-21d8429addb8",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat dat van het vak kunst (alemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6784dd28-c74b-412e-b393-6873998de258",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6784dd28-c74b-412e-b393-6873998de258",
+			"uuid": "6784dd28-c74b-412e-b393-6873998de258",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat dat van het vak kunst (alemeen) en de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c9e1b33a-adc1-409a-a386-8277c8d44555",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c9e1b33a-adc1-409a-a386-8277c8d44555",
+			"uuid": "c9e1b33a-adc1-409a-a386-8277c8d44555",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/18d3a1c6-a990-43d2-8565-f33566acb5f2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/18d3a1c6-a990-43d2-8565-f33566acb5f2",
+			"uuid": "18d3a1c6-a990-43d2-8565-f33566acb5f2",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7e1d0b4d-e2e3-42f4-96df-e4f971791e18",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7e1d0b4d-e2e3-42f4-96df-e4f971791e18",
+			"uuid": "7e1d0b4d-e2e3-42f4-96df-e4f971791e18",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het schoolexamen heeft betrekking op:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e8cf965-add6-4dd5-bf2c-76256abfd66b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e8cf965-add6-4dd5-bf2c-76256abfd66b",
+			"uuid": "6e8cf965-add6-4dd5-bf2c-76256abfd66b",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b6c32fcd-65fd-4feb-9be7-9d8122ddcd50",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6c32fcd-65fd-4feb-9be7-9d8122ddcd50",
+			"uuid": "b6c32fcd-65fd-4feb-9be7-9d8122ddcd50",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6cc03d55-903f-4d39-9228-469d6d61933d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cc03d55-903f-4d39-9228-469d6d61933d",
+			"uuid": "6cc03d55-903f-4d39-9228-469d6d61933d",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f9701ca4-9b2b-4a7b-93d2-ef0dbc318d97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f9701ca4-9b2b-4a7b-93d2-ef0dbc318d97",
+			"uuid": "f9701ca4-9b2b-4a7b-93d2-ef0dbc318d97",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a6907a36-4032-4afc-a0bd-077f8f5e9e7d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a6907a36-4032-4afc-a0bd-077f8f5e9e7d",
+			"uuid": "a6907a36-4032-4afc-a0bd-077f8f5e9e7d",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fa090568-7714-453d-a3ef-96375ee39312",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fa090568-7714-453d-a3ef-96375ee39312",
+			"uuid": "fa090568-7714-453d-a3ef-96375ee39312",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/672a743a-aff7-47e4-91e8-887106ca247c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/672a743a-aff7-47e4-91e8-887106ca247c",
+			"uuid": "672a743a-aff7-47e4-91e8-887106ca247c",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/373db410-03e7-41dc-8f2a-84e6f0be24b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/373db410-03e7-41dc-8f2a-84e6f0be24b0",
+			"uuid": "373db410-03e7-41dc-8f2a-84e6f0be24b0",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/509bf89d-6f47-4c47-9443-1e496fc752c9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/509bf89d-6f47-4c47-9443-1e496fc752c9",
+			"uuid": "509bf89d-6f47-4c47-9443-1e496fc752c9",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/81a417db-643d-487e-bd4a-908f09d0623f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/81a417db-643d-487e-bd4a-908f09d0623f",
+			"uuid": "81a417db-643d-487e-bd4a-908f09d0623f",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7d464087-953d-4d73-bfde-e0f43a4cf69e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7d464087-953d-4d73-bfde-e0f43a4cf69e",
+			"uuid": "7d464087-953d-4d73-bfde-e0f43a4cf69e",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/89718a9b-8e72-4f17-8b5c-875e07d63edb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/89718a9b-8e72-4f17-8b5c-875e07d63edb",
+			"uuid": "89718a9b-8e72-4f17-8b5c-875e07d63edb",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/97ae8272-1469-4a65-9927-d4b125f68574",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/97ae8272-1469-4a65-9927-d4b125f68574",
+			"uuid": "97ae8272-1469-4a65-9927-d4b125f68574",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b21ca5d9-284e-4406-a02d-6f5860a2cbfb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b21ca5d9-284e-4406-a02d-6f5860a2cbfb",
+			"uuid": "b21ca5d9-284e-4406-a02d-6f5860a2cbfb",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2b8d90f6-c3b9-4041-b07f-8626cc62be38",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2b8d90f6-c3b9-4041-b07f-8626cc62be38",
+			"uuid": "2b8d90f6-c3b9-4041-b07f-8626cc62be38",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b517c5fb-8460-47f8-ad89-88aaaeadb7c5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b517c5fb-8460-47f8-ad89-88aaaeadb7c5",
+			"uuid": "b517c5fb-8460-47f8-ad89-88aaaeadb7c5",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/06e17a31-d53f-41a9-b047-cb40c0a16d47",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/06e17a31-d53f-41a9-b047-cb40c0a16d47",
+			"uuid": "06e17a31-d53f-41a9-b047-cb40c0a16d47",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61a7d5ec-5332-4e89-85bf-6c0a561136e5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61a7d5ec-5332-4e89-85bf-6c0a561136e5",
+			"uuid": "61a7d5ec-5332-4e89-85bf-6c0a561136e5",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b7486164-e607-4527-b598-9688aa1fcda8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b7486164-e607-4527-b598-9688aa1fcda8",
+			"uuid": "b7486164-e607-4527-b598-9688aa1fcda8",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Daarnaast heeft het schoolexamen betrekking op:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/90d0cbde-1154-4662-a2e0-d1b5ceb74530",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/90d0cbde-1154-4662-a2e0-d1b5ceb74530",
+			"uuid": "90d0cbde-1154-4662-a2e0-d1b5ceb74530",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f6008817-301d-46fd-90bd-2b6aca8a2901",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f6008817-301d-46fd-90bd-2b6aca8a2901",
+			"uuid": "f6008817-301d-46fd-90bd-2b6aca8a2901",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/307a4a01-b40c-46bc-9946-f7a2ed88420e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/307a4a01-b40c-46bc-9946-f7a2ed88420e",
+			"uuid": "307a4a01-b40c-46bc-9946-f7a2ed88420e",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8a6c2d45-b150-418b-bceb-25015b890021",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a6c2d45-b150-418b-bceb-25015b890021",
+			"uuid": "8a6c2d45-b150-418b-bceb-25015b890021",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53d810de-c001-4382-9251-678c22f5342a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53d810de-c001-4382-9251-678c22f5342a",
+			"uuid": "53d810de-c001-4382-9251-678c22f5342a",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d6d4bab2-418e-4ea1-913d-c58427364bb8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d6d4bab2-418e-4ea1-913d-c58427364bb8",
+			"uuid": "d6d4bab2-418e-4ea1-913d-c58427364bb8",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/22112078-8bf5-4d8c-9413-905e90895b1a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/22112078-8bf5-4d8c-9413-905e90895b1a",
+			"uuid": "22112078-8bf5-4d8c-9413-905e90895b1a",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2db7fbee-88da-4c97-a8f1-eaed2686b169",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2db7fbee-88da-4c97-a8f1-eaed2686b169",
+			"uuid": "2db7fbee-88da-4c97-a8f1-eaed2686b169",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e48a1c64-b639-434f-85e6-05692ccfc2b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48a1c64-b639-434f-85e6-05692ccfc2b0",
+			"uuid": "e48a1c64-b639-434f-85e6-05692ccfc2b0",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/62867d21-bfcc-43a9-9aab-79059b1284e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62867d21-bfcc-43a9-9aab-79059b1284e1",
+			"uuid": "62867d21-bfcc-43a9-9aab-79059b1284e1",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/36f724b1-06a3-4db0-b566-135b2f3878fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/36f724b1-06a3-4db0-b566-135b2f3878fc",
+			"uuid": "36f724b1-06a3-4db0-b566-135b2f3878fc",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d34d7cee-ed0d-459b-964e-417e40977c45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d34d7cee-ed0d-459b-964e-417e40977c45",
+			"uuid": "d34d7cee-ed0d-459b-964e-417e40977c45",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9846da49-b96b-4b9d-9318-31fd3b159efd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9846da49-b96b-4b9d-9318-31fd3b159efd",
+			"uuid": "9846da49-b96b-4b9d-9318-31fd3b159efd",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f244a366-07dd-492f-a2c4-e81824faf625",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f244a366-07dd-492f-a2c4-e81824faf625",
+			"uuid": "f244a366-07dd-492f-a2c4-e81824faf625",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0642c5cd-410f-4c99-9c4d-fdfadbba310e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0642c5cd-410f-4c99-9c4d-fdfadbba310e",
+			"uuid": "0642c5cd-410f-4c99-9c4d-fdfadbba310e",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/63d8db8a-ebd0-41d0-9ba3-f4f7f43d43dd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63d8db8a-ebd0-41d0-9ba3-f4f7f43d43dd",
+			"uuid": "63d8db8a-ebd0-41d0-9ba3-f4f7f43d43dd",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f44b824b-721b-4cb4-972d-6a7468f234f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f44b824b-721b-4cb4-972d-6a7468f234f4",
+			"uuid": "f44b824b-721b-4cb4-972d-6a7468f234f4",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8b837667-5c66-49df-8c65-cf1e88aa1685",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8b837667-5c66-49df-8c65-cf1e88aa1685",
+			"uuid": "8b837667-5c66-49df-8c65-cf1e88aa1685",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebfeea00-7302-46b9-a8dd-18b0a9efe171",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebfeea00-7302-46b9-a8dd-18b0a9efe171",
+			"uuid": "ebfeea00-7302-46b9-a8dd-18b0a9efe171",
+			"@type": "ExamenprogrammaKop2",
+			"prefix": null,
+			"title": "Het examenprogramma bestaat uit de volgende domeinen:"
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

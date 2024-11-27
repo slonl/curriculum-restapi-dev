@@ -1,0 +1,21 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/14066279-b193-4704-b377-2a1cf639943f",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14066279-b193-4704-b377-2a1cf639943f",
+	"uuid": "14066279-b193-4704-b377-2a1cf639943f",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "KerndoelUitstroomprofiel",
+	"KerndoelVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+			"uuid": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
+			"title": "Uitstroomprofielen vso",
+			"deprecated": true
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Arbeidsmarkt"
+}

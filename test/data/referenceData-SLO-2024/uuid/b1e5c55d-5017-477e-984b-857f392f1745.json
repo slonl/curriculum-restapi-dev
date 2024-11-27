@@ -1,0 +1,72 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/b1e5c55d-5017-477e-984b-857f392f1745",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1e5c55d-5017-477e-984b-857f392f1745",
+	"uuid": "b1e5c55d-5017-477e-984b-857f392f1745",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgKern",
+	"ExamenprogrammaBgProfiel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+			"uuid": "746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+			"prefix": "BWI",
+			"title": "Bouwen, wonen en interieur",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1890251e-08f8-4520-a495-f28607eb0b6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1890251e-08f8-4520-a495-f28607eb0b6e",
+			"uuid": "1890251e-08f8-4520-a495-f28607eb0b6e",
+			"prefix": "BWI",
+			"title": "Bouwen, wonen en interieur",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+			"uuid": "a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+			"prefix": "BWI",
+			"title": "Bouwen, wonen en interieur",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgKerndeel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b04030f5-6ccf-4347-ae57-36207c916600",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b04030f5-6ccf-4347-ae57-36207c916600",
+			"uuid": "b04030f5-6ccf-4347-ae57-36207c916600",
+			"prefix": "PK/BWI/a",
+			"title": "Competenties",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a642a3fa-0724-496e-8b19-6c661a88258e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a642a3fa-0724-496e-8b19-6c661a88258e",
+			"uuid": "a642a3fa-0724-496e-8b19-6c661a88258e",
+			"prefix": "PK/BWI/b",
+			"title": "Professionele kennis en vaardigheden",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/68d11a1f-efbf-4919-85d1-b14edce33dac",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/68d11a1f-efbf-4919-85d1-b14edce33dac",
+			"uuid": "68d11a1f-efbf-4919-85d1-b14edce33dac",
+			"prefix": "PK/BWI/c",
+			"title": "Loopbaanoriëntatie en -ontwikkeling",
+			"deprecated": true
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/791628cf-d6bb-4ca6-b62a-eef6bbd6bc6d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/791628cf-d6bb-4ca6-b62a-eef6bbd6bc6d",
+			"uuid": "791628cf-d6bb-4ca6-b62a-eef6bbd6bc6d",
+			"title": "Kern Bouwen, wonen en interieur"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": "PK/BWI",
+	"title": "Kern Bouwen, wonen en interieur"
+}

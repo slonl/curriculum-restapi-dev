@@ -1,0 +1,748 @@
+{
+	"count": 82,
+	"data": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f5ba7bc1-9ff4-40e8-b3d9-c01e5efb00ad",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f5ba7bc1-9ff4-40e8-b3d9-c01e5efb00ad",
+			"uuid": "f5ba7bc1-9ff4-40e8-b3d9-c01e5efb00ad",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/BWI/01",
+			"title": "Bouwproces en bouwvoorbereiding",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"uuid": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/183c1530-a3f7-4a4f-8fc8-b5caba989bb9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/183c1530-a3f7-4a4f-8fc8-b5caba989bb9",
+			"uuid": "183c1530-a3f7-4a4f-8fc8-b5caba989bb9",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/BWI/02",
+			"title": "Bouwen vanaf de fundering",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"uuid": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/30261a49-79a7-44a4-b3a7-dc1ec231f8d8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/30261a49-79a7-44a4-b3a7-dc1ec231f8d8",
+			"uuid": "30261a49-79a7-44a4-b3a7-dc1ec231f8d8",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/BWI/03",
+			"title": "Hout- en meubelverbindingen",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"uuid": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c6e0fe4d-f1f9-41e6-bec0-69f7f4829fa4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c6e0fe4d-f1f9-41e6-bec0-69f7f4829fa4",
+			"uuid": "c6e0fe4d-f1f9-41e6-bec0-69f7f4829fa4",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/BWI/04",
+			"title": "Design en decoratie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"uuid": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+					"title": "Bouwen, wonen en interieur",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/56880c79-bb01-4973-867e-6676f9665382",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56880c79-bb01-4973-867e-6676f9665382",
+			"uuid": "56880c79-bb01-4973-867e-6676f9665382",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/DP/01",
+			"title": "Organiseren van een activiteit voor een opdrachtgever",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"uuid": "50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"title": "Dienstverlening en producten",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f8a035af-eaa7-42f7-bd5a-d173ae538634",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f8a035af-eaa7-42f7-bd5a-d173ae538634",
+			"uuid": "f8a035af-eaa7-42f7-bd5a-d173ae538634",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/DP/02",
+			"title": "Presenteren, promoten en verkopen",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"uuid": "50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"title": "Dienstverlening en producten",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca73cbee-216d-45ac-a8c5-9d4b4b77c8a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca73cbee-216d-45ac-a8c5-9d4b4b77c8a2",
+			"uuid": "ca73cbee-216d-45ac-a8c5-9d4b4b77c8a2",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/DP/03",
+			"title": "Een product maken en verbeteren",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"uuid": "50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"title": "Dienstverlening en producten",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/56fde1b4-2288-4bfd-8d87-3a76919636c3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56fde1b4-2288-4bfd-8d87-3a76919636c3",
+			"uuid": "56fde1b4-2288-4bfd-8d87-3a76919636c3",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/DP/04",
+			"title": "Multimediale producten maken",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"uuid": "50bb2915-2629-42fc-8e88-57b7b6676b49",
+					"title": "Dienstverlening en producten",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8289b8f-010c-4c2a-b340-cbcbf4eae1a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8289b8f-010c-4c2a-b340-cbcbf4eae1a2",
+			"uuid": "a8289b8f-010c-4c2a-b340-cbcbf4eae1a2",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/EO/01",
+			"title": "Commercieel",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"uuid": "b11389c8-0f47-4aee-8017-be08a144d374",
+					"title": "Economie en Ondernemen",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6880ee8c-36a7-4dc9-b7a6-742f27a090fa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6880ee8c-36a7-4dc9-b7a6-742f27a090fa",
+			"uuid": "6880ee8c-36a7-4dc9-b7a6-742f27a090fa",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/EO/02",
+			"title": "Secretarieel",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"uuid": "b11389c8-0f47-4aee-8017-be08a144d374",
+					"title": "Economie en Ondernemen",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e334e64-eafd-4b71-9a56-2753e44ccee8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e334e64-eafd-4b71-9a56-2753e44ccee8",
+			"uuid": "9e334e64-eafd-4b71-9a56-2753e44ccee8",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/EO/03",
+			"title": "Logistiek",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"uuid": "b11389c8-0f47-4aee-8017-be08a144d374",
+					"title": "Economie en Ondernemen",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c8bd1be9-e88f-49a1-ad19-9022386fefb6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c8bd1be9-e88f-49a1-ad19-9022386fefb6",
+			"uuid": "c8bd1be9-e88f-49a1-ad19-9022386fefb6",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/EO/04",
+			"title": "Administratie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"uuid": "b11389c8-0f47-4aee-8017-be08a144d374",
+					"title": "Economie en Ondernemen",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/56d589f9-bcb2-4d53-94ea-3ab7270cf3a1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/56d589f9-bcb2-4d53-94ea-3ab7270cf3a1",
+			"uuid": "56d589f9-bcb2-4d53-94ea-3ab7270cf3a1",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/GR/01",
+			"title": "Groene productie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"uuid": "76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"title": "Groen",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"uuid": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"title": "Groen",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61a9beed-4005-4e22-a02f-37440d9af07d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61a9beed-4005-4e22-a02f-37440d9af07d",
+			"uuid": "61a9beed-4005-4e22-a02f-37440d9af07d",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/GR/02",
+			"title": "Tussen productie en verkoop",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"uuid": "76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"title": "Groen",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"uuid": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"title": "Groen",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7307c031-6785-4967-859f-23e08cf8fc99",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7307c031-6785-4967-859f-23e08cf8fc99",
+			"uuid": "7307c031-6785-4967-859f-23e08cf8fc99",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/GR/03",
+			"title": "Vergroening stedelijke omgeving",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"uuid": "76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"title": "Groen",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"uuid": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"title": "Groen",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4426fa9b-6bb6-4fdf-a340-76ed3aa4801e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4426fa9b-6bb6-4fdf-a340-76ed3aa4801e",
+			"uuid": "4426fa9b-6bb6-4fdf-a340-76ed3aa4801e",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/GR/04",
+			"title": "Groene vormgeving en verkoop",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"uuid": "76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+					"title": "Groen",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"uuid": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+					"title": "Groen",
+					"deprecated": true
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eee758d1-2376-4497-9dcc-0a2fd7425a2a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eee758d1-2376-4497-9dcc-0a2fd7425a2a",
+			"uuid": "eee758d1-2376-4497-9dcc-0a2fd7425a2a",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/HBR/01",
+			"title": "Gastheerschap",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"uuid": "0a104388-b2c9-4190-8420-c9995167d142",
+					"title": "Horeca, bakkerij en recreatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0c931e7d-3b30-45e7-aa90-d03b8cf9eccd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c931e7d-3b30-45e7-aa90-d03b8cf9eccd",
+			"uuid": "0c931e7d-3b30-45e7-aa90-d03b8cf9eccd",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/HBR/02",
+			"title": "De Bakkerij",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"uuid": "0a104388-b2c9-4190-8420-c9995167d142",
+					"title": "Horeca, bakkerij en recreatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c467be46-ae5a-4723-8f31-68a5c8816926",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c467be46-ae5a-4723-8f31-68a5c8816926",
+			"uuid": "c467be46-ae5a-4723-8f31-68a5c8816926",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/HBR/03",
+			"title": "De keuken",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"uuid": "0a104388-b2c9-4190-8420-c9995167d142",
+					"title": "Horeca, bakkerij en recreatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2d9cc343-b80e-4767-9255-31e0ce18ef84",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2d9cc343-b80e-4767-9255-31e0ce18ef84",
+			"uuid": "2d9cc343-b80e-4767-9255-31e0ce18ef84",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/HBR/04",
+			"title": "Recreatie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a104388-b2c9-4190-8420-c9995167d142",
+					"uuid": "0a104388-b2c9-4190-8420-c9995167d142",
+					"title": "Horeca, bakkerij en recreatie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4f655dd-0caa-4738-90dc-80966e5556ae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4f655dd-0caa-4738-90dc-80966e5556ae",
+			"uuid": "e4f655dd-0caa-4738-90dc-80966e5556ae",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MET/01",
+			"title": "Motorconditie testen",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"uuid": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"title": "Mobiliteit en Transport",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dc8e0336-94b7-415b-985b-18ea3bf2ec18",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dc8e0336-94b7-415b-985b-18ea3bf2ec18",
+			"uuid": "dc8e0336-94b7-415b-985b-18ea3bf2ec18",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MET/02",
+			"title": "Wielophanging en carrosserie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"uuid": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"title": "Mobiliteit en Transport",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3235ab1e-87e3-4512-b788-2557b6313d9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3235ab1e-87e3-4512-b788-2557b6313d9e",
+			"uuid": "3235ab1e-87e3-4512-b788-2557b6313d9e",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MET/03",
+			"title": "Verlichtings- en comfortsystemen",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"uuid": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"title": "Mobiliteit en Transport",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/52084735-7e87-4d13-b907-ca79db136e2f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/52084735-7e87-4d13-b907-ca79db136e2f",
+			"uuid": "52084735-7e87-4d13-b907-ca79db136e2f",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MET/03",
+			"title": "Verlichting en comfortsystemen",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"uuid": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"title": "Mobiliteit en Transport",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/da0e5557-ec0e-4a98-9cf5-5501eda8bcef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da0e5557-ec0e-4a98-9cf5-5501eda8bcef",
+			"uuid": "da0e5557-ec0e-4a98-9cf5-5501eda8bcef",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MET/04",
+			"title": "Transport",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"uuid": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"title": "Mobiliteit en Transport",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/080afa8f-d9ea-4aaf-beab-0d75b02fa0d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/080afa8f-d9ea-4aaf-beab-0d75b02fa0d0",
+			"uuid": "080afa8f-d9ea-4aaf-beab-0d75b02fa0d0",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MET/04",
+			"title": "Mobiliteit en Transport",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"uuid": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+					"title": "Mobiliteit en Transport",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
+			"uuid": "3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MT/01",
+			"title": "Maritieme logistiek en -communicatie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"uuid": "29567373-b655-46a4-9c6a-6f04001c139b",
+					"title": "Maritiem en techniek",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0cbe9cd3-b742-4904-aa3a-d6a20049f224",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0cbe9cd3-b742-4904-aa3a-d6a20049f224",
+			"uuid": "0cbe9cd3-b742-4904-aa3a-d6a20049f224",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MT/02",
+			"title": "Maritieme veiligheid",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"uuid": "29567373-b655-46a4-9c6a-6f04001c139b",
+					"title": "Maritiem en techniek",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/60ca65db-3e73-419e-b050-1939ee1b5c7a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/60ca65db-3e73-419e-b050-1939ee1b5c7a",
+			"uuid": "60ca65db-3e73-419e-b050-1939ee1b5c7a",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MT/03",
+			"title": "Maritieme installaties",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"uuid": "29567373-b655-46a4-9c6a-6f04001c139b",
+					"title": "Maritiem en techniek",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/44464c45-3349-4758-8ef5-8a58dd936ac9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/44464c45-3349-4758-8ef5-8a58dd936ac9",
+			"uuid": "44464c45-3349-4758-8ef5-8a58dd936ac9",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MT/04",
+			"title": "Reparatie en onderhoud",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/29567373-b655-46a4-9c6a-6f04001c139b",
+					"uuid": "29567373-b655-46a4-9c6a-6f04001c139b",
+					"title": "Maritiem en techniek",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/640e63ee-fde9-47c1-801d-54ff86e1a47c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/640e63ee-fde9-47c1-801d-54ff86e1a47c",
+			"uuid": "640e63ee-fde9-47c1-801d-54ff86e1a47c",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MVI/01",
+			"title": "Audiovisuele vormgeving en productie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"uuid": "8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"title": "Media, vormgeving en ICT",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ef72b398-ef68-4f07-8cb0-2f55703e99a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ef72b398-ef68-4f07-8cb0-2f55703e99a0",
+			"uuid": "ef72b398-ef68-4f07-8cb0-2f55703e99a0",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MVI/02",
+			"title": "2D en 3D vormgeving en productie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"uuid": "8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"title": "Media, vormgeving en ICT",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6ebc1090-3d90-4fb2-9149-ed68ffb3fd7b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6ebc1090-3d90-4fb2-9149-ed68ffb3fd7b",
+			"uuid": "6ebc1090-3d90-4fb2-9149-ed68ffb3fd7b",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MVI/03",
+			"title": "ICT",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"uuid": "8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"title": "Media, vormgeving en ICT",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/14c25ac5-ce05-484f-b851-df78722884f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/14c25ac5-ce05-484f-b851-df78722884f1",
+			"uuid": "14c25ac5-ce05-484f-b851-df78722884f1",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/MVI/04",
+			"title": "Interactieve vormgeving en productie",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"uuid": "8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+					"title": "Media, vormgeving en ICT",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8a082795-c00e-4d40-901a-0c443b75a1f9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a082795-c00e-4d40-901a-0c443b75a1f9",
+			"uuid": "8a082795-c00e-4d40-901a-0c443b75a1f9",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/PIE/01",
+			"title": "Ontwerpen en maken",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"uuid": "471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"title": "Produceren, installeren en energie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/91c5e906-6abd-41e9-a357-7f9b9b8d1295",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/91c5e906-6abd-41e9-a357-7f9b9b8d1295",
+			"uuid": "91c5e906-6abd-41e9-a357-7f9b9b8d1295",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/PIE/02",
+			"title": "Bewerken en verbinden van materialen",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"uuid": "471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"title": "Produceren, installeren en energie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/046cc243-92d4-4002-8c1f-3c90616293c9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/046cc243-92d4-4002-8c1f-3c90616293c9",
+			"uuid": "046cc243-92d4-4002-8c1f-3c90616293c9",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/PIE/03",
+			"title": "Besturen en automatiseren",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"uuid": "471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"title": "Produceren, installeren en energie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0a3625dc-f9f0-48b9-8243-8035d3ccba43",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a3625dc-f9f0-48b9-8243-8035d3ccba43",
+			"uuid": "0a3625dc-f9f0-48b9-8243-8035d3ccba43",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/PIE/04",
+			"title": "Installeren en monteren",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"uuid": "471a1203-dc5c-43b3-b43c-459fcc42bca9",
+					"title": "Produceren, installeren en energie",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/53bc4976-ec2e-484a-b64a-795264d91052",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/53bc4976-ec2e-484a-b64a-795264d91052",
+			"uuid": "53bc4976-ec2e-484a-b64a-795264d91052",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/ZW/01",
+			"title": "Mens en gezondheid",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"uuid": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"title": "Zorg en welzijn",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c6f953d9-eb5b-4787-b878-fcf29b37d954",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c6f953d9-eb5b-4787-b878-fcf29b37d954",
+			"uuid": "c6f953d9-eb5b-4787-b878-fcf29b37d954",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/ZW/02",
+			"title": "Mens en omgeving",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"uuid": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"title": "Zorg en welzijn",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0ff47e98-b48f-4064-9a96-3dccb2d3bd54",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0ff47e98-b48f-4064-9a96-3dccb2d3bd54",
+			"uuid": "0ff47e98-b48f-4064-9a96-3dccb2d3bd54",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/ZW/03",
+			"title": "Mens en activiteit",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"uuid": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"title": "Zorg en welzijn",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/298e4155-a18f-4fd8-a0bc-75bf6a4c0053",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/298e4155-a18f-4fd8-a0bc-75bf6a4c0053",
+			"uuid": "298e4155-a18f-4fd8-a0bc-75bf6a4c0053",
+			"@type": "ExamenprogrammaBgModule",
+			"prefix": "P/ZW/04",
+			"title": "Mens en zorg",
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"uuid": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+					"title": "Zorg en welzijn",
+					"deprecated": null
+				}
+			]
+		}
+	],
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/"
+}

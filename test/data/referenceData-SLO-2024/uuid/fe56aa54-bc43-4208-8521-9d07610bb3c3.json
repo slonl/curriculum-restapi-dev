@@ -1,0 +1,120 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/fe56aa54-bc43-4208-8521-9d07610bb3c3",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fe56aa54-bc43-4208-8521-9d07610bb3c3",
+	"uuid": "fe56aa54-bc43-4208-8521-9d07610bb3c3",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Examenprogramma",
+	"ExamenprogrammaKop1": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bf886594-21b0-4217-90c2-07143959f3fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bf886594-21b0-4217-90c2-07143959f3fc",
+			"uuid": "bf886594-21b0-4217-90c2-07143959f3fc",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3fe30ca0-674a-4d4a-a7c5-2edda77086fd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3fe30ca0-674a-4d4a-a7c5-2edda77086fd",
+			"uuid": "3fe30ca0-674a-4d4a-a7c5-2edda77086fd",
+			"prefix": null,
+			"title": "Het centraal examen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/38f7c84e-769f-4a40-8f96-8ca75a6a109d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/38f7c84e-769f-4a40-8f96-8ca75a6a109d",
+			"uuid": "38f7c84e-769f-4a40-8f96-8ca75a6a109d",
+			"prefix": null,
+			"title": "Het schoolexamen",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/63c2168c-503e-40cf-979a-1661e1d3acd9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/63c2168c-503e-40cf-979a-1661e1d3acd9",
+			"uuid": "63c2168c-503e-40cf-979a-1661e1d3acd9",
+			"prefix": "THT/H/V/DomeinB",
+			"title": "Domein B: Praktijk",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a2084e24-6371-4088-93a7-39b2893298b2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a2084e24-6371-4088-93a7-39b2893298b2",
+			"uuid": "a2084e24-6371-4088-93a7-39b2893298b2",
+			"prefix": "THT/H/V/DomeinC",
+			"title": "Domein C: Oriëntatie op studie en beroep",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8723ed3d-ce06-44dd-9eb8-a83f60538452",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8723ed3d-ce06-44dd-9eb8-a83f60538452",
+			"uuid": "8723ed3d-ce06-44dd-9eb8-a83f60538452",
+			"prefix": "THT/H/V/DomeinA",
+			"title": "Domein A: Vaktheorie",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/768fed95-ffe6-4b0a-ba2a-4bac4a1a6610",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/768fed95-ffe6-4b0a-ba2a-4bac4a1a6610",
+			"uuid": "768fed95-ffe6-4b0a-ba2a-4bac4a1a6610",
+			"title": "Handvaardigheid",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"uuid": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		}
+	],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+			"uuid": "1d5d7bb1-f1e6-4ae4-83c1-6c94f3281f09",
+			"title": "Syllabus Beeldende vakken vwo 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+			"uuid": "ebc73b7c-1287-4e11-aca5-88fb42705ccb",
+			"title": "Syllabus Beeldende vakken vwo 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cdb84541-a1bd-48e4-a079-ac4b757e3804",
+			"uuid": "cdb84541-a1bd-48e4-a079-ac4b757e3804",
+			"title": "Syllabus Handvaardigheid vwo 2021",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4d379dd8-d4ce-4725-97e3-9f6a890cc071",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4d379dd8-d4ce-4725-97e3-9f6a890cc071",
+			"uuid": "4d379dd8-d4ce-4725-97e3-9f6a890cc071",
+			"title": "Examenprogramma handvaardigheid vwo"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0cf6253-dc2f-4b76-a5b4-0aeef2a70a3a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0cf6253-dc2f-4b76-a5b4-0aeef2a70a3a",
+			"uuid": "a0cf6253-dc2f-4b76-a5b4-0aeef2a70a3a",
+			"title": "Examenprogramma Handvaardigheid vwo"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "THT/H/vwo",
+	"title": "Examenprogramma Handvaardigheid vwo"
+}

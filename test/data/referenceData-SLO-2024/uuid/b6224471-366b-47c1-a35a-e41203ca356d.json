@@ -1,0 +1,591 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b6224471-366b-47c1-a35a-e41203ca356d",
+	"uuid": "b6224471-366b-47c1-a35a-e41203ca356d",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
+	"@type": "KerndoelVakleergebied",
+	"Kerndoel": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d7dbdc00-5043-4276-8a94-4ee735003bfa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d7dbdc00-5043-4276-8a94-4ee735003bfa",
+			"uuid": "d7dbdc00-5043-4276-8a94-4ee735003bfa",
+			"title": "De leerlingen leren hoeveelheidbegrippen gebruiken en herkennen.",
+			"prefix": "SO zml/mg Kerndoel LS 16",
+			"kerndoelLabel": "Hoeveelheidsbegrippen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+					"title": "so zml/mb",
+					"prefix": "0001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/03570d3a-d328-4c94-9d4b-90d366f39302",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/03570d3a-d328-4c94-9d4b-90d366f39302",
+			"uuid": "03570d3a-d328-4c94-9d4b-90d366f39302",
+			"title": "De leerlingen leren rekenhandelingen uitvoeren voor het functioneren in alledaagse situaties.",
+			"prefix": "SO zml/mg Kerndoel LS 17",
+			"kerndoelLabel": "Rekenhandelingen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+					"title": "so zml/mb",
+					"prefix": "0001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e70be7be-2141-4053-9d81-32a4e2e36ed1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e70be7be-2141-4053-9d81-32a4e2e36ed1",
+			"uuid": "e70be7be-2141-4053-9d81-32a4e2e36ed1",
+			"title": "De leerlingen leren omgaan met tijd in alledaagse situaties.",
+			"prefix": "SO zml/mg Kerndoel LS 18",
+			"kerndoelLabel": "Tijd",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+					"title": "so zml/mb",
+					"prefix": "0001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a9df5770-860a-41a5-8e83-11941c0849c6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a9df5770-860a-41a5-8e83-11941c0849c6",
+			"uuid": "a9df5770-860a-41a5-8e83-11941c0849c6",
+			"title": "De leerlingen leren meten en wegen en leren omgaan met meet­ instrumenten, gangbare maten en eenheden.",
+			"prefix": "SO zml/mg Kerndoel LS 19",
+			"kerndoelLabel": "Meten",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+					"title": "so zml/mb",
+					"prefix": "0001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c7b77268-f2ff-439d-9693-0b0cfbd34f7e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c7b77268-f2ff-439d-9693-0b0cfbd34f7e",
+			"uuid": "c7b77268-f2ff-439d-9693-0b0cfbd34f7e",
+			"title": "De leerlingen leren omgaan met geld en betaalmiddelen.",
+			"prefix": "SO zml/mg Kerndoel LS 20",
+			"kerndoelLabel": "Geld",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503",
+					"title": "so zml/mb",
+					"prefix": "0001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/967883b6-e137-4709-92a0-feeebd9093ba",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/967883b6-e137-4709-92a0-feeebd9093ba",
+			"uuid": "967883b6-e137-4709-92a0-feeebd9093ba",
+			"title": "De leerling leert in praktische situaties passende reken-/wiskunde taal gebruiken.",
+			"prefix": "VSO Kerndoel AM 32",
+			"kerndoelLabel": "Reken-/wiskundetaal ontwikkelen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/100e80ce-cf5e-4dff-b23e-09371a073b47",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/100e80ce-cf5e-4dff-b23e-09371a073b47",
+			"uuid": "100e80ce-cf5e-4dff-b23e-09371a073b47",
+			"title": "De leerling leert in praktische situaties problemen op te lossen met gebruik van rekenkundige middelen.",
+			"prefix": "VSO Kerndoel AM 33",
+			"kerndoelLabel": "Rekenkundige middelen gebruiken in praktische situaties",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2e7ab641-7625-4800-9d02-03a4b7b6fd24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2e7ab641-7625-4800-9d02-03a4b7b6fd24",
+			"uuid": "2e7ab641-7625-4800-9d02-03a4b7b6fd24",
+			"title": "De leerling leert computer en rekenmachine te gebruiken als hulpmiddel en informatiebron.",
+			"prefix": "VSO Kerndoel AM 34",
+			"kerndoelLabel": "Computer en rekenmachine gebruiken",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7875481a-70f9-4427-9ff4-d85e4e9b57aa",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7875481a-70f9-4427-9ff4-d85e4e9b57aa",
+			"uuid": "7875481a-70f9-4427-9ff4-d85e4e9b57aa",
+			"title": "De leerling leert in betekenisvolle en praktische situaties werken met gangbare breuken, verhoudingen en decimale getallen.",
+			"prefix": "VSO Kerndoel AM 35",
+			"kerndoelLabel": "Breuken, verhoudingen, decimale getallen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c2b8134-7dde-4738-9607-6bd9ad333b69",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c2b8134-7dde-4738-9607-6bd9ad333b69",
+			"uuid": "2c2b8134-7dde-4738-9607-6bd9ad333b69",
+			"title": "De leerling leert ruimtelijk te redeneren en leert eenvoudige meetkundige begrippen te gebruiken in praktische situaties.",
+			"prefix": "VSO Kerndoel AM 36",
+			"kerndoelLabel": "Ruimtelijke redeneren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4b65d91e-17e6-4c5d-a435-5d894a7219d8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4b65d91e-17e6-4c5d-a435-5d894a7219d8",
+			"uuid": "4b65d91e-17e6-4c5d-a435-5d894a7219d8",
+			"title": "De leerling leert omgaan met in de praktijk veel voorkomende meetinstrumenten voor lengte, gewicht, inhoud en temperatuur en leert rekenen met maten en grootheden.",
+			"prefix": "VSO Kerndoel AM 37",
+			"kerndoelLabel": "Meten en rekenen met maten",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6cba90d2-5c38-4032-a07e-346e99833d39",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6cba90d2-5c38-4032-a07e-346e99833d39",
+			"uuid": "6cba90d2-5c38-4032-a07e-346e99833d39",
+			"title": "De leerling leert omgaan met tijd.",
+			"prefix": "VSO Kerndoel AM 38",
+			"kerndoelLabel": "Omgaan met tijd en tijdsbegrippen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9ddb6566-b5be-431d-b0dc-f479406b2e9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9ddb6566-b5be-431d-b0dc-f479406b2e9e",
+			"uuid": "9ddb6566-b5be-431d-b0dc-f479406b2e9e",
+			"title": "De leerling leert omgaan met geld en betaalmiddelen.",
+			"prefix": "VSO Kerndoel AM 39",
+			"kerndoelLabel": "Omgaan met geld, betaalmiddelen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4f1ef53-2ae2-4699-a747-061fd8fe5761",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4f1ef53-2ae2-4699-a747-061fd8fe5761",
+			"uuid": "e4f1ef53-2ae2-4699-a747-061fd8fe5761",
+			"title": "De leerling leert eenvoudige tabellen, grafieken en diagrammen te interpreteren en te maken.",
+			"prefix": "VSO Kerndoel AM 40",
+			"kerndoelLabel": "Ordening van gegevens in tabellen, grafieken, diagrammen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/bdc4744f-79df-4795-8795-2fee50c7416a",
+					"title": "vso am",
+					"prefix": "1552",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bdc4744f-79df-4795-8795-2fee50c7416a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/79846213-e0df-4dda-8997-9b9e913a4fc9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79846213-e0df-4dda-8997-9b9e913a4fc9",
+			"uuid": "79846213-e0df-4dda-8997-9b9e913a4fc9",
+			"title": "De leerling leert passende reken-wiskundetaal gebruiken en werken met getallen in betekenisvolle praktische situaties.",
+			"prefix": "VSO Kerndoel DB 20",
+			"kerndoelLabel": "Rekentaal gebruiken bij praktisch rekenen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b4e05e00-336e-44b3-82d7-08931b832b92",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b4e05e00-336e-44b3-82d7-08931b832b92",
+			"uuid": "b4e05e00-336e-44b3-82d7-08931b832b92",
+			"title": "De leerling leert bij het oplossen van rekensituaties een hulpmiddel te gebruiken.",
+			"prefix": "VSO Kerndoel DB 21",
+			"kerndoelLabel": "Hulpmiddelen gebruiken in rekensituaties",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a4434fd6-0efd-4451-9395-c10cf07ae67b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a4434fd6-0efd-4451-9395-c10cf07ae67b",
+			"uuid": "a4434fd6-0efd-4451-9395-c10cf07ae67b",
+			"title": "De leerling leert omgaan met meetinstrumenten, maten en grootheden, orde van grootte en nauwkeurigheid.",
+			"prefix": "VSO Kerndoel DB 22",
+			"kerndoelLabel": "Meten en maten",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/de9c1793-b2e7-4808-8e9b-e78ec26e3225",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/de9c1793-b2e7-4808-8e9b-e78ec26e3225",
+			"uuid": "de9c1793-b2e7-4808-8e9b-e78ec26e3225",
+			"title": "De leerling leert zich oriënteren op tijd en gebruik maken van tijdsaanduidingen.",
+			"prefix": "VSO Kerndoel DB 23",
+			"kerndoelLabel": "Omgaan met tijd en tijdsbegrippen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bc4b39c5-968b-4ba4-b9b9-026112504b6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bc4b39c5-968b-4ba4-b9b9-026112504b6e",
+			"uuid": "bc4b39c5-968b-4ba4-b9b9-026112504b6e",
+			"title": "De leerling leert omgaan met geld en betaalmiddelen.",
+			"prefix": "VSO Kerndoel DB 24",
+			"kerndoelLabel": "Omgaan met geld, betaalmiddelen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d",
+					"title": "vso db",
+					"prefix": "1551",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d617dd33-ec39-479f-ac9f-4ab219cab54d"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e7493653-7879-4239-96bf-61d286419cd0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e7493653-7879-4239-96bf-61d286419cd0",
+			"uuid": "e7493653-7879-4239-96bf-61d286419cd0",
+			"title": "De leerling leert passende wiskundetaal te gebruiken voor het ordenen van het eigen denken en voor uitleg aan anderen en leert de wiskundetaal van anderen te begrijpen.",
+			"prefix": "VO Kerndoel 19",
+			"kerndoelLabel": "Wiskundetaal ontwikkelen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/148c452a-7914-46d5-9707-2e03408b21a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/148c452a-7914-46d5-9707-2e03408b21a4",
+			"uuid": "148c452a-7914-46d5-9707-2e03408b21a4",
+			"title": "De leerling leert alleen en in samenwerking met anderen in praktische situaties wiskunde te herkennen en te gebruiken om problemen op te lossen.",
+			"prefix": "VO Kerndoel 20",
+			"kerndoelLabel": "Wiskunde gebruiken in praktische situaties",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bbe1637d-1418-4caf-b3b8-c0da5a5987ea",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bbe1637d-1418-4caf-b3b8-c0da5a5987ea",
+			"uuid": "bbe1637d-1418-4caf-b3b8-c0da5a5987ea",
+			"title": "De leerling leert een wiskundige argumentatie op te zetten en te onderscheiden van meningen en beweringen en leert daarbij met respect voor ieders denkwijze wiskundige kritiek te geven en te krijgen.",
+			"prefix": "VO Kerndoel 21",
+			"kerndoelLabel": "Wiskundig redeneren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/958cdbbd-933c-446a-b64f-eeef1a9bc087",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/958cdbbd-933c-446a-b64f-eeef1a9bc087",
+			"uuid": "958cdbbd-933c-446a-b64f-eeef1a9bc087",
+			"title": "De leerling leert de structuur en de samenhang te doorzien van positieve en negatieve getallen, decimale getallen, breuken, procenten en verhoudingen en leert ermee te werken in zinvolle en praktische situaties.",
+			"prefix": "VO Kerndoel 22",
+			"kerndoelLabel": "Rekenstructuren doorzien en rekenbegrippen gebruiken",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/67576835-17d8-4f43-a636-829d3e0d7671",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/67576835-17d8-4f43-a636-829d3e0d7671",
+			"uuid": "67576835-17d8-4f43-a636-829d3e0d7671",
+			"title": "De leerling leert exact en schattend rekenen en redeneren op basis van inzicht in nauwkeurigheid, orde van grootte, en marges die in een gegeven situatie passend zijn.",
+			"prefix": "VO Kerndoel 23",
+			"kerndoelLabel": "Exact en schattend rekenen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/83026f39-9d22-4822-b43e-5c65ac812506",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/83026f39-9d22-4822-b43e-5c65ac812506",
+			"uuid": "83026f39-9d22-4822-b43e-5c65ac812506",
+			"title": "De leerling leert meten, leert structuur en samenhang doorzien van het metriek stelsel en leert rekenen met maten voor grootheden die gangbaar zijn in relevante toepassingen.",
+			"prefix": "VO Kerndoel 24",
+			"kerndoelLabel": "Meten en metriek stelsel",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5832c312-85a0-4db5-b836-fec0dbb791a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5832c312-85a0-4db5-b836-fec0dbb791a0",
+			"uuid": "5832c312-85a0-4db5-b836-fec0dbb791a0",
+			"title": "De leerling leert informele notaties, schematische voorstellingen, tabellen, grafieken en formules te gebruiken om greep te krijgen op verbanden tussen grootheden en variabelen.",
+			"prefix": "VO Kerndoel 25",
+			"kerndoelLabel": "Verbanden visualiseren en formaliseren",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1e3af19f-b357-4bb4-b495-93357397e8c2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1e3af19f-b357-4bb4-b495-93357397e8c2",
+			"uuid": "1e3af19f-b357-4bb4-b495-93357397e8c2",
+			"title": "De leerling leert te werken met platte en ruimtelijke vormen en structuren, leert daarvan afbeeldingen te maken en deze te interpreteren en leert met hun eigenschappen en afmetingen te rekenen en redeneren.",
+			"prefix": "VO Kerndoel 26",
+			"kerndoelLabel": "Werken met en redeneren over vormen",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f515e0a8-27ff-413c-adfb-b9c63de2bd39",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f515e0a8-27ff-413c-adfb-b9c63de2bd39",
+			"uuid": "f515e0a8-27ff-413c-adfb-b9c63de2bd39",
+			"title": "De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren en leert gegevens, representaties en conclusies kritisch te beoordelen.",
+			"prefix": "VO Kerndoel 27",
+			"kerndoelLabel": "Ordenen van gegevens",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35ca5594-679e-4c7b-a178-88322dce8971",
+					"title": "vso vo",
+					"prefix": "1553",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35ca5594-679e-4c7b-a178-88322dce8971"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486",
+					"title": "ob vo",
+					"prefix": "4100",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35715b0c-ad0c-46ab-ab1a-1387bb046486"
+				}
+			]
+		}
+	],
+	"KerndoelDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"uuid": "3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"title": "Wiskundig inzicht en handelen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"uuid": "62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"title": "Getallen en bewerkingen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/4ce80c28-7ca0-4718-b301-6c5fd61e57d5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/4ce80c28-7ca0-4718-b301-6c5fd61e57d5",
+			"uuid": "4ce80c28-7ca0-4718-b301-6c5fd61e57d5",
+			"title": "Meten en meetkunde",
+			"deprecated": null
+		}
+	],
+	"KerndoelUitstroomprofiel": [],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdd97fff-f5e5-4b82-b937-9ab302666c50",
+			"uuid": "fdd97fff-f5e5-4b82-b937-9ab302666c50",
+			"title": "Rekenen en wiskunde",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/545b1f8a-77e7-480c-bd0f-623ece62faee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/545b1f8a-77e7-480c-bd0f-623ece62faee",
+			"uuid": "545b1f8a-77e7-480c-bd0f-623ece62faee",
+			"title": "Rekenen en wiskunde"
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96552012-d8f9-44e8-bce2-609d5ac42849",
+			"uuid": "96552012-d8f9-44e8-bce2-609d5ac42849",
+			"title": "Rekenen en wiskunde"
+		}
+	],
+	"deprecated": true,
+	"title": "Rekenen en wiskunde"
+}

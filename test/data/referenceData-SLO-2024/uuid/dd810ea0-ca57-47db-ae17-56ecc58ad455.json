@@ -1,0 +1,315 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/dd810ea0-ca57-47db-ae17-56ecc58ad455",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd810ea0-ca57-47db-ae17-56ecc58ad455",
+	"uuid": "dd810ea0-ca57-47db-ae17-56ecc58ad455",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+	"@type": "RefDeelonderwerp",
+	"Doelniveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ca885a47-a8d9-43f3-86c6-f8d735fab83e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ca885a47-a8d9-43f3-86c6-f8d735fab83e",
+			"uuid": "ca885a47-a8d9-43f3-86c6-f8d735fab83e",
+			"prefix": "RKT1.3.1c-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b67292e2-b275-426e-b27b-a9750d265b1d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b67292e2-b275-426e-b27b-a9750d265b1d",
+					"uuid": "b67292e2-b275-426e-b27b-a9750d265b1d",
+					"title": "Past het taalgebruik aan de luisteraar(s) aan.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aeba67be-db84-4aed-9f45-c89cfd0d528f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aeba67be-db84-4aed-9f45-c89cfd0d528f",
+			"uuid": "aeba67be-db84-4aed-9f45-c89cfd0d528f",
+			"prefix": "RKT1.3.1c-1F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1cf2b766-0916-477f-8454-a97bf646d47f",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1cf2b766-0916-477f-8454-a97bf646d47f",
+					"uuid": "1cf2b766-0916-477f-8454-a97bf646d47f",
+					"title": "Kan gebruik maken van ondersteunende materialen om een voorbereide presentatie beter aan het publiek over te brengen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+					"title": "1F",
+					"prefix": "1001",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0c05c295-fad2-4f67-9f77-fc7d6ddac02c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c05c295-fad2-4f67-9f77-fc7d6ddac02c",
+			"uuid": "0c05c295-fad2-4f67-9f77-fc7d6ddac02c",
+			"prefix": "RKT1.3.1c-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/47a6f227-9982-4314-aa61-38e67fdd6f4d",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/47a6f227-9982-4314-aa61-38e67fdd6f4d",
+					"uuid": "47a6f227-9982-4314-aa61-38e67fdd6f4d",
+					"title": "Kan het verschil tussen formele en informele situaties hanteren.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f8c9756-9336-4d33-be33-07ba563ec4a2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f8c9756-9336-4d33-be33-07ba563ec4a2",
+			"uuid": "0f8c9756-9336-4d33-be33-07ba563ec4a2",
+			"prefix": "RKT1.3.1c-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/46520c88-5b71-4268-adac-76b6556a24f4",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/46520c88-5b71-4268-adac-76b6556a24f4",
+					"uuid": "46520c88-5b71-4268-adac-76b6556a24f4",
+					"title": "Maakt de juiste keuze voor het register en het al dan niet hanteren van taalvariatie (dialect, jongerentaal).",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3d6a3d06-c6ba-43c7-aa5b-da74aaad5b66",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3d6a3d06-c6ba-43c7-aa5b-da74aaad5b66",
+			"uuid": "3d6a3d06-c6ba-43c7-aa5b-da74aaad5b66",
+			"prefix": "RKT1.3.1c-2F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5769418-4ac2-44c9-9a6e-76bc4ad2ff50",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5769418-4ac2-44c9-9a6e-76bc4ad2ff50",
+					"uuid": "b5769418-4ac2-44c9-9a6e-76bc4ad2ff50",
+					"title": "Kan de luisteraar(s) boeien door middel van concrete voorbeelden en ervaringen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+					"title": "2F",
+					"prefix": "3200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8dd24d54-a4aa-4560-ad3f-f9e27b7d033f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8dd24d54-a4aa-4560-ad3f-f9e27b7d033f",
+			"uuid": "8dd24d54-a4aa-4560-ad3f-f9e27b7d033f",
+			"prefix": "RKT1.3.1c-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/19f676e0-e8d1-4344-a0f2-fdb466332743",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/19f676e0-e8d1-4344-a0f2-fdb466332743",
+					"uuid": "19f676e0-e8d1-4344-a0f2-fdb466332743",
+					"title": "Kiest in formele en informele situaties zonder moeite de juiste taalvariant.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/157e25d7-a371-4839-8fd9-73293b6a530d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/157e25d7-a371-4839-8fd9-73293b6a530d",
+			"uuid": "157e25d7-a371-4839-8fd9-73293b6a530d",
+			"prefix": "RKT1.3.1c-3F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1cddf179-4f44-4c1d-9aff-e38989db2c50",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1cddf179-4f44-4c1d-9aff-e38989db2c50",
+					"uuid": "1cddf179-4f44-4c1d-9aff-e38989db2c50",
+					"title": "Kan spontaan afwijken van een voorbereide tekst en ingaan op belangwekkende punten die vanuit het publiek worden aangedragen.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+					"title": "3F",
+					"prefix": "4200",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1bcea429-349e-463e-b425-44ed014000d3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1bcea429-349e-463e-b425-44ed014000d3",
+			"uuid": "1bcea429-349e-463e-b425-44ed014000d3",
+			"prefix": "RKT1.3.1c-4F",
+			"ce_se": null,
+			"Doel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6d853d6f-9d4b-44f1-9825-be725531b625",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d853d6f-9d4b-44f1-9825-be725531b625",
+					"uuid": "6d853d6f-9d4b-44f1-9825-be725531b625",
+					"title": "Houdt contact met het publiek door te reageren op zowel nonverbale als verbale reacties: kan bijvoorbeeld bij het signaleren van onrust vragen of het publiek iets anders had verwacht.",
+					"description": null,
+					"vakbegrippen": null,
+					"bron": "tussendoel",
+					"aanbodid": null,
+					"Leerlingtekst": []
+				}
+			],
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+					"title": "4F",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750"
+				}
+			],
+			"Kerndoel": [],
+			"ExamenprogrammaDomein": [],
+			"ExamenprogrammaSubdomein": [],
+			"ExamenprogrammaEindterm": [],
+			"LdkVakbegrip": []
+		}
+	],
+	"RefOnderwerp": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17",
+			"uuid": "3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17",
+			"prefix": "RKT1.3.1",
+			"title": "Een monoloog houden",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d5f99b58-31be-4ffc-89f4-9d7c65526879",
+			"title": "1F",
+			"prefix": "1001-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/d5f99b58-31be-4ffc-89f4-9d7c65526879/ref_eelonderwerp/dd810ea0-ca57-47db-ae17-56ecc58ad455"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5eac0434-a6fc-4499-9710-3d6b800973a3",
+			"title": "2F",
+			"prefix": "3200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5eac0434-a6fc-4499-9710-3d6b800973a3/ref_eelonderwerp/dd810ea0-ca57-47db-ae17-56ecc58ad455"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f1d56c9e-373a-4051-9ce9-81a01b812de7",
+			"title": "3F",
+			"prefix": "4200-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f1d56c9e-373a-4051-9ce9-81a01b812de7/ref_eelonderwerp/dd810ea0-ca57-47db-ae17-56ecc58ad455"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ec6d733-a3b2-46db-9d42-72b4be4f7750",
+			"title": "4F",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ec6d733-a3b2-46db-9d42-72b4be4f7750/ref_eelonderwerp/dd810ea0-ca57-47db-ae17-56ecc58ad455"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "RKT1.3.1c",
+	"title": "Afstemming op publiek"
+}

@@ -1,0 +1,202 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/f95a83cd-5069-4077-8f77-a87d9b038b24",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f95a83cd-5069-4077-8f77-a87d9b038b24",
+	"uuid": "f95a83cd-5069-4077-8f77-a87d9b038b24",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkSchaal",
+	"ErkCandobeschrijving": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/841e6ae9-62d1-407c-85be-70b74f3239ec",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/841e6ae9-62d1-407c-85be-70b74f3239ec",
+			"uuid": "841e6ae9-62d1-407c-85be-70b74f3239ec",
+			"title": "Geen descriptoren beschikbaar.",
+			"isempty": "true",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/677c431e-7ac6-438f-8204-aea78aef7025",
+					"title": "pre A1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/677c431e-7ac6-438f-8204-aea78aef7025"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/76213ae0-4c29-4baa-b432-69100d7480bc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/76213ae0-4c29-4baa-b432-69100d7480bc",
+			"uuid": "76213ae0-4c29-4baa-b432-69100d7480bc",
+			"title": "Geen descriptoren beschikbaar.",
+			"isempty": "true",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a88bfa78-dd04-44aa-a83c-49a693445e45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a88bfa78-dd04-44aa-a83c-49a693445e45",
+			"uuid": "a88bfa78-dd04-44aa-a83c-49a693445e45",
+			"title": "Kan, gebruikmakend van herhaling en verduidelijkingen, deelnemen aan een kort, eenvoudig telefoongesprek met een bekende over een voorspelbaar onderwerp.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/37b99b23-a6c8-4ded-9455-be0428e8e0fd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/37b99b23-a6c8-4ded-9455-be0428e8e0fd",
+			"uuid": "37b99b23-a6c8-4ded-9455-be0428e8e0fd",
+			"title": "Kan een eenvoudig bericht begrijpen, details van het bericht bevestigen en het telefonisch doorgeven aan andere betrokkenen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8cab275e-a5c0-4300-a80e-284ad95fdba6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8cab275e-a5c0-4300-a80e-284ad95fdba6",
+			"uuid": "8cab275e-a5c0-4300-a80e-284ad95fdba6",
+			"title": "Kan telecommunicatie gebruiken met vrienden om eenvoudig nieuws uit te wisselen, plannen te maken en af te spreken.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+					"title": "A2+",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dda07da-0bb2-4479-b76f-9758e2bdc4d0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dda07da-0bb2-4479-b76f-9758e2bdc4d0",
+			"uuid": "6dda07da-0bb2-4479-b76f-9758e2bdc4d0",
+			"title": "Kan telecommunicatie gebruiken voor het voeren van relatief eenvoudige, maar langere gesprekken met kennissen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6465373a-bfbe-45b5-90d0-68a787dea751",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6465373a-bfbe-45b5-90d0-68a787dea751",
+			"uuid": "6465373a-bfbe-45b5-90d0-68a787dea751",
+			"title": "Kan telecommunicatie gebruiken voor routineboodschappen en voor het verkrijgen van basisdiensten.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a855210c-52ae-4ad0-ad26-f1cacb7f70ff",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a855210c-52ae-4ad0-ad26-f1cacb7f70ff",
+			"uuid": "a855210c-52ae-4ad0-ad26-f1cacb7f70ff",
+			"title": "Kan belangrijke details verstrekken in een video- of audiogesprek met betrekking tot een onverwachte gebeurtenis.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+					"title": "B1+",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9186bb05-9a68-498b-99b2-c2a2732ba290",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9186bb05-9a68-498b-99b2-c2a2732ba290",
+			"uuid": "9186bb05-9a68-498b-99b2-c2a2732ba290",
+			"title": "Kan telecommunicatie gebruiken voor een verscheidenheid aan persoonlijke en professionele doeleinden, mits om verduidelijking gevraagd kan worden als het accent of de terminologie niet vertrouwd is.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9274647b-1a32-40e6-a4fe-d5afe90ae03d",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9274647b-1a32-40e6-a4fe-d5afe90ae03d",
+			"uuid": "9274647b-1a32-40e6-a4fe-d5afe90ae03d",
+			"title": "Kan lange, informele telefoongesprekken voeren met een bekende over een verscheidenheid aan onderwerpen.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/df0eabfd-851f-4a02-bd11-fc41b6fb7e98",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/df0eabfd-851f-4a02-bd11-fc41b6fb7e98",
+			"uuid": "df0eabfd-851f-4a02-bd11-fc41b6fb7e98",
+			"title": "Kan telecommunicatie effectief gebruiken voor de meeste professionele en persoonlijke doeleinden.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+					"title": "C1",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/35797f43-39ef-4947-a705-3d97ece1d226",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35797f43-39ef-4947-a705-3d97ece1d226",
+			"uuid": "35797f43-39ef-4947-a705-3d97ece1d226",
+			"title": "Kan telecommunicatie zelfverzekerd en effectief gebruiken voor zowel persoonlijke als professionele doeleinden, zelfs als er enige storing is of als de gesprekspartner een minder bekend accent heeft.",
+			"isempty": null,
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2208c586-9043-47c1-b66b-536a50577725",
+					"title": "C2",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2208c586-9043-47c1-b66b-536a50577725"
+				}
+			]
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc",
+			"uuid": "dd1a4f52-d2c2-40a0-a049-3a6091f2b0cc",
+			"title": "Gebruik van telecommunicatie"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": null,
+	"title": "Gebruik van telecommunicatie"
+}

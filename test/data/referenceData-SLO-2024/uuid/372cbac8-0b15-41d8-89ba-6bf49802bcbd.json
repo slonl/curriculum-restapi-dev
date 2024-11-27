@@ -1,0 +1,820 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/372cbac8-0b15-41d8-89ba-6bf49802bcbd",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/372cbac8-0b15-41d8-89ba-6bf49802bcbd",
+	"uuid": "372cbac8-0b15-41d8-89ba-6bf49802bcbd",
+	"@type": "LdkVakleergebied",
+	"LdkVakkern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10f2449f-33e1-40d7-8079-025627651867",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10f2449f-33e1-40d7-8079-025627651867",
+			"uuid": "10f2449f-33e1-40d7-8079-025627651867",
+			"title": "Gesprekken voeren",
+			"prefix": "en/1",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"prefix": "1003",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+					"title": "groep 8",
+					"prefix": "1008",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95138558-9f65-4888-8ea3-8acce5eea273"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+					"title": "A2+",
+					"prefix": "1014",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+					"title": "ob vmbo bb",
+					"prefix": "3101",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+					"title": "ob vmbo kb",
+					"prefix": "3102",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+					"title": "ob vmbo gl",
+					"prefix": "3103",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+					"title": "ob vmbo tl",
+					"prefix": "3104",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+					"title": "ob havo",
+					"prefix": "4107",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+					"title": "ob vwo",
+					"prefix": "4150",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"prefix": "4902",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"prefix": "4903",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+					"title": "B1+",
+					"prefix": "4912",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1f546f35-96ab-41db-bda9-8cf9a323367f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1f546f35-96ab-41db-bda9-8cf9a323367f",
+			"uuid": "1f546f35-96ab-41db-bda9-8cf9a323367f",
+			"title": "Spreken",
+			"prefix": "en/2",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"prefix": "1003",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+					"title": "groep 8",
+					"prefix": "1008",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95138558-9f65-4888-8ea3-8acce5eea273"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+					"title": "A2+",
+					"prefix": "1014",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+					"title": "ob vmbo bb",
+					"prefix": "3101",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+					"title": "ob vmbo kb",
+					"prefix": "3102",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+					"title": "ob vmbo gl",
+					"prefix": "3103",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+					"title": "ob vmbo tl",
+					"prefix": "3104",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+					"title": "ob havo",
+					"prefix": "4107",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+					"title": "ob vwo",
+					"prefix": "4150",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"prefix": "4902",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"prefix": "4903",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+					"title": "B1+",
+					"prefix": "4912",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/71f4b4e1-fa5e-40ad-ad0e-3cd855008c45",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71f4b4e1-fa5e-40ad-ad0e-3cd855008c45",
+			"uuid": "71f4b4e1-fa5e-40ad-ad0e-3cd855008c45",
+			"title": "Schrijven",
+			"prefix": "en/3",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"prefix": "1003",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+					"title": "groep 8",
+					"prefix": "1008",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95138558-9f65-4888-8ea3-8acce5eea273"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+					"title": "ob vmbo bb",
+					"prefix": "3101",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+					"title": "ob vmbo kb",
+					"prefix": "3102",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+					"title": "ob vmbo gl",
+					"prefix": "3103",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+					"title": "ob vmbo tl",
+					"prefix": "3104",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+					"title": "ob havo",
+					"prefix": "4107",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+					"title": "ob vwo",
+					"prefix": "4150",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"prefix": "4902",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"prefix": "4903",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+					"title": "B1+",
+					"prefix": "4912",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c1978ddb-1739-41b5-b61b-1507054192a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c1978ddb-1739-41b5-b61b-1507054192a0",
+			"uuid": "c1978ddb-1739-41b5-b61b-1507054192a0",
+			"title": "Kijken en luisteren",
+			"prefix": "en/5",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"prefix": "1003",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+					"title": "groep 8",
+					"prefix": "1008",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95138558-9f65-4888-8ea3-8acce5eea273"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+					"title": "A2+",
+					"prefix": "1014",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+					"title": "ob vmbo bb",
+					"prefix": "3101",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+					"title": "ob vmbo kb",
+					"prefix": "3102",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+					"title": "ob vmbo gl",
+					"prefix": "3103",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+					"title": "ob vmbo tl",
+					"prefix": "3104",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+					"title": "ob havo",
+					"prefix": "4107",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+					"title": "ob vwo",
+					"prefix": "4150",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"prefix": "4902",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"prefix": "4903",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+					"title": "C1",
+					"prefix": "4904",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4"
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bd6f28df-8ab9-4ece-80dd-126ec347644b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bd6f28df-8ab9-4ece-80dd-126ec347644b",
+			"uuid": "bd6f28df-8ab9-4ece-80dd-126ec347644b",
+			"title": "Lezen",
+			"prefix": "en/4",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+					"title": "po",
+					"prefix": "1000",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/512e4729-03a4-43a2-95ba-758071d1b725"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+					"title": "A1",
+					"prefix": "1003",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+					"title": "A2",
+					"prefix": "1004",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+					"title": "groep 8",
+					"prefix": "1008",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/95138558-9f65-4888-8ea3-8acce5eea273"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+					"title": "A2+",
+					"prefix": "1014",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/620710de-54d2-48b5-93ab-40888732aab7"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+					"title": "ob vmbo bb",
+					"prefix": "3101",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+					"title": "ob vmbo kb",
+					"prefix": "3102",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+					"title": "ob vmbo gl",
+					"prefix": "3103",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+					"title": "ob vmbo tl",
+					"prefix": "3104",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+					"title": "bb vmbo bb",
+					"prefix": "3501",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+					"title": "bb vmbo kb",
+					"prefix": "3502",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+					"title": "bb vmbo gl",
+					"prefix": "3503",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+					"title": "bb vmbo tl",
+					"prefix": "3504",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+					"title": "ob havo",
+					"prefix": "4107",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+					"title": "ob vwo",
+					"prefix": "4150",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+					"title": "bb vwo",
+					"prefix": "4700",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+					"title": "B1",
+					"prefix": "4902",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a94b005d-9697-49f6-897a-0ad6516044f9"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+					"title": "B2",
+					"prefix": "4903",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7920461-e732-4767-b855-87783a05c76a"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+					"title": "C1",
+					"prefix": "4904",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/50fd5672-94d8-4445-b988-bb198f5515f4"
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+					"title": "B2+",
+					"prefix": "4913",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee"
+				}
+			]
+		}
+	],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+			"uuid": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+			"title": "Engels",
+			"deprecated": null
+		}
+	],
+	"Doelniveau": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9db0f649-ba16-4885-ae88-c8dbc671debd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9db0f649-ba16-4885-ae88-c8dbc671debd",
+			"uuid": "9db0f649-ba16-4885-ae88-c8dbc671debd",
+			"title": "Engels"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/00302e24-89fe-4e5c-8615-963e4884ad01",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/00302e24-89fe-4e5c-8615-963e4884ad01",
+			"uuid": "00302e24-89fe-4e5c-8615-963e4884ad01",
+			"title": "Engels"
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/512e4729-03a4-43a2-95ba-758071d1b725",
+			"title": "po",
+			"prefix": "1000-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/512e4729-03a4-43a2-95ba-758071d1b725/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ebf1cc90-05cb-4976-9561-dfb2041ca264",
+			"title": "A1",
+			"prefix": "1003-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/ebf1cc90-05cb-4976-9561-dfb2041ca264/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1d5d9624-055f-42ed-bc39-06b183ecb40b",
+			"title": "A2",
+			"prefix": "1004-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/1d5d9624-055f-42ed-bc39-06b183ecb40b/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/95138558-9f65-4888-8ea3-8acce5eea273",
+			"title": "groep 8",
+			"prefix": "1008-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/95138558-9f65-4888-8ea3-8acce5eea273/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/620710de-54d2-48b5-93ab-40888732aab7",
+			"title": "A2+",
+			"prefix": "1014-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/620710de-54d2-48b5-93ab-40888732aab7/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50d3e467-28c8-4c42-a0fe-e0000819ba39",
+			"title": "ob vmbo bb",
+			"prefix": "3101-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/50d3e467-28c8-4c42-a0fe-e0000819ba39/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
+			"title": "ob vmbo kb",
+			"prefix": "3102-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01aede69-edcd-4352-97e8-e16cb5d0015e",
+			"title": "ob vmbo gl",
+			"prefix": "3103-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/01aede69-edcd-4352-97e8-e16cb5d0015e/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c63858da-23e4-4e1e-8456-b4aa13a6a826",
+			"title": "ob vmbo tl",
+			"prefix": "3104-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/c63858da-23e4-4e1e-8456-b4aa13a6a826/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
+			"title": "ob havo",
+			"prefix": "4107-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/5ca732b3-3ec2-4b13-9f08-d55b8739fe31/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b5a4f104-fb2d-4c71-8f36-702d9567a752",
+			"title": "ob vwo",
+			"prefix": "4150-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/b5a4f104-fb2d-4c71-8f36-702d9567a752/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"prefix": "4600-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a94b005d-9697-49f6-897a-0ad6516044f9",
+			"title": "B1",
+			"prefix": "4902-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/a94b005d-9697-49f6-897a-0ad6516044f9/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f7920461-e732-4767-b855-87783a05c76a",
+			"title": "B2",
+			"prefix": "4903-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/f7920461-e732-4767-b855-87783a05c76a/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/50fd5672-94d8-4445-b988-bb198f5515f4",
+			"title": "C1",
+			"prefix": "4904-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/50fd5672-94d8-4445-b988-bb198f5515f4/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a0f545f9-a077-49fd-ab13-ef3533430ee6",
+			"title": "B1+",
+			"prefix": "4912-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/a0f545f9-a077-49fd-ab13-ef3533430ee6/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/01c9a4f8-34f3-4579-8bfb-7a00211e29ee",
+			"title": "B2+",
+			"prefix": "4913-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/01c9a4f8-34f3-4579-8bfb-7a00211e29ee/ldk_vakleergebied/372cbac8-0b15-41d8-89ba-6bf49802bcbd"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Engels"
+}

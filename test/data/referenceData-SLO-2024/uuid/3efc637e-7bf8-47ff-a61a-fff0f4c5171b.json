@@ -1,0 +1,186 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+	"uuid": "3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgProfiel",
+	"ExamenprogrammaBgKern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6c238aa7-ab23-4fa4-b61d-bdc90b8aba3a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6c238aa7-ab23-4fa4-b61d-bdc90b8aba3a",
+			"uuid": "6c238aa7-ab23-4fa4-b61d-bdc90b8aba3a",
+			"prefix": "PK/MVI",
+			"title": "Kern Media, vormgeving en ICT",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgModule": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2d1b23a7-c5e8-48da-a0cb-1b1a9a1c14b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2d1b23a7-c5e8-48da-a0cb-1b1a9a1c14b0",
+			"uuid": "2d1b23a7-c5e8-48da-a0cb-1b1a9a1c14b0",
+			"prefix": "P/MVI/01",
+			"title": "Audiovisuele vormgeving en productie",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/842b1db6-2063-4c07-85e8-8c748749d0e9",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/842b1db6-2063-4c07-85e8-8c748749d0e9",
+			"uuid": "842b1db6-2063-4c07-85e8-8c748749d0e9",
+			"prefix": "P/MVI/02",
+			"title": "2D en 3D vormgeving en productie",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fcb8f424-360e-4c65-915c-1edc2c457695",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fcb8f424-360e-4c65-915c-1edc2c457695",
+			"uuid": "fcb8f424-360e-4c65-915c-1edc2c457695",
+			"prefix": "P/MVI/03",
+			"title": "ICT",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/35421908-139e-430b-b076-6ec2167c0d4c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/35421908-139e-430b-b076-6ec2167c0d4c",
+			"uuid": "35421908-139e-430b-b076-6ec2167c0d4c",
+			"prefix": "P/MVI/04",
+			"title": "Interactieve vormgeving en productie",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/18bd9e65-4779-41c0-bd7c-6c031165e1eb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/18bd9e65-4779-41c0-bd7c-6c031165e1eb",
+			"uuid": "18bd9e65-4779-41c0-bd7c-6c031165e1eb",
+			"prefix": "K/MVI/01",
+			"title": "3D vormgeving en realisatie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/71425a7a-d418-447f-9d78-48ff71a3c0a0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/71425a7a-d418-447f-9d78-48ff71a3c0a0",
+			"uuid": "71425a7a-d418-447f-9d78-48ff71a3c0a0",
+			"prefix": "K/MVI/02",
+			"title": "Idee ontwikkeling",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/aee14f60-8e6c-4d87-966c-f965036355c8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/aee14f60-8e6c-4d87-966c-f965036355c8",
+			"uuid": "aee14f60-8e6c-4d87-966c-f965036355c8",
+			"prefix": "K/MVI/03",
+			"title": "Netwerkbeheer",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e48dc109-6cf9-4f5a-9b01-43d8d085bc52",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e48dc109-6cf9-4f5a-9b01-43d8d085bc52",
+			"uuid": "e48dc109-6cf9-4f5a-9b01-43d8d085bc52",
+			"prefix": "K/MVI/04",
+			"title": "Printmedia productie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/24413c23-95dc-4cc7-905e-9c085e0e3d5f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/24413c23-95dc-4cc7-905e-9c085e0e3d5f",
+			"uuid": "24413c23-95dc-4cc7-905e-9c085e0e3d5f",
+			"prefix": "K/MVI/05",
+			"title": "Tekenen, schilderen en illustreren",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e8b524b4-3b7f-40f8-9f55-f41ce0b9ae29",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e8b524b4-3b7f-40f8-9f55-f41ce0b9ae29",
+			"uuid": "e8b524b4-3b7f-40f8-9f55-f41ce0b9ae29",
+			"prefix": "K/MVI/06",
+			"title": "Game design",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5ed48cd5-8afe-4f2e-b177-44cb7bccdaa0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5ed48cd5-8afe-4f2e-b177-44cb7bccdaa0",
+			"uuid": "5ed48cd5-8afe-4f2e-b177-44cb7bccdaa0",
+			"prefix": "K/MVI/07",
+			"title": "Fotografie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8a05526-f03a-40fb-9439-64ff83cf966b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8a05526-f03a-40fb-9439-64ff83cf966b",
+			"uuid": "a8a05526-f03a-40fb-9439-64ff83cf966b",
+			"prefix": "K/MVI/08",
+			"title": "Licht, geluid en decor",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a29d3f8b-52e7-446d-af90-a507cf3c18a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a29d3f8b-52e7-446d-af90-a507cf3c18a4",
+			"uuid": "a29d3f8b-52e7-446d-af90-a507cf3c18a4",
+			"prefix": "K/MVI/09",
+			"title": "Applicatieontwikkeling",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ffb530f6-1f87-4ced-b8b5-becb3fee3b18",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ffb530f6-1f87-4ced-b8b5-becb3fee3b18",
+			"uuid": "ffb530f6-1f87-4ced-b8b5-becb3fee3b18",
+			"prefix": "K/MVI/10",
+			"title": "Digitale beveiliging",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b02bed86-145c-45b5-8ce0-d1777d2452e0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b02bed86-145c-45b5-8ce0-d1777d2452e0",
+			"uuid": "b02bed86-145c-45b5-8ce0-d1777d2452e0",
+			"prefix": "K/MVI/11",
+			"title": "Sign",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/b1bb0bee-bf70-4219-8c3e-57cf3666eec7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b1bb0bee-bf70-4219-8c3e-57cf3666eec7",
+			"uuid": "b1bb0bee-bf70-4219-8c3e-57cf3666eec7",
+			"prefix": "K/MVI/12",
+			"title": "Vormgeven & typografie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5d42f3ce-e5c6-46d5-87d0-7158e4a1767f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5d42f3ce-e5c6-46d5-87d0-7158e4a1767f",
+			"uuid": "5d42f3ce-e5c6-46d5-87d0-7158e4a1767f",
+			"prefix": "K/MVI/13",
+			"title": "Innovatie en prototypen",
+			"deprecated": null
+		}
+	],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4848ad5-47b5-4539-8d50-437d15385368",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4848ad5-47b5-4539-8d50-437d15385368",
+			"uuid": "f4848ad5-47b5-4539-8d50-437d15385368",
+			"title": "Media, Vormgeving en ICT",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a3569749-440e-4d1c-bd98-b328ec57a9a7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a3569749-440e-4d1c-bd98-b328ec57a9a7",
+			"uuid": "a3569749-440e-4d1c-bd98-b328ec57a9a7",
+			"title": "Media, vormgeving en ict"
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+			"uuid": "8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
+			"title": "Media, vormgeving en ICT"
+		}
+	],
+	"deprecated": true,
+	"prefix": "MVI",
+	"title": "Media, vormgeving en ICT"
+}

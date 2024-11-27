@@ -1,0 +1,60 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/2c61a195-5a5e-4e62-8a53-acc0e2b50c48",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2c61a195-5a5e-4e62-8a53-acc0e2b50c48",
+	"uuid": "2c61a195-5a5e-4e62-8a53-acc0e2b50c48",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusToelichting",
+	"ExamenprogrammaEindterm": [],
+	"ExamenprogrammaDomein": [],
+	"Syllabus": [],
+	"SyllabusSpecifiekeEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f5bfe79e-e8c0-4ca2-aaf9-d070bc0fba15",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f5bfe79e-e8c0-4ca2-aaf9-d070bc0fba15",
+			"uuid": "f5bfe79e-e8c0-4ca2-aaf9-d070bc0fba15",
+			"title": "Verschillen tussen een democratische rechtsstaat en een dictatoriaal politiek systeem.",
+			"deprecated": null
+		}
+	],
+	"Tag": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d81884e7-76b7-4fcc-82f6-674af4a8aafc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d81884e7-76b7-4fcc-82f6-674af4a8aafc",
+			"uuid": "d81884e7-76b7-4fcc-82f6-674af4a8aafc",
+			"title": "In een dictatoriaal politiek systeem heeft een persoon, een aantal personen of één partij de hoogste macht. Er is geen sprake van een parlementaire democratie en rechtsstaat. Er zijn geen politieke grondrechten meer. Als er verkiezingen worden gehouden mag er maar één partij - die van de dictator - meedoen aan de verkiezingen en alleen die partij krijgt toegang tot de massamedia en de middelen om een verkiezingscampagne te voeren. Andere partijen en kranten en tv-zenders worden verboden en vervolgd door een veiligheidspolitie of leger. Er is sprake van censuur: voorafgaand toezicht op de media (geen persvrijheid)."
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97/syllabustoelichting/2c61a195-5a5e-4e62-8a53-acc0e2b50c48"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b/syllabustoelichting/2c61a195-5a5e-4e62-8a53-acc0e2b50c48"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"prefix": "3503-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303/syllabustoelichting/2c61a195-5a5e-4e62-8a53-acc0e2b50c48"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"prefix": "3504-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5/syllabustoelichting/2c61a195-5a5e-4e62-8a53-acc0e2b50c48"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "ML2/K/4/5a.1.4/toel.",
+	"title": "In een dictatoriaal politiek systeem heeft een persoon, een aantal personen of één partij de hoogste macht. Er is geen sprake van een parlementaire democratie en rechtsstaat. Er zijn geen politieke grondrechten meer. Als er verkiezingen worden gehouden mag er maar één partij - die van de dictator - meedoen aan de verkiezingen en alleen die partij krijgt toegang tot de massamedia en de middelen om een verkiezingscampagne te voeren. Andere partijen en kranten en tv-zenders worden verboden en vervolgd door een veiligheidspolitie of leger. Er is sprake van censuur: voorafgaand toezicht op de media (geen persvrijheid).",
+	"ce_se": "CE"
+}

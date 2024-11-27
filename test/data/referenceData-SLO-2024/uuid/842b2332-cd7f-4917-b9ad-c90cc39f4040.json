@@ -1,0 +1,16 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/842b2332-cd7f-4917-b9ad-c90cc39f4040",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/842b2332-cd7f-4917-b9ad-c90cc39f4040",
+	"uuid": "842b2332-cd7f-4917-b9ad-c90cc39f4040",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Doel",
+	"Doelniveau": [],
+	"replacedBy": [],
+	"replaces": null,
+	"deprecated": true,
+	"title": "(Praktisch) Onderzoek voorbereiden",
+	"description": "(Praktisch) Onderzoek voorbereiden",
+	"bron": "tussendoel",
+	"vakbegrippen": null
+}

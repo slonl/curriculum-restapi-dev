@@ -1,0 +1,177 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/ff6c5f71-caac-4f11-8591-5280e79b92b9",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ff6c5f71-caac-4f11-8591-5280e79b92b9",
+	"uuid": "ff6c5f71-caac-4f11-8591-5280e79b92b9",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaEindterm",
+	"ExamenprogrammaSubdomein": [],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/10cbdf21-6ee6-4bd4-81df-3831344dc630",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/10cbdf21-6ee6-4bd4-81df-3831344dc630",
+			"uuid": "10cbdf21-6ee6-4bd4-81df-3831344dc630",
+			"prefix": "AK/K/4",
+			"title": "Weer en klimaat",
+			"deprecated": null,
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"uuid": "465b60a8-0e8b-4183-ba9b-43daf2b82608",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": null
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"uuid": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"uuid": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+					"title": "Examenprogramma Aardrijkskunde vmbo",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/64852857-b601-419f-9cbb-e1335a185303",
+			"uuid": "64852857-b601-419f-9cbb-e1335a185303",
+			"title": "bb vmbo gl",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/64852857-b601-419f-9cbb-e1335a185303"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8450c011-f812-4f89-97a9-6b8820baffc5",
+			"uuid": "8450c011-f812-4f89-97a9-6b8820baffc5",
+			"title": "bb vmbo tl",
+			"deprecated": null,
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8450c011-f812-4f89-97a9-6b8820baffc5"
+		}
+	],
+	"SyllabusSpecifiekeEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/16cb7de8-afe4-4491-be09-09fb331227b6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/16cb7de8-afe4-4491-be09-09fb331227b6",
+			"uuid": "16cb7de8-afe4-4491-be09-09fb331227b6",
+			"title": "De kandidaat kan de ligging en spreiding van de klimaten in de Verenigde Staten met behulp van de klimaatfactoren beschrijven en verklaren.\nGematigd zeeklimaat, hooggebergte klimaat, landklimaat, Mediterraan/Middellandse zeeklimaat, steppeklimaat, (sub)tropische klimaten, toendraklimaat en woestijnklimaat.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8a0e84f4-2b1c-448e-83c8-8471de322a22",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8a0e84f4-2b1c-448e-83c8-8471de322a22",
+			"uuid": "8a0e84f4-2b1c-448e-83c8-8471de322a22",
+			"title": "De kandidaat kan de samenhang tussen klimaten enerzijds en vegetatiezones (landschappen) en (agrarisch) bodemgebruik anderzijds in de Verenigde Staten beschrijven en verklaren.\nLoef- en lijzijde (regenschaduw).",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e41f7405-a617-4bb9-9c84-6dfb3e0afdd2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e41f7405-a617-4bb9-9c84-6dfb3e0afdd2",
+			"uuid": "e41f7405-a617-4bb9-9c84-6dfb3e0afdd2",
+			"title": "De kandidaat kan mogelijke gevolgen van het versterkt broeikaseffect voor de Verenigde Staten beschrijven.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1b122664-5d3b-4f5b-bdb1-935b9bbb18e1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1b122664-5d3b-4f5b-bdb1-935b9bbb18e1",
+			"uuid": "1b122664-5d3b-4f5b-bdb1-935b9bbb18e1",
+			"title": "De kandidaat kan voorbeelden van maatregelen in de Verenigde Staten om oorzaken van het versterkt broeikaseffect aan te pakken en effecten te verminderen beschrijven en voor- en nadelen van mogelijke maatregelen vanuit verschillende dimensies beschrijven.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/181abe8b-9438-4f11-88d1-211e4e1fd8a8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/181abe8b-9438-4f11-88d1-211e4e1fd8a8",
+			"uuid": "181abe8b-9438-4f11-88d1-211e4e1fd8a8",
+			"title": "De kandidaat kan de ligging en spreiding van de klimaten in de Verenigde Staten met behulp van de klimaatfactoren beschrijven en verklaren.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ce00d50d-ce80-43d8-8f11-9332adfaa1bc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ce00d50d-ce80-43d8-8f11-9332adfaa1bc",
+			"uuid": "ce00d50d-ce80-43d8-8f11-9332adfaa1bc",
+			"title": "De kandidaat kan de samenhang tussen klimaten enerzijds en vegetatiezones (landschappen) en (agrarisch) bodemgebruik anderzijds in de Verenigde Staten beschrijven en verklaren.\r\nLoef- en lijzijde (regenschaduw).",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a141cd5b-0d34-4bfc-8804-f25aba424d86",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a141cd5b-0d34-4bfc-8804-f25aba424d86",
+			"uuid": "a141cd5b-0d34-4bfc-8804-f25aba424d86",
+			"title": "De kandidaat kan weerkaarten van de Verenigde Staten voor standaardsituaties beschrijven en verklaren.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ae7a79c7-9eb0-4dfd-8df8-4d61500619f4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ae7a79c7-9eb0-4dfd-8df8-4d61500619f4",
+			"uuid": "ae7a79c7-9eb0-4dfd-8df8-4d61500619f4",
+			"title": "De kandidaat kan de ligging en spreiding van de klimaten in de V.S. met behulp van de klimaatfactoren beschrijven en verklaren.",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e372077c-89d2-411b-ae7a-6328d6e4ec68",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e372077c-89d2-411b-ae7a-6328d6e4ec68",
+			"uuid": "e372077c-89d2-411b-ae7a-6328d6e4ec68",
+			"title": "De kandidaat kan weer en klimaat, klimaatverandering en klimaatbeleid in de V.S. beschrijven en verklaren.",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7dad5883-cb20-40c4-886a-972a466594b0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7dad5883-cb20-40c4-886a-972a466594b0",
+			"uuid": "7dad5883-cb20-40c4-886a-972a466594b0",
+			"title": "De kandidaat kan weerkaarten van de Verenigde Staten voor standaardsituaties beschrijven en verklaren.",
+			"deprecated": true
+		}
+	],
+	"SyllabusToelichting": [],
+	"SyllabusVakbegrip": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6ffdf547-1fa2-4006-9998-a1a2c97eaecd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6ffdf547-1fa2-4006-9998-a1a2c97eaecd",
+			"uuid": "6ffdf547-1fa2-4006-9998-a1a2c97eaecd",
+			"title": "Kaartbeeld Nederland: Noordzee",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0e16818d-4331-4c87-a978-f31898f151a3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0e16818d-4331-4c87-a978-f31898f151a3",
+			"uuid": "0e16818d-4331-4c87-a978-f31898f151a3",
+			"title": "V.S., New orleans, Golf van Mexico, Colorado, Rio Grande, Great Salt Lake, Appalachen, Kustgebergte, Great Basin (Grote Bekken), Great Plains (Prairiën)",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/3c6d0d2e-d8d7-488d-989a-4bef8c9942a4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/3c6d0d2e-d8d7-488d-989a-4bef8c9942a4",
+			"uuid": "3c6d0d2e-d8d7-488d-989a-4bef8c9942a4",
+			"title": "Kaartbeeld Spanje: Cantabrisch Gebergte, Middellandse Zee, Pyreneeën, Sierra Nevada",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c40f37a9-b50b-42d7-8685-b99d17a6be41",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c40f37a9-b50b-42d7-8685-b99d17a6be41",
+			"uuid": "c40f37a9-b50b-42d7-8685-b99d17a6be41",
+			"title": "Kaartbeeld Verenigde Staten: Appalachen, Atlantische Oceaan, Golf van Mexico, Great Plains, Grote Oceaan, Kustgebergte, Rocky Mountains",
+			"deprecated": true
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "AK/K/4/6",
+	"title": "De kandidaat kan Weer en klimaat, klimaatverandering en klimaatbeleid in een buiten-Europese macroregio beschrijven en verklaren",
+	"ce_se": null
+}

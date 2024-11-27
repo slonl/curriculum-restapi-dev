@@ -1,0 +1,45 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
+	"uuid": "a1b9682f-9c16-4b04-b5e0-4411c3c92ff4",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-erk/context.json",
+	"@type": "ErkGebied",
+	"ErkCategorie": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/96d01289-97ec-4024-89f5-4f49c3937e8c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96d01289-97ec-4024-89f5-4f49c3937e8c",
+			"uuid": "96d01289-97ec-4024-89f5-4f49c3937e8c",
+			"title": "Pragmatisch",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
+			"uuid": "af6bb85e-635e-4da2-aa7e-f5e9a8928b1f",
+			"title": "Linguïstisch",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+			"uuid": "f88ebd19-f337-45e0-bedc-6aa6f5fb3ebc",
+			"title": "Sociolinguïstisch",
+			"deprecated": true
+		}
+	],
+	"ErkTaalactiviteit": [],
+	"ErkSchaal": [],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0d32bd37-b03d-4180-9bc4-7d825e593ffe",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0d32bd37-b03d-4180-9bc4-7d825e593ffe",
+			"uuid": "0d32bd37-b03d-4180-9bc4-7d825e593ffe",
+			"title": "Taalcompetenties"
+		}
+	],
+	"replaces": null,
+	"deprecated": true,
+	"prefix": null,
+	"title": "Taalcompetenties"
+}

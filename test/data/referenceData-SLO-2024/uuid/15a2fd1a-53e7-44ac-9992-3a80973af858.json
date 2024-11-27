@@ -1,0 +1,68 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/15a2fd1a-53e7-44ac-9992-3a80973af858",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/15a2fd1a-53e7-44ac-9992-3a80973af858",
+	"uuid": "15a2fd1a-53e7-44ac-9992-3a80973af858",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaSubdomein",
+	"ExamenprogrammaEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0919fe81-5f91-451d-bded-28e705789647",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0919fe81-5f91-451d-bded-28e705789647",
+			"uuid": "0919fe81-5f91-451d-bded-28e705789647",
+			"prefix": "SK/H/DomeinA/A15/15",
+			"title": "De kandidaat kan in contexten aangeven op welke wijze natuurwetenschappelijke, technologische en chemische kennis wordt ontwikkeld en toegepast.",
+			"deprecated": null,
+			"Niveau": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+					"title": "bb havo",
+					"prefix": "4600",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da"
+				}
+			]
+		}
+	],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/c68b8e15-6659-4423-9b44-5ca9ebcca0cc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/c68b8e15-6659-4423-9b44-5ca9ebcca0cc",
+			"uuid": "c68b8e15-6659-4423-9b44-5ca9ebcca0cc",
+			"prefix": "SK/H/DomeinA",
+			"title": "Domein A: Vaardigheden",
+			"deprecated": null,
+			"Examenprogramma": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d5c8d0a3-cfc8-4397-87a2-eafc25db1d8c",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d5c8d0a3-cfc8-4397-87a2-eafc25db1d8c",
+					"uuid": "d5c8d0a3-cfc8-4397-87a2-eafc25db1d8c",
+					"title": "Examenprogramma Scheikunde havo",
+					"deprecated": null
+				}
+			]
+		}
+	],
+	"Doelniveau": [],
+	"Tag": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/eaa225fc-5dbe-4cd9-b831-8eacf57a4d33",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/eaa225fc-5dbe-4cd9-b831-8eacf57a4d33",
+			"uuid": "eaa225fc-5dbe-4cd9-b831-8eacf57a4d33",
+			"title": "Subdomein A15: Redeneren over ontwikkelen van chemische kennis"
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"title": "bb havo",
+			"prefix": "4600-1",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/6dc8e1f2-a929-418f-b4e5-6be1204639da/examenprogrammasubdomein/15a2fd1a-53e7-44ac-9992-3a80973af858"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "SK/H/DomeinA/A15",
+	"title": "Subdomein A15: Redeneren over ontwikkelen van chemische kennis",
+	"ce_se": "CE; SE"
+}

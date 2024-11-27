@@ -1,0 +1,138 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+	"uuid": "8ff18bfe-9d84-4cd1-b32e-22c3c7829949",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json",
+	"@type": "Examenprogramma",
+	"ExamenprogrammaKop1": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d72f75f6-52a0-4e19-b508-f7d50d860eca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d72f75f6-52a0-4e19-b508-f7d50d860eca",
+			"uuid": "d72f75f6-52a0-4e19-b508-f7d50d860eca",
+			"prefix": null,
+			"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7bc81b7b-ff9a-4f74-b2e4-2676a380e153",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7bc81b7b-ff9a-4f74-b2e4-2676a380e153",
+			"uuid": "7bc81b7b-ff9a-4f74-b2e4-2676a380e153",
+			"prefix": null,
+			"title": "Het centraal examen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/dccb569c-e841-4aa2-8014-ca7ee40018ae",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/dccb569c-e841-4aa2-8014-ca7ee40018ae",
+			"uuid": "dccb569c-e841-4aa2-8014-ca7ee40018ae",
+			"prefix": null,
+			"title": "Het schoolexamen",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaDomein": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1e2cdaad-eca5-4e00-a6a5-1d1e0ad3989b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1e2cdaad-eca5-4e00-a6a5-1d1e0ad3989b",
+			"uuid": "1e2cdaad-eca5-4e00-a6a5-1d1e0ad3989b",
+			"prefix": "MVT/TU/V/DomeinB",
+			"title": "Domein B: Kijk- en luistervaardigheid",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/26f0a147-1818-4a1e-a6e8-174a95f70d9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/26f0a147-1818-4a1e-a6e8-174a95f70d9e",
+			"uuid": "26f0a147-1818-4a1e-a6e8-174a95f70d9e",
+			"prefix": "MVT/TU/V/DomeinC",
+			"title": "Domein C: Gespreksvaardigheid",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d32e3d66-3665-41c7-9066-a1a976fc5a55",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d32e3d66-3665-41c7-9066-a1a976fc5a55",
+			"uuid": "d32e3d66-3665-41c7-9066-a1a976fc5a55",
+			"prefix": "MVT/TU/V/DomeinD",
+			"title": "Domein D: Schrijfvaardigheid",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/67b6582c-e039-4963-aedc-8538b1d2d103",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/67b6582c-e039-4963-aedc-8538b1d2d103",
+			"uuid": "67b6582c-e039-4963-aedc-8538b1d2d103",
+			"prefix": "MVT/TU/V/DomeinE",
+			"title": "Domein E: Literatuur",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/86e4fb35-9b07-4d84-861f-a6520cb0ea8a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/86e4fb35-9b07-4d84-861f-a6520cb0ea8a",
+			"uuid": "86e4fb35-9b07-4d84-861f-a6520cb0ea8a",
+			"prefix": "MVT/TU/V/DomeinF",
+			"title": "Domein F: Oriëntatie op studie en beroep",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f397375f-b4b2-430e-9efa-1f3766944655",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f397375f-b4b2-430e-9efa-1f3766944655",
+			"uuid": "f397375f-b4b2-430e-9efa-1f3766944655",
+			"prefix": "MVT/TU/V/DomeinA",
+			"title": "Domein A: Leesvaardigheid",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaVakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/19343b67-adbe-4c24-907f-630d6192a287",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/19343b67-adbe-4c24-907f-630d6192a287",
+			"uuid": "19343b67-adbe-4c24-907f-630d6192a287",
+			"title": "Turks",
+			"deprecated": null
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"uuid": "caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb",
+			"title": "bb vwo",
+			"prefix": "4700",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		}
+	],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fdb98cfa-9782-41dc-b263-e59f024bcdc2",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fdb98cfa-9782-41dc-b263-e59f024bcdc2",
+			"uuid": "fdb98cfa-9782-41dc-b263-e59f024bcdc2",
+			"title": "Syllabus Moderne vreemde talen Turks vwo 2022",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fbe6fde9-3d27-4846-b686-11f469661286",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fbe6fde9-3d27-4846-b686-11f469661286",
+			"uuid": "fbe6fde9-3d27-4846-b686-11f469661286",
+			"title": "Syllabus Moderne vreemde talen Turks vwo 2023",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7ea1059c-951d-4f05-96f8-e526e709ee31",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7ea1059c-951d-4f05-96f8-e526e709ee31",
+			"uuid": "7ea1059c-951d-4f05-96f8-e526e709ee31",
+			"title": "Syllabus Moderne vreemde talen Turks vwo 2021",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0c8516fd-e85c-4981-8f99-a3db39114cc6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0c8516fd-e85c-4981-8f99-a3db39114cc6",
+			"uuid": "0c8516fd-e85c-4981-8f99-a3db39114cc6",
+			"title": "Examenprogramma Moderne vreemde talen Turks vwo"
+		}
+	],
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "MVT/TU/V",
+	"title": "Examenprogramma Moderne vreemde talen Turks vwo"
+}

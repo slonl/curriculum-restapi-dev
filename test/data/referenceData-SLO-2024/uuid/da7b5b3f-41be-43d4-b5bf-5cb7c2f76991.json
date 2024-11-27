@@ -1,0 +1,192 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+	"uuid": "da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgProfiel",
+	"ExamenprogrammaBgKern": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e487dfc-1257-4121-88c2-42a82df71aca",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e487dfc-1257-4121-88c2-42a82df71aca",
+			"uuid": "9e487dfc-1257-4121-88c2-42a82df71aca",
+			"prefix": "PK/ZW",
+			"title": "Kern Zorg en welzijn",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgModule": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5c6a2462-e384-4f2b-9ff1-48238fd501c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5c6a2462-e384-4f2b-9ff1-48238fd501c4",
+			"uuid": "5c6a2462-e384-4f2b-9ff1-48238fd501c4",
+			"prefix": "P/ZW/01",
+			"title": "Mens en gezondheid",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/16d79800-484f-42e1-9dc7-21410c022127",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/16d79800-484f-42e1-9dc7-21410c022127",
+			"uuid": "16d79800-484f-42e1-9dc7-21410c022127",
+			"prefix": "P/ZW/02",
+			"title": "Mens en omgeving",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/1c98259e-fc3f-4cb5-95b8-d6097fbe4c8c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/1c98259e-fc3f-4cb5-95b8-d6097fbe4c8c",
+			"uuid": "1c98259e-fc3f-4cb5-95b8-d6097fbe4c8c",
+			"prefix": "P/ZW/03",
+			"title": "Mens en activiteit",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/afaeefaf-f234-4a0d-aa78-9fe187800496",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/afaeefaf-f234-4a0d-aa78-9fe187800496",
+			"uuid": "afaeefaf-f234-4a0d-aa78-9fe187800496",
+			"prefix": "P/ZW/04",
+			"title": "Mens en zorg",
+			"deprecated": true
+		}
+	],
+	"ExamenprogrammaBgKeuzevak": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/744b2bac-08b6-4b86-a9ef-2030137d356b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/744b2bac-08b6-4b86-a9ef-2030137d356b",
+			"uuid": "744b2bac-08b6-4b86-a9ef-2030137d356b",
+			"prefix": "K/ZW/01",
+			"title": "Kennismaking met uiterlijke verzorging",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/5555b9a1-11ba-40a4-8637-894428b274a3",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/5555b9a1-11ba-40a4-8637-894428b274a3",
+			"uuid": "5555b9a1-11ba-40a4-8637-894428b274a3",
+			"prefix": "K/ZW/02",
+			"title": "Haarverzorging",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e145123d-3b34-48b0-9067-6bca8a78787b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e145123d-3b34-48b0-9067-6bca8a78787b",
+			"uuid": "e145123d-3b34-48b0-9067-6bca8a78787b",
+			"prefix": "K/ZW/03",
+			"title": "Huidverzorging",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a14c1eac-9e56-4c57-9d8b-ede9ad6232ee",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a14c1eac-9e56-4c57-9d8b-ede9ad6232ee",
+			"uuid": "a14c1eac-9e56-4c57-9d8b-ede9ad6232ee",
+			"prefix": "K/ZW/04",
+			"title": "Hand- en voetverzorging",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6ad585d1-9fe1-4f69-850f-8a906e4500e8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6ad585d1-9fe1-4f69-850f-8a906e4500e8",
+			"uuid": "6ad585d1-9fe1-4f69-850f-8a906e4500e8",
+			"prefix": "K/ZW/05",
+			"title": "Welzijn kind en jongere",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4479add-d34c-47f7-9516-232e339fa1ef",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4479add-d34c-47f7-9516-232e339fa1ef",
+			"uuid": "f4479add-d34c-47f7-9516-232e339fa1ef",
+			"prefix": "K/ZW/06",
+			"title": "Wonen en huishouden",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/96a16743-6543-46a7-a0a5-3933598ce670",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/96a16743-6543-46a7-a0a5-3933598ce670",
+			"uuid": "96a16743-6543-46a7-a0a5-3933598ce670",
+			"prefix": "K/ZW/07",
+			"title": "Assisteren in de gezondheidszorg",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bbacafd8-0087-4809-9047-fc1e3516da05",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bbacafd8-0087-4809-9047-fc1e3516da05",
+			"uuid": "bbacafd8-0087-4809-9047-fc1e3516da05",
+			"prefix": "K/ZW/08",
+			"title": "Welzijn volwassenen en ouderen",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
+			"uuid": "6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
+			"prefix": "K/ZW/09",
+			"title": "Facilitaire Dienstverlening: catering en inrichting",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
+			"uuid": "bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
+			"prefix": "K/ZW/10",
+			"title": "Facilitaire dienstverlening: onderhoud en receptie",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9962df41-0936-465e-9df4-e8d612fb5339",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9962df41-0936-465e-9df4-e8d612fb5339",
+			"uuid": "9962df41-0936-465e-9df4-e8d612fb5339",
+			"prefix": "K/ZW/12",
+			"title": "Voorkomen van ongevallen en EHBO",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/fbee0eab-868a-4916-9abf-9a1083a1e3c7",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/fbee0eab-868a-4916-9abf-9a1083a1e3c7",
+			"uuid": "fbee0eab-868a-4916-9abf-9a1083a1e3c7",
+			"prefix": "K/ZW/13",
+			"title": "Technologie binnen zorg en welzijn (dit keuzevak is een verdieping van de profielmodule mens en zorg)",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
+			"uuid": "7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
+			"prefix": "K/ZW/11",
+			"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
+			"deprecated": true
+		}
+	],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/73cef23f-df24-4015-8516-072a13dcd369",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/73cef23f-df24-4015-8516-072a13dcd369",
+			"uuid": "73cef23f-df24-4015-8516-072a13dcd369",
+			"title": "Zorg en Welzijn",
+			"deprecated": null
+		}
+	],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a363d4e3-9296-468e-ad5f-7faf6c1c7518",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a363d4e3-9296-468e-ad5f-7faf6c1c7518",
+			"uuid": "a363d4e3-9296-468e-ad5f-7faf6c1c7518",
+			"title": "Zorg en welzijn"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+			"uuid": "7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+			"title": "Zorg en welzijn"
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+			"uuid": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
+			"title": "Zorg en welzijn"
+		}
+	],
+	"deprecated": true,
+	"prefix": "ZW",
+	"title": "Zorg en welzijn"
+}

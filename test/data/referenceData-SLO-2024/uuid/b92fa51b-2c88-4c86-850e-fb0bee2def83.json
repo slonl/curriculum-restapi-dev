@@ -1,0 +1,65 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/b92fa51b-2c88-4c86-850e-fb0bee2def83",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b92fa51b-2c88-4c86-850e-fb0bee2def83",
+	"uuid": "b92fa51b-2c88-4c86-850e-fb0bee2def83",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-syllabus/context.json",
+	"@type": "SyllabusSpecifiekeEindterm",
+	"ExamenprogrammaEindterm": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/ad9ffaad-a687-4e31-bf25-f40c202857f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/ad9ffaad-a687-4e31-bf25-f40c202857f1",
+			"uuid": "ad9ffaad-a687-4e31-bf25-f40c202857f1",
+			"title": "De kandidaat kan in hoofdlijnen aangeven welke potentiele bedreigingen binnen een specifieke context zijn afgenomen respectievelijk toegenomen en welke invloed deze bedreigingen hebben op bindingen in de samenleving.",
+			"deprecated": null
+		}
+	],
+	"ExamenprogrammaDomein": [],
+	"Syllabus": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/61ebb872-51fb-449d-a691-ca3c61da7b91",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/61ebb872-51fb-449d-a691-ca3c61da7b91",
+			"uuid": "61ebb872-51fb-449d-a691-ca3c61da7b91",
+			"title": "Syllabus Maatschappijwetenschappen havo 2022",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f5949632-4d21-4433-95c9-af8b1318d9b1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f5949632-4d21-4433-95c9-af8b1318d9b1",
+			"uuid": "f5949632-4d21-4433-95c9-af8b1318d9b1",
+			"title": "Syllabus Maatschappijwetenschappen havo 2023",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f7e4fb61-0fdd-4231-aa42-5a47000b35e6",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f7e4fb61-0fdd-4231-aa42-5a47000b35e6",
+			"uuid": "f7e4fb61-0fdd-4231-aa42-5a47000b35e6",
+			"title": "Syllabus Maatschappijwetenschappen havo 2021",
+			"deprecated": true
+		}
+	],
+	"SyllabusToelichting": [],
+	"SyllabusVakbegrip": [],
+	"Tag": [],
+	"replaces": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/d1436462-706d-4e49-b2ba-c35200f0411b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d1436462-706d-4e49-b2ba-c35200f0411b",
+			"uuid": "d1436462-706d-4e49-b2ba-c35200f0411b",
+			"title": "(On)veiligheid als maatschappelijk en politiek vraagstuk"
+		}
+	],
+	"replacedBy": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/66a06a40-bd55-40a4-86c3-08658899a536",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/66a06a40-bd55-40a4-86c3-08658899a536",
+			"uuid": "66a06a40-bd55-40a4-86c3-08658899a536",
+			"title": "(On)veiligheid als maatschappelijk en politiek vraagstuk"
+		}
+	],
+	"Niveau": [],
+	"deprecated": true,
+	"prefix": "MAW/H/DomeinD/D3/16.2",
+	"title": "(On)veiligheid als maatschappelijk en politiek vraagstuk",
+	"ce_se": "CE"
+}

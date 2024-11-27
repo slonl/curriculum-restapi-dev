@@ -1,0 +1,74 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/652230da-c7ab-485f-9bfb-66517e0f12e7",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/652230da-c7ab-485f-9bfb-66517e0f12e7",
+	"uuid": "652230da-c7ab-485f-9bfb-66517e0f12e7",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
+	"@type": "ExamenprogrammaBgModuletaak",
+	"ExamenprogrammaBgModule": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/9e334e64-eafd-4b71-9a56-2753e44ccee8",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/9e334e64-eafd-4b71-9a56-2753e44ccee8",
+			"uuid": "9e334e64-eafd-4b71-9a56-2753e44ccee8",
+			"prefix": "P/EO/03",
+			"title": "Logistiek",
+			"deprecated": null,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/b11389c8-0f47-4aee-8017-be08a144d374",
+					"uuid": "b11389c8-0f47-4aee-8017-be08a144d374",
+					"title": "Economie en Ondernemen",
+					"deprecated": null
+				}
+			]
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e4cdcb2d-3237-4114-b954-31c203a84db0",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e4cdcb2d-3237-4114-b954-31c203a84db0",
+			"uuid": "e4cdcb2d-3237-4114-b954-31c203a84db0",
+			"prefix": "P/EO/03",
+			"title": "Logistiek",
+			"deprecated": true,
+			"ExamenprogrammaBgProfiel": [
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/d2508ab9-cb99-480a-a9fd-5973ca28efff",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/d2508ab9-cb99-480a-a9fd-5973ca28efff",
+					"uuid": "d2508ab9-cb99-480a-a9fd-5973ca28efff",
+					"title": "Economie en ondernemen",
+					"deprecated": true
+				},
+				{
+					"@id": "https://opendata.slo.nl/curriculum/uuid/8f429657-0d80-4581-947d-5279b63488ab",
+					"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8f429657-0d80-4581-947d-5279b63488ab",
+					"uuid": "8f429657-0d80-4581-947d-5279b63488ab",
+					"title": "Economie en Ondernemen",
+					"deprecated": true
+				}
+			]
+		}
+	],
+	"Niveau": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"uuid": "861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"title": "bb vmbo bb",
+			"prefix": "3501",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/8574855d-0670-42bf-9f73-dc6706278b8b",
+			"uuid": "8574855d-0670-42bf-9f73-dc6706278b8b",
+			"title": "bb vmbo kb",
+			"prefix": "3502",
+			"$ref": "https://opendata.slo.nl/curriculum/2024/api/v1/niveau/8574855d-0670-42bf-9f73-dc6706278b8b"
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"prefix": "P/EO/03/MT",
+	"title": "Magazijnwerkzaamheden uitvoeren (eventueel in gesimuleerde omgeving) ten aanzien van ontvangst en opslag van goederen / verzamelen, verpakken en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen"
+}

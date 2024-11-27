@@ -1,0 +1,100 @@
+{
+	"@id": "https://opendata.slo.nl/curriculum/uuid/0a4d1b78-0481-4662-9f5b-abaa156e8b05",
+	"@isPartOf": "https://opendata.slo.nl/curriculum/2024/api/v1/",
+	"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0a4d1b78-0481-4662-9f5b-abaa156e8b05",
+	"uuid": "0a4d1b78-0481-4662-9f5b-abaa156e8b05",
+	"@context": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"@type": "ExamenprogrammaVakleergebied",
+	"Examenprogramma": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/79bbfbf5-fb3e-4bb1-9872-c973c1277b89",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/79bbfbf5-fb3e-4bb1-9872-c973c1277b89",
+			"uuid": "79bbfbf5-fb3e-4bb1-9872-c973c1277b89",
+			"title": "Examenprogramma Biologie vwo",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e6c90eb1-e6ca-470f-923d-c04f016d13fc",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e6c90eb1-e6ca-470f-923d-c04f016d13fc",
+			"uuid": "e6c90eb1-e6ca-470f-923d-c04f016d13fc",
+			"title": "Examenprogramma Biologie havo",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+			"uuid": "f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e",
+			"title": "Examenprogramma Biologie vmbo",
+			"deprecated": null
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/68defffd-aaa5-49c9-86c2-45c36b18c37c",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/68defffd-aaa5-49c9-86c2-45c36b18c37c",
+			"uuid": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
+			"title": "Examenprogramma biologie vmbo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/92f57200-9ac6-449c-964c-b18c8996df85",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/92f57200-9ac6-449c-964c-b18c8996df85",
+			"uuid": "92f57200-9ac6-449c-964c-b18c8996df85",
+			"title": "Examenprogramma Biologie vwo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
+			"uuid": "6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
+			"title": "Examenprogramma Biologie havo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/0f3f8286-43ab-4978-830d-9b169c84e991",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/0f3f8286-43ab-4978-830d-9b169c84e991",
+			"uuid": "0f3f8286-43ab-4978-830d-9b169c84e991",
+			"title": "Examenprogramma Biologie vmbo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/a74541e8-ec2e-4087-95cd-e202eef3edbf",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/a74541e8-ec2e-4087-95cd-e202eef3edbf",
+			"uuid": "a74541e8-ec2e-4087-95cd-e202eef3edbf",
+			"title": "Examenprogramma Biologie vwo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/48fa1b29-13f6-4343-aacd-62e90694e431",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/48fa1b29-13f6-4343-aacd-62e90694e431",
+			"uuid": "48fa1b29-13f6-4343-aacd-62e90694e431",
+			"title": "Examenprogramma Biologie havo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+			"uuid": "e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+			"title": "Examenprogramma Biologie vmbo",
+			"deprecated": true
+		},
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/2a899285-4990-4942-b64a-d1aec6090bfd",
+			"uuid": "2a899285-4990-4942-b64a-d1aec6090bfd",
+			"title": "Examenprogramma Biologie vmbo",
+			"deprecated": true
+		}
+	],
+	"Vakleergebied": [
+		{
+			"@id": "https://opendata.slo.nl/curriculum/uuid/41dd7292-3cce-411b-8097-11db8c875a89",
+			"@references": "https://opendata.slo.nl/curriculum/2024/api/v1/uuid/41dd7292-3cce-411b-8097-11db8c875a89",
+			"uuid": "41dd7292-3cce-411b-8097-11db8c875a89",
+			"title": "Biologie",
+			"deprecated": null
+		}
+	],
+	"replaces": null,
+	"replacedBy": null,
+	"deprecated": null,
+	"title": "Biologie"
+}
