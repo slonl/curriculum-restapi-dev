@@ -54,7 +54,8 @@ services:
     environment:
       - NODE_ENV=development
       - NODE_PORT=3000
-      - DATA_DIR=/home/node/app/curriculum
+      - DATA_FILE=/home/node/app/data/data.jsontag
+      - COMMANDS=/home/node/app/src/commands.mjs
     volumes:
       - ./curriculum-store/:/home/node/app
     ports:
