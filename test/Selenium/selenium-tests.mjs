@@ -2,12 +2,18 @@ import { Builder, By, Key, until, Browser } from 'selenium-webdriver';
 import tap from "tap";
 import * as fs from 'fs';
 import Chrome from 'selenium-webdriver/chrome.js';
+import Firefox from 'selenium-webdriver/firefox.js';
+import { clear } from 'console';
+
 
 let localRootURL = 'http://localhost:4500/';
 let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/test/data/REST_API_TEST_URLs.json"));
 
+
+const options = new Firefox.Options();
+
 (async function firstTest() {
-  let driver;
+  var driver;
   
   try {
     const screen = {
@@ -16,45 +22,68 @@ let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/test/data/REST_AP
     };
 
     driver = new Builder()
-        .forBrowser(Browser.CHROME)
-        .setChromeOptions(new Chrome.Options().addArguments('--headless').windowSize(screen))
-        .build();
+    .forBrowser(Browser.FIREFOX)
+    .setFirefoxOptions(options.addArguments('--headless').windowSize(screen))
+    .build();
 
+    //chrome driver
+    /*
+    driver = new Builder()
+        .forBrowser(Browser.CHROME)
+        .setChromeOptions(new Chrome.Options()
+          .addArguments('--headless')
+          .windowSize(screen)
+          //.setPageLoadStrategy('eager') 
+        )
+        .build();
+    */
+    
     await driver.get(localRootURL);
     
-    // making sure to start from a clean slate
-    //driver.get('javascript:localStorage.clear();')
-
+    
     tap.test("Website online", async t => {
-      
-      //Check website online
       let title = await driver.getTitle();
-      t.equal("SLO Curriculum Browser", title);
-      
-      //document weergave flow check
-
-
-      //spreadsheet weergave flow check
-
-
-      //Edit and save weergave flow check
-
-      
+      t.equal("SLO Curriculum Browser", title)   
     })
+    
 
-    tap.test("Api Calls: Checking known curricula are online", async t => {
+    tap.test("Test Entiteiten CRUD", async t => {
+      
       for(let call of APIcallsSLO){
-        //console.log(call);
-        let data = await getData(localRootURL + call + "/");
-        //console.log(data);
-        t.ok(data, ( "Response for: " +  call) )
+        console.log(call)
+
+        try{
+          await driver.navigate().to(localRootURL + call + "/");     
+        } catch (error){
+          t.fail(('Could not navigate to: ' + call)) // @TODO: should get triggered on timeout in navigations 
+        }
+
+        try {
+          await driver.wait(
+            until.elementLocated(By.css("h1[data-simply-field='listTitle']")),
+            2000 // Maximum wait time in milliseconds
+          );
+        } catch (error) {
+          t.fail(('Timeout loading page for: ' + call))
+        }
       }
     })
+
+    
+    
+    tap.test("Api Calls: Checking known curricula are online", async t => {
+      for(let call of APIcallsSLO){
+        let data = await getData(localRootURL + call + "/");
+        t.ok(data, ("Response for: " +  call))
+      }
+    })
+    
 
   } catch (e) {
     console.log(e)
   } finally {
-    await driver.quit();
+    console.log("quitting!")
+    //await driver.quit();
   }
 }())
 
