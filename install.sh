@@ -27,4 +27,5 @@ node tojsontag.mjs
 node convert.mjs ../data/curriculum.jsontag ../data/data.json
 cd ..
 npm update
-echo project installation completed succesfully, you can now start docker with "docker compose up"
+echo project installation completed succesfully, please add apikeys.json
+echo after adding the apikeys and editors, you can now start docker with "docker compose up"
