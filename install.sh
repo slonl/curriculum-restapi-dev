@@ -42,7 +42,8 @@ install() {
     echo ''
     echo '1. Add "apikeys.json" in curriculum-rest-api folder'
     echo '2. If you want to edit data, add "editors.json" in curriculum-rest-api folder'
-    echo '3. Start docker using the "docker compose up" command from curriculum-restapi-dev folder'
+    echo '3. (optional) Make sure to select the correct branches in curriculum-rest-api'
+    echo '4. Start docker using the "docker compose up" command from curriculum-restapi-dev folder'
 }
 
 if [ "${BASH_SOURCE[0]}" != "${0}" ]; then
