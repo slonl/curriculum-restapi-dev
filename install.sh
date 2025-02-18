@@ -5,27 +5,49 @@ set -o errtrace # Exit on error inside any functions or sub-shells.
 set -o nounset  # Exit script on use of an undefined variable.
 set -o pipefail # Return exit status of the last command in the pipe that exited with a non-zero exit code
 
-git clone https://github.com/slonl/curriculum-rest-api.git
-cd curriculum-rest-api
-git pull
-npm update
-cd  ..
-git clone https://github.com/slonl/curriculum-search-server.git
-cd curriculum-search-server
-git pull
-npm update
-cd ..
-git clone https://github.com/slonl/curriculum-store.git
-cd curriculum-store
-git pull
-cd scripts
-./init.sh
-cd ..
-npm update
-cd scripts
-node tojsontag.mjs
-node convert.mjs ../data/curriculum.jsontag ../data/data.json
-cd ..
-npm update
-echo project installation completed succesfully, please add apikeys.json
-echo after adding the apikeys and editors, you can now start docker with "docker compose up"
+install() {
+    aggregateData() {
+        local sPath
+        readonly sPath="${1?One parameters required: <path>}"
+
+        pushd "${sPath}/curriculum-store/scripts/"
+
+        bash ./init.sh
+        node tojsontag.mjs
+        node convert.mjs "${sPath}/curriculum-store/data/curriculum.jsontag" "${sPath}/curriculum-store/data/data.json"
+    }
+
+    installRepos(){
+        local sPath
+        readonly sPath="${1?One parameters required: <path>}"
+
+        git -C "${sPath}" clone https://github.com/slonl/curriculum-rest-api.git
+        npm --prefix "${sPath}/curriculum-rest-api" update
+
+
+        git  -C "${sPath}" clone https://github.com/slonl/curriculum-search-server.git
+        npm --prefix "${sPath}/curriculum-search-server" update
+
+        git  -C "${sPath}" clone https://github.com/slonl/curriculum-store.git
+        npm --prefix "${sPath}/curriculum-store" update
+    }
+
+    local sRootPath
+    readonly sRootPath="${1?One parameters required: <root-path>}"
+
+    installRepos "${sRootPath}"
+    aggregateData "${sRootPath}"
+
+    echo 'Project installation completed successfully. Please take the following steps:'
+    echo ''
+    echo '1. Add "apikeys.json" in curriculum-rest-api folder'
+    echo '2. If you want to edit data, add "editors.json" in curriculum-rest-api folder'
+    echo '3. Start docker using the "docker compose up" command from curriculum-restapi-dev folder'
+}
+
+if [ "${BASH_SOURCE[0]}" != "${0}" ]; then
+  export -f install
+else
+  # Replace "${PWD}" with "${@}" to allow passing in a path to the script
+  install "${PWD}"
+fi
