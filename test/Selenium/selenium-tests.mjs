@@ -78,13 +78,14 @@ const options = new Firefox.Options();
         }
 
         let browserURL = await driver.getCurrentUrl()
-        console.log("URL:", browserURL)
+        console.log("URL: ", browserURL)
         let linkElements = await driver.findElements(By.css('a.slo-relatie'));
+        console.log("First element to click on: ", await linkElements[0].id_)
 
         try{
           await linkElements[0].click()
         } catch (error) {
-          t.fail(('Could not click on first link element on page: ' + call))
+          t.fail(('Could not click on first link element on page as it was: ' + linkElements[0]))
         }   
         
         let spreadsheetButtonElement = await driver.findElement(By.css('[data-simply-command="switchView"][data-simply-value="spreadsheet"]'));
