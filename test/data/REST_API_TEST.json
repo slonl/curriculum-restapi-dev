@@ -1,0 +1,90 @@
+[
+    "doel",
+    "doelniveau",
+    "erk_candobeschrijving",
+    "erk_categorie",
+    "erk_gebied",
+
+    "erk_schaal",
+
+    "erk_taalactiviteit",
+    "erk_taalprofiel",
+  
+    "erk_vakleergebied",
+    "erk_voorbeeld",
+    
+    "examenprogramma_bg_deeltaak",
+    "examenprogramma_bg_globale_eindterm",
+    "examenprogramma_bg_kern",
+    "examenprogramma_bg_kerndeel",
+    "examenprogramma_bg_keuzevak",
+    "examenprogramma_bg_keuzevaktaak",
+
+
+
+    "examenprogramma_bg_module",
+    "examenprogramma_bg_moduletaak",
+    "examenprogramma_bg_profiel",
+
+    "examenprogramma_body",
+    "examenprogramma_domein",
+    "examenprogramma_eindterm",
+    "examenprogramma_kop1",
+    "examenprogramma_kop2",
+
+
+    "examenprogramma_subdomein",
+
+    "examenprogramma_vakleergebied",
+    "examenprogramma",
+    
+    "fo_doelzin",
+    "fo_domein",
+    "fo_set",
+
+    "fo_toelichting",
+    "fo_uitwerking",
+
+    "inh_cluster",
+    "inh_inhoudslijn",
+    "inh_subcluster",
+    "inh_vakleergebied",
+    
+    "kerndoel_domein",
+    "kerndoel_uitstroomprofiel",
+    "kerndoel_vakleergebied",
+    "kerndoel",
+    
+    "ldk_vakbegrip",
+   
+
+    "ldk_vakinhoud",
+    "ldk_vakkern",
+    "ldk_vakleergebied",
+    "ldk_vaksubkern",
+    
+    "nh_bouw",
+    "nh_categorie",
+    "nh_leerweg",
+    "nh_niveau",
+    "nh_schoolsoort",
+    "nh_sector",
+    
+    "niveau",
+
+    "ref_deelonderwerp",
+    "ref_domein",
+    "ref_onderwerp",
+    "ref_subdomein",
+
+    "ref_vakleergebied",
+    
+
+    "syllabus_specifieke_eindterm",
+
+    "syllabus_toelichting",
+    "syllabus_vakbegrip",
+    "syllabus_vakleergebied",
+    "syllabus",
+    "vakleergebied"
+]

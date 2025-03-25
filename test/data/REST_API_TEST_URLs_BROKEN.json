@@ -1,0 +1,17 @@
+[
+    //broken because has no data yet, or "incomplete" data:
+    "erk_schalen", 
+    "erk_lesidee",
+    "examenprogramma_kop3",
+    "examenprogramma_kop4",
+    "erk_taalprofieltekst", // only has a niveau
+    "fo_subdomein",
+    "ref_tekstkenmerk",  
+
+    //Needs ID:
+    "ErkVolledig",
+    "ExamenprogrammaBgVolledig",
+    "ExamenprogrammaVolledig",
+    "InhoudslijnVolledig",
+    "SyllabusVolledig"
+]

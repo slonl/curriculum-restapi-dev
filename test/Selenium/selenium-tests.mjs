@@ -7,7 +7,11 @@ import { clear } from 'console';
 
 
 let localRootURL = 'http://localhost:4500/';
-let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/test/data/REST_API_TEST_URLs.json"));
+let APIcallsSLO = JSON.parse(fs.readFileSync(process.cwd() + "/test/data/REST_API_TEST.json"));
+let delayWaiting = 2000
+
+
+tap.setTimeout(500000);
 
 
 const options = new Firefox.Options();
@@ -53,24 +57,21 @@ const options = new Firefox.Options();
       }
     })
     
+    //CRUD tests      
+    for(let call of APIcallsSLO){
 
-    tap.test("Test Entiteiten CRUD", async t => {
-      
-      for(let call of APIcallsSLO){
-        console.log(call)
+      tap.test("Test Entiteiten CRUD", async t => {
 
         try{
           await driver.navigate().to(localRootURL + call + "/");     
         } catch (error){
-          t.fail(('Could not navigate to: ' + call)) // @TODO: should get triggered on timeout in navigations 
+          t.fail(('Could not navigate to: ' + call))
         }
-
-        
 
         try {
           await driver.wait(
             until.elementLocated(By.css("h1[data-simply-field='listTitle']")),
-            2000 // Maximum wait time in milliseconds
+            delayWaiting // Maximum wait time in milliseconds
           );
         } catch (error) {
           t.fail(('Timeout loading page for: ' + call))
@@ -80,7 +81,11 @@ const options = new Firefox.Options();
         console.log("URL:", browserURL)
         let linkElements = await driver.findElements(By.css('a.slo-relatie'));
 
-        await linkElements[0].click()      
+        try{
+          await linkElements[0].click()
+        } catch (error) {
+          t.fail(('Could not click on first link element on page: ' + call))
+        }   
         
         let spreadsheetButtonElement = await driver.findElement(By.css('[data-simply-command="switchView"][data-simply-value="spreadsheet"]'));
       
@@ -90,31 +95,18 @@ const options = new Firefox.Options();
         try {
           await driver.wait(
             until.elementLocated(By.css("tbody")),
-            2000 // Maximum wait time in milliseconds
+            delayWaiting // Maximum wait time in milliseconds
           );
         } catch (error) {
           t.fail(('Timeout loading page for tbody: ' + call))
         }
-        
+
         const bodyText = await driver.findElement(By.css('tbody')).getText();
-        
 
-        //debugging
-        if(bodyText.includes("Wiskunde")){
-          console.log("SPREADSHEET LOADED")
-        }
-
-        
-
-        // let svgElement = await driver.wait(
-        //     until.elementLocated(By.css(`svg[data-simply-command="insertRow"]`)),
-        //     5000 // Maximum wait time in milliseconds
-        //   );
-
-          let svgElement = await driver.findElements(By.css(`svg[data-simply-command="insertRow"]`))[0]
+        let svgElement = await driver.findElements(By.css(`svg[data-simply-command="insertRow"]`))[0]
       
-          let actions = driver.actions({ bridge: true});
-          await actions.move({ origin: svgElement}).click().perform()
+        let actions = driver.actions({ bridge: true});
+        await actions.move({ origin: svgElement}).click().perform()
           
          //await driver.executeScript("arguments[0].scrollIntoView({ behavior: 'smooth', block: 'center' });", svgElement[0]);
           
@@ -122,8 +114,9 @@ const options = new Firefox.Options();
         //let addRowButton = await driver.findElement(By.css(`svg[data-simply-command="insertRow"]`))
 
         // console.log("add row button?:", await addRowButton )
-      }
-    }) 
+      })
+      
+    } 
     
   } catch (e) {
     console.log(e)
@@ -142,7 +135,7 @@ async function getData(url = "", data = {}) {
         "Accept": "application/json",
         "Authorization": "Basic b3BlbmRhdGFAc2xvLm5sOjM1ODUwMGQzLWNmNzktNDQwYi04MTdkLTlmMGVmOWRhYTM5OQ=="
       },
-      timeout: 1000 // @TODO : find out why this timeout doesn't seem to work.
+      timeout: delayWaiting // @TODO : find out why this timeout doesn't seem to work.
     });
     return response.ok
 
