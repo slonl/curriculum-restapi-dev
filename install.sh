@@ -14,7 +14,7 @@ install() {
 
         bash ./init.sh
         node tojsontag.mjs
-        node convert.mjs "${sPath}/curriculum-store/data/curriculum.jsontag" "${sPath}/curriculum-store/data/data.json"
+        node convert.mjs "${sPath}/curriculum-store/data/schema.jsontag" "${sPath}/curriculum-store/data/curriculum.jsontag" "${sPath}/curriculum-store/data/data.jsontag"
     }
 
     installRepos(){
