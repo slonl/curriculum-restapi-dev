@@ -37,7 +37,6 @@ services:
       - DATA_DIR=/home/node/app/curriculum
     volumes:
       - ./curriculum-search-server/:/home/node/app
-      - ./curriculum-graphql-server/data/:/home/node/app/curriculum
     ports:
       - "3001:3001"
     entrypoint: ["/bin/sh","-c"]
