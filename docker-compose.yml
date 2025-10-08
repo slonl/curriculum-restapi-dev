@@ -66,6 +66,27 @@ services:
         npm install
         npm start
 
+  curriculum-registration-app:
+    image: "node:20-alpine"
+    user: "node"
+    working_dir: /home/node/app
+    container_name: "curriculum-registration-app"
+    environment:
+      - NODE_ENV=development
+      - NODE_PORT=4900
+      - NODE_BASE=/
+      - NODE_APIKEY_URL=/
+    volumes:
+      - ./curriculum-registration-app/:/home/node/app
+    ports:
+      - "4900:4900"
+    entrypoint: ["/bin/sh","-c"]
+    command:
+      - |
+        npm install
+        npm start
+
 volumes:
   curriculum-rest-api:
   curriculum-search-server:
+  curriculum-registration-app:
