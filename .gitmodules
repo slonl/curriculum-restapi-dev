@@ -10,3 +10,6 @@
 [submodule "curriculum-store"]
 	path = curriculum-store
 	url = git@github.com:slonl/curriculum-store
+[submodule "curriculum-registration-app"]
+	path = curriculum-registration-app
+	url = git@github.com:slonl/curriculum-registration-app
