@@ -21,6 +21,9 @@ install() {
         local sPath
         readonly sPath="${1?One parameters required: <path>}"
 
+        git -C "${sPath}"https://github.com/slonl/curriculum-registration-app.git
+        npm --prefix "${sPath}/curriculum-registration-app" update
+
         git -C "${sPath}" clone https://github.com/slonl/curriculum-rest-api.git
         npm --prefix "${sPath}/curriculum-rest-api" update
 
