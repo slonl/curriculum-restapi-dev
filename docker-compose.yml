@@ -37,7 +37,7 @@ services:
       - DATA_DIR=/home/node/app/curriculum
     volumes:
       - ./curriculum-search-server/:/home/node/app
-      - ./curriculum-graphql-server/data/:/home/node/app/curriculum
+      - ./curriculum-store/:/home/node/app/curriculum
     ports:
       - "3001:3001"
     entrypoint: ["/bin/sh","-c"]
@@ -54,7 +54,8 @@ services:
     environment:
       - NODE_ENV=development
       - NODE_PORT=3000
-      - DATA_DIR=/home/node/app/curriculum
+      - DATA_FILE=/home/node/app/data/data.jsontag
+      - COMMANDS=/home/node/app/src/commands.mjs
     volumes:
       - ./curriculum-store/:/home/node/app
     ports:
@@ -64,7 +65,28 @@ services:
       - |
         npm install
         npm start
-
+  curriculum-registration:
+    image: "node:20-alpine"
+    user: "node"
+    working_dir: /home/node/app
+    container_name: "curriculum-registration"
+    environment:
+      - NODE_ENV=development
+      - NODE_PORT=4930
+      - APIKEYS=apiKeys.json
+    volumes:
+      - ./curriculum-registration-app/:/home/node/app
+    ports:
+      - "4930:4930"
+    entrypoint: ["/bin/sh","-c"]
+    command:
+      - |
+        npm install
+        npm start
+        
 volumes:
   curriculum-rest-api:
   curriculum-search-server:
+  curriculum-store:
+  curriculum-registration-app:
+  
