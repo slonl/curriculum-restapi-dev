@@ -7,5 +7,5 @@ project:DES-002
     dcterms:identifier "DES-002" ;
     sd:repositoryPath ".spiral/designs/DES-002.md" ;
     sd:status sd:Accepted ;
-    sd:derivedFrom project:SRC-002, project:SRC-003 ;
+    sd:derivedFrom project:SRC-002, project:SRC-003, project:SRC-004 ;
     sd:addresses project:REQ-002 .
