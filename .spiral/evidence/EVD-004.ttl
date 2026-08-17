@@ -2,10 +2,10 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix project: <urn:spiral:curriculum-restapi-dev:> .
 
-project:EVD-003
+project:EVD-004
     a sd:VerificationEvidence ;
-    dcterms:identifier "EVD-003" ;
-    sd:repositoryPath ".spiral/evidence/EVD-003.md" ;
-    sd:status sd:Superseded ;
-    sd:derivedFrom project:SRC-004, project:EVD-002 ;
+    dcterms:identifier "EVD-004" ;
+    sd:repositoryPath ".spiral/evidence/EVD-004.md" ;
+    sd:status sd:Accepted ;
+    sd:derivedFrom project:SRC-005 ;
     sd:verifies project:DES-002 .
