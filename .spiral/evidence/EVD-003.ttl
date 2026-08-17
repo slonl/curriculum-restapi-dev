@@ -1,0 +1,11 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:EVD-003
+    a sd:VerificationEvidence ;
+    dcterms:identifier "EVD-003" ;
+    sd:repositoryPath ".spiral/evidence/EVD-003.md" ;
+    sd:status sd:Accepted ;
+    sd:derivedFrom project:SRC-004, project:EVD-002 ;
+    sd:verifies project:DES-002 .
