@@ -1,0 +1,15 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:UND-002
+    a sd:Understanding ;
+    dcterms:identifier "UND-002" ;
+    sd:repositoryPath ".spiral/understandings/UND-002.md" ;
+    sd:status sd:Accepted ;
+    sd:provenanceConfidence sd:Evidenced ;
+    sd:interprets [
+        a sd:ArtifactReference ;
+        sd:artifact project:SRC-002 ;
+        sd:gitCommit "5cc9aba4cbd51e46b0e49d30b7ec5d8a8f266657"
+    ] .
