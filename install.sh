@@ -1,10 +1,8 @@
-#!/bin/bash
-cd ./curriculum-graphql-server
+#!/usr/bin/env bash
+set -o errexit -o errtrace -o nounset -o pipefail
+
 git submodule update --init
-git submodule foreach 'git checkout editor'
+cd curriculum-rest-api
+cp apiKeys.start.json apiKeys.json
 cd ..
-
-docker-compose exec graphql sh -c 'cd json-graphql-server && npm install'
-docker-compose exec graphql sh -c 'npm run combine'
-
-docker-compose exec rest-api sh -c 'npm install'
+echo "done";
