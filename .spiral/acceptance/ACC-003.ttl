@@ -1,0 +1,14 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:ACC-003
+    a sd:AcceptanceEvidence ;
+    dcterms:identifier "ACC-003" ;
+    sd:repositoryPath ".spiral/acceptance/ACC-003.md" ;
+    sd:status sd:Accepted ;
+    sd:accepts [
+        a sd:ArtifactReference ;
+        sd:artifact project:EVD-010 ;
+        sd:gitCommit "5fa8766e0e4b474e8e0ae06d11e2511413691e8b"
+    ] .

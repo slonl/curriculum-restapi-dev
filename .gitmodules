@@ -10,3 +10,6 @@
 [submodule "curriculum-registration-app"]
 	path = curriculum-registration-app
 	url = git@github.com:slonl/curriculum-registration-app
+[submodule ".spiral-core"]
+	path = .spiral-core
+	url = git@github.com:muze-labs/spiral-developer

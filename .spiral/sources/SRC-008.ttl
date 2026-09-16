@@ -1,0 +1,11 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:SRC-008
+    a sd:Source ;
+    dcterms:identifier "SRC-008" ;
+    sd:repositoryPath ".spiral/sources/SRC-008.md" ;
+    sd:status sd:Accepted ;
+    sd:sourceAvailability sd:Referenced ;
+    sd:provenanceConfidence sd:Explicit .

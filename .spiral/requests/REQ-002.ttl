@@ -1,0 +1,14 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:REQ-002
+    a sd:Request ;
+    dcterms:identifier "REQ-002" ;
+    sd:repositoryPath ".spiral/requests/REQ-002.md" ;
+    sd:status sd:Accepted ;
+    sd:derivedFrom [
+        a sd:ArtifactReference ;
+        sd:artifact project:UND-002 ;
+        sd:gitCommit "1fee338111598bb90902e70f4c889553a75e7291"
+    ] .
