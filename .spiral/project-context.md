@@ -149,6 +149,31 @@ recorded as project context, not as a binding cycle sequence.
 
 ## Repository Branch Policy
 
+### Spiral integration context (inspected 2026-09-16)
+
+For this repository, the authoritative branch is `main` (also the remote
+default branch). Existing history uses pull requests and merge commits. No
+repository-local CI workflow currently provides the Spiral integration check;
+host branch protection and merge queue settings are **Unknown**.
+
+The updated core provides a manual pre-merge validation boundary: after human
+cycle acceptance, fetch the current target and run
+`node .spiral-core/bin/spiral.mjs validate integration --base origin/main --head HEAD --base-branch main --head-branch <cycle-branch>`.
+Revalidate if the target moves. Run with Node and Python containing the rdflib
+dependency from `.spiral-core/requirements.txt`. Hosted enforcement remains
+deferred to a separately selected process task.
+
+Use `.spiral-core/bin/spiral-rdf.py --repo . --tree HEAD` through that Python
+environment for committed snapshot checks. `.spiral/vocabulary.ttl` supplies the
+pinned ontology's relation hierarchy because Git tree validation cannot load
+ontology files inside a submodule. Snapshot coherence does not establish full
+historical provenance: older research artifacts still use unversioned links.
+
+Maintenance cycle `CYC-20260916-1ZG1H-1` updates the core pin to
+`8d4b2c738a413abd4cccca740ce958f486e5f7af`. New artifact IDs use the core
+allocator; historical IDs are preserved. The cycle starts from the accepted
+CYC-003 investigation branch and awaits its own human evaluation.
+
 - For `curriculum-store`, use `spiral-development` for project changes instead
   of `main` or `master` where that branch exists.
 - The maintainer will merge `spiral-development` to `main` later.
