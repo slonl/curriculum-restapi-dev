@@ -6,4 +6,4 @@ project:CYC-20260916-1ZG1H-1
     a sd:Cycle ;
     dcterms:identifier "CYC-20260916-1ZG1H-1" ;
     sd:repositoryPath ".spiral/cycles/CYC-20260916-1ZG1H-1.md" ;
-    sd:status sd:Active .
+    sd:status sd:Accepted .

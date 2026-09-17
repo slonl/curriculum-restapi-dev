@@ -172,7 +172,8 @@ historical provenance: older research artifacts still use unversioned links.
 Maintenance cycle `CYC-20260916-1ZG1H-1` updates the core pin to
 `8d4b2c738a413abd4cccca740ce958f486e5f7af`. New artifact IDs use the core
 allocator; historical IDs are preserved. The cycle starts from the accepted
-CYC-003 investigation branch and awaits its own human evaluation.
+CYC-003 investigation branch and was accepted and closed by the maintainer on
+2026-09-17. Integration remains subject to the pre-merge validation above.
 
 - For `curriculum-store`, use `spiral-development` for project changes instead
   of `main` or `master` where that branch exists.
