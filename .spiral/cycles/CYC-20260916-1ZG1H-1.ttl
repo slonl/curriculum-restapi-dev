@@ -1,0 +1,9 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:CYC-20260916-1ZG1H-1
+    a sd:Cycle ;
+    dcterms:identifier "CYC-20260916-1ZG1H-1" ;
+    sd:repositoryPath ".spiral/cycles/CYC-20260916-1ZG1H-1.md" ;
+    sd:status sd:Accepted .
