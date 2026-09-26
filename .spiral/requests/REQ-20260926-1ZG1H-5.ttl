@@ -1,0 +1,10 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:REQ-20260926-1ZG1H-5
+    a sd:Request ;
+    dcterms:identifier "REQ-20260926-1ZG1H-5" ;
+    sd:repositoryPath ".spiral/requests/REQ-20260926-1ZG1H-5.md" ;
+    sd:provenanceConfidence sd:Explicit ;
+    sd:status sd:Active .
