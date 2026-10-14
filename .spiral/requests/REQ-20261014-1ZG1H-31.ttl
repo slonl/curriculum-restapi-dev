@@ -1,0 +1,15 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:REQ-20261014-1ZG1H-31
+    a sd:Request ;
+    dcterms:identifier "REQ-20261014-1ZG1H-31" ;
+    sd:repositoryPath ".spiral/requests/REQ-20261014-1ZG1H-31.md" ;
+    sd:derivedFrom [
+        a sd:ArtifactReference ;
+        sd:artifact project:UND-20261014-1ZG1H-30 ;
+        sd:gitCommit "96d62b752b0a386abc14c08a6e42a2b1f5872c29"
+    ] ;
+    sd:provenanceConfidence sd:Explicit ;
+    sd:status sd:Active .
