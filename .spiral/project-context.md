@@ -169,11 +169,17 @@ pinned ontology's relation hierarchy because Git tree validation cannot load
 ontology files inside a submodule. Snapshot coherence does not establish full
 historical provenance: older research artifacts still use unversioned links.
 
-Maintenance cycle `CYC-20260916-1ZG1H-1` updates the core pin to
-`8d4b2c738a413abd4cccca740ce958f486e5f7af`. New artifact IDs use the core
-allocator; historical IDs are preserved. The cycle starts from the accepted
+Maintenance cycle `CYC-20260916-1ZG1H-1` adopted core
+`8d4b2c738a413abd4cccca740ce958f486e5f7af` and its distributed artifact
+allocator; historical IDs remain preserved. The cycle started from the accepted
 CYC-003 investigation branch and was accepted and closed by the maintainer on
-2026-09-17. Integration remains subject to the pre-merge validation above.
+2026-09-17.
+
+Maintenance cycle `CYC-20261014-1ZG1H-15` advances the current core pin to
+`3c93481336d0e771110a9437c6039df6d7ce078b`. This version adds the prospective
+agent commit-attribution rule without changing executable process code, RDF
+vocabulary, shapes, or dependencies. Integration remains subject to the
+pre-merge validation above.
 
 - For `curriculum-store`, use `spiral-development` for project changes instead
   of `main` or `master` where that branch exists.
