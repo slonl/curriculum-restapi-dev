@@ -7,4 +7,5 @@ project:REQ-20260926-1ZG1H-5
     dcterms:identifier "REQ-20260926-1ZG1H-5" ;
     sd:repositoryPath ".spiral/requests/REQ-20260926-1ZG1H-5.md" ;
     sd:provenanceConfidence sd:Explicit ;
+    sd:transforms [ a sd:ArtifactReference ; sd:artifact project:REQ-20260926-1ZG1H-5 ; sd:gitCommit "5c354d8a6252378825c7c1cf86a774dac102566b" ] ;
     sd:status sd:Active .
