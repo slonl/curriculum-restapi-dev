@@ -11,4 +11,9 @@ project:CYC-20261014-1ZG1H-15
         sd:artifact project:REQ-20261014-1ZG1H-14 ;
         sd:gitCommit "759dfe657b1f06f51d55e1cee3bde0357f606c20"
     ] ;
+    sd:transforms [
+        a sd:ArtifactReference ;
+        sd:artifact project:CYC-20261014-1ZG1H-15 ;
+        sd:gitCommit "72c4de16b282eb1ba33b11e0db5efda043d08a91"
+    ] ;
     sd:status sd:Active .
