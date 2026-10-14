@@ -1,0 +1,35 @@
+@prefix sd: <https://muze.nl/ns/spiral-developer#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix project: <urn:spiral:curriculum-restapi-dev:> .
+
+project:ACC-20261014-1ZG1H-28
+    a sd:AcceptanceEvidence ;
+    dcterms:identifier "ACC-20261014-1ZG1H-28" ;
+    sd:repositoryPath ".spiral/acceptance/ACC-20261014-1ZG1H-28.md" ;
+    sd:status sd:Accepted ;
+    sd:accepts [
+        a sd:ArtifactReference ;
+        sd:artifact project:REQ-20261014-1ZG1H-20 ;
+        sd:gitCommit "376310a5c4443ca8ef38e71c25f8ab75dfe9d18c"
+    ] ;
+    sd:derivedFrom [
+        a sd:ArtifactReference ;
+        sd:artifact project:EVD-20261014-1ZG1H-23 ;
+        sd:gitCommit "b6e056a72140efd682d2b03b84a197f8dc63a35f"
+    ], [
+        a sd:ArtifactReference ;
+        sd:artifact project:EVD-20261014-1ZG1H-24 ;
+        sd:gitCommit "191c0db3dc5487f23677eda08c7f076266bc6147"
+    ], [
+        a sd:ArtifactReference ;
+        sd:artifact project:EVD-20261014-1ZG1H-25 ;
+        sd:gitCommit "f4c78cdcce6e53349f6f73070cda666c3a5bd041"
+    ], [
+        a sd:ArtifactReference ;
+        sd:artifact project:EVD-20261014-1ZG1H-26 ;
+        sd:gitCommit "a932821b86aac2188aeb2f05afec62aaf28fa487"
+    ], [
+        a sd:ArtifactReference ;
+        sd:artifact project:EVD-20261014-1ZG1H-27 ;
+        sd:gitCommit "b1cf6d452f7289557254670d14fe01cdcf548d96"
+    ] .
