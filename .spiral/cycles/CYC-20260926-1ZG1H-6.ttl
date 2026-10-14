@@ -6,6 +6,6 @@ project:CYC-20260926-1ZG1H-6
     a sd:Cycle ;
     dcterms:identifier "CYC-20260926-1ZG1H-6" ;
     sd:repositoryPath ".spiral/cycles/CYC-20260926-1ZG1H-6.md" ;
-    sd:derivedFrom [ a sd:ArtifactReference ; sd:artifact project:REQ-20260926-1ZG1H-5 ; sd:gitCommit "5c354d8a6252378825c7c1cf86a774dac102566b" ] ;
-    sd:transforms [ a sd:ArtifactReference ; sd:artifact project:CYC-20260926-1ZG1H-6 ; sd:gitCommit "0661cd622608d303c0ec9cc9eef1be8f4170004a" ] ;
+    sd:derivedFrom [ a sd:ArtifactReference ; sd:artifact project:REQ-20260926-1ZG1H-5 ; sd:gitCommit "d8a14c919ceb8fcb51de9016b8d686bb2ad5f0a2" ] ;
+    sd:transforms [ a sd:ArtifactReference ; sd:artifact project:CYC-20260926-1ZG1H-6 ; sd:gitCommit "55f112e01c2e142219a55da81dddcf8b2d69e914" ] ;
     sd:status sd:Active .
