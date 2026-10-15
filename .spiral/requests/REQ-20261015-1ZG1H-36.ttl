@@ -6,5 +6,15 @@ project:REQ-20261015-1ZG1H-36
     a sd:Request ;
     dcterms:identifier "REQ-20261015-1ZG1H-36" ;
     sd:repositoryPath ".spiral/requests/REQ-20261015-1ZG1H-36.md" ;
+    sd:derivedFrom [
+        a sd:ArtifactReference ;
+        sd:artifact project:SRC-20261015-1ZG1H-38 ;
+        sd:gitCommit "81ab06fd9e3b6d6dfdfd44601f4d856d2b8375a4"
+    ] ;
+    sd:transforms [
+        a sd:ArtifactReference ;
+        sd:artifact project:REQ-20261015-1ZG1H-36 ;
+        sd:gitCommit "15eb3e40842349ae76a76d5a762677c48ac40904"
+    ] ;
     sd:provenanceConfidence sd:Explicit ;
     sd:status sd:Active .
