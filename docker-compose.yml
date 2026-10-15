@@ -3,32 +3,32 @@ services:
     image: "node:20-alpine"
     user: "node"
     working_dir: /home/node/app
-    container_name: "slo-rest-api"
+    container_name: "${REST_API_CONTAINER_NAME:-slo-rest-api}"
     environment:
       - NODE_ENV=development
       - NODE_PORT=4500
       - NODE_BASE=/
       - NODE_ID_URL=/uuid/
-      - NODE_SEARCH_URL=http://slo-search:3001
+      - NODE_SEARCH_URL=http://search-server:3001
       - NODE_DATA_URL=http://localhost:4500/
       - NODE_SIMPLYSTORE_URL=http://curriculum-store:3000
     volumes:
       - ./curriculum-rest-api/:/home/node/app
     ports:
-      - "4500:4500"
+      - "${REST_API_HOST_PORT:-4500}:4500"
     depends_on:
       - curriculum-store
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
-        npm install
+        npm ci --no-audit --no-fund
         exec npm start
 
   search-server:
     image: "node:20-alpine"
     user: "node"
     working_dir: /home/node/app
-    container_name: "slo-search"
+    container_name: "${SEARCH_CONTAINER_NAME:-slo-search}"
     environment:
       - NODE_ENV=development
       - NODE_PORT=3001
@@ -37,18 +37,18 @@ services:
       - ./curriculum-search-server/:/home/node/app
       - ./curriculum-store/:/home/node/app/curriculum
     ports:
-      - "3001:3001"
+      - "${SEARCH_HOST_PORT:-3001}:3001"
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
-        npm install
+        npm ci --no-audit --no-fund
         exec npm start
 
   curriculum-store:
     image: "node:24-alpine"
     user: "node"
     working_dir: /home/node/app
-    container_name: "curriculum-store"
+    container_name: "${STORE_CONTAINER_NAME:-curriculum-store}"
     # Allow a running slow query (10 s limit) to finish before SIGKILL, so
     # SimplyStore can release its store lock.
     stop_grace_period: 30s
@@ -60,17 +60,17 @@ services:
     volumes:
       - ./curriculum-store/:/home/node/app
     ports:
-      - "3000:3000"
+      - "${STORE_HOST_PORT:-3000}:3000"
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
-        npm install
+        npm ci --no-audit --no-fund
         exec npm start
   curriculum-registration:
     image: "node:20-alpine"
     user: "node"
     working_dir: /home/node/app
-    container_name: "curriculum-registration"
+    container_name: "${REGISTRATION_CONTAINER_NAME:-curriculum-registration}"
     environment:
       - NODE_ENV=development
       - NODE_PORT=4930
@@ -78,16 +78,13 @@ services:
     volumes:
       - ./curriculum-registration-app/:/home/node/app
     ports:
-      - "4930:4930"
+      - "${REGISTRATION_HOST_PORT:-4930}:4930"
     entrypoint: ["/bin/sh","-c"]
     command:
       - |
-        npm install
+        if [ -f package-lock.json ]; then
+          npm ci --no-audit --no-fund
+        else
+          npm install --no-package-lock --no-audit --no-fund
+        fi
         exec npm start
-        
-volumes:
-  curriculum-rest-api:
-  curriculum-search-server:
-  curriculum-store:
-  curriculum-registration-app:
-  
