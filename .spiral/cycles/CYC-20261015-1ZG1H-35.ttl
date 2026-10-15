@@ -9,6 +9,11 @@ project:CYC-20261015-1ZG1H-35
     sd:derivedFrom [
         a sd:ArtifactReference ;
         sd:artifact project:REQ-20261015-1ZG1H-36 ;
-        sd:gitCommit "15eb3e40842349ae76a76d5a762677c48ac40904"
+        sd:gitCommit "a8cd5f8f5ada3df1c9a9355afb51e17672bc2bd8"
+    ] ;
+    sd:transforms [
+        a sd:ArtifactReference ;
+        sd:artifact project:CYC-20261015-1ZG1H-35 ;
+        sd:gitCommit "459caa45c319a5c4a54499d3baf488b02abda088"
     ] ;
     sd:status sd:Active .
