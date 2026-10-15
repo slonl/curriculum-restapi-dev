@@ -1,0 +1,21 @@
+services:
+  rest-api:
+    volumes:
+      - ${REST_API_NODE_MODULES_DIR:?required}:/home/node/app/node_modules
+      - ${REST_API_KEYS_FILE:?required}:/home/node/app/apiKeys.json:ro
+      - ${REST_EDITORS_FILE:?required}:/home/node/app/editors.json:ro
+      - ${REST_LOGS_DIR:?required}:/home/node/app/logs
+
+  search-server:
+    volumes:
+      - ${SEARCH_NODE_MODULES_DIR:?required}:/home/node/app/node_modules
+      - ${CURRICULUM_DATA_DIR:?required}:/home/node/app/curriculum/data:ro
+
+  curriculum-store:
+    volumes:
+      - ${STORE_NODE_MODULES_DIR:?required}:/home/node/app/node_modules
+      - ${CURRICULUM_DATA_DIR:?required}:/home/node/app/data
+
+  curriculum-registration:
+    volumes:
+      - ${REGISTRATION_NODE_MODULES_DIR:?required}:/home/node/app/node_modules
