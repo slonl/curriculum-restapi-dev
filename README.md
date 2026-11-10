@@ -5,9 +5,8 @@ This repository contains a development environment for the opendata.slo.nl curri
 ## Setup
 
 ```bash
-git submodule update --init
-docker compose up -d
 ./install.sh
+docker compose up -d
 ```
 
 ## Usage
